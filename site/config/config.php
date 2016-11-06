@@ -29,6 +29,10 @@ of the system, please check out http://getkirby.com/docs/advanced/options
 
 */
 
+c::set('debug',true);
+
+// Kirby Autogit
+
 c::set('autogit.panel.user',     true);
 c::set('autogit.user.name',      'Auto Git');
 
