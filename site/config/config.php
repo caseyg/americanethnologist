@@ -28,3 +28,8 @@ make Kirby work. For more fine-grained configuration
 of the system, please check out http://getkirby.com/docs/advanced/options
 
 */
+
+c::set('autogit.panel.user',     true);
+c::set('autogit.user.name',      'Auto Git');
+
+c::set('autogit.widget',         true);
