@@ -1,11 +1,15 @@
 title: About
 
-icon: info-circle
+icon: users
 
 options:
   template: false
   status: false
   url: false
+
+pages:
+  template: person
+  num: zero
 
 files: false
 

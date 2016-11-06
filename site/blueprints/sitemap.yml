@@ -1,0 +1,8 @@
+title: Sitemap
+
+icon: map
+
+options:
+  template: false
+  status: false
+  url: false

@@ -1,0 +1,8 @@
+title: Read
+
+icon: book
+
+options:
+  delete: false
+  status: false
+  url: false

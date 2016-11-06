@@ -1,0 +1,8 @@
+title: Masthead
+
+icon: pencil
+
+options:
+  delete: false
+  status: false
+  url: false

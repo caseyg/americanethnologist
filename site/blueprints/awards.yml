@@ -1,0 +1,8 @@
+title: Awards
+
+icon: trophy
+
+options:
+  delete: false
+  status: false
+  url: false

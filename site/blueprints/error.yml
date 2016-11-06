@@ -1,5 +1,12 @@
 title: Error
 
+icon: exclamation-triangle
+
+options:
+  delete: false
+  status: false
+  url: false
+
 pages: false
 
 fields:

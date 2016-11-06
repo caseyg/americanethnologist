@@ -1,20 +1,23 @@
 title: Contact
 
+icon: reply-all
+
 pages: false
 
-options: 
+options:
   delete: false
   status: false
+  url: false
 
-fields: 
+fields:
   title:
     label: Title
     type: title
-  
+
   intro:
     label: Intro
     type: textarea
-    
+
   contactoptions:
     label: Contact Options
     type: structure
@@ -35,7 +38,7 @@ fields:
       linktext:
         label: Link Text
         type: text
-  
+
   text:
     label: Text
     type: textarea
