@@ -10,6 +10,8 @@
       <hr />
     </header>
 
+    <?php pattern('test') ?>
+
     <div class="text wrap">
       <?= $page->text()->kirbytext() ?>
     </div>

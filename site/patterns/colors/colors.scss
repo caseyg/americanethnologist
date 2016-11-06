@@ -1,0 +1,13 @@
+$background:      #f9f6ec;
+$text:            #292929;
+$link:            #d6f1fc;
+$accent:          #ec5e55;
+$blockquote:      #d8d9c6;
+$text-secondary:  #d2d2d2;
+
+.bg-background     { background-color: $background;}
+.bg-text           { background-color: $text;}
+.bg-link           { background-color: $link;}
+.bg-accent         { background-color: $accent;}
+.bg-blockquote     { background-color: $blockquote;}
+.bg-text-secondary { background-color: $text-secondary;}

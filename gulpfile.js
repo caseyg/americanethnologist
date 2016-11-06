@@ -16,24 +16,50 @@ var browserSync = require('browser-sync').create();
 
 var reload  = browserSync.reload;
 
-
 // Default Gulp task
 gulp.task('default', function() {
   // Intentionally left blank. You can add tasks for the gulp command here.
 });
 
+gulp.task('js', function() {
+
+  return gulp.src([
+      // array of js files. i.e.:
+      // 'site/patterns/js/jquery/jquery.js',
+      // 'site/patterns/gallery/fotorama/fotorama.js'
+    ])
+    .pipe(concat('index.js'))
+    .pipe(gulp.dest('assets/js'))
+    .pipe(rename('index.min.js'))
+    .pipe(uglify())
+    .pipe(gulp.dest('assets/js'));
+
+});
 
 
 // Styles | Compiles Sass
 // -----------------------------------
 gulp.task('styles', function() {
-  return gulp.src('./assets/sass/**/*.scss')
+  return gulp.src('./assets/sass/**/*.scss/')
     .pipe(sass({
       onError: function(err) {
             return notify().write(err);
         }
     }))
-    .pipe(gulp.dest('./assets/css/'))
+    .pipe(gulp.dest('./assets/css/'));
+
+  return gulp.src('site/patterns/site/site.scss')
+    .pipe(sass({
+      onError: function(err) {
+            return notify().write(err);
+        }
+    }))
+    .pipe(rename('index.css'))
+    .pipe(gulp.dest('assets/css'))
+    .pipe(rename('index.min.css'))
+    .pipe(cssmin())
+    .pipe(gulp.dest('./assets/css'));
+
 });
 
 
@@ -78,10 +104,49 @@ gulp.task('serve', ['browsersync'], function() {
     gulp.watch(['./assets/sass/style.scss'], [reload]);
     gulp.watch(['./assets/sass/**/*.scss'], [reload]);
     gulp.watch(['./site/**/*.php'], [reload]);
-
+    gulp.watch(['./site/patterns/**/*.scss'], [reload]);
 });
 
 
+
+gulp.task('js', function() {
+
+  return gulp.src([
+      // array of js files. i.e.:
+      // 'site/patterns/js/jquery/jquery.js',
+      // 'site/patterns/gallery/fotorama/fotorama.js'
+    ])
+    .pipe(concat('index.js'))
+    .pipe(gulp.dest('assets/js'))
+    .pipe(rename('index.min.js'))
+    .pipe(uglify())
+    .pipe(gulp.dest('assets/js'));
+
+});
+
+gulp.task('css', function() {
+
+  return gulp.src('./site/patterns/site/site.scss')
+    .pipe(sass().on('error', sass.logError))
+    .pipe(rename('index.css'))
+    .pipe(gulp.dest('assets/css'))
+    .pipe(rename('index.min.css'))
+    .pipe(cssmin())
+    .pipe(gulp.dest('assets/css'));
+
+});
+
+gulp.task('images', function() {
+  gulp.src('site/patterns/**/*.{jpg,gif,png,svg}')
+    .pipe(image())
+    .pipe(gulp.dest('assets/images'));
+});
+
+gulp.task('watch', ['default'], function() {
+  gulp.watch('site/patterns/**/*.scss', ['css']);
+  gulp.watch('site/patterns/**/*.js', ['js']);
+  gulp.watch('site/patterns/**/*.{jpg,gif,png,svg}', ['images']);
+});
 
 // Build | Optimizes everything for deployment.
 // Runs image and styles tasks and minifies CSS, adds brower prefixes
