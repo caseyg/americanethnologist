@@ -1,5 +1,10 @@
 {
   "require": {
-    "php": "7.0.12"
+    "php": ">=5.4.0",
+    "ext-mbstring": "*",
+    "ext-gd": "*",
+    "erusev/parsedown-extra": "0.7.*",
+    "getkirby/smartypants": "1.0.*",
+    "filp/whoops": "2.1.*"
   }
 }
