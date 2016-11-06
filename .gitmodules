@@ -4,3 +4,6 @@
 [submodule "panel"]
 	path = panel
 	url = https://github.com/getkirby/panel.git
+[submodule "site/plugins/autogit"]
+	path = site/plugins/autogit
+	url = https://github.com/pedroborges/kirby-autogit.git
