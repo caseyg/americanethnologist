@@ -2,10 +2,6 @@
   <div class="col-xs-12 col-sm-2">
     <h1><a href="/"><span class="bentonsanscondensedblack">(&aelig;s)</span></a></h1>
   </div>
-
-<ol>
-</ol>
-
   <div class="col-xs-4 col-sm-3">
     <ul class="list-unstyled">
       <li><strong><?php echo $site->nav_col1() ?></strong></li>
