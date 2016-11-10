@@ -16,11 +16,5 @@
 
 </head>
 <body>
-
-  <header class="header wrap wide" role="banner">
-    <div class="grid">
-
+  <div class="container">
       <?php pattern('navigation/header') ?>
-
-    </div>
-  </header>

@@ -4,12 +4,11 @@ icon: users
 
 options:
   template: false
-  status: false
   url: false
 
 pages:
   template: person
-  num: zero
+  sort: true
 
 files: false
 
@@ -17,13 +16,3 @@ fields:
   title:
     label: Title
     type: title
-
-  intro:
-    label: Intro
-    type: textarea
-    size: small
-
-  text:
-    label: Text
-    type: textarea
-    size: large

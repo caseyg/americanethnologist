@@ -9,10 +9,22 @@
       </div>
       <hr />
     </header>
-      
-    <div class="text wrap">
-      <?= $page->text()->kirbytext() ?>
-    </div>
+    <?php if ($page->depth() > 1): ?>
+      <div class="row">
+        <div class="col-sm-9">
+          <?= $page->text()->kirbytext() ?>
+        </div>
+        <div class="col-sm-3">
+          <?php pattern('navigation/sibling_sidebar') ?>
+        </div>
+      </div>
+    <?php else: ?>
+      <div class="row">
+        <div class="col-xs-12">
+          <?= $page->text()->kirbytext() ?>
+        </div>
+      </div>
+    <?php endif; ?>
 
   </main>
 

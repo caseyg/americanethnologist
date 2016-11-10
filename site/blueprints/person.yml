@@ -1,4 +1,4 @@
-title: Team Member
+title: Person
 
 pages: false
 
@@ -14,20 +14,23 @@ fields:
   position:
     label: Position
     type: text
-    required: true
+    width: 1/2
 
-  about:
-    label: About
-    type: textarea
+  term:
+    label: Term
+    type: text
+    width: 1/2
 
   phone:
     label: Phone Number
     type: tel
-    required: true
     width: 1/2
 
   email:
     label: Email Address
     type: email
-    required: true
     width: 1/2
+
+  homepage:
+    label: Homepage
+    type: url
