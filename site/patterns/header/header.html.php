@@ -29,6 +29,7 @@
     <ul class="list-unstyled">
       <li><strong>Conversations</strong></li>
       <li><a href="">Spring Conference</a></li>
+      <li><a href="">Test</a></li>
       <li><a href="">AAA Sessions</a></li>
     </ul>
   </div>
