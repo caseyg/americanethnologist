@@ -15,3 +15,150 @@
 
 .bg-text-secondary {
   background-color: #d2d2d2; }
+
+body {
+  font-family: "elena-web-basic",sans-serif;
+  font-size: 16px;
+  background-color: #f9f6ec;
+  color: #292929 !important; }
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Benton Sans Cond Bd"; }
+
+h1 {
+  color: #292929;
+  font-size: 2.488em; }
+
+h2 {
+  color: #393939;
+  font-size: 2.074em; }
+
+h3 {
+  color: #494949;
+  font-size: 1.728em; }
+
+h4 {
+  color: #595959;
+  font-size: 1.44em; }
+
+h5 {
+  color: #696969;
+  font-size: 1.2em; }
+
+h6 {
+  color: #797979;
+  font-size: 1em; }
+
+hr {
+  border: 0;
+  border-top: 1px solid #d8d9c6; }
+
+blockquote {
+  color: #2a5547;
+  font-family: "Benton Sans Cond Reg";
+  font-style: Normal;
+  font-weight: Normal;
+  border-left: 5px solid #d8d9c6;
+  margin-left: 1em;
+  padding-left: 1em; }
+
+blockquote strong {
+  font-family: "Benton Sans Cond Bd";
+  font-weight: bold; }
+
+figcaption {
+  line-height: 1.25em !important; }
+
+.list-group-item {
+  background: none; }
+
+.list-group .list-group-item a h4 {
+  font-family: "Benton Sans Cond Reg" !important;
+  font-style: Normal !important;
+  font-weight: Normal !important;
+  line-height: 1.25em; }
+
+header a {
+  color: #292929; }
+
+header strong {
+  color: #797979; }
+
+header .active {
+  color: #ec5e55;
+  font-family: "Benton Sans RE Bd";
+  font-weight: bold; }
+
+a:link, a:visited {
+  text-decoration: none;
+  border-bottom: 2px solid #d6f1fc; }
+
+.nav-pills a {
+  border-bottom: none; }
+
+a:hover, a:active {
+  background-color: #d6f1fc; }
+
+.jumbotron {
+  background-color: #d8d9c6; }
+
+.sans, ol, li, ul, dl, table, figcaption, header, nav {
+  font-family: "Benton Sans RE Reg";
+  font-size: 14px;
+  line-height: 2em; }
+
+.sans strong, ol strong, ul strong, li strong, dl strong, table strong, figcaption strong, header strong, nav strong {
+  font-family: "Benton Sans RE Bd";
+  font-style: Bold;
+  font-weight: Bold; }
+
+.person-meta {
+  width: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis; }
+
+.bentonsansreregular {
+  font-family: "Benton Sans RE Reg";
+  font-style: Normal;
+  font-weight: Normal; }
+
+.bentonsansreitalic {
+  font-family: "Benton Sans RE It";
+  font-style: Italic;
+  font-weight: Normal; }
+
+.bentonsansrebold {
+  font-family: "Benton Sans RE Bd";
+  font-style: Normal;
+  font-weight: Normal; }
+
+.bentonsansrebolditalic {
+  font-family: "Benton Sans RE Bd It";
+  font-style: Italic;
+  font-weight: Normal; }
+
+.bentonsanscondensedregular {
+  font-family: "Benton Sans Cond Reg";
+  font-style: Normal;
+  font-weight: Normal; }
+
+.bentonsanscondensedbold {
+  font-family: "Benton Sans Cond Bd";
+  font-style: Normal;
+  font-weight: Normal; }
+
+.bentonsanscondensedbolditalic {
+  font-family: "Benton Sans Cond Bd It";
+  font-style: Italic;
+  font-weight: Normal; }
+
+.bentonsanscondensedblack {
+  font-family: "Benton Sans Cond Bla";
+  font-style: Normal;
+  font-weight: Normal; }
+
+.bentonsanscondensedblackitalic {
+  font-family: "Benton Sans Cond Bla It";
+  font-style: Italic;
+  font-weight: Normal; }

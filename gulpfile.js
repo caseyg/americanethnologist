@@ -126,7 +126,7 @@ gulp.task('js', function() {
 
 gulp.task('css', function() {
 
-  return gulp.src('./site/patterns/site/site.scss')
+  return gulp.src('./site/patterns/design/site.scss')
     .pipe(sass().on('error', sass.logError))
     .pipe(rename('index.css'))
     .pipe(gulp.dest('assets/css'))

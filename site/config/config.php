@@ -35,7 +35,7 @@ c::set('debug',true);
 
 c::set('patterns.title', 'AES Styleguide');
 c::set('patterns.path', 'styleguide');
-c::set('patterns.preview.css', ['assets/css/index.css', 'https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.5/css/bootstrap.min.css', '//cloud.typenetwork.com/projects/578/fontface.css/']);
+c::set('patterns.preview.css', ['https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.5/css/bootstrap.min.css', '//cloud.typenetwork.com/projects/578/fontface.css/', 'assets/css/index.min.css']);
 c::set('patterns.preview.js', ['https://use.typekit.net/zsj4lxh.js', 'https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js', 'https://cdnjs.cloudflare.com/ajax/libs/tether/1.3.7/js/tether.min.js', 'https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.5/js/bootstrap.min.js', 'https://use.fontawesome.com/5450ef4433.js']);
 
 
