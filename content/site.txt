@@ -10,15 +10,15 @@ Copyright: © (date: Year)
 
 ----
 
-Nav-col1: 
+Nav-col1: Society
 
 ----
 
-Nav-col2: 
+Nav-col2: Journal
 
 ----
 
-Nav-col3: 
+Nav-col3: Conversations
 
 ----
 
