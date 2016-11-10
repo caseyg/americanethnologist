@@ -38,9 +38,9 @@ Nav-col2-links:
 - 
   page: read
 - 
-  page: masthead
-- 
   page: publish
+- 
+  page: masthead
 
 ----
 
