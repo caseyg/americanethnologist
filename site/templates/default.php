@@ -9,7 +9,7 @@
       </div>
       <hr />
     </header>
-    <?php if ($page->depth() >= 1): ?>
+    <?php if ($page->children()->count() > 0 && $page->depth() == 1 || $page->depth() > 1 ): ?>
       <div class="row">
         <div class="col-sm-9">
           <?= $page->text()->kirbytext() ?>
