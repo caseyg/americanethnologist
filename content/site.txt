@@ -7,3 +7,19 @@ Description: This is Kirby's Starterkit. TEST.
 ----
 
 Copyright: © (date: Year)
+
+----
+
+Nav-col1: 
+
+----
+
+Nav-col2: 
+
+----
+
+Nav-col3: 
+
+----
+
+Nav: 
