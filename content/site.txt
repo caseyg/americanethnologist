@@ -25,9 +25,9 @@ Nav-col3: Conversations
 Nav-col1-links: 
 
 - 
-  page: about
-- 
   page: join
+- 
+  page: about
 - 
   page: awards
 
