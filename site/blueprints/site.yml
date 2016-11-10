@@ -14,3 +14,45 @@ fields:
   copyright:
     label: Copyright
     type:  textarea
+  nav_section:
+    type: headline
+    label: Nav
+  nav_col1:
+    label: Heading
+    type: text
+    width: 1/3
+  nav_col2:
+    label: Heading
+    type: text
+    width: 1/3
+  nav_col3:
+    label: Heading
+    type: text
+    width: 1/3
+  nav_col1_links:
+    label: Links
+    type: structure
+    width: 1/3
+    fields:
+      page:
+        label: Page
+        type: select
+        options: pages
+  nav_col2_links:
+    label: Links
+    type: structure
+    width: 1/3
+    fields:
+      page:
+        label: Page
+        type: select
+        options: pages
+  nav_col3_links:
+    label: Links
+    type: structure
+    width: 1/3
+    fields:
+      page:
+        label: Page
+        type: select
+        options: pages

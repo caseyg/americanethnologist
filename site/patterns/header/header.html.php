@@ -4,33 +4,30 @@
   </div>
 
 <ol>
-  <?php foreach ($site->pages()->visible() as $page): ?>
-    <?php echo $page->title() ?>
-  <?php endforeach ?>
 </ol>
 
   <div class="col-xs-4 col-sm-3">
     <ul class="list-unstyled">
-      <li><strong>Society</strong></li>
-      <li><a class="active" href="">About</a></li>
-      <li><a href="">Join</a></li>
-      <li><a href="">Awards</a></li>
+      <li><strong><?php echo $site->nav_col1() ?></strong></li>
+      <?php foreach ($site->nav_col1_links()->toStructure() as $p): ?>
+        <li><a href="<?php echo $site->find($p)->url() ?>"><?php echo $site->find($p)->title() ?></a></li>
+      <?php endforeach ?>
     </ul>
   </div>
   <div class="col-xs-4 col-sm-3">
     <ul class="list-unstyled">
-      <li><strong>Journal</strong></li>
-      <li><a href="">Read</a></li>
-      <li><a href="">Publish</a></li>
-      <li><a href="">Masthead</a></li>
+      <li><strong><?php echo $site->nav_col2() ?></strong></li>
+      <?php foreach ($site->nav_col2_links()->toStructure() as $p): ?>
+        <li><a href="<?php echo $site->find($p)->url() ?>"><?php echo $site->find($p)->title() ?></a></li>
+      <?php endforeach ?>
     </ul>
   </div>
   <div class="col-xs-4 col-sm-3">
     <ul class="list-unstyled">
-      <li><strong>Conversations</strong></li>
-      <li><a href="">Spring Conference</a></li>
-      <li><a href="">Test</a></li>
-      <li><a href="">AAA Sessions</a></li>
+      <li><strong><?php echo $site->nav_col3() ?></strong></li>
+      <?php foreach ($site->nav_col3_links()->toStructure() as $p): ?>
+        <li><a href="<?php echo $site->find($p)->url() ?>"><?php echo $site->find($p)->title() ?></a></li>
+      <?php endforeach ?>
     </ul>
   </div>
   <div class="col-xs-12 col-sm-1 text-xs-center text-sm-right">
