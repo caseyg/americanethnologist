@@ -4,8 +4,6 @@ Title: Editorial Interns
 
 Text: 
 
-The AES Editorial Intern Team will launch at the AES spring meeting in Washington, DC March 31-April 2. The team will work with AES Section Editor Carole McGranahan to introduce new features and conversations to our website and social media. We welcome your ideas, and in the future will be inviting applications for other graduate students to join us. At the AAA conference in Minneapolis this fall we will hold an open meeting for all interested in learning more.
-
 Our inaugural intern team consists of graduate student team from around the world; in alphabetical order, we are delighted to introduce you to:
 
 (image: amiel-bize-200px.jpg class:img-thumbnail float-xs-right)
@@ -40,3 +38,7 @@ Namgyal Tsepak is a PhD Candidate in the Department of Anthropology at Cornell U
 (image: drew-zachary-200px.jpg class:img-thumbnail float-xs-right)
 
 **Drew Zackary** is a PhD student in Cultural Anthropology at the University of Colorado at Boulder. His research concerns the effects conservation area management has on people living within them. Specifically he is interested in human-wildlife conflict, multispecies interaction, and decentralized governance. Currently his field site is the Kachenjunga Conservation Area in northeast Nepal. Questions concerning land tenure, ethnic identity and perceptions development are of importance at his current field site. Drew has done previous work on biodiversity conservation, climate change adaptation and livelihood in Uganda and wolf reintroduction in Idaho. He received a M.A. in Anthropology from CU Denver and a Bachelor of Sciences in Psychology from Colorado State University.
+
+----
+
+Intro: The AES Editorial Intern Team will launch at the AES spring meeting in Washington, DC March 31-April 2. The team will work with AES Section Editor Carole McGranahan to introduce new features and conversations to our website and social media. We welcome your ideas, and in the future will be inviting applications for other graduate students to join us. At the AAA conference in Minneapolis this fall we will hold an open meeting for all interested in learning more.
