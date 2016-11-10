@@ -2,7 +2,7 @@ Title: Home
 
 ----
 
-Intro: Yay! If you are seeing this, the installation of Kirby worked. :-) TEST
+Intro: American Ethnological Society is a thriving group of nearly 4,000 anthropologists who promote scholarship on “ethnology in the broader sense of the term.”
 
 ----
 
