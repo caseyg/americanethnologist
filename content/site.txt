@@ -35,6 +35,13 @@ Nav-col1-links:
 
 Nav-col2-links: 
 
+- 
+  page: read
+- 
+  page: publish
+- 
+  page: masthead
+
 ----
 
 Nav-col3-links: 
