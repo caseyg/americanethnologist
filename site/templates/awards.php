@@ -7,17 +7,19 @@
       <div class="intro text">
         <?= $page->intro()->kirbytext() ?>
       </div>
-      <hr />
     </header>
 
-      <div class="row">
-        <div class="col-sm-9">
-          <?= $page->text()->kirbytext() ?>
+    <div class="row">
+      <?php foreach ($page->children()->visible() as $p): ?>
+        <div class="col-sm-4">
+          <div class="card">
+            <div class="card-block">
+              <h3><a href="<?php echo $p->url() ?>"><?php echo $p->title() ?></a></h3>
+            </div>
+          </div>
         </div>
-        <div class="col-sm-3">
-          <?php pattern('navigation/sibling_sidebar') ?>
-        </div>
-      </div>
+      <?php endforeach; ?>
+    </div>
 
   </main>
 

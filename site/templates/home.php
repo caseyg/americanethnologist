@@ -2,27 +2,11 @@
 
   <main class="main" role="main">
 
-    <header class="wrap">
-      <h1><?= $page->title()->html() ?></h1>
-      <div class="intro text">
+    <header class="jumbotron">
+      <div class="lead">
         <?= $page->intro()->kirbytext() ?>
       </div>
-      <hr />
     </header>
-
-    <?php pattern('test') ?>
-
-    <div class="text wrap">
-      <?= $page->text()->kirbytext() ?>
-    </div>
-
-    <section class="projects-section">
-
-      <div class="wrap wide">
-        <h2>Latest Projects</h2>
-      </div>
-
-    </section>
 
   </main>
 

@@ -4,14 +4,13 @@
 
     <header class="wrap">
       <h1><?= $page->title()->html() ?></h1>
-      <div class="intro text">
-        <?= $page->intro()->kirbytext() ?>
-      </div>
-      <hr />
     </header>
     <?php if ($page->children()->count() > 0 && $page->depth() == 1 || $page->depth() > 1 ): ?>
       <div class="row">
         <div class="col-sm-9">
+          <div class="lead">
+            <?= $page->intro()->kirbytext() ?>
+          </div>
           <?= $page->text()->kirbytext() ?>
         </div>
         <div class="col-sm-3">
