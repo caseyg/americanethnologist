@@ -1,3 +1,4 @@
+AddType application/x-httpd-php56 .php
 # Kirby .htaccess
 
 # rewrite rules

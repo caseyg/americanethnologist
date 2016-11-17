@@ -28,7 +28,7 @@
   </div>
   <div class="col-xs-12 col-sm-1 text-xs-center text-sm-right">
     <ul class="list-unstyled">
-      <li class="col-xs-4 col-xs-12"><a href=""><i class="fa fa-search" aria-hidden="true"></i></a></li>
+      <li class="col-xs-4 col-xs-12"><a href="/search"><i class="fa fa-search" aria-hidden="true"></i></a></li>
 </a></li>
     </ul>
   </div>

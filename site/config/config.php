@@ -45,3 +45,6 @@ c::set('autogit.panel.user',     true);
 c::set('autogit.user.name',      'Auto Git');
 
 c::set('autogit.widget',         true);
+
+c::set('autogit.webhook.secret', '9ufPvBpyK6KUny');
+c::set('autogit.webhook.url',    'autogit');
