@@ -9,7 +9,10 @@
 </header>
 
 <div class="row">
-  <div class="col-sm-9">
+  <div class="col-sm-3 push-sm-9">
+    <?php pattern('navigation/sibling_sidebar') ?>
+  </div>
+  <div class="col-sm-9 pull-sm-3">
     <div class="card-columns">
       <?php foreach ($page->children()->visible()->flip() as $p): ?>
         <div class="card">
@@ -23,9 +26,6 @@
         </div>
       <?php endforeach; ?>
     </div>
-  </div>
-  <div class="col-sm-3">
-    <?php pattern('navigation/sibling_sidebar') ?>
   </div>
 </div>
 
