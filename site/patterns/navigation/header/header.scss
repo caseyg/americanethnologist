@@ -1,0 +1,20 @@
+header a {
+  color: #292929;
+}
+
+header strong,
+.nav__header {
+  font-family: "Benton Sans RE Bd";
+  color: $gray--600;
+}
+
+.nav__header {
+  color: $text;
+}
+
+header .active {
+  color: #ec5e55;
+  font-family: "Benton Sans RE Bd";
+  font-weight: bold;
+  border-bottom: none;
+}

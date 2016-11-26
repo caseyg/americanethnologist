@@ -1,0 +1,9 @@
+{
+    "globals": [
+      "site/patterns/design/colors/colors.scss",
+      "site/patterns/design/typography/fonts.scss",
+      "site/patterns/design/typography/typography.scss",
+      "site/patterns/navigation/header/header.scss",
+      "site/patterns/site.scss"
+    ]
+}

@@ -1,13 +1,45 @@
-$background:      #f9f6ec;
-$text:            #292929;
-$link:            #d6f1fc;
-$accent:          #ec5e55;
-$blockquote:      #d8d9c6;
-$text-secondary:  #d2d2d2;
+// Primary Palette
 
-.bg-background     { background-color: $background;}
-.bg-text           { background-color: $text;}
-.bg-link           { background-color: $link;}
-.bg-accent         { background-color: $accent;}
-.bg-blockquote     { background-color: $blockquote;}
-.bg-text-secondary { background-color: $text-secondary;}
+$background:        #f9f6ec;
+$text:              #292929;
+$link:              #d6f1fc;
+$accent:            #ec5e55;
+$blockquote:        #d8d9c6;
+$text-secondary:    #d2d2d2;
+
+.background         {color: $background;}
+.text               {color: $text;}
+.link               {color: $link;}
+.accent             {color: $accent;}
+.blockquote         {color: $blockquote;}
+.text-secondary     {color: $text-secondary;}
+
+.bg-background      {background-color: $background;}
+.bg-text            {background-color: $text;}
+.bg-link            {background-color: $link;}
+.bg-accent          {background-color: $accent;}
+.bg-blockquote      {background-color: $blockquote;}
+.bg-text-secondary  {background-color: $text-secondary;}
+
+// Grays
+
+$gray--100:         #292929;
+$gray--200:         #393939;
+$gray--300:         #494949;
+$gray--400:         #595959;
+$gray--500:         #696969;
+$gray--600:         #797979;
+
+.gray--100          {color: $gray--100;}
+.gray--200          {color: $gray--200;}
+.gray--300          {color: $gray--300;}
+.gray--400          {color: $gray--400;}
+.gray--500          {color: $gray--500;}
+.gray--600          {color: $gray--600;}
+
+.bg-gray--100       {background-color: $gray--100;}
+.bg-gray--200       {background-color: $gray--200;}
+.bg-gray--300       {background-color: $gray--300;}
+.bg-gray--400       {background-color: $gray--400;}
+.bg-gray--500       {background-color: $gray--500;}
+.bg-gray--600       {background-color: $gray--600;}

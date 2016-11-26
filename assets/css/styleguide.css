@@ -1,3 +1,7 @@
 body {
   padding: 1em;
 }
+
+.card--swatch .card-block {
+  min-height: 100px;
+}

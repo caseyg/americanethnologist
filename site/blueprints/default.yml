@@ -1,5 +1,10 @@
 title: Page
 
+options:
+  template: true
+  status: true
+  url: true
+
 fields:
   title:
     label: Title

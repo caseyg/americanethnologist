@@ -1,20 +1,21 @@
+@import 'fonts';
+
 body {
   font-family: "elena-web-basic",sans-serif;
   font-size: 16px;
-  background-color: #f9f6ec;
-  color: #292929!important;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h3, h4, h5, h6,
+.h1, .h2, .h3, .h4, .h5, .h6 {
   font-family: "Benton Sans Cond Bd";
 }
 
-h1 {color: #292929; font-size: 2.488em;}
-h2 {color: #393939; font-size: 2.074em;}
-h3 {color: #494949; font-size: 1.728em;}
-h4 {color: #595959; font-size: 1.44em;}
-h5 {color: #696969; font-size: 1.2em;}
-h6 {color: #797979; font-size: 1em;}
+h1, .h1 {color: #292929; font-size: 2.488em;}
+h2, .h2 {color: #393939; font-size: 2.074em;}
+h3, .h3 {color: #494949; font-size: 1.728em;}
+h4, .h4 {color: #595959; font-size: 1.44em;}
+h5, .h5 {color: #696969; font-size: 1.2em;}
+h6, .h6 {color: #797979; font-size: 1em;}
 
 hr {
   border: 0;
@@ -51,19 +52,6 @@ figcaption {
   line-height: 1.25em;
 }
 
-header a {
-  color: #292929;
-}
-
-header strong {
-  color: #797979;
-}
-
-header .active {
-  color: #ec5e55;
-  font-family: "Benton Sans RE Bd";
-  font-weight: bold;
-}
 
 a:link, a:visited {
   text-decoration: none;
@@ -99,58 +87,4 @@ a:hover, a:active {
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
-}
-
-.bentonsansreregular{
-    font-family: "Benton Sans RE Reg";
-    font-style: Normal;
-    font-weight: Normal;
-}
-
-.bentonsansreitalic{
-    font-family: "Benton Sans RE It";
-    font-style: Italic;
-    font-weight: Normal;
-}
-
-.bentonsansrebold {
-    font-family: "Benton Sans RE Bd";
-    font-style: Normal;
-    font-weight: Normal;
-}
-
-.bentonsansrebolditalic{
-    font-family: "Benton Sans RE Bd It";
-    font-style: Italic;
-    font-weight: Normal;
-}
-
-.bentonsanscondensedregular{
-    font-family: "Benton Sans Cond Reg";
-    font-style: Normal;
-    font-weight: Normal;
-}
-
-.bentonsanscondensedbold {
-    font-family: "Benton Sans Cond Bd";
-    font-style: Normal;
-    font-weight: Normal;
-}
-
-.bentonsanscondensedbolditalic{
-    font-family: "Benton Sans Cond Bd It";
-    font-style: Italic;
-    font-weight: Normal;
-}
-
-.bentonsanscondensedblack{
-    font-family: "Benton Sans Cond Bla";
-    font-style: Normal;
-    font-weight: Normal;
-}
-
-.bentonsanscondensedblackitalic{
-    font-family: "Benton Sans Cond Bla It";
-    font-style: Italic;
-    font-weight: Normal;
 }
