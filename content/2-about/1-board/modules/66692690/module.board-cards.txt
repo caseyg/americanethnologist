@@ -1,0 +1,17 @@
+Title: Board cards
+
+----
+
+Text: 
+
+----
+
+Modulesettings: 
+
+----
+
+Width: small
+
+----
+
+Fontsize: default
