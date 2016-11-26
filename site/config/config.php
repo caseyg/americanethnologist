@@ -48,3 +48,12 @@ c::set('autogit.widget',         true);
 
 c::set('autogit.webhook.secret', '9ufPvBpyK6KUny');
 c::set('autogit.webhook.url',    'autogit');
+
+c::set('routes', array(
+  array(
+    'pattern' => 'about',
+    'action'  => function() {
+      return go('about/history');
+    }
+  )
+));
