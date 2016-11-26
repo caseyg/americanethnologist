@@ -2,7 +2,11 @@ Title: Join
 
 ----
 
-Text: <a href="http://www.americananthro.org/join" class="btn btn-lg btn-success">Join</a>
+Text: 
+
+<a href="http://www.americananthro.org/join" class="btn btn-lg btn-success">Join</a>
+
+[More compelling pitch needed here! Photos? Other benefits?]
 
 ----
 
