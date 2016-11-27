@@ -2,7 +2,7 @@ Title: Text module
 
 ----
 
-Text: 
+Text: The American Ethnological Society (AES) is part of the American Anthropological Association (AAA). You can join AES through the AAA site link listed below. Membership includes a subscription to our quarterly journal American Ethnologist.
 
 ----
 
@@ -10,4 +10,4 @@ Modulesettings:
 
 ----
 
-Lead: false
+Lead: true
