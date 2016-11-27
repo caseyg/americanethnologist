@@ -4,19 +4,29 @@ Title: Information for Authors and Contributors
 
 Text: 
 
-#### Aims and Scope
+##### Aims and Scope
 
 American Ethnologist is a quarterly journal concerned with ethnology in the broadest sense of the term. The journal’s articles connect ethnographic specificity with original theoretical contributions, conveying the relevance of the ethnographic imagination to the contemporary world.
 
-Manuscript form and length Double-space all text and use a 12-point font throughout, including for headings, block quotations, the reference list, and endnotes. Manuscripts should not exceed 11,000 words, including notes and references. Set all margins at one inch (2.45 cm).
+##### Manuscript form and length 
 
-Title page Include the article’s title and the author’s name, institutional affiliation, current mailing address, and e-mail. Provide any acknowledgments at the bottom of this page.
+Double-space all text and use a 12-point font throughout, including for headings, block quotations, the reference list, and endnotes. Manuscripts should not exceed 11,000 words, including notes and references. Set all margins at one inch (2.45 cm).
 
-Abstract Each research article must begin with an abstract of 100 to 125 words. The abstract should end with a bracketed list of up to seven keywords or phrases. Please refer to Tips: Titles, Abstracts & Keywords for important suggestions.
+##### Title page 
 
-Style American Ethnologist follows The Chicago Manual of Style, 16th edition. For spelling, the reference is Merriam-Webster’s Collegiate Dictionary, 11th edition, which uses US (rather than British) spellings; wherever Merriam-Webster’s lists variant spellings, use the first one given.
+Include the article’s title and the author’s name, institutional affiliation, current mailing address, and e-mail. Provide any acknowledgments at the bottom of this page.
 
-Citations, references, and endnotes Cite according to the author-date system set forth in chapter 15 of the Chicago Manual. Place the citation in parentheses and include the author’s name and the source’s year of publication, with no intervening punctuation, like this: (Herzfeld 2004). For quotations or extensive paraphrases, include the pages numbers preceded by a comma: (Herzfeld 2004, 146–7).
+##### Abstract 
+
+Each research article must begin with an abstract of 100 to 125 words. The abstract should end with a bracketed list of up to seven keywords or phrases. Please refer to Tips: Titles, Abstracts & Keywords for important suggestions.
+
+##### Style 
+
+American Ethnologist follows The Chicago Manual of Style, 16th edition. For spelling, the reference is Merriam-Webster’s Collegiate Dictionary, 11th edition, which uses US (rather than British) spellings; wherever Merriam-Webster’s lists variant spellings, use the first one given.
+
+##### Citations, references, and endnotes 
+
+Cite according to the author-date system set forth in chapter 15 of the Chicago Manual. Place the citation in parentheses and include the author’s name and the source’s year of publication, with no intervening punctuation, like this: (Herzfeld 2004). For quotations or extensive paraphrases, include the pages numbers preceded by a comma: (Herzfeld 2004, 146–7).
 
 On the reference list, include every source cited in the text and no others, listed alphabetically by author (in the case of multiple entries by the same author, list them chronologically, from oldest to most recent). The references must begin on a new page; do not embed them in the endnotes. The layout is as follows:
 
@@ -26,9 +36,13 @@ Herzfeld, Michael. 2004. Cultural Intimacy: Social Poetics in the Nation-State. 
 Daser, Deniz. 2014. “AE Interviews Catherine Lutz (Brown University).” American Ethnologist website, May 9. Accessed [Month Day, Year]. http://americanethnologist.org/2014/ae-interviews-catherine-lutz-brown-university.
 AE uses endnotes, not footnotes. They should be brief, sparse, and directly relevant to the text. In the main text, place endnote reference numbers at the ends of sentences only, using Arabic numerals.
 
-Tables Submit all tabular material separately from the manuscript. Each table should have its own document and be identified at the top by a number and a short descriptive title (e.g., Table 1: Short descriptive title). In the manuscript, place bracketed callouts between paragraphs indicating where tables should be placed, like this: [Please insert Table 1 here]. In the text, each table should also be pointed out to the reader, usually in parentheses, like this: (see Table 1). Tables can be uploaded when you submit your manuscript at https://mc.manuscriptcentral.com/ae.
+##### Tables 
 
-Photos, maps, and other illustrations Submit all nontabular images separately from the manuscript. Do not embed them in the text. Instead, send image files in either TIF or JPG format, which should be high resolution (at least 300 dpi) and large enough to print at 8 x 10 inches. Tables can be uploaded when you submit your manuscript at https://mc.manuscriptcentral.com/ae.
+Submit all tabular material separately from the manuscript. Each table should have its own document and be identified at the top by a number and a short descriptive title (e.g., Table 1: Short descriptive title). In the manuscript, place bracketed callouts between paragraphs indicating where tables should be placed, like this: [Please insert Table 1 here]. In the text, each table should also be pointed out to the reader, usually in parentheses, like this: (see Table 1). Tables can be uploaded when you submit your manuscript at https://mc.manuscriptcentral.com/ae.
+
+##### Photos, maps, and other illustrations 
+
+Submit all nontabular images separately from the manuscript. Do not embed them in the text. Instead, send image files in either TIF or JPG format, which should be high resolution (at least 300 dpi) and large enough to print at 8 x 10 inches. Tables can be uploaded when you submit your manuscript at https://mc.manuscriptcentral.com/ae.
 
 Name the image files using your name and consecutive Arabic numerals: Author Name 1, Author Name 2, and so on. In a separate document, submit captions for each image numbered to correspond with the image files: Figure 1, Figure 2. All captions should include a detailed description of the image (naming the who, what, when, and where), as well as credit, like this:
 
@@ -38,16 +52,26 @@ In addition to captions, you must submit written permissions for each image, inc
 
 Finally, each image needs a corresponding placement callout and reference in the main text, as with tables (see above).
 
-Submission guidelines Manuscripts submitted to AE should not be under consideration elsewhere or have been published in any form. All manuscripts are reviewed anonymously. Please submit your manuscript online as a word-processed file via Manuscript Central, at http://mc.manuscriptcentral.com/ae. A paper copy is not necessary. Image files may be uploaded at the time of submission or sent to journal.americanethnologist@gmail.com. Scholars who are not members of the American Ethnological Society are required to send a nonrefundable processing fee of $25 (US funds only) to American Ethnologist Journal, PO Box 1185, Davis, CA 95617.
+##### Submission guidelines 
 
-Permissions Use of an image belonging to anyone other than the author requires written permission from the owner. The author is responsible for securing all permissions and confirming permission granted to the editorial office in a timely manner.
+Manuscripts submitted to AE should not be under consideration elsewhere or have been published in any form. All manuscripts are reviewed anonymously. Please submit your manuscript online as a word-processed file via Manuscript Central, at http://mc.manuscriptcentral.com/ae. A paper copy is not necessary. Image files may be uploaded at the time of submission or sent to journal.americanethnologist@gmail.com. Scholars who are not members of the American Ethnological Society are required to send a nonrefundable processing fee of $25 (US funds only) to American Ethnologist Journal, PO Box 1185, Davis, CA 95617.
 
-Article submission guidelines Manuscripts submitted to AE should not be under consideration elsewhere or have been published elsewhere in any form. All manuscripts are reviewed anonymously.
+##### Permissions 
 
-How to submit your manuscript Please submit your manuscript online via Manuscript Central, at http://mc.manuscriptcentral.com/ae. A paper copy is not necessary.
+Use of an image belonging to anyone other than the author requires written permission from the owner. The author is responsible for securing all permissions and confirming permission granted to the editorial office in a timely manner.
+
+##### Article submission guidelines 
+
+Manuscripts submitted to AE should not be under consideration elsewhere or have been published elsewhere in any form. All manuscripts are reviewed anonymously.
+
+##### How to submit your manuscript 
+
+Please submit your manuscript online via Manuscript Central, at http://mc.manuscriptcentral.com/ae. A paper copy is not necessary.
 
 Image files may be uploaded at the time of submission. If the article is accepted, the author will be asked to send image files to journal.americanethnologist@gmail.com.
 
-Processing fee for non-AES members Scholars who are not members of the American Ethnological Society are required to send a nonrefundable processing fee of $25.00 (U.S. funds only) to the American Ethnological Society by following the instructions here.
+##### Processing fee for non-AES members 
+
+Scholars who are not members of the American Ethnological Society are required to send a nonrefundable processing fee of $25.00 (U.S. funds only) to the American Ethnological Society by following the instructions here.
 
 To join the American Ethnological Society, go to:  http://www.americananthro.org/ParticipateAndAdvocate/SJDList.aspx (American Anthropological Association).
