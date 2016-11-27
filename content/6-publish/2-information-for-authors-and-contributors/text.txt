@@ -4,7 +4,7 @@ Title: Information for Authors and Contributors
 
 Text: 
 
-###### Aims and Scope
+##### Aims and Scope
 
 American Ethnologist is a quarterly journal concerned with ethnology in the broadest sense of the term. The journal’s articles connect ethnographic specificity with original theoretical contributions, conveying the relevance of the ethnographic imagination to the contemporary world.
 
