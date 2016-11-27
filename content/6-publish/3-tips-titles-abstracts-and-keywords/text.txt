@@ -3,3 +3,54 @@ Title: Tips: Titles, Abstracts, and Keywords
 ----
 
 Text: 
+
+##### How to Optimize your Article Title for Search Engines:
+
+(Sources:  Wiley-Blackwell http://authorservices.wiley.com/bauthor/seo.asp and American Anthropological Association, Publications Director, Oona Schmid. http://www.aaanet.org)
+
+Optimizing your article for search engines will greatly increase its chance of being viewed and/or cited in another work. Citation indexes already figure in many disciplines as a measure of an article’s value; there is evidence that article views/downloads are also beginning to count in the same way. The crucial area for optimization is your article’s abstract and title, which are freely available to all online. These guidelines will help you to maximize the web-friendliness of the most public part of your article.
+
+##### Construct a clear, descriptive title.  
+
+In search engine terms, the title of your article is the most interesting element. The search engine assumes that the title contains all of the important words that define the topic of the piece and thus weights words appearing there most heavily. This is why it is crucial for you to choose a clear, accurate title. Think about the search terms that readers are likely to use when looking for articles on the same topic as yours, and help them by constructing your title to include those terms. In the days of print-only journals, it mattered far less if, for example, an author published an article on body dysmorphic disorder called, The Broken Mirror in a psychology journal because the context was clear. On the web, people search on “mirror” when they want an item for their house. 
+
+##### Help readers find your research.  
+
+The ability of other researchers to locate your article is related to the title and subtitle you select. This is because search engines such as Google are very literal. If you want your article to appear in relevant search results, use the words in your title and subtitle that are likely to correspond to the terms researchers are likely to use.
+
+- Clear descriptive subtitles are very important.
+- Reiterate key phrases from your title or subtitle in your abstract and keywords.
+- Think about the words that a wide range of researchers, not just anthropological readers, might use. In the example below the lingual group is Ewe but area studies experts, historians and sociologists might be more likely to use “Ghana” and “Africa” in searching for the literature.
+- Focus on three or four key concepts or key phrases and use these multiple times.
+
+_Example of an article that appears on first page of Google results for Ewe+Ghana+identity_
+
+> Title: On Embodied Consciousness in Anlo-Ewe Worlds
+> 
+> Subtitle: A Cultural Phenomenology of the Fetal Position
+> 
+> Keywords: Africa • Ghana • Anlo-Ewe • cultural identity • cultural memory • embodiment • phenomenology
+> 
+> First Paragraph: Anlo-Ewe generally refers to a dialect of the Ewe language spoken in southeastern Ghana, with Anlo designating an ethnolinguistic group whose homeland is on a littoral between the Keta Lagoon and the sea. Etymologically, however, Anlo derives from the Ewe term ‘nlo’ which means rolling up or folding into oneself. This article describes moments of ethnographic fieldwork that led to tracing links among meanings assigned to ‘nlo’, a migration story reinforcing the ‘nlo’ that was incorporated into a name, the …
+
+_Example of an article that is hard for online researchers to find_
+
+> Title: The Signifying Crab
+> 
+> Subtitle: [none]
+> 
+> First Paragraph: Domestic slavery in West Africa was practiced differently by different peoples in different historical periods, but it is well-known that many domestic slaves married into their “master’s” families and inherited property. It was extremely impolite (and illegal in some places) to even say a person was a slave or had been born of slave parents. Through time, some slaves became relatively wealthy, and for all practical purposes their offspring were no different than those of nonslave parents. Today numerous Ewe, who inhabit portions of southwestern Ghana, southern Togo, and southwestern Benin, say one or more of their great-grandparents was a “bought person.”
+
+##### Construct a clear and engaging abstract: 
+
+Your abstract is one of the most important components of your publication. It is a conduit to your work, in the sense that readers will use it to decide whether to read the article. Thus, it should be clear, engaging, and precise, and explicitly state the article’s original contribution. Please begin the abstract with a vivid sentence that quickly draws the reader into the topic, then move on to discuss your fieldwork, evidence, and methods. It can be also helpful to discuss analytical puzzles or contradictions and to refer to key scholarly debates (though without full citations). It is fine to repeat sentences and phrases from the article, though the abstract should not be a direct excerpt.
+
+Because AE abstracts are limited to 125 words, they must be very concise. In particular, avoid metadiscursive phrases like the following: “This article explores,” “In this article, I will do A, B, and C,” “I argue that,” “I show that,” and so on. Such phrases are not only a waste of words but also inappropriate: The abstract should explain what your exploration consists of, not state that it exists or that you make an argument. (Please also observe this principle in the article itself.)
+
+Finally, always include keywords with the abstract, since this enhances the article’s online discoverability.
+
+The following are examples of well-written abstracts that have been published in AE (reproduced with the authors’ permission):
+
+> Ironic slogans voice opposition to neoliberal austerity measures as people in western Thessaly, Greece, strive to account for dramatically increasing poverty and cultivate a sense of collective suffering in an era of economic crisis. The slogans are pinned to moments of socio-economic turmoil in recent Greek history, such as the 1941–1943 famine and the 1973 polytechnic uprising against military dictatorship. Through satire, they capture local and national attitudes toward the government’s current austerity policy and neoliberalism more generally. Drawing on powerful tropes of food, the slogans critique the experience of neoliberal reform, becoming sites of resistance and solidarity that reframe relations between local people, their government, and international creditors.
+
+> In the Guatemalan highlands, distinctions between human and animal are often irrelevant to the treatment of an object as meat. I draw from my ethnographic fieldwork on eating practices in that region to suggest that if the recent social science turn to species is to be a departure from the limitations of Euro-American humanism, it must take species not as a genealogically mappable identity but as a coherence situated amid ever-transforming divisions and connections. Stable distinctions between human and other species are precisely what deserve to be called into question. The power of multispecies scholarship thus lies not in how it “centers the animal” but in its challenge to conventional taxonomic formulations of classification and belonging. That meat takes various, situated forms has implications for multicultural politics as well as anthropological method and inquiry.
