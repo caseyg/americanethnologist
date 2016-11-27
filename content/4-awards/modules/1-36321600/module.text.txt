@@ -2,7 +2,7 @@ Title: Text module
 
 ----
 
-Text: 
+Text: AES gives three awards...
 
 ----
 
@@ -10,4 +10,4 @@ Modulesettings:
 
 ----
 
-Lead: false
+Lead: true
