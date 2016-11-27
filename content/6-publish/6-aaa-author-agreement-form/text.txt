@@ -2,4 +2,4 @@ Title: AAA Author Agreement Form
 
 ----
 
-Text: (file: ae-author-agreement-rev-2012.pdf class: btn btn-lg btn-primary-outline)
+Text: (text: Download Author Agreement file: ae-author-agreement-rev-2012.pdf class: btn btn-lg btn-primary-outline)
