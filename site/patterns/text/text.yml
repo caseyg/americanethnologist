@@ -2,6 +2,8 @@ title: Text module
 pages: false
 files: true
 
+icon: align-left
+
 fields:
   # The title is only used in the Panel for this module
   title:
@@ -17,6 +19,8 @@ fields:
   moduleSettings:
     label: Module settings
     type: headline
+
   lead:
     label: lead
     type: toggle
+    default: false

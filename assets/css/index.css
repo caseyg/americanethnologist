@@ -117,34 +117,49 @@
 
 body {
   font-family: "elena-web-basic",sans-serif;
-  font-size: 16px; }
+  font-size: 18px; }
+
+.lead {
+  font-size: 1.44em; }
 
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
   font-family: "Benton Sans Cond Bd"; }
 
 h1, .h1 {
-  color: #292929;
   font-size: 2.488em; }
 
 h2, .h2 {
-  color: #393939;
   font-size: 2.074em; }
 
 h3, .h3 {
-  color: #494949;
   font-size: 1.728em; }
 
 h4, .h4 {
-  color: #595959;
   font-size: 1.44em; }
 
 h5, .h5 {
-  color: #696969;
   font-size: 1.2em; }
 
 h6, .h6 {
-  color: #797979;
   font-size: 1em; }
+
+h1, .h1, h1 a {
+  color: #292929; }
+
+h2, .h2, h2 a {
+  color: #393939; }
+
+h3, .h3, h3 a {
+  color: #494949; }
+
+h4, .h4, h4 a {
+  color: #595959; }
+
+h5, .h5, h5 a {
+  color: #696969; }
+
+h6, .h6, h6 a {
+  color: #797979; }
 
 hr {
   border: 0;
@@ -177,7 +192,7 @@ figcaption {
 
 .sans, ol, li, ul, dl, table, figcaption, header, nav {
   font-family: "Benton Sans RE Reg";
-  font-size: 14px;
+  font-size: .9rem;
   line-height: 2em; }
 
 .sans strong, ol strong, ul strong, li strong, dl strong, table strong, figcaption strong, header strong, nav strong {
@@ -205,6 +220,9 @@ figure {
     text-align: center;
     width: 80%; }
 
+figure.img-thumbnail {
+  margin: 0; }
+
 header a {
   color: #292929; }
 
@@ -222,23 +240,42 @@ header .active {
   font-weight: bold;
   border-bottom: none; }
 
-.sibling-sidebar a:link, .sibling-sidebar a:visited {
+.nav--sidebar a:link, .nav--sidebar a:visited {
   padding-left: 0;
   background: none !important;
   color: #797979; }
 
-.sibling-sidebar a:link.nav-link,
-.sibling-sidebar a:visited.nav-link {
+.nav--sidebar a:link.nav-link,
+.nav--sidebar a:visited.nav-link {
   color: #292929; }
 
-.sibling-sidebar .nav-link.active {
+.nav--sidebar .nav-link.active {
   font-weight: bold;
   font-family: "Benton Sans RE Bd"; }
 
-.sibling-sidebar .nav-link:hover {
+.nav--sidebar .nav-link:hover {
   color: #ec5e55; }
 
-.sibling-sidebar .active {
+.nav--sidebar .active {
+  color: #ec5e55 !important; }
+
+.nav--horizontal a:link, .nav--horizontal a:visited {
+  padding-left: 0;
+  background: none !important;
+  color: #797979; }
+
+.nav--horizontal a:link.nav-link,
+.nav--horizontal a:visited.nav-link {
+  color: #292929; }
+
+.nav--horizontal .nav-link.active {
+  font-weight: bold;
+  font-family: "Benton Sans RE Bd"; }
+
+.nav--horizontal .nav-link:hover {
+  color: #ec5e55; }
+
+.nav--horizontal .active {
   color: #ec5e55 !important; }
 
 body {

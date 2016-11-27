@@ -1,7 +1,8 @@
 @import 'design/colors/colors';
 @import 'design/typography/typography';
 @import 'navigation/header/header';
-@import 'navigation/sibling-sidebar/sibling-sidebar';
+@import 'navigation/navigation';
+@import 'navigation/horizontal/horizontal';
 
 body {
   background: $background;

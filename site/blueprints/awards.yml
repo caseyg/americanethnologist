@@ -6,3 +6,6 @@ options:
   delete: false
   status: false
   url: false
+
+fields:
+  modules: modules

@@ -5,6 +5,7 @@ pages:
     - module.text
     - module.gallery
     - module.board-cards
+    - module.awards-cards
 
 fields:
   modules:

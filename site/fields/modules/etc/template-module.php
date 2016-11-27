@@ -25,4 +25,5 @@
     </a>
     <?php endif; ?>
   </nav>
+  <?php if($page->text()->isNotEmpty()): ?><div style="padding:0 20px 20px 20px;"><?php echo $page->text()->excerpt($length = 140, $mode = 'chars'); ?></div><?php endif ?>
 </div>

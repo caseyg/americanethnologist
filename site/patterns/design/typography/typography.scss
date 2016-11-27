@@ -2,19 +2,30 @@
 
 body {
   font-family: "elena-web-basic",sans-serif;
-  font-size: 16px;
+  font-size: 18px;
+}
+
+.lead {
+  font-size: 1.44em;
 }
 
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
   font-family: "Benton Sans Cond Bd";
 }
 
-h1, .h1 {color: #292929; font-size: 2.488em;}
-h2, .h2 {color: #393939; font-size: 2.074em;}
-h3, .h3 {color: #494949; font-size: 1.728em;}
-h4, .h4 {color: #595959; font-size: 1.44em;}
-h5, .h5 {color: #696969; font-size: 1.2em;}
-h6, .h6 {color: #797979; font-size: 1em;}
+h1, .h1 {font-size: 2.488em;}
+h2, .h2 {font-size: 2.074em;}
+h3, .h3 {font-size: 1.728em;}
+h4, .h4 {font-size: 1.44em;}
+h5, .h5 {font-size: 1.2em;}
+h6, .h6 {font-size: 1em;}
+
+h1, .h1, h1 a {color: $gray--100;}
+h2, .h2, h2 a {color: $gray--200;}
+h3, .h3, h3 a {color: $gray--300;}
+h4, .h4, h4 a {color: $gray--400;}
+h5, .h5, h5 a {color: $gray--500;}
+h6, .h6, h6 a {color: $gray--600;}
 
 hr {
   border: 0;
@@ -67,7 +78,7 @@ a:hover, a:active {
 
 .sans, ol, li, ul, dl, table, figcaption, header, nav {
   font-family: "Benton Sans RE Reg";
-  font-size: 14px;
+  font-size: .9rem;
   line-height: 2em;
 }
 
@@ -101,4 +112,8 @@ figure {
     text-align: center;
     width: 80%;
   }
+}
+
+figure.img-thumbnail {
+	margin: 0;
 }

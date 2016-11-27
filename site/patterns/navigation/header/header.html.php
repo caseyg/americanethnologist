@@ -1,4 +1,4 @@
-<header class="row pt-2">
+<header class="row pt-2 mb-2">
   <div class="col-xs-12 col-sm-2">
     <h1><a href="/"><span class="bentonsanscondensedblack">(&aelig;s)</span></a></h1>
   </div>

@@ -1,0 +1,41 @@
+title: Award
+
+icon: trophy
+
+files: false
+pages:
+  template: awardee
+
+options:
+  delete: false
+  status: false
+  url: false
+
+fields:
+  title:
+    label: Title
+    type:  text
+
+  intro:
+    label: Intro
+    type:  textarea
+    size:  small
+
+  text:
+    label: Text
+    type:  textarea
+    size:  large
+
+  prize:
+    label: Prize
+    type: textarea
+    size:  small
+    width: 1/2
+    buttons: false
+
+  deadline:
+    label: Deadline
+    type: textarea
+    size:  small
+    width: 1/2
+    buttons: false
