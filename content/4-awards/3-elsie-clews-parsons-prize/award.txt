@@ -12,7 +12,7 @@ Papers should engage with AES core commitments to combining innovative fieldwork
 
 Please submit two PDFs: One containing a cover sheet with the author’s name, contact information, paper title and acknowledgments and the other containing the paper’s title, text, notes and references but not otherwise identifying the author. Papers will be read in a double-blind process by a committee of AES members. The committee members will be identified when the prizewinner is announced. Submissions and questions should be sent to Tristan Jones: tristan.jones[at]rutgers[dot]edu.
 
-## History
+###### History
 
 The Elsie Clews Parsons Prize for the best graduate student essay began around 1970 and is symbolized by a silver medallion made by a Hopi silversmith. The original design of this medallion utilizes a spider symbol common to Hopi pottery design.
 
