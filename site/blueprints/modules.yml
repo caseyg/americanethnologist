@@ -1,0 +1,14 @@
+title: Modules
+
+pages:
+  template:
+    - module.text
+    - module.gallery
+    - module.board-cards
+
+fields:
+  modules:
+    label: Modules
+    type: modules
+
+hide: true

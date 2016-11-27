@@ -1,0 +1,9 @@
+title: Board cards
+pages: false
+files: false
+
+fields:
+  # The title is only used in the Panel for this module
+  title:
+    label: Module title
+    type: text

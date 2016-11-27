@@ -119,8 +119,7 @@ body {
   font-family: "elena-web-basic",sans-serif;
   font-size: 16px; }
 
-h1, h2, h3, h4, h5, h6,
-.h1, .h2, .h3, .h4, .h5, .h6 {
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
   font-family: "Benton Sans Cond Bd"; }
 
 h1, .h1 {
@@ -176,19 +175,6 @@ figcaption {
   font-weight: Normal !important;
   line-height: 1.25em; }
 
-a:link, a:visited {
-  text-decoration: none;
-  border-bottom: 2px solid #d6f1fc; }
-
-.nav-pills a {
-  border-bottom: none; }
-
-a:hover, a:active {
-  background-color: #d6f1fc; }
-
-.jumbotron {
-  background-color: #d8d9c6; }
-
 .sans, ol, li, ul, dl, table, figcaption, header, nav {
   font-family: "Benton Sans RE Reg";
   font-size: 14px;
@@ -204,6 +190,20 @@ a:hover, a:active {
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis; }
+
+figure {
+  display: block;
+  margin: 30px 0; }
+  figure img {
+    display: block;
+    margin: auto; }
+  figure figcaption {
+    padding-top: 15px;
+    font-style: italic;
+    color: #797979;
+    margin: auto;
+    text-align: center;
+    width: 80%; }
 
 header a {
   color: #292929; }
@@ -221,6 +221,25 @@ header .active {
   font-family: "Benton Sans RE Bd";
   font-weight: bold;
   border-bottom: none; }
+
+.sibling-sidebar a:link, .sibling-sidebar a:visited {
+  padding-left: 0;
+  background: none !important;
+  color: #797979; }
+
+.sibling-sidebar a:link.nav-link,
+.sibling-sidebar a:visited.nav-link {
+  color: #292929; }
+
+.sibling-sidebar .nav-link.active {
+  font-weight: bold;
+  font-family: "Benton Sans RE Bd"; }
+
+.sibling-sidebar .nav-link:hover {
+  color: #ec5e55; }
+
+.sibling-sidebar .active {
+  color: #ec5e55 !important; }
 
 body {
   background: #f9f6ec; }

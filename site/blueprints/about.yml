@@ -14,12 +14,4 @@ fields:
     label: Title
     type: title
 
-  intro:
-    label: Intro
-    type: textarea
-    size: small
-
-  text:
-    label: Text
-    type: textarea
-    size: large
+  modules: modules

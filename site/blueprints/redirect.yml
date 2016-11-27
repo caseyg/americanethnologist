@@ -1,0 +1,10 @@
+files: false
+
+fields:
+  title:
+    label: Title
+    type: title
+  link:
+    label: Redirect To
+    type: select
+    options: pages

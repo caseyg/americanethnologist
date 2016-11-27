@@ -1,14 +1,18 @@
-title: About
+title: Board
 
 icon: users
 
 options:
   template: false
-  url: false
 
 pages:
-  template: person
+  template:
+    - person
   sort: true
+  build:
+    - title: _modules
+      uid: modules
+      template: modules
 
 files: false
 
@@ -16,3 +20,7 @@ fields:
   title:
     label: Title
     type: title
+  modules:
+    label: Modules
+    type: modules
+    template:

@@ -1,0 +1,25 @@
+.sibling-sidebar {
+  a:link, a:visited {
+    padding-left: 0;
+    background: none!important;
+    color: $gray--600;
+  }
+
+  a:link.nav-link,
+  a:visited.nav-link {
+    color: $text;
+  }
+
+  .nav-link.active {
+    font-weight: bold;
+    font-family: "Benton Sans RE Bd";
+  }
+
+  .nav-link:hover {
+    color: $accent;
+  }
+
+  .active {
+    color: $accent!important;
+  }
+}

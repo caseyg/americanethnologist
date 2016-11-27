@@ -1,0 +1,22 @@
+title: Text module
+pages: false
+files: true
+
+fields:
+  # The title is only used in the Panel for this module
+  title:
+    label: Module title
+    type: text
+
+  # The text is used in the module's snippet as $module->text()
+  text:
+    label: Text
+    type: textarea
+
+  # Your modules can also contain other fields
+  moduleSettings:
+    label: Module settings
+    type: headline
+  lead:
+    label: lead
+    type: toggle
