@@ -240,42 +240,23 @@ header .active {
   font-weight: bold;
   border-bottom: none; }
 
-.nav--sidebar a:link, .nav--sidebar a:visited {
+.nav a:link, .nav a:visited {
   padding-left: 0;
   background: none !important;
   color: #797979; }
 
-.nav--sidebar a:link.nav-link,
-.nav--sidebar a:visited.nav-link {
+.nav a:link.nav-link,
+.nav a:visited.nav-link {
   color: #292929; }
 
-.nav--sidebar .nav-link.active {
+.nav .nav-link.active {
   font-weight: bold;
   font-family: "Benton Sans RE Bd"; }
 
-.nav--sidebar .nav-link:hover {
+.nav .nav-link:hover {
   color: #ec5e55; }
 
-.nav--sidebar .active {
-  color: #ec5e55 !important; }
-
-.nav--horizontal a:link, .nav--horizontal a:visited {
-  padding-left: 0;
-  background: none !important;
-  color: #797979; }
-
-.nav--horizontal a:link.nav-link,
-.nav--horizontal a:visited.nav-link {
-  color: #292929; }
-
-.nav--horizontal .nav-link.active {
-  font-weight: bold;
-  font-family: "Benton Sans RE Bd"; }
-
-.nav--horizontal .nav-link:hover {
-  color: #ec5e55; }
-
-.nav--horizontal .active {
+.nav .active {
   color: #ec5e55 !important; }
 
 body {

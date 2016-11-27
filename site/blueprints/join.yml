@@ -1,8 +1,0 @@
-title: Join
-
-icon: plus-circle
-
-options:
-  delete: false
-  status: false
-  url: false

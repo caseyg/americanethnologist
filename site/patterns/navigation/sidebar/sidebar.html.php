@@ -1,8 +1,8 @@
 <div class="nav--sidebar">
     <?php if ($page->depth() > 1): ?>
-      <p class="h5"><a href="<?php echo $page->parent()->url() ?>"><?php echo $page->parent()->title() ?></a></p>
+      <h5><a href="<?php echo $page->parent()->url() ?>"><?php echo $page->parent()->title() ?></a></h5>
     <?php else: ?>
-      <p class="h5"><a href="<?php echo $page->url() ?>" class="active"><?php echo $page->title() ?></a></p>
+      <h5><a href="<?php echo $page->url() ?>" class="active"><?php echo $page->title() ?></a></h5>
     <?php endif ?>
     <nav class="nav nav-pills nav-stacked nav--sidebar">
       <?php foreach ($pages as $p): ?>

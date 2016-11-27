@@ -1,0 +1,11 @@
+title: Awards cards
+pages: false
+files: false
+
+icon: th-large
+
+fields:
+  # The title is only used in the Panel for this module
+  title:
+    label: Module title
+    type: text

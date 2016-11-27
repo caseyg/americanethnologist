@@ -16,16 +16,6 @@ fields:
     label: Title
     type:  text
 
-  intro:
-    label: Intro
-    type:  textarea
-    size:  small
-
-  text:
-    label: Text
-    type:  textarea
-    size:  large
-
   prize:
     label: Prize
     type: textarea
@@ -39,3 +29,13 @@ fields:
     size:  small
     width: 1/2
     buttons: false
+
+  intro:
+    label: Intro
+    type:  textarea
+    size:  small
+
+  text:
+    label: Text
+    type:  textarea
+    size:  large

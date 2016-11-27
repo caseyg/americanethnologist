@@ -2,10 +2,40 @@ title: Awardee
 
 icon: trophy
 
+pages: false
+
 fields:
   title:
-    label: Title
+    label: Page Title
     type:  text
+
+
+
+  awardee_title:
+    label: Awardee Submission Title
+    type: text
+    width: 1/2
+
+  awardee_subtitle:
+    label: Awardee Submission Subtitle
+    type: text
+    width: 1/2
+
+  awardee_name:
+    label: Awardee Name
+    type: text
+    width: 1/3
+    buttons: false
+
+  award_year:
+    label: Award Year
+    type: number
+    width: 1/3
+
+  award_type:
+    label: Award Type
+    width: 1/3
+    type: tags
 
   intro:
     label: Intro
@@ -16,17 +46,3 @@ fields:
     label: Text
     type:  textarea
     size:  large
-
-  prize:
-    label: Prize
-    type: textarea
-    size:  small
-    width: 1/2
-    buttons: false
-
-  deadline:
-    label: Deadline
-    type: textarea
-    size:  small
-    width: 1/2
-    buttons: false
