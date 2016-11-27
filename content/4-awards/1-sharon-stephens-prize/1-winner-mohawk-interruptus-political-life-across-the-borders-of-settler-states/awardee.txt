@@ -15,3 +15,15 @@ Prize:
 ----
 
 Deadline: 
+
+----
+
+Awardee-title: Mohawk Interruptus: Political Life Across the Borders of Settler States
+
+----
+
+Awardee-name: Audra Simpson
+
+----
+
+Award-type: 0
