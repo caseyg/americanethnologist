@@ -28,11 +28,11 @@ Intro:
 
 Text: 
 
-## Prize committee 
+### Prize committee 
 
 Marisol de la Cadena (chair), Daniel Goldstein, and Daromir Rudnyckyj (2011 prize co-winner)
 
-## From the Publisher
+### From the Publisher
 
 Recent decades have seen a dramatic shift away from social forms of gambling played around roulette wheels and card tables to solitary gambling at electronic terminals. Addiction by Design takes readers into the intriguing world of machine gambling, an increasingly popular and absorbing form of play that blurs the line between human and machine, compulsion and control, risk and reward.
 
