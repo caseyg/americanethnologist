@@ -1,0 +1,16 @@
+title: Subtitle module
+pages: false
+files: true
+
+icon: align-left
+
+fields:
+  # The title is only used in the Panel for this module
+  title:
+    label: Module title
+    type: text
+
+  # The text is used in the module's snippet as $module->text()
+  text:
+    label: Text
+    type: textarea
