@@ -4,7 +4,7 @@ Title: Editor-in-Chief
 
 Text: 
 
-## Editor-in-Chief: Niko Besnier
+## Editor-in-Chief, Niko Besnier
 (email: n.besnier@uva.nl)
 
 (image: niko-at-yama-no-hoteru-hakone-13-05-09.jpg alt: Niko at Yama no Hoteru Hakone class: img-thumbnail float-xs-right ml-1 mb-1) 
