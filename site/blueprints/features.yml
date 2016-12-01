@@ -1,4 +1,4 @@
-title: News
+title: Features
 
 icon: newspaper-o
 
@@ -6,3 +6,6 @@ options:
   delete: false
   status: false
   url: false
+
+pages:
+  template: feature
