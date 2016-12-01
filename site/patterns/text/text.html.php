@@ -1,3 +1,3 @@
-<div class="text<?php if($module->lead() == "true"): echo " lead"; endif; ?>">
-	<?= $module->text()->kt() ?>
-</div>
+	<div class="text<?php if($module->lead() == "true"): ?> lead<?php if($module->page()->template() == "feature"): echo ""; endif; ?><?php endif ?> <?php if($module->page()->template() == "feature" && $module->lead() == "false"): echo " col-sm-6 push-sm-3"; endif; ?>">
+		<?= $module->text()->kt() ?>
+	</div>

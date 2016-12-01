@@ -1,11 +1,18 @@
 title: Feature
 
-pages: false
+pages:
+  template: default
+  build:
+    - title: _modules
+      uid: modules
+      template: module
 
 fields:
   title:
     label: Title
     type:  text
+
+  modules: modules
 
   text:
     label: Text

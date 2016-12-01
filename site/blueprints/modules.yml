@@ -2,6 +2,7 @@ title: Modules
 
 pages:
   template:
+    - module.subtitle
     - module.text
     - module.gallery
     - module.board-cards
