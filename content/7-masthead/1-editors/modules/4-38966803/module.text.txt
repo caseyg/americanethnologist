@@ -4,6 +4,15 @@ Title: Staff
 
 Text: 
 
+## Staff
+
+(email: journal.americanethnologist@gmail.com text: Julie Neithercutt), Assistant to the Editor
+Linda Forman, Senior Copy Editor
+Pablo Morales, Senior Copy Editor
+Holly Carver, Copy Editor for Book Reviews
+Julie Peluso Quinn, Copy Editor
+Sheila Oakley, Proofreader
+
 ----
 
 Modulesettings: 
