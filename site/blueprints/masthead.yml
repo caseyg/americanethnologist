@@ -6,3 +6,10 @@ options:
   delete: false
   status: false
   url: false
+
+fields:
+  title:
+    label: Title
+    type:  text
+
+  modules: modules
