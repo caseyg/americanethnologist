@@ -1,4 +1,3 @@
-<?php if(!$site->user()) go('/panel') ?>
 <!doctype html>
 <html lang="<?= site()->language() ? site()->language()->code() : 'en' ?>">
 <head>
