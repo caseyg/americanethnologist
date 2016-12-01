@@ -1,8 +1,8 @@
-Title: Text module
+Title: Publisher
 
 ----
 
-Text: 
+Text: American Ethnologist is a quarterly journal published on behalf of the American Anthropological Association by Blackwell Publishing, Inc., 350 Main Street, Malden, MA 02148-5020.  Blackwell Publishing, Inc., is part of Wiley-Blackwell.
 
 ----
 
@@ -10,4 +10,4 @@ Modulesettings:
 
 ----
 
-Lead: false
+Lead: true
