@@ -8,7 +8,7 @@ Text:
 
 (email: n.besnier@uva.nl)
 
-(image: niko-at-yama-no-hoteru-hakone-13-05-09.jpg alt: Niko at Yama no Hoteru Hakone class: thumbnail float-xs-right)
+(image: niko-at-yama-no-hoteru-hakone-13-05-09.jpg alt: Niko at Yama no Hoteru Hakone class: img-thumbnail float-xs-right)
 
 Niko Besnier is Professor of Cultural Anthropology at the University of Amsterdam, a position he has occupied since 2005, having previously been affiliated with academic institutions in the US, Europe, Japan, and New Zealand. His research has addressed topics in transnational mobility, gender and sexuality, language and interaction, and economic relations in times of crisis. He has conducted ethnographic fieldwork in the Pacific Islands, Japan, and the United States.
 
