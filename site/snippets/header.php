@@ -11,10 +11,11 @@
   <link href="//cloud.typenetwork.com/projects/578/fontface.css/" rel="stylesheet" type="text/css">
   <script src="https://use.typekit.net/zsj4lxh.js"></script>
   <script>try{Typekit.load({ async: true });}catch(e){}</script>
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.5/css/bootstrap.min.css" integrity="sha384-AysaV+vQoT3kOAXZkl02PThvDr8HYKPZhNT5h/CXfBThSRXQ6jW5DO2ekP5ViFdi" crossorigin="anonymous">
+  <!--<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.5/css/bootstrap.min.css" integrity="sha384-AysaV+vQoT3kOAXZkl02PThvDr8HYKPZhNT5h/CXfBThSRXQ6jW5DO2ekP5ViFdi" crossorigin="anonymous">-->
+  <?= css('assets/css/bootstrap.min.css') ?>
   <?= css('assets/css/index.min.css') ?>
 
 </head>
 <body>
   <div class="container">
-      <?php pattern('navigation/header') ?>
+    <?php pattern('navigation/header') ?>
