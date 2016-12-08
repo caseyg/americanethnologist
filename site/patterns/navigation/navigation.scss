@@ -1,8 +1,10 @@
 .nav {
-  a:link, a:visited {
+  a:link,
+  a:visited {
     padding-left: 0;
-    background: none!important;
+
     color: $gray--600;
+    background: none !important;
   }
 
   a:link.nav-link,
@@ -11,8 +13,8 @@
   }
 
   .nav-link.active {
+    font-family: 'Benton Sans RE Bd';
     font-weight: bold;
-    font-family: "Benton Sans RE Bd";
   }
 
   .nav-link:hover {
