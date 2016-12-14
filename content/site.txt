@@ -2,7 +2,7 @@ Title: American Ethnological Society
 
 ----
 
-Description: Test.
+Description: Local test.
 
 ----
 
