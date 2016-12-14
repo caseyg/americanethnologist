@@ -2,7 +2,7 @@ Title: American Ethnological Society
 
 ----
 
-Description: This is Kirby's Starterkit.
+Description: Test.
 
 ----
 
