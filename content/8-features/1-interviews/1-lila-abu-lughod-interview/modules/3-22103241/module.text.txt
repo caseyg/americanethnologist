@@ -6,6 +6,8 @@ Text:
 
 <h2>Test subtitle</h2>
 
+## Test subtitle
+
 **Sindre Bangstad (SB):** You and I met in 2014 because we had both turned, as anthropologists, to address a disturbing public issue: Islamophobia. This opened us up to forms of hostility that our earlier ethnographic work in Muslim communities, yours in Egypt and mine in South Africa, had not. In your article in the November issue of AE, “The Cross-Publics of Public Ethnography,” you consider what anthropologists can bring to contentious public debates. You confess that your most recent book, Do Muslim Women Need Saving? took you out of the comfort zone of our discipline. I’d like to talk with you about the meaning of this transition to what I’ve explored as public anthropology in a series of interviews in my forthcoming Anthropology of Our Times: An Edited Anthology in Public Anthropology. You prefer to call it public ethnography, following Didier Fassin. I’d like to talk about your early work first.
 
 Sindre Bangstad
