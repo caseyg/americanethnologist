@@ -14,6 +14,7 @@
     </div>
     <div class="col-sm-8 pull-sm-3">
       <?php $page->modules() ?>
+      <?php echo $page->text()->kt() ?>
     </div>
   </div>
 
@@ -22,6 +23,7 @@
   <div class="row">
     <div class="col-xs-12">
       <?php $page->modules() ?>
+      <?php echo $page->text()->kt() ?>
     </div>
   </div>
 
