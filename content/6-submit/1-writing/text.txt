@@ -1,81 +1,35 @@
-Title: Information for Authors and Contributors
+Title: writing
 
 ----
 
 Text: 
 
-##### Aims and Scope
+The journal aims to publish clear and precise prose that eschews unnecessary jargon, accessible to its broad readership that spans all of social and cultural anthropology.
 
-American Ethnologist is a quarterly journal concerned with ethnology in the broadest sense of the term. The journal’s articles connect ethnographic specificity with original theoretical contributions, conveying the relevance of the ethnographic imagination to the contemporary world.
+Authors are requested to avoid using metacommunicative frames such as “In this article, I argue,” “I describe,” “I maintain,” and the like. Simply state your ideas upfront. Likewise, statements as “This article contributes to a growing body of anthropological scholarship” should be substituted with clear and precise statements of the theoretical contribution that the author is making. The text should make ideas the backbone of the arguments, rather than authors, publications, “literatures,” or “research.” These issues are particularly relevant in your abstract, where self-referential “noise” takes up valuable space.
 
-##### Manuscript form and length 
+The title and abstract are two of the most important aspects of an article, for two reasons: they are the only two elements of a submitted manuscript that invited reviewers see and on which they base their decision to review the manuscript or not; and, if the article is published, they are the elements of the article that are freely available to all readers online and that search engines utilize to identify the article, along with the keywords. Optimizing an article for search engines will greatly increase its chance of being viewed and cited in other works.
 
-Double-space all text and use a 12-point font throughout, including for headings, block quotations, the reference list, and endnotes. Manuscripts should not exceed 11,000 words, including notes and references. Set all margins at one inch (2.45 cm).
+## Constructing a clear descriptive title and subtitle 
 
-##### Title page 
+Search engines are constructed so as to identify in the title and subtitle of an article all the important words that define the topic it addresses. This is why it is crucial to choose a clear, accurate title and subtitle that feature search terms that readers are likely to use when looking for articles on a particular topic. Titles should be understandable to readers outside the discipline.
 
-Include the article’s title and the author’s name, institutional affiliation, current mailing address, and e-mail. Provide any acknowledgments at the bottom of this page.
+## Constructing a clear and engaging abstract
 
-##### Abstract 
+The abstract is a conduit to the article, in the sense that readers use it to decide whether to read the article. Thus, it should be clear, engaging, and precise, and explicitly state the article’s original contribution. The abstract can use words and short phrases from the article, although it should not repeat longer phrases or sentences, as readers are not fond of being made to read the same text twice.
 
-Each research article must begin with an abstract of 100 to 125 words. The abstract should end with a bracketed list of up to seven keywords or phrases. Please refer to Tips: Titles, Abstracts & Keywords for important suggestions.
+## Carefully selecting keywords
 
-##### Style 
+Keywords enhance the article’s online discoverability. They should repeat words in the title, subtitle, and abstract, and should only include terms that perform an important analytic function in the body of the article.
 
-American Ethnologist follows The Chicago Manual of Style, 16th edition. For spelling, the reference is Merriam-Webster’s Collegiate Dictionary, 11th edition, which uses US (rather than British) spellings; wherever Merriam-Webster’s lists variant spellings, use the first one given.
+The following are examples of well-written titles, abstracts, and lists of keywords that have been published in AE (reproduced with the authors’ permission):
 
-##### Citations, references, and endnotes 
-
-Cite according to the author-date system set forth in chapter 15 of the Chicago Manual. Place the citation in parentheses and include the author’s name and the source’s year of publication, with no intervening punctuation, like this: (Herzfeld 2004). For quotations or extensive paraphrases, include the pages numbers preceded by a comma: (Herzfeld 2004, 146–7).
-
-On the reference list, include every source cited in the text and no others, listed alphabetically by author (in the case of multiple entries by the same author, list them chronologically, from oldest to most recent). The references must begin on a new page; do not embed them in the endnotes. The layout is as follows:
-
-> Bessire, Lucas, and David Bond. 2014. “Ontological Anthropology and the Deferral of Critique.” American Ethnologist 41 (3): 440–56.
+> Wit and Greece's economic crisis: Ironic slogans, food, and antiausterity sentiments
+Daniel M. Knight (published in AE 42.2, 2015)
 > 
-> Comaroff, Jean. 1996. “The Empire’s Old Clothes: Fashioning the Colonial Subject.” In Cross-Cultural Consumption: Global Markets, Local Realities, edited by David Howes, 19–38. London: Routledge.
+> Ironic slogans voice opposition to neoliberal austerity measures as people in western Thessaly, Greece, strive to account for dramatically increasing poverty and cultivate a sense of collective suffering in an era of economic crisis. The slogans are pinned to moments of socio-economic turmoil in recent Greek history, such as the 1941–1943 famine and the 1973 polytechnic uprising against military dictatorship. Through satire, they capture local and national attitudes toward the government’s current austerity policy and neoliberalism more generally. Drawing on powerful tropes of food, the slogans critique the experience of neoliberal reform, becoming sites of resistance and solidarity that reframe relations between local people, their government, and international creditors. [Greek economic crisis; slogans; irony and satire; neoliberalism; food; temporality]
+
+> The makeup of destiny: Predestination and the labor of hope in a Moroccan emigrant town
+Alice Elliot (published in AE 43.3, 2016)
 > 
-> Herzfeld, Michael. 2004. Cultural Intimacy: Social Poetics in the Nation-State. 2nd ed. London: Routledge. First published 1997.
-> 
-> Daser, Deniz. 2014. “AE Interviews Catherine Lutz (Brown University).” American Ethnologist website, May 9. Accessed [Month Day, Year]. http://americanethnologist.org/2014/ae-interviews-catherine-lutz-brown-university.
-
-AE uses endnotes, not footnotes. They should be brief, sparse, and directly relevant to the text. In the main text, place endnote reference numbers at the ends of sentences only, using Arabic numerals.
-
-##### Tables 
-
-Submit all tabular material separately from the manuscript. Each table should have its own document and be identified at the top by a number and a short descriptive title (e.g., Table 1: Short descriptive title). In the manuscript, place bracketed callouts between paragraphs indicating where tables should be placed, like this: [Please insert Table 1 here]. In the text, each table should also be pointed out to the reader, usually in parentheses, like this: (see Table 1). Tables can be uploaded when you submit your manuscript at https://mc.manuscriptcentral.com/ae.
-
-##### Photos, maps, and other illustrations 
-
-Submit all nontabular images separately from the manuscript. Do not embed them in the text. Instead, send image files in either TIF or JPG format, which should be high resolution (at least 300 dpi) and large enough to print at 8 x 10 inches. Tables can be uploaded when you submit your manuscript at https://mc.manuscriptcentral.com/ae.
-
-Name the image files using your name and consecutive Arabic numerals: Author Name 1, Author Name 2, and so on. In a separate document, submit captions for each image numbered to correspond with the image files: Figure 1, Figure 2. All captions should include a detailed description of the image (naming the who, what, when, and where), as well as credit, like this:
-
-Crowds in Tahrir Square, Cairo, react with joy to the announcement that President Mubarak will step down, February 11, 2011. (Rick Loomis/Los Angeles Times/Polaris)
-
-In addition to captions, you must submit written permissions for each image, including those you own and those owned by someone else. In each permission, the image’s owner must authorize AE to publish the image both in print and online.
-
-Finally, each image needs a corresponding placement callout and reference in the main text, as with tables (see above).
-
-##### Submission guidelines 
-
-Manuscripts submitted to AE should not be under consideration elsewhere or have been published in any form. All manuscripts are reviewed anonymously. Please submit your manuscript online as a word-processed file via (link: http://mc.manuscriptcentral.com/ae text: Manuscript Central). A paper copy is not necessary. Image files may be uploaded at the time of submission or sent to journal.americanethnologist@gmail.com. Scholars who are not members of the American Ethnological Society are required to send a nonrefundable processing fee of $25 (US funds only) to American Ethnologist Journal, PO Box 1185, Davis, CA 95617.
-
-##### Permissions 
-
-Use of an image belonging to anyone other than the author requires written permission from the owner. The author is responsible for securing all permissions and confirming permission granted to the editorial office in a timely manner.
-
-##### Article submission guidelines 
-
-Manuscripts submitted to AE should not be under consideration elsewhere or have been published elsewhere in any form. All manuscripts are reviewed anonymously.
-
-##### How to submit your manuscript 
-
-Please submit your manuscript online via (link: http://mc.manuscriptcentral.com/ae text: Manuscript Central). A paper copy is not necessary.
-
-Image files may be uploaded at the time of submission. If the article is accepted, the author will be asked to send image files to (email: journal.americanethnologist@gmail.com).
-
-##### Processing fee for non-AES members 
-
-Scholars who are not members of the American Ethnological Society are required to send a nonrefundable processing fee of $25.00 (U.S. funds only) to the American Ethnological Society by following the instructions here.
-
-To join the American Ethnological Society, go to (link: http://www.americananthro.org/ParticipateAndAdvocate/SJDList.aspx text: American Anthropological Association).
+> As young women in a Moroccan emigrant town search for suitable husbands, they frame seemingly irreverent practices such as using makeup and premarital romances as ways to precipitate their unknown conjugal destinies. This complex “labor of hope” flows from the Islamic precept of predestination, which, far from being a fatalistic backdrop to social life, compels people to act in the human world in view of a future that has already been divinely determined. Here, destiny effectively “folds” Islam into the very texture of mundane practices that, on the surface, may seem not just distant from Islam but even antithetical to it. This phenomenon obliges us to recast Max Weber's argument on predestination and action, as well as to reconsider current anthropological debates on “everyday Islam.” [destiny, migration, hope, courtship, future, Islam, Morocco]
