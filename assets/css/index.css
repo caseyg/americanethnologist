@@ -229,22 +229,33 @@ figure {
 figure.img-thumbnail {
   margin: 0; }
 
+header li {
+  font-size: 13px !important; }
+
 header a {
-  color: #292929; }
+  color: #595959;
+  text-transform: uppercase;
+  letter-spacing: 1px; }
+
+header a:hover {
+  text-decoration: none;
+  color: #ec5e55; }
+
+h1 a {
+  text-transform: lowercase;
+  letter-spacing: 0; }
 
 header strong,
 .nav__header {
   font-family: "Benton Sans RE Bd";
   color: #797979; }
 
-.nav__header {
-  color: #292929; }
-
 header .active {
   color: #ec5e55;
   font-family: "Benton Sans RE Bd";
   font-weight: bold;
-  border-bottom: none; }
+  border-bottom: none;
+  letter-spacing: 0; }
 
 footer {
   display: block;

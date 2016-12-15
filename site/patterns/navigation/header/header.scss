@@ -1,5 +1,24 @@
+header {
+}
+
+header li {
+  font-size: 13px!important;
+}
+
 header a {
-  color: #292929;
+  color: $gray--400;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+header a:hover {
+  text-decoration: none;
+  color: $accent;
+}
+
+h1 a {
+  text-transform: lowercase;
+  letter-spacing: 0;
 }
 
 header strong,
@@ -8,13 +27,10 @@ header strong,
   color: $gray--600;
 }
 
-.nav__header {
-  color: $text;
-}
-
 header .active {
-  color: #ec5e55;
+  color: $accent;
   font-family: "Benton Sans RE Bd";
   font-weight: bold;
   border-bottom: none;
+  letter-spacing: 0;
 }

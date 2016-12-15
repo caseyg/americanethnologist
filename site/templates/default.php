@@ -1,7 +1,5 @@
 <?php snippet('header') ?>
 
-<?php pattern('heading-title') ?>
-
 <?php if ($page->children()->filterBy('slug', '!=', 'modules')->count() > 0 && $page->depth() == 1 || $page->depth() > 1 ): ?>
 
   <div class="row">
