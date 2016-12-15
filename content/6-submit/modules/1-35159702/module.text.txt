@@ -1,8 +1,8 @@
-Title: Text module
+Title: Intro
 
 ----
 
-Text: 
+Text: AE primarily publishes research articles, invited commentaries, forums, book review essays (“Ethnography at Its Edges”), book reviews, supplementary online materials, and thematic virtual issues.
 
 ----
 
@@ -10,4 +10,4 @@ Modulesettings:
 
 ----
 
-Lead: false
+Lead: true
