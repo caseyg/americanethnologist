@@ -1,5 +1,0 @@
-Title: Suggesting Reviewers
-
-----
-
-Text: Authors may suggest up to six people as reviewers (providing their institutional affiliations and e-mail addresses). They may also indicate people they would prefer not to serve as reviewers. Suggested reviewers should not have a conflict of interest with the author(s). The editor is not bound by these suggestions but will respect them as illustrating the article’s potential readership.
