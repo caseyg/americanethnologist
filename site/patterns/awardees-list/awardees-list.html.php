@@ -5,7 +5,7 @@
       <?php if ($p->images()->count() > 0): ?>
         <img src="<?php echo $p->images()->first()->url() ?>" class="img-fluid mb-1" alt="">
       <?php else: ?>
-        <img src="http://placehold.it/223x335" class="img-fluid mb-1" alt="">
+        <img src="http://placehold.it/255x383" class="img-fluid mb-1" alt="">
       <?php endif; ?>
       <h4><?php echo $p->awardee_title() ?></h4>
       <h6>by <?php echo $p->awardee_name() ?></h6>
@@ -15,7 +15,7 @@
       <?php if ($p->images()->count() > 0): ?>
         <img src="<?php echo $p->images()->first()->url() ?>" class="img-fluid mb-1" alt="">
       <?php else: ?>
-        <img src="http://placehold.it/223x335" class="img-fluid mb-1" alt="">
+        <img src="http://placehold.it/255x383" class="img-fluid mb-1" alt="">
       <?php endif; ?>
       <h6><?php echo $p->title() ?></h6>
     </a>
