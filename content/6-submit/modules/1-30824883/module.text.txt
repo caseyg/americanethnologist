@@ -4,6 +4,22 @@ Title: Text module
 
 Text: 
 
+Due to the large number of article submissions and the difficulties involved in reviewing such submissions to the standard by which the journal abides, AE does not publish guest-edited special issues.
+
+Manuscripts of articles submitted to the AE must make a clear and significant contribution to contemporary debates and theoretical developments in the discipline. The journal does not publish articles that merely apply theoretical ideas to the analysis of ethnographic materials. Articles published in the journal are expected to have a strong theoretical focus grounded in solid ethnography; a critical engagement with the issues of the contemporary moment; and an attention to scale as central to anthropological analysis. In addition, the journal is committed to publish works that cross traditional linguistic and epistemological boundaries and contribute to anthropology as an international discipline.
+
+Scholars are occasionally invited to submit commentaries on noteworthy accepted articles, which are published alongside the article.
+
+AE forums are special features on contemporary issues in which anthropologists can make a timely intervention. They generally comprise several shorter articles, which are reviewed like all other article submissions, although generally in expedited fashion. AE forums are generally invited, although potential authors are welcome to submit forum ideas to the editor.
+
+“Ethnography at Its Edges” are review essays that explore the relationship between the use of ethnographic techniques in disciplines other than anthropology and contemporary trends within the discipline.
+
+Authors are encouraged to submit materials that supplement and enhance their published articles, such as photographs, audio clips, and video clips for publication on the journal’s website.
+
+The journal regularly publishes curated thematic virtual issues comprised of articles previously published in the journal framed by an original analytic introduction written by the curator. Other special features include interviews with authors of notable recent articles and landmark articles published in the past. Scholars are invited to send proposals for such features to the editor.
+
+The journal welcomes submissions in the major languages of the discipline other than English, to be reviewed in the original language. If a submission in a language other than English is accepted, the author will be asked to have the work translated into English, as this remains the language of the journal. The editor, however, reserves the right to not accept the manuscript if a sufficient number of reviewers able to evaluate the manuscript in the original language cannot be found.
+
 ----
 
 Modulesettings: 
