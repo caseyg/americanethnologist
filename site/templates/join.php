@@ -33,5 +33,4 @@
   </div>
 </div>
 
-<div class="container">
 <?php snippet('footer') ?>

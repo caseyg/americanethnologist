@@ -1,0 +1,16 @@
+footer {
+  display: block;
+  overflow: hidden;
+  position: relative;
+}
+
+.logo {
+  fill: $blockquote;
+  width: 50%;
+  height: 50%;
+  opacity:.15;
+  display: block;
+  position: relative;
+    bottom: -25%;
+    left: -25%;
+}

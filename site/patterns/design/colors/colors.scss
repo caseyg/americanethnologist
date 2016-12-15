@@ -5,6 +5,7 @@ $text:              #292929;
 $link:              #d6f1fc;
 $accent:            #ec5e55;
 $blockquote:        #d8d9c6;
+$green:             darken($blockquote, 35%);
 $text-secondary:    #d2d2d2;
 
 .background         {color: $background;}
@@ -12,6 +13,7 @@ $text-secondary:    #d2d2d2;
 .link               {color: $link;}
 .accent             {color: $accent;}
 .blockquote         {color: $blockquote;}
+.green              {color: $green;}
 .text-secondary     {color: $text-secondary;}
 
 .bg-background      {background-color: $background;}
@@ -19,6 +21,7 @@ $text-secondary:    #d2d2d2;
 .bg-link            {background-color: $link;}
 .bg-accent          {background-color: $accent;}
 .bg-blockquote      {background-color: $blockquote;}
+.bg-green           {background-color: $green;}
 .bg-text-secondary  {background-color: $text-secondary;}
 
 // Grays

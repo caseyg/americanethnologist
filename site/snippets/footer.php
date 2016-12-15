@@ -1,19 +1,6 @@
   </div>
 
-  <div class="container-fluid bg-blockquote">
-    <div class="container">
-      <footer class="footer mt-3 py-3" role="contentinfo">
-
-          <?php pattern("navigation/sitemap") ?>
-
-          <p class="footer-copyright"><?php
-            // Parse Kirbytext to support dynamic year,
-            // but remove all HTML like paragraph tags:
-            echo html::decode($site->copyright()->kirbytext())
-          ?></p>
-      </footer>
-    </div>
-  </div>
+  <?php pattern("navigation/footer") ?>
 
   <script data-no-instant src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js" integrity="sha384-3ceskX3iaEnIogmQchP8opvBy3Mi7Ce34nWjpBIwVTHfGYWQS9jwHDVRnpKKHJg7" crossorigin="anonymous"></script>
   <script data-no-instant src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.3.7/js/tether.min.js" integrity="sha384-XTs3FgkjiBgo8qjEjBk0tGmf3wPrWtA6coPfQDfFEY8AnYJwjalXCiosYRBIBZX8" crossorigin="anonymous"></script>

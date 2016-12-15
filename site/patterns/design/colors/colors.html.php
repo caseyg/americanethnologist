@@ -43,6 +43,12 @@ body {
       <div class="card-footer text-muted"><strong>Secondary Text</strong></div>
     </div>
   </div>
+  <div class="col-xs-6 col-lg-2">
+    <div class="card card--swatch">
+      <div class="card-block bg-green"></div>
+      <div class="card-footer text-muted"><strong>Green</strong></div>
+    </div>
+  </div>
 </div>
 
 <hr>

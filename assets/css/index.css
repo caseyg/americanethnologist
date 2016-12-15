@@ -13,6 +13,9 @@
 .blockquote {
   color: #d8d9c6; }
 
+.green {
+  color: #8b8e5f; }
+
 .text-secondary {
   color: #d2d2d2; }
 
@@ -30,6 +33,9 @@
 
 .bg-blockquote {
   background-color: #d8d9c6; }
+
+.bg-green {
+  background-color: #8b8e5f; }
 
 .bg-text-secondary {
   background-color: #d2d2d2; }
@@ -240,18 +246,34 @@ header .active {
   font-weight: bold;
   border-bottom: none; }
 
-.nav a:link, .nav a:visited {
+footer {
+  display: block;
+  overflow: hidden;
+  position: relative; }
+
+.logo {
+  fill: #d8d9c6;
+  width: 50%;
+  height: 50%;
+  opacity: .15;
+  display: block;
+  position: relative;
+  bottom: -25%;
+  left: -25%; }
+
+.nav a:link,
+.nav a:visited {
   padding-left: 0;
-  background: none !important;
-  color: #797979; }
+  color: #797979;
+  background: none !important; }
 
 .nav a:link.nav-link,
 .nav a:visited.nav-link {
   color: #292929; }
 
 .nav .nav-link.active {
-  font-weight: bold;
-  font-family: "Benton Sans RE Bd"; }
+  font-family: 'Benton Sans RE Bd';
+  font-weight: bold; }
 
 .nav .nav-link:hover {
   color: #ec5e55; }
