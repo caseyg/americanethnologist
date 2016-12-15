@@ -10,17 +10,11 @@ Authors are requested to avoid using metacommunicative frames such as “In this
 
 The title and abstract are two of the most important aspects of an article, for two reasons: they are the only two elements of a submitted manuscript that invited reviewers see and on which they base their decision to review the manuscript or not; and, if the article is published, they are the elements of the article that are freely available to all readers online and that search engines utilize to identify the article, along with the keywords. Optimizing an article for search engines will greatly increase its chance of being viewed and cited in other works.
 
-## Constructing a clear descriptive title and subtitle 
+**Constructing a clear descriptive title and subtitle** Search engines are constructed so as to identify in the title and subtitle of an article all the important words that define the topic it addresses. This is why it is crucial to choose a clear, accurate title and subtitle that feature search terms that readers are likely to use when looking for articles on a particular topic. Titles should be understandable to readers outside the discipline.
 
-Search engines are constructed so as to identify in the title and subtitle of an article all the important words that define the topic it addresses. This is why it is crucial to choose a clear, accurate title and subtitle that feature search terms that readers are likely to use when looking for articles on a particular topic. Titles should be understandable to readers outside the discipline.
+**Constructing a clear and engaging abstract** The abstract is a conduit to the article, in the sense that readers use it to decide whether to read the article. Thus, it should be clear, engaging, and precise, and explicitly state the article’s original contribution. The abstract can use words and short phrases from the article, although it should not repeat longer phrases or sentences, as readers are not fond of being made to read the same text twice.
 
-## Constructing a clear and engaging abstract
-
-The abstract is a conduit to the article, in the sense that readers use it to decide whether to read the article. Thus, it should be clear, engaging, and precise, and explicitly state the article’s original contribution. The abstract can use words and short phrases from the article, although it should not repeat longer phrases or sentences, as readers are not fond of being made to read the same text twice.
-
-## Carefully selecting keywords
-
-Keywords enhance the article’s online discoverability. They should repeat words in the title, subtitle, and abstract, and should only include terms that perform an important analytic function in the body of the article.
+**Carefully selecting keywords** Keywords enhance the article’s online discoverability. They should repeat words in the title, subtitle, and abstract, and should only include terms that perform an important analytic function in the body of the article.
 
 The following are examples of well-written titles, abstracts, and lists of keywords that have been published in AE (reproduced with the authors’ permission):
 
