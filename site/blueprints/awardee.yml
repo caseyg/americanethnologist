@@ -9,8 +9,6 @@ fields:
     label: Page Title
     type:  text
 
-
-
   awardee_title:
     label: Awardee Submission Title
     type: text

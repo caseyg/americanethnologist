@@ -5,6 +5,7 @@ icon: trophy
 files: false
 pages:
   template: awardee
+  sort: award_year desc
 
 options:
   delete: false
