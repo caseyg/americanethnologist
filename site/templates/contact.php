@@ -1,7 +1,5 @@
 <?php snippet('header') ?>
 
-<?php pattern('heading-title') ?>
-
   <div class="row">
     <div class="col-sm-3 push-sm-9">
       <?php if ($page->depth() > 1): ?>

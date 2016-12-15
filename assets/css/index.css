@@ -245,6 +245,9 @@ h1 a {
   text-transform: lowercase;
   letter-spacing: 0; }
 
+h1 a:hover {
+  color: #292929; }
+
 header strong,
 .nav__header {
   font-family: "Benton Sans RE Bd";

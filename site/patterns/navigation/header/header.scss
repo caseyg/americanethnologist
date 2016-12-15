@@ -21,6 +21,10 @@ h1 a {
   letter-spacing: 0;
 }
 
+h1 a:hover {
+  color: $gray--100;
+}
+
 header strong,
 .nav__header {
   font-family: "Benton Sans RE Bd";
