@@ -1,4 +1,4 @@
-title: Publish
+title: Submit
 
 icon: envelope-o
 
@@ -6,3 +6,17 @@ options:
   delete: false
   status: false
   url: false
+
+pages:
+  template: default
+  build:
+    - title: _modules
+      uid: modules
+      template: modules
+
+fields:
+  title:
+    label: Title
+    type:  text
+
+  modules: modules
