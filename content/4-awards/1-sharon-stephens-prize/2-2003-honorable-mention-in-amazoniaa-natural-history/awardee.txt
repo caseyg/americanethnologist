@@ -1,4 +1,4 @@
-Title: 2003 Honorable Mention: In Amazonia - A Natural History
+Title: 2003 Honorable Mention: In Amazonia: A Natural History
 
 ----
 
@@ -42,7 +42,7 @@ Awardee-subtitle:
 
 ----
 
-Awardee-name: 
+Awardee-name: Hugh Raffles
 
 ----
 
@@ -50,7 +50,7 @@ Award-year: 2003
 
 ----
 
-Award-type: 
+Award-type: Honorable Mention
 
 ----
 
