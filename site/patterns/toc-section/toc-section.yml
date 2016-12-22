@@ -1,0 +1,24 @@
+title: TOC Section
+pages: false
+files: false
+
+fields:
+  # The title is only used in the Panel for this module
+  title:
+    label: Section Title
+    type: text
+
+  articles:
+    label: Articles
+    type: structure
+    fields:
+      article:
+        label: Article
+        type: select
+        options: query
+        query:
+          page: ../
+          fetch: siblings
+          value: '{{uid}}'
+          text: '{{title}}'
+          flip: true

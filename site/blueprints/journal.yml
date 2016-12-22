@@ -1,23 +1,41 @@
 title: Journal
 
 pages: true
+  template: article
+  build:
+    - title: _modules
+      uid: modules
+      template: modules
+
+files:
+  fields:
+    caption:
+      label: Caption
+      type: textarea
+
+    credit:
+      label: Credit
+      type: text
 
 fields:
   title:
     label: Title
-    type:  title
+    type: title
 
-  author:
-    label: Author(s)
-    type: tags
+  volume:
+    label: Volume
+    type: number
+    width: 1/3
 
-  Wiley:
-    label: Full Article URL (Wiley)
-    type: url
+  issue:
+    label: Issue
+    type: number
+    width: 1/3
 
-  abstract:
-    label: Abstract
-    type: textarea
+  date:
+    label: Date
+    type: date
+    width: 1/3
 
   text:
     label: Text
@@ -27,3 +45,5 @@ fields:
     label: Cover Image
     type: image
     width: 1/2
+
+  modules: modules

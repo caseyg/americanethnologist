@@ -19,10 +19,16 @@
     <h1>American Ethnologist</h1>
     <h5 class="mb-2">Journal of the American Ethnological Society</h5>
     <hr>
-    <img class="img-thumbnail float-sm-right ml-1 mb-1" src="<?php echo $pages->find('read/journal')->children()->first()->images()->first()->url() ?>" alt="">
-    <p><em>Current Issue:</em>&nbsp;  <strong>November 2016</strong> — Volume 43 | Issue 4</p>
-    <p class="lead">The cross-publics of ethnography, aesthetics on Tahrir Square, oil and the Cofán, anti-FGM campaigns in Ghana, dance in Guinea, corruption in Indonesia, fair-trade bananas in Dominica, food production in Italy, Tokyo’s sex industry, humanitarianism in Bosnia and Herzegovina, international criminal courtrooms, and lots more.</p>
-    <a href="#" class="btn bg-background btn-secondary btn-outline">Read issue <i class="fa fa-angle-double-right" aria-hidden="true"></i></a>
+    <?php foreach ($pages->find('read/journal')->children()->visible()->limit(1) as $j): ?>
+      <?php if ($j->coverimage()->isNotEmpty()): ?>
+        <img class="img-thumbnail float-sm-right ml-1 mb-1" src="<?php echo $j->coverimage()->toFile()->url() ?>" width="200" height="400" alt="">
+      <?php else: ?>
+        <img class="img-thumbnail float-sm-right ml-1 mb-1" src="http://placehold.it/200x400" width="200" height="400" alt="">
+      <?php endif; ?>
+      <p><em>Current Issue:</em>&nbsp;  <strong><?php echo date('F Y', $j->date()) ?></strong> — Volume <?php echo $j->volume() ?> | Issue <?php echo $j->issue() ?></p>
+      <p class="lead"><?php echo $j->text() ?></p>
+      <a href="<?php echo $j->url() ?>" class="btn bg-background btn-secondary btn-outline">Table of Contents <i class="fa fa-angle-double-right" aria-hidden="true"></i></a>
+    <?php endforeach; ?>
     <hr>
 
     <h2>Previous Issues</h2>
