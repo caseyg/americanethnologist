@@ -277,7 +277,6 @@ footer {
 
 .nav a:link,
 .nav a:visited {
-  padding-left: 0;
   color: #797979;
   background: none !important; }
 
@@ -289,10 +288,10 @@ footer {
   font-family: 'Benton Sans RE Bd';
   font-weight: bold; }
 
-.nav .nav-link:hover {
+.nav .nav-link:hover, .nav .dropdown-item:hover {
   color: #ec5e55; }
 
-.nav .active {
+.nav .active, .nav .nav-item.open .nav-link {
   color: #ec5e55 !important; }
 
 body {

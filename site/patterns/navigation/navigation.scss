@@ -1,7 +1,7 @@
 .nav {
   a:link,
   a:visited {
-    padding-left: 0;
+//    padding-left: 0;
 
     color: $gray--600;
     background: none !important;
@@ -17,11 +17,11 @@
     font-weight: bold;
   }
 
-  .nav-link:hover {
+  .nav-link:hover, .dropdown-item:hover {
     color: $accent;
   }
 
-  .active {
+  .active, .nav-item.open .nav-link {
     color: $accent!important;
   }
 }

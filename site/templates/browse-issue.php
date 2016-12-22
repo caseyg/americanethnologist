@@ -6,6 +6,7 @@
 
 <div class="row">
   <div class="col-sm-3 push-sm-9">
+    <?php pattern('navigation/sidebar', array('pages' => $pages->find('read/browse')->children()->visible())) ?>
   </div>
   <div class="col-sm-8 pull-sm-3">
     <?php foreach($site->index()->filterBy('template', 'journal') as $issue): ?>
