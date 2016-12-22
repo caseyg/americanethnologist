@@ -1,6 +1,6 @@
-title: Article
+title: Journal
 
-pages: false
+pages: true
 
 fields:
   title:
