@@ -36,7 +36,4 @@ Articles:
     from-humanitarianism-to-humanitarianization-intimacy-estrangement-and-international-aid-in-postwar-bosnia-and-herzegovina
 - 
   article: >
-    expert-evidence-on-trial-social-researchers-in-the-international-criminal-courtroom
-- 
-  article: >
-    http://americanethnologist.dev/read/journal/volume-43-issue-4-november-2016/yayas-story-the-quest-for-wellbeing-in-the-world-paul-stoller
+    http://americanethnologist.dev/read/journal/volume-43-issue-4-november-2016/expert-evidence-on-trial-social-researchers-in-the-international-criminal-courtroom
