@@ -18,7 +18,7 @@ Tags: audit culture, documents, food production, Italy, meat, neoliberalism, sub
 
 ----
 
-Text: 
+Text: Linguistic labor in both verbal and documentary forms is essential to contemporary capitalist production, occurring across commodity-chain processes and helping to produce particular neoliberal worker-selves. In the case of food production, linguistic labor in the form of documentation is required at every stage of production to ensure food safety. These documents performatively constitute and effectively govern what they purport to depict. But they also exist in dynamic tension with moments of economic sociability, that is, consequential verbal interactions that permeate the production process. Such interactions may or may not be represented by the documents. In northern Italy the interplay between documents and sociability helps to produce notions like food safety and highlights the complex constraints and creativities that characterize modern food production.
 
 ----
 
@@ -34,7 +34,7 @@ Subtitle: Performativity and audit culture in food production in northern Italy
 
 ----
 
-Abstract: Linguistic labor in both verbal and documentary forms is essential to contemporary capitalist production, occurring across commodity-chain processes and helping to produce particular neoliberal worker-selves. In the case of food production, linguistic labor in the form of documentation is required at every stage of production to ensure food safety. These documents performatively constitute and effectively govern what they purport to depict. But they also exist in dynamic tension with moments of economic sociability, that is, consequential verbal interactions that permeate the production process. Such interactions may or may not be represented by the documents. In northern Italy the interplay between documents and sociability helps to produce notions like food safety and highlights the complex constraints and creativities that characterize modern food production.
+Abstract: 
 
 ----
 
