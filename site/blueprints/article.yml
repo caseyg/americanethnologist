@@ -2,10 +2,26 @@ title: Article
 
 pages: false
 
+files:
+  fields:
+    caption:
+      label: Caption
+      type: textarea
+
+    credit:
+      label: Credit
+      type: text
+
 fields:
   title:
     label: Title
     type:  title
+    width: 1/2
+
+  subtitle:
+    label: Subtitle
+    type:  text
+    width: 1/2
 
   author:
     label: Author(s)
@@ -27,3 +43,13 @@ fields:
     label: Cover Image
     type: image
     width: 1/2
+
+  related:
+    label: Related Content
+    type: select
+    options: query
+    query:
+      page: /features
+      fetch: grandchildren
+      value: '{{uri}}'
+      text: '{{title}}'

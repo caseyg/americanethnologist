@@ -15,10 +15,12 @@ fields:
       article:
         label: Article
         type: select
+        entry: >
+          $page->find({{url}})->title()
         options: query
         query:
           page: ../
           fetch: siblings
-          value: '{{uid}}'
+          value: '{{uri}}'
           text: '{{title}}'
           flip: true
