@@ -29,7 +29,7 @@
         <tr>
           <td><?php echo $i->parent()->title() ?></td>
           <td><a href="<?php echo $i->url() ?>"><?php echo $i->title() ?></a></td>
-          <td <?php if ($i->subtitle()->isNotEmpty()): echo 'class="table-success"'; endif; ?>><?php echo $i->subtitle() ?></td>
+          <td><?php echo $i->subtitle() ?></td>
           <td <?php if ($i->author()->isNotEmpty()): echo 'class="table-success"'; endif; ?>><?php echo $i->author() ?></td>
           <td><?php if ($i->wiley()->isNotEmpty()): ?><a href="<?php echo $i->wiley() ?>">✅</a><?php else: ?>❔<?php endif; ?></td>
           <td <?php if ($i->coverimage()->isNotEmpty()): echo 'class="table-success"'; endif; ?>><?php echo $i->coverimage() ?></td>
