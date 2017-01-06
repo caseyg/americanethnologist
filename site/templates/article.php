@@ -10,7 +10,7 @@
     <article class="article single wrap">
 
       <header class="article-header">
-        <img src="<?php echo $page->images()->first()->url() ?>" alt="">
+        <?php if ($page->hasImages()): ?><img src="<?php echo $page->images()->first()->url() ?>" alt=""><?php endif; ?>
         <h1><?= $page->title()->html() ?></h1>
         <?php if ($page->wiley()->isNotEmpty()): ?>
           <a class="btn btn-secondary btn-outline bg-background" href="<?php echo $page->wiley() ?>">Read Article</a>
