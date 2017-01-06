@@ -2,7 +2,7 @@ Title: American Ethnological Society
 
 ----
 
-Description: Local test.
+Description: Test.
 
 ----
 
@@ -22,33 +22,33 @@ Nav-col3: Conversations
 
 ----
 
-Nav-col1-links:
+Nav-col1-links: 
 
--
+- 
   page: about
--
+- 
   page: join
--
+- 
   page: awards
 
 ----
 
-Nav-col2-links:
+Nav-col2-links: 
 
--
+- 
   page: read
--
+- 
   page: submit
--
+- 
   page: masthead
 
 ----
 
-Nav-col3-links:
+Nav-col3-links: 
 
--
+- 
   page: features
--
+- 
   page: meetings
--
+- 
   page: contact
