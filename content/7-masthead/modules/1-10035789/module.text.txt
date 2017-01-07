@@ -4,7 +4,7 @@ Title: Aim and Scope
 
 Text: 
 
-### Aim and Scope
+## Aim and Scope
 
 *American Ethnologist* is a quarterly journal concerned with social and cultural anthropology in the broadest sense of the term. The journal’s articles combine ethnographic specificity with original theoretical thinking, conveying the relevance of the ethnographic imagination to the contemporary world.
 
