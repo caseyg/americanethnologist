@@ -5,15 +5,17 @@ Title: Editorial Staff
 Text: 
 
 ### Editorial Office Manager
-Julie Neithercutt
+###Julie Neithercutt
 (email: journal.americanethnologist@gmail.com)
 
 ### Senior Copy Editor
-Pablo Morales
+###Pablo Morales
+
 ### Copy Editor for Book Reviews
-Holly Carver
+###Holly Carver
+
 ### Proofreader
-Sheila Oakley
+###Sheila Oakley
 
 ----
 
