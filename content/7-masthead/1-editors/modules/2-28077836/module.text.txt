@@ -4,7 +4,8 @@ Title: Associate Editor for Book Reviews
 
 Text: 
 
-## Eric Gable, Associate Editor for Book Reviews
+# Associate Editor for Book Reviews
+## Eric Gable
 
 (image: gable-150x150.jpg class: img-thumbnail float-xs-right ml-1 mb-1)
 
