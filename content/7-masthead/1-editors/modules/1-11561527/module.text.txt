@@ -4,22 +4,12 @@ Title: Editor-in-Chief
 
 Text: 
 
-# Editor-in-Chief
-## Niko Besnier, University of Amsterdam
+## Editor-in-Chief
+### Niko Besnier, University of Amsterdam
 http://pacific.socsci.uva.nl/besnier/
 (email: n.besnier@uva.nl)
 
-(image: niko-at-yama-no-hoteru-hakone-13-05-09.jpg alt: Niko at Yama no Hoteru Hakone class: img-thumbnail float-xs-right ml-1 mb-1) 
-
-Niko Besnier is Professor of Cultural Anthropology at the University of Amsterdam, a position he has occupied since 2005, having previously been affiliated with academic institutions in the US, Europe, Japan, and New Zealand. His research has addressed topics in transnational mobility, gender and sexuality, language and interaction, and economic relations in times of crisis. He has conducted ethnographic fieldwork in the Pacific Islands, Japan, and the United States.
-
-His most recent books and guest-edited issues of journals are Gossip and the Everyday Production of Politics (University of Hawai’i Press, 2009); On the Edge of the Global: Modern Anxieties in a Pacific Island Nation (Stanford University Press, 2011); Decentering and Recentering Communicative Competence (co-edited with Kuniyoshi Kataoka and Keiko Ikeda, Language & Communication 2013); Gender on the Edge: Transgender, Gay, and Other Pacific Islanders (co-edited with Kalissa Alexeyeff, University of Hawai’i Press, 2014); and Crisis, Value, and Hope: Rethinking the Economy (co-edited with Susana Narotzky, Current Anthropology, 2014).
-
-He is currently directing a five-year project entitled “Globalisation, Sport and the Precarity of Masculinity” with six junior researchers, funded by an Advanced Grant of the European Research Council (2012–17). The project follows the lives of transnational migrant athletes across three team sports (soccer football, rugby union, and cricket) and one individual sport (marathon running), seeking to understand the social, cultural, and economic contexts and consequences of these mobilities.
-
-His four-year term as editor of American Ethnologist began on July 1, 2015. The first issue of the journal under his editorship will appear in February 2016.
-
-Angelique Haugerud is editor-in-chief for all four AE issues of 2015.
+(image: niko-at-yama-no-hoteru-hakone-13-05-09.jpg alt: Niko at Yama no Hoteru Hakone class: img-thumbnail float-xs-right ml-1 mb-1)
 
 ----
 
