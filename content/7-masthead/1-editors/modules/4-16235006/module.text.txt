@@ -1,8 +1,12 @@
-Title: Text module
+Title: Editorial Office Manager
 
 ----
 
 Text: 
+
+### Editorial Office Manager
+Julie Neithercutt
+(email: journal.americanethnologist@gmail.com)
 
 ----
 
