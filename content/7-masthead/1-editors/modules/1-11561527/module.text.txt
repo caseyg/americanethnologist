@@ -4,9 +4,8 @@ Title: Editor-in-Chief
 
 Text: 
 
-## Editor-in-Chief
-### Niko Besnier, University of Amsterdam
-http://pacific.socsci.uva.nl/besnier/
+### Editor-in-Chief
+### (link: http://pacific.socsci.uva.nl/besnier/ text: Niko Besnier), University of Amsterdam
 (email: n.besnier@uva.nl)
 
 ----
