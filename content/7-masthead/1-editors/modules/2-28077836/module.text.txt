@@ -6,6 +6,7 @@ Text:
 
 # Associate Editor for Book Reviews
 ## Eric Gable
+University of Mary Washington
 
 (image: gable-150x150.jpg class: img-thumbnail float-xs-right ml-1 mb-1)
 
