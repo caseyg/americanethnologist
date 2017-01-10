@@ -1,8 +1,20 @@
-Title: Text module
+Title: Subscribe
 
 ----
 
 Text: 
+
+### Individual Subscriptions
+Members of the American Ethnological Society have online access to AE and may opt to receive print copies for an additional fee. To join AES and become an AE subscriber, visit the (link: http://www.americananthro.org/ConnectWithAAA/Landing.aspx?ItemNumber=20711&navItemNumber=587 text: American Anthropological Association’s membership page).
+
+### Institutional Subscriptions
+Visit (link: http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1548-1425 text: Wiley Online Library Access).
+
+### Back Issues
+Single print issues from current and recent volumes are the current single-issue price from cs-journals@wiley.com. Earlier issues may be obtained from Periodicals Service Company: psc@periodicals.com.
+
+### Journal Customer Services
+For ordering information, claims, and any inquiry concerning your subscription, visit Wiley’s online customer-service page, available in seven languages, at www.wileycustomerhelp.com.
 
 ----
 
