@@ -51,14 +51,14 @@ Text:
 (link: https://researchers.anu.edu.au/researchers/rumsey-al text: Alan Rumsey), Australian National University
 (link: http://navi.ufsc.br/?page_id=4 text: Carmen Silvia de Moraes Rial), Universidade Federal de Santa Catarina
 (link: http://www.socanth.cam.ac.uk/directory/dr-rupert-stasch text: Rupert Stasch), University of Cambridge
-Ty Tengan, University of Hawai‘i at Mānoa
-Matt Tomlinson, Australian National University
-Anne-Christine Trémon, Université de Lausanne
-Holly Wardlow, University of Toronto
-Alisse Waterston, John Jay College of Criminal Justice CUNY
-Florence Weber, École normale supérieure
-Geoff White, University of Hawai‘i at Mānoa
-Matori Yamamoto, Hosei University
+(link: http://www.anthropology.hawaii.edu/people/Faculty/Tengan/index.html text: Ty Tengan), University of Hawai‘i at Mānoa
+(link: https://researchers.anu.edu.au/researchers/tomlinson-ma text: Matt Tomlinson), Australian National University
+(link: https://applicationspub.unil.ch/interpub/noauth/php/Un/UnPers.php?PerNum=1118122&LanCode=8 text: Anne-Christine Trémon), Université de Lausanne
+(link: http://anthropology.utoronto.ca/people/faculty/holly-wardlow/ text: Holly Wardlow), University of Toronto
+(link: http://www.jjay.cuny.edu/faculty/alisse-waterston text: Alisse Waterston), John Jay College of Criminal Justice CUNY
+(link: http://www.ens.fr/recherche/portraits/article/florence-weber?lang=en text: Florence Weber), École normale supérieure
+(link: http://anthropology.hawaii.edu/people/emeritus/white/index.html text: Geoff White,) University of Hawai‘i at Mānoa
+(link: http://www.t.hosei.ac.jp/~matoriy/profile-e.html text: Matori Yamamoto), Hosei University
 
 ----
 
