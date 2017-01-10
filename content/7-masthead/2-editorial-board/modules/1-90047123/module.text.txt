@@ -25,21 +25,21 @@ Text:
 (link: https://vivo.brown.edu/display/pfaudree text: Paja Faudree), Brown University
 (link: http://www.ppgasmn-ufrj.com/luiz-fernando-dias-duarte.html text: Luiz Fernando Dias Duarte), Universidade Federal do Rio de Janeiro
 (link: https://en-social-sciences.tau.ac.il/profile/khaled text: Khaled Furani), Tel Aviv University
-Linda Garro, University of California, Los Angeles
-Ken George, Australian National University
-Deborah Gewertz, Amherst College
-Sarah Green, University of Helsinki
-Carol Greenhouse, Princeton University
-Christopher Gregory, Australian National University
-Francio Guadeloupe, University of St Martin
-Akhil Gupta, University of California, Los Angeles
-Hugh Gusterson, George Washington University
-Ghassan Hage, University of Melbourne
-Rema Hammami, Birzeit University
-Angelique Haugerud, Rutgers University
-Monica Heller, University of Toronto
-Michael Herzfeld, Harvard University
-Edvard Hviding, University of Bergen
+(link: http://www.anthro.ucla.edu/faculty/linda-garro text: Linda Garro), University of California, Los Angeles
+(link: https://researchers.anu.edu.au/researchers/george-k text: Ken George), Australian National University
+(link: https://www.amherst.edu/people/facstaff/dbgewertz text: Deborah Gewertz), Amherst College
+(link: https://www.helsinki.fi/en/faculty-of-social-sciences text: Sarah Green), University of Helsinki
+(link: https://www.princeton.edu/anthropology/faculty/carol_greenhouse/ text: Carol Greenhouse), Princeton University
+(link: https://researchers.anu.edu.au/researchers/gregory-ca text: Christopher Gregory), Australian National University
+(link: www.usmonline.net/about-guadeloupe text: Francio Guadeloupe), University of St Martin
+(link: http://www.anthro.ucla.edu/faculty/akhil-gupta text: Akhil Gupta), University of California, Los Angeles
+(link: https://anthropology.columbian.gwu.edu/hugh-gusterson text: Hugh Gusterson), George Washington University
+(link: https://findanexpert.unimelb.edu.au/display/person142403 text: Ghassan Hage), University of Melbourne
+(link: http://socialdifference.columbia.edu/people/rema-hammami text: Rema Hammami), Birzeit University
+(link: http://anthro.rutgers.edu/fac/department-undergrad-a-grad-faculty/angelique-haugerud text: Angelique Haugerud), Rutgers University
+(link: http://www.oise.utoronto.ca/sje/People/Faculty/1615/Monica_Heller.html text: Monica Heller), University of Toronto
+(link: http://anthropology.fas.harvard.edu/people/michael-herzfeld text: Michael Herzfeld), Harvard University
+(link: http://www.uib.no/en/persons/Edvard.Hviding text: Edvard Hviding), University of Bergen
 Mark Johnson, Goldsmiths, University of London
 William W. Kelly, Yale University
 Fred Kleits, State University of New York at Buffalo
