@@ -40,17 +40,17 @@ Text:
 (link: http://www.oise.utoronto.ca/sje/People/Faculty/1615/Monica_Heller.html text: Monica Heller), University of Toronto
 (link: http://anthropology.fas.harvard.edu/people/michael-herzfeld text: Michael Herzfeld), Harvard University
 (link: http://www.uib.no/en/persons/Edvard.Hviding text: Edvard Hviding), University of Bergen
-Mark Johnson, Goldsmiths, University of London
-William W. Kelly, Yale University
-Fred Kleits, State University of New York at Buffalo
-Michael Lambek, University of Toronto
-Bonnie McElhinny, University of Toronto
-David Nugent, Emory University
-Elinor Ochs, University of California, Los Angeles
-Shalini Randeria, Graduate Institute Geneva and Institute for Human Sciences, Vienna
-Alan Rumsey, Australian National University
-Carmen Silvia de Moraes Rial, Universidade Federal de Santa Catarina
-Rupert Stasch, University of Cambridge
+(link: http://www.gold.ac.uk/anthropology/staff/johnson-mark/ text: Mark Johnson), Goldsmiths, University of London
+(link: http://anthropology.yale.edu/people/william-w-kelly text: William W. Kelly), Yale University
+(link: https://www.buffalo.edu/cas/anthropology/faculty/faculty_directory/frederick-klaits.html text: Fred Klaits), State University of New York at Buffalo
+(link: http://www.utsc.utoronto.ca/anthropology/michael-lambek text: Michael Lambek), University of Toronto
+(link: http://anthropology.utoronto.ca/people/faculty/bonnie-mcelhinny/ text: Bonnie McElhinny), University of Toronto
+(link: http://anthropology.emory.edu/home/people/faculty/nugent.html text: David Nugent), Emory University
+(link: http://www.anthro.ucla.edu/faculty/elinor-ochs text: Elinor Ochs), University of California, Los Angeles
+(link: http://graduateinstitute.ch/directory/_/people/randeria text: Shalini Randeria), Graduate Institute Geneva and Institute for Human Sciences, Vienna
+(link: https://researchers.anu.edu.au/researchers/rumsey-al text: Alan Rumsey), Australian National University
+(link: http://navi.ufsc.br/?page_id=4 text: Carmen Silvia de Moraes Rial), Universidade Federal de Santa Catarina
+(link: http://www.socanth.cam.ac.uk/directory/dr-rupert-stasch text: Rupert Stasch), University of Cambridge
 Ty Tengan, University of Hawai‘i at Mānoa
 Matt Tomlinson, Australian National University
 Anne-Christine Trémon, Université de Lausanne
