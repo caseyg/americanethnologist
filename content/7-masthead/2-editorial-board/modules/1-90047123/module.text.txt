@@ -24,7 +24,7 @@ Text:
 (link: https://www.sv.uio.no/sai/english/people/aca/geirthe/ text: Thomas Hylland Eriksen), University of Oslo
 (link: https://vivo.brown.edu/display/pfaudree text: Paja Faudree), Brown University
 (link: http://www.ppgasmn-ufrj.com/luiz-fernando-dias-duarte.html text: Luiz Fernando Dias Duarte), Universidade Federal do Rio de Janeiro
-Khaled Furani, Tel Aviv University
+(link: https://en-social-sciences.tau.ac.il/profile/khaled text: Khaled Furani), Tel Aviv University
 Linda Garro, University of California, Los Angeles
 Ken George, Australian National University
 Deborah Gewertz, Amherst College
