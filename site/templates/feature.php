@@ -1,6 +1,7 @@
 <?php snippet('header') ?>
 
 <?php pattern('navigation/horizontal', array('pages' => $page->parent()->siblings()->visible())) ?>
+<hr>
 
 <div class="col-xs-12">
   <?php pattern('heading-title') ?>
