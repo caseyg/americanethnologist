@@ -8,6 +8,8 @@
 
 <hr>
 
+<?php if ($page->depth() == 1): ?>
+
 <div id="carousel-example-generic" class="carousel slide mb-2" data-ride="carousel">
   <ol class="carousel-indicators">
     <?php $n = -1; ?>
@@ -37,9 +39,15 @@
   </a>
 </div>
 
+<?php endif; ?>
 
 <ul class="list-unstyled">
-  <?php foreach ($page->grandchildren()->sortby('date') as $i): ?>
+  <?php if ($page->depth() == 1) {
+    $pages = $page->grandchildren();
+  } elseif ($page->depth() == 2) {
+    $pages = $page->children();
+  } ?>
+  <?php foreach ($pages->sortby('date') as $i): ?>
     <li class="mb-1">
       <a href="<?php echo $i->url() ?>">
         <div class="media">
