@@ -4,6 +4,29 @@ Title: Text module
 
 Text: 
 
+###Research articles
+Research-article manuscripts must make a clear and significant contribution to contemporary debates and theoretical developments in social and cultural anthropology. The journal does not publish articles that merely apply theoretical ideas to the analysis of ethnographic materials. Articles are expected to have a strong theoretical focus grounded in rich ethnography and to critically engage with issues of the contemporary moment. In addition, the journal is committed to publishing works that cross traditional linguistic and epistemological boundaries and that contribute to the international outlook of the discipline. All research-article submissions are subject to double-blind peer review.
+
+We welcome research-article submissions in the major languages of anthropology other than English, to be reviewed in the original language. If a submission in a language other than English is accepted, the author will be asked to have the work translated into English, which remains the journal’s language. The editor, however, reserves the right to reject the manuscript if there are too few reviewers available to evaluate it in the original language.
+
+Authors are encouraged to submit materials that supplement and enhance their published articles, such as photographs, audio clips, and video clips for publication on the journal’s website.
+
+Scholars are occasionally invited to submit supplementary commentaries on noteworthy research articles.
+
+AE does not publish guest-edited special issues because of the large number of regular article submissions and the difficulties involved in reviewing special issues to the standard by which the journal abides.
+
+###Review essays
+AE publishes review essays under the title Ethnography at Its Edges. The essays cover outstanding examples of contemporary ethnographic trends in anthropology or in other disciplines that use ethnographic techniques in creative ways.
+
+###Book Reviews
+The journal publishes book reviews but does not accept them unsolicited.
+
+###Forums
+AE forums are special features on contemporary issues in which anthropologists can make a timely intervention. They generally comprise several short articles, which are reviewed like all other article submissions, although generally in expedited fashion. AE forums are generally invited, although the editor welcomes submitted forum ideas from potential authors.
+
+###Virtual issues
+The journal regularly publishes curated thematic virtual issues. These comprise articles previously published in the journal on the same theme as a recently published article authored by the curator, framed by an original analytic introduction, and made available open-access for a period of time. Authors of articles recently published in the journal are invited to send proposals for such features to the editor. Other special features include interviews with authors of notable recent articles and landmark articles published in the past.
+
 ----
 
 Modulesettings: 
