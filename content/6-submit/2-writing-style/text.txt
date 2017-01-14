@@ -13,11 +13,14 @@ Authors should avoid using metacommunicative frames such as “In this article, 
 ###Title and abstract
 The title and abstract are two of the manuscript’s most important elements, for two reasons: reviewers use them to decide whether to review the manuscript, and, after publication, they are the only part of the article that is freely available online. Moreover, search engines use the title and abstract, along with the keywords, to locate the article. Writing a good title and abstract therefore greatly increases the article’s chances of being viewed and cited. Titles that are “cute” or based on inside jokes can be self-defeating.
 
-Constructing a clear descriptive title and subtitle Search engines use the title and subtitle to identify all the important words that define an article’s topic. This is why it is crucial to write a clear, accurate title and subtitle that include search terms readers are likely to use when researching a particular topic. To further broaden the article’s reach, write your titles so as to be understandable to readers outside the discipline.
+####Constructing a clear descriptive title and subtitle
+Search engines use the title and subtitle to identify all the important words that define an article’s topic. This is why it is crucial to write a clear, accurate title and subtitle that include search terms readers are likely to use when researching a particular topic. To further broaden the article’s reach, write your titles so as to be understandable to readers outside the discipline.
 
-Constructing a clear and engaging abstract Readers use the abstract to decide whether to read the article. In some cases scholars will cite an article having read only the abstract. Thus, an abstract should be clear, engaging, and precise, and it should explicitly state the article’s original contribution. The abstract can use words and short phrases from the article but should, if possible, avoid repeating whole passages.
+####Constructing a clear and engaging abstract
+Readers use the abstract to decide whether to read the article. In some cases scholars will cite an article having read only the abstract. Thus, an abstract should be clear, engaging, and precise, and it should explicitly state the article’s original contribution. The abstract can use words and short phrases from the article but should, if possible, avoid repeating whole passages.
 
-Carefully selecting keywords Keywords enhance the article’s online discoverability. They should be drawn from the title, subtitle, and abstract, and should be terms that perform an important analytic function in the article.
+####Carefully selecting keywords
+Keywords enhance the article’s online discoverability. They should be drawn from the title, subtitle, and abstract, and should be terms that perform an important analytic function in the article.
 
 The following are examples of well-written titles and abstracts, along with well-chosen keywords:
 
