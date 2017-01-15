@@ -14,7 +14,7 @@ Include the article’s title and your name, institutional affiliation, and cont
 Each article must begin with an abstract that precisely summarizes the manuscript’s argument. The abstract must be at least 100 words long and no longer than 125, and it should end with a list of up to seven keywords or phrases. After the abstract has been copyedited, authors are strongly encouraged to provide one or two translations of the abstract in languages of the field site—as long as the translation is done by a native speaker of the target language and time remains for it to be properly copyedited by a third-party native speaker (to be commissioned by the editor).
 
 ###Style
-American Ethnologist follows The Chicago Manual of Style, 16th edition. For spelling, the reference is Merriam-Webster’s Collegiate Dictionary, 11th edition, which uses US (rather than British) spellings. Wherever Merriam-Webster’s lists variant spellings, use the first one given.
+*American Ethnologist* follows *The Chicago Manual of Style*, 16th edition. For spelling, the reference is *Merriam-Webster’s Collegiate Dictionary*, 11th edition, which uses US (rather than British) spellings. Wherever *Merriam-Webster’s* lists variant spellings, use the first one given.
 
 ###Headings
 Use bold to indicate first-level headings and italics for second-level headings, like this:
@@ -24,12 +24,12 @@ Use bold to indicate first-level headings and italics for second-level headings,
 ###Citations and references
 Authors are strongly advised to review chapter 15 of The Chicago Manual, which sets forth the author-date citation system that AE uses. What follows is a brief review of the system’s major elements.
 
-Place your in-text citations in parentheses and include the author’s name and the source’s year of publication, like this: (Herzfeld 2004). For quotations or extensive paraphrases, include the page numbers preceded by a comma (not a colon): (Herzfeld 2004, 146–47). Do not include the date of original publication or the abbreviations ed. or trans.; save these for the reference list. For multiple citations in one parenthetical, list them alphabetically, separate them with semicolons, and use commas to separate the years corresponding to multiple citations from a single author, like this:
+Place your in-text citations in parentheses and include the author’s name and the source’s year of publication, like this: (Herzfeld 2004). For quotations or extensive paraphrases, include the page numbers preceded by a comma (not a colon): (Herzfeld 2004, 146–47). Do not include the date of original publication or the abbreviations *ed*. or *trans*.; save these for the reference list. For multiple citations in one parenthetical, list them alphabetically, separate them with semicolons, and use commas to separate the years corresponding to multiple citations from a single author, like this:
 >(Bessire and Bond 2014; Comaroff 1996; Daser 2014; Herzfeld 1989, 2004, 2009).
 
 On the reference list, include every source cited in the text and no others, listed alphabetically by author. Set multiple entries by the same author in chronological order, from oldest to most recent. The layout is as follows, formatted with hanging indentation:
 
-Bessire, Lucas, and David Bond. 2014. “Ontological Anthropology and the Deferral of Critique.” American Ethnologist 41 (3): 440–56.
+>Bessire, Lucas, and David Bond. 2014. “Ontological Anthropology and the Deferral of Critique.” American Ethnologist 41 (3): 440–56.
 Comaroff, Jean. 1996. “The Empire’s Old Clothes: Fashioning the Colonial Subject.” In Cross-Cultural Consumption: Global Markets, Local Realities, edited by David Howes, 19–38. London: Routledge.
 Daser, Deniz. 2014. “AE Interviews Catherine Lutz (Brown University).” American Ethnologist website, May 9. Accessed [Month Day, Year]. http://americanethnologist.org/2014/ae-interviews-catherine-lutz-brown-university.
 Herzfeld, Michael. 2004. Cultural Intimacy: Social Poetics in the Nation-State. 2nd ed. London: Routledge. First published 1997.
@@ -41,7 +41,7 @@ Do not use dashes to replace repeated author names. Just repeat the names; dashe
 Do not embed the reference list in the endnotes.
 
 ###Endnotes
-AE uses endnotes, not footnotes. They should be brief, directly relevant to the text, and limited to 12. In the main text, place endnote reference numbers at the ends of sentences only, using arabic numerals.
+AE uses endnotes, not footnotes. They should be brief, directly relevant to the text, and limited to 12. In the main text, place endnote reference numbers at the ends of sentences only, using Arabic numerals.
 
 ###Reviews
 Review manuscripts should be a maximum of 1,000 words and should follow the same style sheet as article manuscripts. Reviews should include no notes and preferably no citations and references. If citations are essential, they should be limited to two.
