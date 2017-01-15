@@ -50,5 +50,3 @@ Nav-col3-links:
   page: features
 - 
   page: meetings
-- 
-  page: contact
