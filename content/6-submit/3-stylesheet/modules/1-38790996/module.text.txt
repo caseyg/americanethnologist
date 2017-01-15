@@ -33,7 +33,7 @@ Comaroff, Jean. 1996. “The Empire’s Old Clothes: Fashioning the Colonial Sub
 Daser, Deniz. 2014. “AE Interviews Catherine Lutz (Brown University).” American Ethnologist website, May 9. Accessed [Month Day, Year]. http://americanethnologist.org/2014/ae-interviews-catherine-lutz-brown-university.
 Herzfeld, Michael. 2004. Cultural Intimacy: Social Poetics in the Nation-State. 2nd ed. London: Routledge. First published 1997.
 
-Do not use tabs or spaces to create the hanging indentation; use the ruler, as explained by the [Microsoft Word help page](https://support.office.com/en-us/article/Create-a-hanging-indent-7bdfb86a-c714-41a8-ac7a-3782a91ccad5).
+Do not use tabs or spaces to create the hanging indentation; use the ruler, as explained by the (link: https://support.office.com/en-us/article/Create-a-hanging-indent-7bdfb86a-c714-41a8-ac7a-3782a91ccad5 text: Microsoft Word help page).
 
 Do not use dashes to replace repeated author names. Just repeat the names; dashes will be added during the editing process.
 
@@ -47,7 +47,7 @@ Review manuscripts should be a maximum of 1,000 words and should follow the same
 
 Begin the review by listing the book’s bibliographic information in the following format, followed by your name and institutional affiliation:
 
-Gifts: A Study in Comparative Law. Richard Hyland. Oxford: Oxford University Press, 2009. 708 pp.
+>Gifts: A Study in Comparative Law. Richard Hyland. Oxford: Oxford University Press, 2009. 708 pp.
 
 >JANE I. GUYER
 >Johns Hopkins University
