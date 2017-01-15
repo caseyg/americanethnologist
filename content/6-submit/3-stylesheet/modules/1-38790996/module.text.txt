@@ -28,7 +28,7 @@ Place your in-text citations in parentheses and include the author’s name and 
 
 On the reference list, include every source cited in the text and no others, listed alphabetically by author. Set multiple entries by the same author in chronological order, from oldest to most recent. The layout is as follows, formatted with hanging indentation:
 
-2.    Bessire, Lucas, and David Bond. 2014. “Ontological Anthropology and the Deferral of Critique.” American Ethnologist 41 (3): 440–56.
+2.Bessire, Lucas, and David Bond. 2014. “Ontological Anthropology and the Deferral of Critique.” American Ethnologist 41 (3): 440–56.
 Comaroff, Jean. 1996. “The Empire’s Old Clothes: Fashioning the Colonial Subject.” In Cross-Cultural Consumption: Global Markets, Local Realities, edited by David Howes, 19–38. London: Routledge.
 Daser, Deniz. 2014. “AE Interviews Catherine Lutz (Brown University).” American Ethnologist website, May 9. Accessed [Month Day, Year]. http://americanethnologist.org/2014/ae-interviews-catherine-lutz-brown-university.
 Herzfeld, Michael. 2004. Cultural Intimacy: Social Poetics in the Nation-State. 2nd ed. London: Routledge. First published 1997.
