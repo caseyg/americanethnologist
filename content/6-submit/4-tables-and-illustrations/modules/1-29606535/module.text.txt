@@ -20,6 +20,9 @@ In some cases, longer captions are called for. They should not exceed three sent
 
 All captions should be intelligible to someone who has not read the article, so please explain unfamiliar terms and identify any people to whom you refer.
 
+###Permissions
+You must submit written permissions for each image, including those you own and those owned by someone else. In each permission, the image’s owner must authorize AE to publish the image both in print and online. A permission must also be submitted for any table that is owned by someone else or is being reprinted.
+
 ----
 
 Modulesettings: 
