@@ -50,3 +50,15 @@ Nav-col3-links:
   page: features
 - 
   page: meetings
+
+----
+
+Twitter: http://twitter.com/amethno
+
+----
+
+Facebook: http://facebook.com/americanethnologist/
+
+----
+
+Youtube: https://www.youtube.com/channel/UCoyoY7UMQBtcqrDnekyC6HA
