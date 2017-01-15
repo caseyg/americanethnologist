@@ -4,6 +4,16 @@ Title: Text module
 
 Text: 
 
+###Submission Guidelines
+
+Manuscripts submitted to AE should not be under consideration elsewhere or have been published in any form. All manuscripts are reviewed anonymously. Please submit your manuscript online via Manuscript Central, at http://mc.manuscriptcentral.com/ae. A paper copy is not required.
+
+Image files and supporting documentation (captions, credits, permissions) may be uploaded at the time of submission or sent to journal.americanethnologist@gmail.com.
+
+Authors are encouraged to suggest scholars who might review the manuscript, providing their institutional affiliations and e-mail addresses. They may also indicate scholars whom they prefer not to review the manuscript. The editor is not bound by these suggestions but will respect them whenever possible. Suggested reviewers should not present a conflict of interest; for example, they should not be employed at the same institution as the author or be closely involved in the author’s research.
+
+Scholars who are not members of the American Ethnological Society are required to send a nonrefundable processing fee of $25 (US funds only) via the (link: https://secure.americananthro.org/eweb/DynamicPage.aspx?Site=AAAWeb&WebKey=97dd4471-f56e-4748-9a3a-87f0df32e897 text: AAA online store).
+
 ----
 
 Modulesettings: 
