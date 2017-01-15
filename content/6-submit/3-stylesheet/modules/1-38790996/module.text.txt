@@ -4,40 +4,55 @@ Title: Text module
 
 Text: 
 
-**Manuscript form and length** Double-space all text and use a 12-point font throughout, including for headings, block quotations, the reference list, and endnotes. Set all margins at one inch (2.45 cm) and do not right-justify the text. Use only formatting that is essential to the meaning of the text. Manuscripts must not exceed the generous 11,000-word limit, including notes and references but excluding the title, author’s name and contact details, and abstract.
+###Manuscript form and length
+Double-space all text and use a 12-point font throughout, including for headings, block quotations, the reference list, and endnotes. Set all margins at one inch (2.45 cm) and do not right-justify the text. Use only formatting that is essential to the meaning of the text and use the same font throughout. Manuscripts must not exceed the generous 11,000-word limit, including notes and references but excluding the title, author’s name and contact information, and abstract.
 
-**Title page** Include the article’s title and the author’s name, institutional affiliation, current mailing address, and e-mail. Provide any acknowledgments at the bottom of this page.
+###Title page
+Include the article’s title and your name, institutional affiliation, and contact information for publication (postal address and e-mail address). The contact information should be accurate as of the article’s publication date. Any acknowledgments, including of financial support, should also be included on the title page.
 
-**Abstract** Each [deleted adjective] article must begin with an abstract of 100 to 125 words that summarizes precisely the argument developed in the manuscript. The abstract should end with a bracketed list of up to seven keywords or phrases.
+###Abstract
+Each article must begin with an abstract that precisely summarizes the manuscript’s argument. The abstract must be at least 100 words long and no longer than 125, and it should end with a list of up to seven keywords or phrases. After the abstract has been copyedited, authors are strongly encouraged to provide one or two translations of the abstract in languages of the field site—as long as the translation is done by a native speaker of the target language and time remains for it to be properly copyedited by a third-party native speaker (to be commissioned by the editor).
 
-All authors of accepted manuscripts are strongly encouraged to provide article abstracts into one or more languages relevant to the topic and/or expanded audience of the article, as long as the abstract is translated by a native speaker of the language and can be properly copyedited. Translations should only be submitted after the English version of the abstract has been copyedited.
+###Style
+American Ethnologist follows The Chicago Manual of Style, 16th edition. For spelling, the reference is Merriam-Webster’s Collegiate Dictionary, 11th edition, which uses US (rather than British) spellings. Wherever Merriam-Webster’s lists variant spellings, use the first one given.
 
-**Style** American Ethnologist follows The Chicago Manual of Style, 16th edition. For spelling, the reference is Merriam-Webster’s Collegiate Dictionary, 11th edition, which uses US (rather than British) spellings; wherever Merriam-Webster’s lists variant spellings, use the first one given.
+###Headings
+Use bold to indicate first-level headings and italics for second-level headings, like this:
+>**This is a first-level heading**
+>*This is a second-level heading*
 
-**Citations and references** Cite according to the author-date system set forth in chapter 15 of the Chicago Manual. Place the citation in parentheses and include the author’s name and the source’s year of publication, with no intervening punctuation, like this: (Herzfeld 2004). For quotations or extensive paraphrases, include the pages numbers preceded by a comma: (Herzfeld 2004, 146–7).
+###Citations and references
+Authors are strongly advised to review chapter 15 of The Chicago Manual, which sets forth the author-date citation system that AE uses. What follows is a brief review of the system’s major elements.
 
-On the reference list, include every source cited in the text and no others, listed alphabetically by author (in the case of multiple entries by the same author, list them chronologically, from oldest to most recent). The references must begin on a new page; do not embed them in the endnotes. The layout is as follows:
+Place your in-text citations in parentheses and include the author’s name and the source’s year of publication, like this: (Herzfeld 2004). For quotations or extensive paraphrases, include the page numbers preceded by a comma (not a colon): (Herzfeld 2004, 146–47). Do not include the date of original publication or the abbreviations ed. or trans.; save these for the reference list. For multiple citations in one parenthetical, list them alphabetically, separate them with semicolons, and use commas to separate the years corresponding to multiple citations from a single author, like this: (Bessire and Bond 2014; Comaroff 1996; Daser 2014; Herzfeld 1989, 2004, 2009).
 
-> Bessire, Lucas, and David Bond. 2014. “Ontological Anthropology and the Deferral of Critique.” American Ethnologist 41 (3): 440–56.
-> Comaroff, Jean. 1996. “The Empire’s Old Clothes: Fashioning the Colonial Subject.” In Cross-Cultural Consumption: Global Markets, Local Realities, edited by David Howes, 19–38. London: Routledge.
-> Herzfeld, Michael. 2004. Cultural Intimacy: Social Poetics in the Nation-State. 2nd ed. London: Routledge. First published 1997.
-> Daser, Deniz. 2014. “AE Interviews Catherine Lutz (Brown University).” American Ethnologist website, May 9. Accessed [Month Day, Year]. http://americanethnologist.org/2014/ae-interviews-catherine-lutz-brown-university.
+On the reference list, include every source cited in the text and no others, listed alphabetically by author. Set multiple entries by the same author in chronological order, from oldest to most recent. The layout is as follows, formatted with hanging indentation:
 
-Use hanging indent in the list of references, not tabs or spaces, to offset the second and subsequent lines.
+Bessire, Lucas, and David Bond. 2014. “Ontological Anthropology and the Deferral of Critique.” American Ethnologist 41 (3): 440–56.
+Comaroff, Jean. 1996. “The Empire’s Old Clothes: Fashioning the Colonial Subject.” In Cross-Cultural Consumption: Global Markets, Local Realities, edited by David Howes, 19–38. London: Routledge.
+Daser, Deniz. 2014. “AE Interviews Catherine Lutz (Brown University).” American Ethnologist website, May 9. Accessed [Month Day, Year]. http://americanethnologist.org/2014/ae-interviews-catherine-lutz-brown-university.
+Herzfeld, Michael. 2004. Cultural Intimacy: Social Poetics in the Nation-State. 2nd ed. London: Routledge. First published 1997.
 
-**Endnotes** AE uses endnotes, not footnotes. They should be brief and directly relevant to the text, and limited to twelve. In the main text, place endnote reference numbers at the ends of sentences only, using Arabic numerals.
+Do not use tabs or spaces to create the hanging indentation; use the ruler, as explained by the [Microsoft Word help page](https://support.office.com/en-us/article/Create-a-hanging-indent-7bdfb86a-c714-41a8-ac7a-3782a91ccad5).
 
-**Book reviews** Book review manuscripts should be a maximum of 1,000 words and should follow the same stylesheet as article manuscripts. Reviews should include no notes and preferably no citations and references. If citations are essential, they should be limited to two.
+Do not use dashes to replace repeated author names. Just repeat the names; dashes will be added during the editing process.
 
-Information at the top of the first page should provide bibliographic information for the book and the reviewer’s name and affiliation data as in the following example:
+Do not embed the reference list in the endnotes.
 
-> Gifts: A Study in Comparative Law. Richard Hyland. Oxford: Oxford University Press, 2009. 708 pp.
-> JANE I. GUYER
-> Johns Hopkins University
+###Endnotes
+AE uses endnotes, not footnotes. They should be brief, directly relevant to the text, and limited to 12. In the main text, place endnote reference numbers at the ends of sentences only, using arabic numerals.
 
-Reviews should be addressed to an audience of anthropologists who are not area experts and provide a sketch of the strengths and weaknesses of the book. Book reviews accepted for publication are edited, copyedited, and proofread.
+###Reviews
+Review manuscripts should be a maximum of 1,000 words and should follow the same style sheet as article manuscripts. Reviews should include no notes and preferably no citations and references. If citations are essential, they should be limited to two.
 
-Please send the book review manuscript as an attachment to (email: aebookreviews@gmail.com).
+Begin the review by listing the book’s bibliographic information in the following format, followed by your name and institutional affiliation:
+
+Gifts: A Study in Comparative Law. Richard Hyland. Oxford: Oxford University Press, 2009. 708 pp.
+
+>JANE I. GUYER
+>Johns Hopkins University
+
+Send the review manuscript to aebookreviews@gmail.com.
 
 ----
 
