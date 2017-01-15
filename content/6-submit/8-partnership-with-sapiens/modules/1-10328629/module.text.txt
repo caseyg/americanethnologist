@@ -2,7 +2,7 @@ Title: Text module
 
 ----
 
-Text: 
+Text: *AE* partners with (link: http://sapiens.org text: Sapiens), an editorially independent online publication of the Wenner-Gren Foundation. Dedicated to popularizing anthropological research to an international, general-interest audience, *Sapiens* publishes feature essays, short opinion pieces, short narratives from the lab or field, photo essays, and more. Authors are encouraged to consider reworking their contributions to *AE* into a piece for Sapiens. For more information, visit www.sapiens.org/writeforus.
 
 ----
 
