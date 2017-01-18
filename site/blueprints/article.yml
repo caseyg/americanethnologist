@@ -31,12 +31,8 @@ fields:
     label: Full Article URL (Wiley)
     type: url
 
-  abstract:
-    label: Abstract
-    type: textarea
-
   text:
-    label: Text
+    label: Abstract
     type: textarea
 
   coverimage:
