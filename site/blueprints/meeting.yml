@@ -1,0 +1,28 @@
+title: Meeting
+
+pages:
+  template: default
+  build:
+    - title: _modules
+      uid: modules
+      template: modules
+
+fields:
+  title:
+    label: Page Title
+    type:  text
+    width: 1/2
+  theme:
+    label: Theme
+    type: text
+    width: 1/2
+  date:
+    label: Dates
+    type: text
+    width: 1/2
+  location:
+    label: Location
+    type: text
+    width: 1/2
+
+  modules: modules
