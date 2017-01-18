@@ -1,0 +1,26 @@
+title: Book Review
+
+pages: false
+
+fields:
+  title:
+    label: Title
+    type:  title
+    width: 1/2
+
+  subtitle:
+    label: Subtitle
+    type:  text
+    width: 1/2
+
+  book_author:
+    label: Book Author(s)
+    type: tags
+
+  author:
+    label: Book Reviewer(s)
+    type: tags
+
+  Wiley:
+    label: Full Article URL (Wiley)
+    type: url
