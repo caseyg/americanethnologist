@@ -56,3 +56,15 @@ fields:
         label: Page
         type: select
         options: pages
+  twitter:
+    label: Twitter
+    type: url
+    width: 1/3
+  facebook:
+    label: Facebook
+    type: url
+    width: 1/3
+  youtube:
+    label: YouTube
+    type: url
+    width: 1/3
