@@ -4,6 +4,8 @@ Title: Text module
 
 Text: 
 
+<p>AES Monographs may be purchased through the <a href="http://www.aaanet.org/publications/order.cfm">American Anthropological Association</a>.</p>
+
 <table class="table">
 <tr><td><a href="http://aesonline.org/publications/monographs/aes-monograph-8/"><strong>AES Monograph 8: Transforming Academia, 1999</strong></a>
 				</td>
@@ -38,7 +40,6 @@ Text:
 <td>Sanjek and Cohen, Editors	</td>
 </tr>
 </table>
-<p>AES Monographs may be purchased through the <a href="http://www.aaanet.org/publications/order.cfm" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.aaanet.org/publications/order.cfm', 'American Anthropological Association']);" target="_blank">American Anthropological Association</a>.</p>
 
 ----
 
