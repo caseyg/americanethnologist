@@ -12,7 +12,7 @@
       </div>
     </li>
     <li class="nav-item">
-      <a class="nav-link" href="#">Book Reviews</a>
+      <a class="nav-link <?php if ($pages->find('read/book-reviews')->isActive()): ?>active<?php endif; ?>" href="http://americanethnologist.dev/read/book-reviews">Book Reviews</a>
     </li>
     <li class="nav-item">
       <a class="nav-link <?php if ($pages->find('read/access-subscriptions')->isActive()): ?>active<?php endif; ?>" href="http://americanethnologist.dev/read/access-subscriptions">Access &amp; Subscriptions</a>

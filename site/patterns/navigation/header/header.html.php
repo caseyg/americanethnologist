@@ -24,7 +24,7 @@
       <?php foreach ($site->nav_col3_links()->toStructure() as $p): ?>
         <li><a <?php e($site->find($p)->isOpen(), ' class="active"') ?> href="<?php echo $site->find($p)->url() ?>"><?php echo $site->find($p)->title() ?></a></li>
       <?php endforeach ?>
-      <li class="socialmedia"><a href="<?php echo $site->twitter() ?>"><i class="fa fa-twitter" aria-hidden="true"></i></a><a href="<?php echo $site->facebook ?>"><i class="fa fa-facebook" aria-hidden="true"></i></a><a href="<?php echo $site->youtube() ?>"><i class="fa fa-youtube" aria-hidden="true"></i></a></li>
+      <li class="socialmedia"><a href="<?php echo $site->twitter() ?>"><i class="fa fa-twitter" aria-hidden="true"></i></a><a href="<?php echo $site->facebook() ?>"><i class="fa fa-facebook" aria-hidden="true"></i></a><a href="<?php echo $site->youtube() ?>"><i class="fa fa-youtube" aria-hidden="true"></i></a></li>
     </ul>
   </div>
   <div class="col-xs-12 col-sm-1 text-xs-center text-sm-right">

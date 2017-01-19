@@ -1,7 +1,6 @@
 title: Journal
 
-pages: true
-  template: article
+pages:
   build:
     - title: _modules
       uid: modules
