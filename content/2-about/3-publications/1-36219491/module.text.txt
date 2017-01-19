@@ -7,35 +7,35 @@ Text:
 AES Monographs may be purchased through the <a href="http://www.aaanet.org/publications/order.cfm">American Anthropological Association</a>.
 
 <table class="table">
-<tr><td><a href="http://aesonline.org/publications/monographs/aes-monograph-8/"><strong>AES Monograph 8: Transforming Academia, 1999</strong></a>
+<tr><td><a href="http://aesonline.org/publications/monographs/aes-monograph-8/">AES Monograph 8: Transforming Academia, 1999</a>
 				</td>
 <td>Basch, Saunders, Sharff, and Peacock, eds	</td>
 </tr>
 <tr>
-<td><a href="http://aesonline.org/publications/monographs/aes-monograph-7/"><strong>AES Monograph 7: Finding A Moral Heart<br /> for U.S. Immigration Policy, 1998</strong></a>
+<td><a href="http://aesonline.org/publications/monographs/aes-monograph-7/">AES Monograph 7: Finding A Moral Heart<br /> for U.S. Immigration Policy, 1998</a>
 				</td>
 <td>Josiah McC. Heyman	</td>
 </tr>
 <tr>
-<td><a href="http://aesonline.org/publications/monographs/aes-monograph-6/"><strong>AES Mongraph 6: Marriage and Mandatory Abortion<br /> among the 17th-century Siraya, 1995</strong></a>
+<td><a href="http://aesonline.org/publications/monographs/aes-monograph-6/">AES Mongraph 6: Marriage and Mandatory Abortion<br /> among the 17th-century Siraya, 1995</a>
 				</td>
 <td>John Robert Shepherd	</td>
 </tr>
 <tr>
 <td>
-		<a href="http://aesonline.org/publications/monographs/aes-monograph-5/"><strong>AES Monograph 5: Moralizing States<br /> and the Ethnography of the Present, 1993</strong></a>
+		<a href="http://aesonline.org/publications/monographs/aes-monograph-5/">AES Monograph 5: Moralizing States<br /> and the Ethnography of the Present, 1993</a>
 				</td>
 <td>Sally Falk Moore, Editor	</td>
 </tr>
 <tr>
 <td>
-		<a href="http://aesonline.org/publications/monographs/aes-monograph-4/"><strong>AES Monograph 4: The Politics of Time, 1992</strong></a>
+		<a href="http://aesonline.org/publications/monographs/aes-monograph-4/">AES Monograph 4: The Politics of Time, 1992</a>
 				</td>
 <td>Henry J. Rutz, Editor	</td>
 </tr>
 <tr>
 <td>
-		<a href="http://aesonline.org/publications/monographs/aes-monograph-3/"><strong>AES Monograph 3: At Work in Homes, 1990</strong></a>
+		<a href="http://aesonline.org/publications/monographs/aes-monograph-3/">AES Monograph 3: At Work in Homes, 1990</a>
 				</td>
 <td>Sanjek and Cohen, Editors	</td>
 </tr>
