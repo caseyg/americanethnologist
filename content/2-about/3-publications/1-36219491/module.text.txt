@@ -4,6 +4,41 @@ Title: Text module
 
 Text: 
 
+<td><a href="http://aesonline.org/publications/monographs/aes-monograph-8/"><strong>AES Monograph 8: Transforming Academia, 1999</strong></a>
+				</td>
+<td>Basch, Saunders, Sharff, and Peacock, eds	</td>
+</tr>
+<tr>
+<td><a href="http://aesonline.org/publications/monographs/aes-monograph-7/"><strong>AES Monograph 7: Finding A Moral Heart<br /> for U.S. Immigration Policy, 1998</strong></a>
+				</td>
+<td>Josiah McC. Heyman	</td>
+</tr>
+<tr>
+<td><a href="http://aesonline.org/publications/monographs/aes-monograph-6/"><strong>AES Mongraph 6: Marriage and Mandatory Abortion<br /> among the 17th-century Siraya, 1995</strong></a>
+				</td>
+<td>John Robert Shepherd	</td>
+</tr>
+<tr>
+<td>
+		<a href="http://aesonline.org/publications/monographs/aes-monograph-5/"><strong>AES Monograph 5: Moralizing States<br /> and the Ethnography of the Present, 1993</strong></a>
+				</td>
+<td>Sally Falk Moore, Editor	</td>
+</tr>
+<tr>
+<td>
+		<a href="http://aesonline.org/publications/monographs/aes-monograph-4/"><strong>AES Monograph 4: The Politics of Time, 1992</strong></a>
+				</td>
+<td>Henry J. Rutz, Editor	</td>
+</tr>
+<tr>
+<td>
+		<a href="http://aesonline.org/publications/monographs/aes-monograph-3/"><strong>AES Monograph 3: At Work in Homes, 1990</strong></a>
+				</td>
+<td>Sanjek and Cohen, Editors	</td>
+</tr>
+</table>
+<p>AES Monographs may be purchased through the <a href="http://www.aaanet.org/publications/order.cfm" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.aaanet.org/publications/order.cfm', 'American Anthropological Association']);" target="_blank">American Anthropological Association</a>.</p>
+
 ----
 
 Modulesettings: 
