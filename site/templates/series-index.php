@@ -15,7 +15,7 @@
     } elseif ($page->depth() == 2) {
       $pages = $page->children();
     } ?>
-    <h6>Ongoing</h6>
+    <p><em>Ongoing</em></p>
     <ul class="list-unstyled">
       <?php foreach ($pages->sortby('date')->filterBy('ongoing', '==', '1') as $i): ?>
         <li class="mb-1">
@@ -31,7 +31,7 @@
       <?php endforeach; ?>
     </ul>
     <hr>
-    <h6>More</h6>
+    <p><em>More</em></p>
     <ul class="list-unstyled">
       <?php foreach ($pages->sortby('date')->filterBy('ongoing', '==', '0') as $i): ?>
         <li class="mb-1">
