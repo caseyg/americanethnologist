@@ -4,7 +4,7 @@ Title: Text module
 
 Text: 
 
-<table>
+<table class="table">
 <tr><td><a href="http://aesonline.org/publications/monographs/aes-monograph-8/"><strong>AES Monograph 8: Transforming Academia, 1999</strong></a>
 				</td>
 <td>Basch, Saunders, Sharff, and Peacock, eds	</td>
