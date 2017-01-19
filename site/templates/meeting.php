@@ -1,21 +1,17 @@
 <?php snippet('header') ?>
 
 <div class="row">
-  <p class="lead"><?php echo $page->intro() ?></p>
-</div>
-
-<div class="row">
-<?php foreach ($page->children() as $meeting): ?>
-  <div class="col-sm-6">
-    <a href="<?php echo $meeting->url() ?>">
-      <h6><?php echo $meeting->title() ?></h6>
-      <img class="img-fluid" src="http://placehold.it/600x400" alt="">
-      <?php foreach ($meeting->children()->sortBy('date')->limit(1) as $event): ?>
-        <?php echo $event->title() ?>
-      <?php endforeach; ?>
-    </a>
+  <div class="col-sm-3 push-sm-9">
+    <?php pattern('navigation/sidebar', array('pages' => $page->parent()->children()->visible())) ?>
   </div>
-<?php endforeach; ?>
+  <div class="col-sm-8 pull-sm-3">
+    <h1><?php echo $page->theme() ?></h1>
+    <p class="sans"><?php echo $page->dates() ?></p>
+    <p class="sans"><?php echo $page->location() ?></p>
+
+    <?php $page->modules() ?>
+    <?php echo $page->text()->kt() ?>
+  </div>
 </div>
 
 <?php snippet('footer') ?>

@@ -5,17 +5,28 @@
 </div>
 
 <div class="row">
-<?php foreach ($page->children() as $meeting): ?>
-  <div class="col-sm-6">
-    <a href="<?php echo $meeting->url() ?>">
-      <h6><?php echo $meeting->title() ?></h6>
-      <img class="img-fluid" src="http://placehold.it/600x400" alt="">
-      <?php foreach ($meeting->children()->sortBy('date')->limit(1) as $event): ?>
-        <?php echo $event->title() ?>
-      <?php endforeach; ?>
-    </a>
-  </div>
-<?php endforeach; ?>
+<?php if ($page->depth() > 1): ?>
+  <?php foreach ($page->children() as $event): ?>
+    <div class="col-sm-6">
+      <a href="<?php echo $event->url() ?>">
+        <h3><?php echo $event->title() ?></h3>
+        <img class="img-fluid" src="<?php if ($event->hasImages()): echo $event->images()->first()->crop(600,400)->url(); else: echo "http://placehold.it/600x400"; endif;?> " alt="">
+      </a>
+    </div>
+  <?php endforeach; ?>
+<?php else: ?>
+  <?php foreach ($page->children() as $meeting): ?>
+    <div class="col-sm-6">
+        <h6><a href="<?php echo $meeting->url() ?>"><?php echo $meeting->title() ?></a></h6>
+        <?php foreach ($meeting->children()->limit(1) as $event): ?>
+          <a href="<?php echo $event->url() ?>">
+            <h3><?php echo $event->title() ?></h3>
+            <img class="img-fluid" src="<?php if ($event->hasImages()): echo $event->images()->first()->crop(600,400)->url(); else: echo "http://placehold.it/600x400"; endif;?> " alt="">
+          </a>
+        <?php endforeach; ?>
+    </div>
+  <?php endforeach; ?>
+<?php endif; ?>
 </div>
 
 <?php snippet('footer') ?>

@@ -16,7 +16,7 @@ fields:
     label: Theme
     type: text
     width: 1/2
-  date:
+  dates:
     label: Dates
     type: text
     width: 1/2
