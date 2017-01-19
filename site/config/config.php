@@ -41,7 +41,6 @@ c::set('modules.directory', kirby()->roots()->site() . DS . 'patterns');
 // Kirby Autogit
 
 c::set('autogit.panel.user',     true);
-c::set('autogit.user.name',      'Auto Git');
 
 c::set('autogit.widget',         true);
 
