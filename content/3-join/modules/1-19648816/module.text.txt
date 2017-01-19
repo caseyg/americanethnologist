@@ -8,8 +8,6 @@ The American Ethnological Society (AES) is part of the American Anthropological 
 
 <a href="http://www.americananthro.org/join" class="btn btn-lg btn-success">Join</a>
 
-[More compelling pitch needed here! Photos? Other benefits?]
-
 ----
 
 Modulesettings: 
