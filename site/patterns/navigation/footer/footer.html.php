@@ -1,4 +1,4 @@
-<div class="container-fluid bg-green" style="background-image: url('/assets/images/aes-logo-footer.png');background-position:top left;background-repeat:no-repeat;">
+<div class="container-fluid bg-green mt-3" style="background-image: url('/assets/images/aes-logo-footer.png');background-position:top left;background-repeat:no-repeat;">
   <div class="container">
 <!--    <?php snippet("logo") ?>-->
     <footer class="footer pt-3 py-3" role="contentinfo">
