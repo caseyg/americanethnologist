@@ -2,7 +2,7 @@ Title: Niko Besnier
 
 ----
 
-Position: 
+Position: Editor-in-Chief
 
 ----
 
@@ -14,8 +14,8 @@ Phone:
 
 ----
 
-Email: 
+Email: n.besnier@uva.nl
 
 ----
 
-Homepage: 
+Homepage: http://pacific.socsci.uva.nl/besnier/
