@@ -4,7 +4,7 @@
     <footer class="footer pt-3 py-3" role="contentinfo">
       <div class="row">
         <div class="col-xs-3">
-          <h6>American Ethnological Society</h6>
+          <h6>American <br>Ethnological <br>Society</h6>
           <ul class="list-unstyled">
             <li><a href="#"><i class="fa fa-home" aria-hidden="true"></i> Home</a></li>
             <li><a href="#"><i class="fa fa-envelope" aria-hidden="true"></i> Contact</a></li>
