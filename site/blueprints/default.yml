@@ -1,12 +1,5 @@
 title: Default
 
-pages:
-  template: default
-  build:
-    - title: _modules
-      uid: modules
-      template: modules
-
 fields:
   title:
     label: Title

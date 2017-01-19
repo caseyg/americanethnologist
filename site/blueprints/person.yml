@@ -10,6 +10,12 @@ fields:
   title:
     label: Name
     type: title
+    width: 1/2
+
+  affiliation:
+    label: Name
+    type: title
+    width: 1/2
 
   position:
     label: Position

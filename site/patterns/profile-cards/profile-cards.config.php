@@ -4,7 +4,7 @@
 return array(
     'preview' => function() {
         return array(
-            'module' => site()->index()->filterBy('intendedTemplate', 'module.board-cards')->shuffle()->first()
+            'module' => site()->index()->filterBy('intendedTemplate', 'module.profile-cards')->shuffle()->first()
         );
     }
 );

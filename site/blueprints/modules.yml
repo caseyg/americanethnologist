@@ -5,7 +5,7 @@ pages:
     - module.subtitle
     - module.text
     - module.gallery
-    - module.board-cards
+    - module.profile-cards
     - module.awards-cards
     - module.toc-section
 
