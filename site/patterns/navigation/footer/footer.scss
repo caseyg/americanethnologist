@@ -2,6 +2,30 @@ footer {
   display: block;
   overflow: hidden;
   position: relative;
+  li, a {
+    font-size: 13px!important;
+    line-height: 1.5;
+    color: $blockquote;
+    font-weight: 900;
+    font-family: "Benton Sans RE Bd";
+    margin-bottom:.5em;
+    ul {
+      margin-left: 0;
+      padding-left: 1em;
+      li, a {
+        font-weight: 100;
+        font-family: "Benton Sans RE Reg";
+        margin-bottom: 0;
+        color: lighten($green, 18%);
+      }
+    }
+  }
+  a:hover, a:active {
+    color: $background;
+  }
+  h6 {
+    color: $background;
+  }
 }
 
 .logo {

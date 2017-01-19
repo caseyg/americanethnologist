@@ -264,6 +264,25 @@ footer {
   display: block;
   overflow: hidden;
   position: relative; }
+  footer li, footer a {
+    font-size: 13px !important;
+    line-height: 1.5;
+    color: #d8d9c6;
+    font-weight: 900;
+    font-family: "Benton Sans RE Bd";
+    margin-bottom: .5em; }
+    footer li ul, footer a ul {
+      margin-left: 0;
+      padding-left: 1em; }
+      footer li ul li, footer li ul a, footer a ul li, footer a ul a {
+        font-weight: 100;
+        font-family: "Benton Sans RE Reg";
+        margin-bottom: 0;
+        color: #b4b692; }
+  footer a:hover, footer a:active {
+    color: #f9f6ec; }
+  footer h6 {
+    color: #f9f6ec; }
 
 .logo {
   fill: #d8d9c6;
