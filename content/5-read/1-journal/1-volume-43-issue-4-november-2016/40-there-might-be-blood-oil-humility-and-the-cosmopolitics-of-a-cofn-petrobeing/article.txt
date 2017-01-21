@@ -1,24 +1,45 @@
-Title: There might be blood: Oil, humility, and the cosmopolitics of a Cofán petro-being
+Title: There might be blood
+
 ----
+
 Date: 11/23/2016
+
 ----
+
 Category: Articles - Volume 43, Issue 4 (November 2016), Volume 43, Issue 4 (November 2016)
+
 ----
+
 Summary: 
+
 ----
+
 Tags: Amazonia, Cofán, cosmopolitics, Ecuador, indigeneity, oil, ontology
-----
-Text:
-By Michael L. Cepek**Full Article: (link: http://onlinelibrary.wiley.com/doi/10.1111/amet.12379/full text: http://onlinelibrary.wiley.com/doi/10.1111/amet.12379/full)**
-
- (link: http://americanethnologist.org/wp-content/uploads/sites/2/2016/11/There-might-be-blood-Oil-humility-and-the-cosmopolitics-of-a-Cofán-petro-being.png text: <figure>
-(image: http://americanethnologist.org/wp-content/uploads/sites/2/2016/11/There-might-be-blood-Oil-humility-and-the-cosmopolitics-of-a-Cofán-petro-being-201x300.png alt: Crude-filled sludge from an abandoned oil-well waste pit in Cofán territory, Ecuador, February 2016. (Bear Guerra).)
-<figcaption>Crude-filled sludge from an abandoned oil-well waste pit in Cofán territory, Ecuador, February 2016. (Bear Guerra).</figcaption>
-</figure>
-
-) Crude-filled sludge from an abandoned oil-well waste pit in Cofán territory, Ecuador, February 2016. (Bear Guerra). A central directive of recent writings on cosmopolitics and ontology is that critically minded anthropologists should “humble” themselves and view their subjects’ statements as propositions that disclose multiple real worlds. An exploration of Cofán people's uncertainty regarding the idea that oil is the blood of a sacred mythological being—a position that romanticizing Westerners repeatedly attribute to them—calls into question the implications of the call for anthropological humility. Cofán discussions of oil's sanguinary nature demonstrate that the best way to comprehend the intellectual agency of our collaborators is to acknowledge, rather than ignore, the social, pragmatic, and epistemological contours of their discourse, cosmological or otherwise.
-----
-Wiley:
 
 ----
-Author:
+
+Text: 
+
+! [Crude-filled sludge from an abandoned oil-well waste pit in Cofán territory, Ecuador, February 2016. (Bear Guerra).](http://aes-dev.caseyagollan.com/content/5-read/1-journal/1-volume-43-issue-4-november-2016/40-there-might-be-blood-oil-humility-and-the-cosmopolitics-of-a-cofn-petrobeing/screenshot-2017-01-21-at-3.41.48-pm.png)
+
+Crude-filled sludge from an abandoned oil-well waste pit in Cofán territory, Ecuador, February 2016. (Bear Guerra). A central directive of recent writings on cosmopolitics and ontology is that critically minded anthropologists should “humble” themselves and view their subjects’ statements as propositions that disclose multiple real worlds. An exploration of Cofán people's uncertainty regarding the idea that oil is the blood of a sacred mythological being—a position that romanticizing Westerners repeatedly attribute to them—calls into question the implications of the call for anthropological humility. Cofán discussions of oil's sanguinary nature demonstrate that the best way to comprehend the intellectual agency of our collaborators is to acknowledge, rather than ignore, the social, pragmatic, and epistemological contours of their discourse, cosmological or otherwise.
+
+----
+
+Wiley: http://onlinelibrary.wiley.com/doi/10.1111/amet.12379/
+
+----
+
+Author: Michael L. Cepek
+
+----
+
+Subtitle: Oil, humility, and the cosmopolitics of a Cofán petro-being
+
+----
+
+Coverimage: 
+
+----
+
+Related: 
