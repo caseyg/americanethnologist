@@ -1,19 +1,41 @@
-Title: Expert evidence on trial: Social researchers in the international criminal courtroom
+Title: Expert evidence on trial
+
 ----
+
 Date: 11/23/2016
+
 ----
+
 Category: Articles - Volume 43, Issue 4 (November 2016), Volume 43, Issue 4 (November 2016)
+
 ----
+
 Summary: 
+
 ----
+
 Tags: anthropology of law, experts, genocide, international law, qualitative research
-----
-Text:
-By Richard Ashby Wilson**Full Article: (link: http://onlinelibrary.wiley.com/doi/10.1111/amet.12387/full text: http://onlinelibrary.wiley.com/doi/10.1111/amet.12387/full)**
-
-Social researchers often feature as expert witnesses in international criminal trials, and they can exert a strong influence on a court's understandings of mass atrocities. Analysis of over 400 expert appearances shows that, overall, international judges prefer experts who use scientific methods, but when social researchers are called, courts favor qualitative researchers over quantitative ones. In two international speech-crimes trials, a language expert was preferred to a quantitative sociologist because the former did not challenge the sovereignty of judges or the status hierarchy of the courtroom. When excluding quantitative experts, judges cite “common sense” as the basis of facticity and knowledge. The prevailing epistemological framework at international criminal tribunals results from the knowledge strategies of legal actors operating in a structurally fragile context.
-----
-Wiley:
 
 ----
-Author:
+
+Text: Social researchers often feature as expert witnesses in international criminal trials, and they can exert a strong influence on a court's understandings of mass atrocities. Analysis of over 400 expert appearances shows that, overall, international judges prefer experts who use scientific methods, but when social researchers are called, courts favor qualitative researchers over quantitative ones. In two international speech-crimes trials, a language expert was preferred to a quantitative sociologist because the former did not challenge the sovereignty of judges or the status hierarchy of the courtroom. When excluding quantitative experts, judges cite “common sense” as the basis of facticity and knowledge. The prevailing epistemological framework at international criminal tribunals results from the knowledge strategies of legal actors operating in a structurally fragile context.
+
+----
+
+Wiley: http://onlinelibrary.wiley.com/doi/10.1111/amet.12387/
+
+----
+
+Author: Richard Ashby Wilson
+
+----
+
+Subtitle: Social researchers in the international criminal courtroom
+
+----
+
+Coverimage: screenshot-2017-01-21-at-4.01.44-pm.png
+
+----
+
+Related: 
