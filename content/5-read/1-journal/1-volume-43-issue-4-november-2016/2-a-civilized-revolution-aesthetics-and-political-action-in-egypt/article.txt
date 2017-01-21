@@ -20,12 +20,9 @@ Tags: activism, aesthetics, Egypt, middle class, social movements, space, waste
 
 Text: 
 
-(link: http://americanethnologist.org/wp-content/uploads/sites/2/2016/11/A-civilized-revolution-Aesthetics-and-political-action-in-Egypt.png text: <figure>
-(image: http://americanethnologist.org/wp-content/uploads/sites/2/2016/11/A-civilized-revolution-Aesthetics-and-political-action-in-Egypt-300x202.png alt: Youth brigades sweep Tahrir Square, Cairo, the day after Egyptian president Hosni Mubarak's departure, February 12, 2011. (Ahmed Asad/Apaimages/Polaris))
-<figcaption>Youth brigades sweep Tahrir Square, Cairo, the day after Egyptian president Hosni Mubarak's departure, February 12, 2011. (Ahmed Asad/Apaimages/Polaris)</figcaption>
-</figure>
+! [Youth brigades sweep Tahrir Square, Cairo, the day after Egyptian president Hosni Mubarak's departure, February 12, 2011. (Ahmed Asad/Apaimages/Polaris)](http://aes-dev.caseyagollan.com/content/5-read/1-journal/1-volume-43-issue-4-november-2016/2-a-civilized-revolution-aesthetics-and-political-action-in-egypt/a-civilized-revolution-aesthetics-and-political-action-in-egypt.png) 
 
-) Youth brigades sweep Tahrir Square, Cairo, the day after Egyptian president Hosni Mubarak's departure, February 12, 2011. (Ahmed Asad/Apaimages/Polaris) Acts of aesthetic ordering dominated Egyptian protest and civic activity in 2011, around the time of former president Hosni Mubarak's downfall. They played a central role in motivating collective political action, giving form to a nationalist utopian vision and legitimizing ordinary Egyptians as active agents and upright citizens. Yet they also reproduced exclusionary middle-class aspirations tied up with state projects and related forms of citizenship that center on surveillance, individualism, and consumption. Examining such acts of aesthetic ordering reveals the tensions at the heart of many political movements, especially as people attempt to enact their utopian visions in public space. The precarity of both middle classness and utopian schemes of revolution render aesthetics a key battleground of political action.
+Acts of aesthetic ordering dominated Egyptian protest and civic activity in 2011, around the time of former president Hosni Mubarak's downfall. They played a central role in motivating collective political action, giving form to a nationalist utopian vision and legitimizing ordinary Egyptians as active agents and upright citizens. Yet they also reproduced exclusionary middle-class aspirations tied up with state projects and related forms of citizenship that center on surveillance, individualism, and consumption. Examining such acts of aesthetic ordering reveals the tensions at the heart of many political movements, especially as people attempt to enact their utopian visions in public space. The precarity of both middle classness and utopian schemes of revolution render aesthetics a key battleground of political action.
 
 ----
 
