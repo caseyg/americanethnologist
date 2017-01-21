@@ -20,12 +20,9 @@ Tags: dance, inalienability, inheritance, personhood, postsocialism, Republic of
 
 Text: 
 
-(link: http://americanethnologist.org/wp-content/uploads/sites/2/2016/11/Inalienable-performances-mutable-heirlooms.png text: <figure>
-(image: http://americanethnologist.org/wp-content/uploads/sites/2/2016/11/Inalienable-performances-mutable-heirlooms-300x200.png alt: Morelaye Diallo performs the improvisational dance form gigoteau at a dundunba ceremony, Conakry, Guinea, 2013.)
-<figcaption>Morelaye Diallo performs the improvisational dance form gigoteau at a dundunba ceremony, Conakry, Guinea, 2013.</figcaption>
-</figure>
+caption: Morelaye Diallo performs the improvisational dance form gigoteau at a dundunba ceremony, Conakry, Guinea, 2013. 
 
-) Morelaye Diallo performs the improvisational dance form gigoteau at a dundunba ceremony, Conakry, Guinea, 2013. Dance in the Republic of Guinea is an object of cultural transmission that magnifies the inherent contingency of social reproduction and the plasticity of the heirloom. Long connected to the vicissitudes of Guinean politics, dance was violently appropriated by the postindependence socialist state (1958–84) as a tool of nation building. In postsocialist Guinea, where the nation-state has relinquished its stake in the performing arts, young practitioners create new improvisational forms that emblematize shifting models of ideal personhood. Novel dance forms incite tension about intergenerational trust and cultural inheritance in a social context in which neither the heirloom nor the cultural identity it signals remains stable.
+Dance in the Republic of Guinea is an object of cultural transmission that magnifies the inherent contingency of social reproduction and the plasticity of the heirloom. Long connected to the vicissitudes of Guinean politics, dance was violently appropriated by the postindependence socialist state (1958–84) as a tool of nation building. In postsocialist Guinea, where the nation-state has relinquished its stake in the performing arts, young practitioners create new improvisational forms that emblematize shifting models of ideal personhood. Novel dance forms incite tension about intergenerational trust and cultural inheritance in a social context in which neither the heirloom nor the cultural identity it signals remains stable.
 
 ----
 
@@ -45,7 +42,7 @@ Abstract:
 
 ----
 
-Coverimage: 
+Coverimage: screenshot-2017-01-21-at-3.50.42-pm.png
 
 ----
 
