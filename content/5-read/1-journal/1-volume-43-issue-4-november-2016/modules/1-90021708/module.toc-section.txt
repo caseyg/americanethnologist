@@ -37,3 +37,9 @@ Articles:
 - 
   article: >
     read/journal/volume-43-issue-4-november-2016/expert-evidence-on-trial-social-researchers-in-the-international-criminal-courtroom
+- 
+  article: >
+    read/journal/volume-43-issue-4-november-2016/ethnography-at-its-edges-bringing-in-contemporary-art
+- 
+  article: >
+    read/journal/volume-43-issue-4-november-2016/ethnography-at-its-edges-forces-in-the-wind
