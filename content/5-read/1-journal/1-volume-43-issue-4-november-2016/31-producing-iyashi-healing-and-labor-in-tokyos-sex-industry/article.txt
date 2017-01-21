@@ -38,7 +38,7 @@ Subtitle:
 
 ----
 
-Coverimage: 
+Coverimage: screenshot-2017-01-21-at-3.56.19-pm.png
 
 ----
 
