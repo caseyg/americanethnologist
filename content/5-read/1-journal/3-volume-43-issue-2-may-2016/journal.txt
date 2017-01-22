@@ -18,7 +18,7 @@ Text:
 
 ----
 
-Coverimage: 
+Coverimage: screenshot-2017-01-22-at-2.38.00-pm.png
 
 ----
 
