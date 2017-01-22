@@ -19,3 +19,15 @@ Text:
 ----
 
 Coverimage: 
+
+----
+
+Volume: 43
+
+----
+
+Issue: 2
+
+----
+
+Date: 2016-05-01
