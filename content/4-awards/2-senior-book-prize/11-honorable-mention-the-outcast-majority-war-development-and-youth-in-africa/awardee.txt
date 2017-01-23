@@ -1,17 +1,45 @@
-Title: Honorable Mention: The Outcast Majority: War, Development, and Youth in Africa
-----
-Date: 11/09/2016
-----
-Category: 
-----
-Summary: 
-----
-Tags: 
-----
-Text:
-(link: http://aesonline.org/wp-content/uploads/2016/11/Screenshot-2016-11-09-at-9.55.16-PM.png text: <figure>
-(image: http://aesonline.org/wp-content/uploads/2016/11/Screenshot-2016-11-09-at-9.55.16-PM.png alt: The Outcast Majority)
-<figcaption>The Outcast Majority</figcaption>
-</figure>
+Title: 2016 Honorable Mention: The Outcast Majority: War, Development, and Youth in Africa
 
-)Marc Sommersis an internationally recognized youth expert with research experience in over twenty war-affected countries. *The Outcast Majority: War, Development, and Youth in Africa *was published in 2015 (University of Georgia Press), and was selected for Honorable Mention by the prize committee: Marc Edelman (co-chair, CUNY), Shalini Shankar (co-chair, Northwestern U), Tine Gammeltoft (U Copenhagen), and Elizabeth Ferry (Brandeis U).
+----
+
+Date: 11/09/2016
+
+----
+
+Category: 
+
+----
+
+Summary: 
+
+----
+
+Tags: 
+
+----
+
+Text: Marc Sommers is an internationally recognized youth expert with research experience in over twenty war-affected countries. The Outcast Majority: War, Development, and Youth in Africa *was published in 2015 (University of Georgia Press), and was selected for Honorable Mention by the prize committee: Marc Edelman (co-chair, CUNY), Shalini Shankar (co-chair, Northwestern U), Tine Gammeltoft (U Copenhagen), and Elizabeth Ferry (Brandeis U).
+
+----
+
+Awardee-title: The Outcast Majority
+
+----
+
+Awardee-subtitle: War, Development, and Youth in Africa
+
+----
+
+Awardee-name: Marc Sommers
+
+----
+
+Award-year: 2016
+
+----
+
+Award-type: Honorable Mention
+
+----
+
+Intro: *(University of Georgia Press, 2015)*
