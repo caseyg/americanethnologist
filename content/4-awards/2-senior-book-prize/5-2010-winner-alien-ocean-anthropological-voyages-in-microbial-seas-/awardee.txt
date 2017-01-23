@@ -1,17 +1,51 @@
-Title: 2010 Winner: Alien Ocean: Anthropological Voyages in Microbial Seas 
-----
-Date: 01/20/2014
-----
-Category: 
-----
-Summary: 
-----
-Tags: 
-----
-Text:
-Stefan Helmreich is an associate professor in the Department of Anthropology at MIT. Alien Ocean: Anthropological Voyages in Microbial Seas was published by the University of California Press in 2009. <figure>
-(image: [aesurl]/wp-content/uploads/2014/01/alien.jpg alt: Alien Ocean)
-<figcaption>Alien Ocean</figcaption>
-</figure>
+Title: 2010 Winner: Alien Ocean
 
-From AES and the Senior Book Prize Committee: Jane Collins, AES President, had this to say about Stefan Helmreich and Alien Ocean: Anthropological Voyages in Microbial Seas: At the our New Orleans business meeting, AES was pleased to award the 2010 Senior Book Prize to Stefan Helmreich for his 2009 book Alien Ocean: Anthropological Voyages in Microbial Seas (University of California Press). The award committee (Jane Collins, Sally Merry and Fred Myers) found the book to be more than simply a remarkable study of microbial oceanography and its evolving frameworks, but also a moving account of human encounters with undersea worlds that test the limits of our imagination. Helmreich takes the reader on a journey from the depths of undersea thermal vents to the shifting shorelines of barrier islands, from international oceanographic conferences to the banal work of bench technicians doing routine lab work. As an ethnographic account of marine microbiologists, the book charts how novel configurations of technology and theory are leading scientists to reconceptualize the ocean as a site of vast microbial resources. It tracks the interplay between scientific narratives that portray the ocean as continuous with human bodies because of the microbes we share and those that figure the ocean deep as impenetrably alien. In the end, these competing narratives reshape our understanding of life’s beginnings and posit a radical new definition of life itself. “Life has been materially and semiotically detached,” Helmreich argues, “from its previous address in bounded bodies.” Alien Ocean is incredibly well written, remarkably free of jargon and exceptionally clear in articulating complex concepts. It is full of humor and play, pursuing the author’s failings at sea and popular culture connections as well as offering deeply etched portraits of the eccentric personages who study oceans. Helmreich refers to his project as “transductive ethnography”—“a mode of attention that asks how subjects, objects and field emerge in material relations that cannot be modeled in advance.” His book is at once informative, evocative and fun. It offers a profound understanding of a compelling new arena of science as well as an innovative model for how to write science studies.
+----
+
+Date: 01/20/2014
+
+----
+
+Category: 
+
+----
+
+Summary: 
+
+----
+
+Tags: 
+
+----
+
+Text: 
+
+Jane Collins, AES President, had this to say about Stefan Helmreich and Alien Ocean: Anthropological Voyages in Microbial Seas: At the our New Orleans business meeting, AES was pleased to award the 2010 Senior Book Prize to Stefan Helmreich for his 2009 book Alien Ocean: Anthropological Voyages in Microbial Seas (University of California Press). The award committee (Jane Collins, Sally Merry and Fred Myers) found the book to be more than simply a remarkable study of microbial oceanography and its evolving frameworks, but also a moving account of human encounters with undersea worlds that test the limits of our imagination. 
+
+Helmreich takes the reader on a journey from the depths of undersea thermal vents to the shifting shorelines of barrier islands, from international oceanographic conferences to the banal work of bench technicians doing routine lab work. As an ethnographic account of marine microbiologists, the book charts how novel configurations of technology and theory are leading scientists to reconceptualize the ocean as a site of vast microbial resources. It tracks the interplay between scientific narratives that portray the ocean as continuous with human bodies because of the microbes we share and those that figure the ocean deep as impenetrably alien. In the end, these competing narratives reshape our understanding of life’s beginnings and posit a radical new definition of life itself. “Life has been materially and semiotically detached,” Helmreich argues, “from its previous address in bounded bodies.” 
+
+Alien Ocean is incredibly well written, remarkably free of jargon and exceptionally clear in articulating complex concepts. It is full of humor and play, pursuing the author’s failings at sea and popular culture connections as well as offering deeply etched portraits of the eccentric personages who study oceans. Helmreich refers to his project as “transductive ethnography”—“a mode of attention that asks how subjects, objects and field emerge in material relations that cannot be modeled in advance.” His book is at once informative, evocative and fun. It offers a profound understanding of a compelling new arena of science as well as an innovative model for how to write science studies.
+
+----
+
+Awardee-title: Alien Ocean
+
+----
+
+Awardee-subtitle: Anthropological Voyages in Microbial Seas
+
+----
+
+Awardee-name: Stefan Helmreich
+
+----
+
+Award-year: 2010
+
+----
+
+Award-type: Winner
+
+----
+
+Intro: *(University of California Press, 2009)
