@@ -9,7 +9,7 @@
       <h4 class="mb-1 bentonsanscondensedregular"><?php echo $a->subtitle() ?></h4>
       <p class="gray--600"><em>by</em> <strong><?php echo $a->author() ?></strong></p>
       <?php if ($a->hasImages()): ?>
-        <img src="<?php echo $a->images()->first()->url() ?>" alt="">
+        <img src="<?php echo $a->images()->first()->resize(500,500)->url() ?>" alt="">
       <?php endif; ?>
     </a>
     <?php if ($a->related()->isNotEmpty()): ?>
