@@ -21,8 +21,6 @@
         <hr />
       </header>
 
-      <?php snippet('coverimage', $page) ?>
-
       <div class="text">
         <?= $page->text()->kirbytext() ?>
       </div>
