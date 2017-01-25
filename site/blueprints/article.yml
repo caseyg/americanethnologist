@@ -35,11 +35,6 @@ fields:
     label: Abstract
     type: textarea
 
-  coverimage:
-    label: Cover Image
-    type: image
-    width: 1/2
-
   related:
     label: Related Content
     type: select
