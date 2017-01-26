@@ -11,7 +11,8 @@
 
       <header class="article-header">
         <?php if ($page->hasImages()): ?><img src="<?php echo $page->images()->first()->url() ?>" alt=""><?php endif; ?>
-        <h1><?= $page->title()->html() ?></h1>
+          <h1><?= $page->title()->html() ?></h1>
+          <?php if ($page->subtitle()->isNotEmpty()): ?><h2><?= $page->subtitle()->html() ?></h2><?php endif; ?>
         <?php if ($page->wiley()->isNotEmpty()): ?>
           <a class="btn btn-secondary btn-outline bg-background" href="<?php echo $page->wiley() ?>">Read Article</a>
         <?php endif; ?>
