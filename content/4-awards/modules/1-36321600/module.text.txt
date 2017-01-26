@@ -2,7 +2,7 @@ Title: Text module
 
 ----
 
-Text: AES gives three awards...
+Text: AES regularly holds juried competitions for three awards, all of which recognize outstanding work in the field.
 
 ----
 
