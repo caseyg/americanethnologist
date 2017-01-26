@@ -12,10 +12,13 @@
       </div>
     </li>
     <li class="nav-item">
-      <a class="nav-link <?php if ($pages->find('read/book-reviews')->isActive()): ?>active<?php endif; ?>" href="http://americanethnologist.dev/read/book-reviews">Book Reviews</a>
-    </li>
-    <li class="nav-item">
       <a class="nav-link <?php if ($pages->find('read/access-subscriptions')->isActive()): ?>active<?php endif; ?>" href="http://americanethnologist.dev/read/access-subscriptions">Access &amp; Subscriptions</a>
+    </li>
+    <li class="nav-item ml-1 float-xs-right">
+      <form class="form-inline" action="/search" method="get">
+        <input class="form-control" name="q" type="text" placeholder="Search AE Journal...">
+        <button class="btn btn-outline-success" type="submit"><i class="fa fa-search" aria-hidden="true"></i></button>
+      </form>
     </li>
   </ul>
 </nav>
