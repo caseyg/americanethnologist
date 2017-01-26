@@ -19,7 +19,7 @@
       <a href="<?php echo $i->url() ?>">
         <div class="media">
           <div class="media-body">
-            <h6 class="bentonsansreregular"><?php echo $i->parent()->title() ?></h6>
+            <?php if ($page->title() != $i->parent()->title()): ?><h6 class="bentonsansreregular"><?php echo $i->parent()->title() ?></h6><?php endif; ?>
             <h5 class="media-heading bentonsansrebold" style="line-height:1.35;"><?php echo $i->title() ?></h6>
             <h6 class="bentonsansreregular"><?php echo $i->date("M d, Y") ?></h6>
           </div>
@@ -31,6 +31,7 @@
         </div>
       </a>
     </li>
+    <hr>
   <?php endforeach; ?>
 </ul>
 
