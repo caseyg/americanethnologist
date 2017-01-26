@@ -17,10 +17,12 @@
       <div class="card bg-background col-sm-8 offset-sm-2 mt-1">
         <div class="card-block">
           <div class="media">
-            <a class="media-left" href="#">
-              <img class="media-object" src="http://placehold.it/100x100" alt="Generic placeholder image">
-            </a>
-            <div class="media-body">
+            <?php if ($r->hasImages()): ?>
+              <a class="media-left" href="<?php echo $r->url() ?>">
+                  <img class="media-object" src="<?php echo $r->images()->first()->resize(100,100)->url() ?>" alt="Generic placeholder image">
+              </a>
+            <?php endif; ?>
+            <div class="media-body pl-1">
               <h6 class="bentonsansrebold" style="opacity:.65"><?php echo $r->parent()->title() ?></h6>
               <h6 class="media-heading bentonsansreregular" style="line-height:1.35;"><a href="<?php echo $r->url() ?>"><?php echo $r->title() ?></a></h6>
             </div>
