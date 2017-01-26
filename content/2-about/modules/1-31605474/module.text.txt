@@ -2,7 +2,11 @@ Title: Intro
 
 ----
 
-Text: The American Ethnological Society is the oldest professional anthropological organization in the United States. Founded in 1842 to encourage research in the emerging field of ethnology, its stated goal was to foster “inquiries generally connected with the human race.”
+Text: 
+
+The American Ethnological Society is the oldest professional anthropological organization in the United States. Founded in 1842 to encourage emerging anthropological research on human cultures.
+
+**Ethnology** *is the study and comparison of human cultures.*
 
 ----
 
