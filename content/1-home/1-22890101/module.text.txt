@@ -4,7 +4,8 @@ Title: Welcome text
 
 Text: 
 
-####**The American Ethnological Society** - promoting rich ethnography and relevant, cutting-edge theory in cultural anthropology since 1842.  
+##**The American Ethnological Society**
+####Promoting rich ethnography and relevant, cutting-edge theory in cultural anthropology since 1842.  
 #####Attend our conferences.  Read our journal.  Follow our conversations about human diversity.
 ###Welcome.
 
