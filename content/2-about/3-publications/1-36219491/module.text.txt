@@ -4,7 +4,7 @@ Title: Text module
 
 Text: 
 
-AES Monographs may be purchased through the <a href="http://www.aaanet.org/publications/order.cfm">American Anthropological Association</a>.
+AES Monographs may be purchased through the <a href="http://www.americananthro.org/StayInformed/Content.aspx?ItemNumber=1772">American Anthropological Association</a>.
 
 <table class="table">
 <tr><td><a href="http://aesonline.org/publications/monographs/aes-monograph-8/">AES Monograph 8: Transforming Academia, 1999</a>
