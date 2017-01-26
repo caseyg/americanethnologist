@@ -1,21 +1,36 @@
-Title: Anthropology & Ferguson, Missouri
+Title: #Ferguson: Digital protest, hashtag ethnography, and the racial politics of social media in the United States)
+
 ----
+
 Date: 11/25/2014
+
 ----
+
 Category: article list
+
 ----
+
 Summary: 
+
 ----
+
 Tags: digital activism, digital anthropology, Michael Brown, race, semiotics, social media, social movements, Twitter, United States
+
 ----
-Text:
-→(link: http://onlinelibrary.wiley.com/doi/10.1111/amet.12112/abstract text: #Ferguson: Digital protest, hashtag ethnography, and the racial politics of social media in the United States)  
- by Yarimar Bonilla (Rutgers University) and Jonathan Rosa (University of Massachusetts - Amherst)  
-February 2015 American Ethnologist  
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Text: 
 
-### →Co-Author Yarimar Bonilla discusses #BlackLivesMatter on AnthroPod(link: http://www.culanth.org/fieldsights/752-blacklivesmatter-anthropologists-on-protest-policing-and-race-based-violence text: http://www.culanth.org/fieldsights/752-blacklivesmatter-anthropologists-on-protest-policing-and-race-based-violence)
+**Abstract**
+
+As thousands of demonstrators took to the streets of Ferguson, Missouri, to protest the fatal police shooting of unarmed African American teenager Michael Brown in the summer of 2014, news and commentary on the shooting, the protests, and the militarized response that followed circulated widely through social media networks. Through a theorization of hashtag usage, we discuss how and why social media platforms have become powerful sites for documenting and challenging episodes of police brutality and the misrepresentation of racialized bodies in mainstream media. We show how engaging in “hashtag activism” can forge a shared political temporality, and, additionally, we examine how social media platforms can provide strategic outlets for contesting and reimagining the materiality of racialized bodies. Our analysis combines approaches from linguistic anthropology and social movements research to investigate the semiotics of digital protest and to interrogate both the possibilities and the pitfalls of engaging in “hashtag ethnography.”
+
+ [Volume 42, Issue 1, February 2015]
+
+----
+
+Co-author-yarimar-bonilla-discusses-blacklivesmatter-on-anthropod-link: 
+
+http://www.culanth.org/fieldsights/752-blacklivesmatter-anthropologists-on-protest-policing-and-race-based-violence text: http://www.culanth.org/fieldsights/752-blacklivesmatter-anthropologists-on-protest-policing-and-race-based-violence)
 
 ### →Co-author Jonathan Rosa guest panelist on Melissa Harris-Perry Show (MSNBC), May 10, 2015:(link: http://www.msnbc.com/melissa-harris-perry/watch/have-race-issues-gotten-worse-or-better--442852931550 text: http://www.msnbc.com/melissa-harris-perry/watch/have-race-issues-gotten-worse-or-better--442852931550)
 
@@ -31,9 +46,24 @@ ABSTRACT: As thousands of demonstrators took to the streets of Ferguson, Missour
 <figcaption>#Ferguson Mentions on Twitter August 09 - August 18, 2014 source: @TwitterReverb</figcaption>
 </figure>
 
-)Mentions on Twitter of #Ferguson, August 09 - August 18, 2014. Source: (link: http://reverb.guru/view/126740849281262175 text: @TwitterReverb) - click image to view larger 
-----
-Wiley:
+)Mentions on Twitter of #Ferguson, August 09 - August 18, 2014. Source: (link: http://reverb.guru/view/126740849281262175 text: @TwitterReverb) - click image to view larger
 
 ----
-Author:
+
+Wiley: http://onlinelibrary.wiley.com/doi/10.1111/amet.12112/abstract
+
+----
+
+Author: Yarimar Bonilla,Jonathan Rosa
+
+----
+
+Subtitle: 
+
+----
+
+Coverimage: 
+
+----
+
+Related: 
