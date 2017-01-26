@@ -40,3 +40,8 @@ fields:
     label: Text
     type:  textarea
     size:  large
+
+  display_as_list:
+    type: checkbox
+    label: Display
+    text: Display as List?
