@@ -1,5 +1,5 @@
 <?php $i = 0;
-foreach ($page->children()->visible() as $p): $i++; ?>
+foreach ($page->children()->visible()->flip() as $p): $i++; ?>
   <?php if ($p->award_year()->isNotEmpty() && $p->award_type()->isNotEmpty() && $p->awardee_title()->isNotEmpty() && $p->awardee_name()->isNotEmpty()): ?>
     <a class="sans col-sm-3" href="<?php echo $p->url() ?>">
       <h6><?php echo $p->award_year() ?> <?php echo $p->award_type() ?></h6>

@@ -12,7 +12,7 @@
           <div class="row">
             <hr>
             <ul class="list-unstyled">
-              <?php foreach ($p->children()->visible()->limit(3) as $p): ?>
+              <?php foreach ($p->children()->visible()->flip()->limit(3) as $p): ?>
                 <li>
                   <a class="sans" href="<?php echo $p->url() ?>">
                     <h6><?php echo $p->award_year() ?> <?php echo $p->award_type() ?></h6>
@@ -26,7 +26,7 @@
           </div>
         <?php else: ?>
           <div class="row">
-            <?php foreach ($p->children()->visible()->limit(3) as $p): ?>
+            <?php foreach ($p->children()->visible()->flip()->limit(3) as $p): ?>
               <a class="sans col-sm-4" href="<?php echo $p->url() ?>">
                 <h6><?php echo $p->award_year() ?> <?php echo $p->award_type() ?></h6>
                 <?php if ($p->images()->count() > 0): ?>
