@@ -8,11 +8,6 @@ The American Ethnological Society (AES) is part of the American Anthropological 
 
 <a href="http://www.americananthro.org/join" class="btn btn-lg btn-success">Join</a>
 
-* Join oldest professional anthropological organization in the United States.
-* Be a member of a thriving group of anthropologists who organize an annual meeting, publish the journal American Ethnologist, and carry on a variety of activities to promote scholarship on “ethnology in the broader sense of the term.”
-* Hear directly about AES events, news, and competitions.
-* Create and take stock of the pulse of anthropology.
-
 ----
 
 Modulesettings: 
