@@ -25,3 +25,18 @@ Articles:
 - 
   article: >
     read/journal/volume-43-issue-3-august-2016/rule-by-aesthetics-worldclass-city-making-in-delhi-d-asher-ghertner
+- 
+  article: >
+    read/journal/volume-43-issue-3-august-2016/articulating-rapa-nui-polynesian-cultural-politics-in-a-latin-american-nationstate-riet-delsing
+- 
+  article: >
+    read/journal/volume-43-issue-3-august-2016/revolt-of-the-saints-memory-and-redemption-in-the-twilight-of-brazilian-racial-democracy-john-f-collins
+- 
+  article: >
+    read/journal/volume-43-issue-3-august-2016/the-mushroom-at-the-end-of-the-world-on-the-possibility-of-life-in-capitalist-ruins-anna-lowenhaupt-tsing
+- 
+  article: >
+    read/journal/volume-43-issue-3-august-2016/cruel-attachments-the-ritual-rehab-of-child-molesters-in-germany-john-borneman
+- 
+  article: >
+    read/journal/volume-43-issue-3-august-2016/listening-to-war-sound-music-trauma-and-survival-in-wartime-iraq-j-martin-daughtry
