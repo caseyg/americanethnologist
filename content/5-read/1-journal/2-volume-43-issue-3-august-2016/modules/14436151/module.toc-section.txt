@@ -52,3 +52,12 @@ Articles:
 - 
   article: >
     read/journal/volume-43-issue-3-august-2016/youth-politics-in-putins-russia-producing-patriots-and-entrepreneurs-julie-hemment
+- 
+  article: >
+    read/journal/volume-43-issue-3-august-2016/the-making-of-an-african-working-class-politics-law-and-cultural-protest-in-the-manual-workers-union-of-botswana-pnina-werbner
+- 
+  article: >
+    read/journal/volume-43-issue-3-august-2016/wrapped-in-the-flag-of-israel-mizrahi-single-mothers-and-bureaucratic-torture-smadar-lavie
+- 
+  article: >
+    read/journal/volume-43-issue-3-august-2016/walking-where-jesus-walked-american-christians-and-holy-land-pilgrimage-hillary-kaell
