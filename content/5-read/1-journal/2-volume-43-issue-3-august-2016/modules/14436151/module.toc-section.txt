@@ -40,3 +40,15 @@ Articles:
 - 
   article: >
     read/journal/volume-43-issue-3-august-2016/listening-to-war-sound-music-trauma-and-survival-in-wartime-iraq-j-martin-daughtry
+- 
+  article: >
+    read/journal/volume-43-issue-3-august-2016/in-the-absence-of-the-gift-new-forms-of-value-and-personhood-in-a-papua-new-guinea-community-anders-emil-rasmussen
+- 
+  article: >
+    read/journal/volume-43-issue-3-august-2016/multiethnic-korea-multiculturalism-migration-and-peoplehood-diversity-in-contemporary-south-korea-john-lie-ed
+- 
+  article: >
+    read/journal/volume-43-issue-3-august-2016/getting-by-class-and-state-formation-among-chinese-in-malaysia-donald-m-nonini
+- 
+  article: >
+    read/journal/volume-43-issue-3-august-2016/youth-politics-in-putins-russia-producing-patriots-and-entrepreneurs-julie-hemment
