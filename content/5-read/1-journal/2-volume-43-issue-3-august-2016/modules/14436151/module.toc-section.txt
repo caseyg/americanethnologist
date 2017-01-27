@@ -64,3 +64,9 @@ Articles:
 - 
   article: >
     read/journal/volume-43-issue-3-august-2016/when-the-world-becomes-female-guises-of-a-south-indian-goddess-joyce-burkhalter-flueckiger
+- 
+  article: >
+    read/journal/volume-43-issue-3-august-2016/cultures-of-energy-power-practices-technologies-sarah-strauss-stephanie-rupp-and-thomas-love-eds
+- 
+  article: >
+    read/journal/volume-43-issue-3-august-2016/international-volunteer-tourism-critical-reflections-on-good-works-in-central-america-katherine-borland-and-abigail-e-adams-eds
