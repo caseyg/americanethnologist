@@ -22,3 +22,15 @@ Articles:
 - 
   article: >
     read/journal/volume-43-issue-3-august-2016/precarity-outside-the-political-unconscious-of-french-academic-labor
+- 
+  article: >
+    read/journal/volume-43-issue-3-august-2016/the-makeup-of-destiny-predestination-and-the-labor-of-hope-in-a-moroccan-emigrant-town
+- 
+  article: >
+    read/journal/volume-43-issue-3-august-2016/memory-body-and-the-online-researcher-following-russian-street-demonstrations-via-social-media
+- 
+  article: >
+    read/journal/volume-43-issue-3-august-2016/atmosphere-context-detachment-and-the-view-from-above-earth
+- 
+  article: >
+    read/journal/volume-43-issue-3-august-2016/royal-pharmaceuticals-bioprospecting-rights-and-traditional-authority-in-south-africa
