@@ -13,3 +13,12 @@ Articles:
 - 
   article: >
     read/journal/volume-43-issue-3-august-2016/the-postneoliberal-fabulation-of-power-on-statecraft-precarious-infrastructures-and-public-mobilization-in-brazil
+- 
+  article: >
+    read/journal/volume-43-issue-3-august-2016/crimecraft-journalists-police-and-news-publics-in-an-argentine-town
+- 
+  article: >
+    read/journal/volume-43-issue-3-august-2016/settler-agnosia-in-the-field-indigenous-action-functional-ignorance-and-the-origins-of-ethnographic-entrapment
+- 
+  article: >
+    read/journal/volume-43-issue-3-august-2016/precarity-outside-the-political-unconscious-of-french-academic-labor
