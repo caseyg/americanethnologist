@@ -61,3 +61,6 @@ Articles:
 - 
   article: >
     read/journal/volume-43-issue-3-august-2016/walking-where-jesus-walked-american-christians-and-holy-land-pilgrimage-hillary-kaell
+- 
+  article: >
+    read/journal/volume-43-issue-3-august-2016/when-the-world-becomes-female-guises-of-a-south-indian-goddess-joyce-burkhalter-flueckiger
