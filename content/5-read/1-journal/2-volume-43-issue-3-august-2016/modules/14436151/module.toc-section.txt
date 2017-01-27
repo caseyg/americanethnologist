@@ -1,5 +1,18 @@
-Title: TOC Section
+Title: Book Reviews
 
 ----
 
 Articles: 
+
+- 
+  article: >
+    read/journal/volume-43-issue-3-august-2016/politics-in-color-and-concrete-socialist-materialities-and-the-middle-class-in-hungary-krisztina-fehrvry
+- 
+  article: >
+    read/journal/volume-43-issue-3-august-2016/landscape-of-discontent-urban-sustainability-in-immigrant-paris-andrew-newman
+- 
+  article: >
+    read/journal/volume-43-issue-3-august-2016/african-appropriations-cultural-difference-mimesis-and-media-matthias-krings
+- 
+  article: >
+    read/journal/volume-43-issue-3-august-2016/sensational-movies-video-vision-and-christianity-in-ghana-birgit-meyer
