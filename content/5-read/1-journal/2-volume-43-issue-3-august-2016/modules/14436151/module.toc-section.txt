@@ -16,3 +16,12 @@ Articles:
 - 
   article: >
     read/journal/volume-43-issue-3-august-2016/sensational-movies-video-vision-and-christianity-in-ghana-birgit-meyer
+- 
+  article: >
+    read/journal/volume-43-issue-3-august-2016/moral-economies-of-corruption-state-formation-and-political-culture-in-nigeria-steven-pierce
+- 
+  article: >
+    read/journal/volume-43-issue-3-august-2016/the-government-of-mistrust-illegibility-and-bureaucratic-power-in-socialist-vietnam-ken-maclean
+- 
+  article: >
+    read/journal/volume-43-issue-3-august-2016/rule-by-aesthetics-worldclass-city-making-in-delhi-d-asher-ghertner
