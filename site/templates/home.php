@@ -9,7 +9,7 @@
           <?php $page->modules() ?>
         </div>
       </div>
-      <div class="row">
+<!--      <div class="row">
         <figure class="col-xs-4">
           <img src="http://placehold.it/600x400" class="img-fluid" alt="">
           <h6 class="mt-1">Society</h6>
@@ -22,7 +22,7 @@
           <img src="http://placehold.it/600x400" class="img-fluid" alt="">
           <h6 class="mt-1">Conversations</h6>
         </figure>
-      </div>
+      </div>-->
   </div>
 </div>
 
