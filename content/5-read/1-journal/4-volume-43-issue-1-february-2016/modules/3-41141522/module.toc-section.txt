@@ -73,3 +73,15 @@ Articles:
 - 
   article: >
     read/journal/volume-43-issue-1-february-2016/forest-and-labor-in-madagascar-from-colonial-concession-to-global-biosphere-genese-marie-sodikoff
+- 
+  article: >
+    read/journal/volume-43-issue-1-february-2016/hunters-predators-and-prey-inuit-perceptions-of-animals-frdric-laugrand-and-jarich-oosten
+- 
+  article: >
+    read/journal/volume-43-issue-1-february-2016/environment-and-citizenship-in-latin-america-natures-subjects-and-struggles-alex-latta-and-hannah-wittman-eds
+- 
+  article: >
+    read/journal/volume-43-issue-1-february-2016/the-business-of-creativity-toward-an-anthropology-of-worth-brian-moeran
+- 
+  article: >
+    read/journal/volume-43-issue-1-february-2016/native-evangelism-in-central-mexico-hugo-g-nutini-and-jean-f-nutini
