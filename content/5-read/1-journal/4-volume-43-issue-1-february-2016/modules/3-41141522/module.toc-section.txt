@@ -64,3 +64,12 @@ Articles:
 - 
   article: >
     read/journal/volume-43-issue-1-february-2016/mysteries-of-the-jaguar-shamans-of-the-northwest-amazon-robin-m-wright
+- 
+  article: >
+    read/journal/volume-43-issue-1-february-2016/the-khmer-lands-of-vietnam-environment-cosmology-and-sovereignty-philip-taylor
+- 
+  article: >
+    read/journal/volume-43-issue-1-february-2016/migrants-in-translation-caring-and-the-logics-of-difference-in-contemporary-italy-cristiana-giordano
+- 
+  article: >
+    read/journal/volume-43-issue-1-february-2016/forest-and-labor-in-madagascar-from-colonial-concession-to-global-biosphere-genese-marie-sodikoff
