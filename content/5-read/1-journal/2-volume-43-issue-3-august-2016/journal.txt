@@ -18,4 +18,4 @@ Text:
 
 ----
 
-Coverimage: cover.gif
+Coverimage: ae-43-3.png
