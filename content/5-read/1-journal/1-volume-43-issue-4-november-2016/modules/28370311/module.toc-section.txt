@@ -1,0 +1,57 @@
+Title: Book Reviews
+
+----
+
+Articles: 
+
+- 
+  article: >
+    read/journal/volume-43-issue-4-november-2016/no-billionaire-left-behind-satirical-activism-in-america-angelique-haugerud
+- 
+  article: >
+    read/journal/volume-43-issue-4-november-2016/world-heritage-on-the-ground-ethnographic-perspectives-christoph-brumann-and-david-berliner-eds
+- 
+  article: >
+    read/journal/volume-43-issue-4-november-2016/thank-you-for-dying-for-our-country-commemorative-texts-and-performances-in-jerusalem-chaim-noy
+- 
+  article: >
+    read/journal/volume-43-issue-4-november-2016/palestinian-commemoration-in-israel-calendars-monuments-and-martyrs
+- 
+  article: >
+    read/journal/volume-43-issue-4-november-2016/nature-culture-and-society-anthropological-perspectives-on-life-gisli-palsson
+- 
+  article: >
+    read/journal/volume-43-issue-4-november-2016/climate-cultures-anthropological-perspectives-on-climate-change-jessica-barnes-and-michael-r-dove-eds
+- 
+  article: >
+    read/journal/volume-43-issue-4-november-2016/gambling-debt-icelands-rise-and-fall-in-the-global-economy-e-paul-durrenberger-and-gisli-palsson-eds
+- 
+  article: >
+    read/journal/volume-43-issue-4-november-2016/banking-on-words-the-failure-of-language-in-the-age-of-derivative-finance-arjun-appadurai
+- 
+  article: >
+    read/journal/volume-43-issue-4-november-2016/arbitraging-japan-dreams-of-capitalism-at-the-end-of-finance-hirokazu-miyazaki
+- 
+  article: >
+    read/journal/volume-43-issue-4-november-2016/the-meaning-of-money-in-china-and-the-united-states-the-1986-lewis-henry-morgan-lectures-emily-martin
+- 
+  article: >
+    read/journal/volume-43-issue-4-november-2016/religious-difference-in-a-secular-age-a-minority-report-saba-mahmood
+- 
+  article: >
+    read/journal/volume-43-issue-4-november-2016/global-pentecostalism-in-the-21st-century-robert-w-hefner-ed
+- 
+  article: >
+    read/journal/volume-43-issue-4-november-2016/pipe-politics-contested-waters-embedded-infrastructures-of-millennial-mumbai-lisa-bjrkman
+- 
+  article: >
+    read/journal/volume-43-issue-4-november-2016/owners-of-the-sidewalk-security-and-survival-in-the-informal-city-daniel-m-goldstein
+- 
+  article: >
+    read/journal/volume-43-issue-4-november-2016/a-century-of-violence-in-a-red-city-popular-struggle-counterinsurgency-and-human-rights-in-colombia-lesley-gill
+- 
+  article: >
+    read/journal/volume-43-issue-4-november-2016/the-insecure-city-space-power-and-mobility-in-beirut-kristin-v-monroe
+- 
+  article: >
+    read/journal/volume-43-issue-4-november-2016/global-prayers-contemporary-manifestations-of-the-religious-in-the-city-jochen-becher-katrin-klingan-stephan-lanz-and-kathrin-wildner-eds
