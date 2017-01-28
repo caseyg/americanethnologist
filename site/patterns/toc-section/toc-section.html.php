@@ -4,10 +4,14 @@
 <?php foreach ($articles as $a): ?>
   <?php $a = page($a); ?>
   <div class="row">
-    <a href="<?php echo $a->url() ?>" class="mt-3 d-block text-xs-center">
+    <a href="<?php if ($a->intendedTemplate() == 'bookreview'): ?><?php echo $a->wiley() ?><?php else: ?><?php echo $a->url() ?><?php endif; ?>" class="mt-3 d-block text-xs-center">
       <h3 class="mb-0"><?php echo $a->title() ?></h3>
       <h4 class="mb-1 bentonsanscondensedregular"><?php echo $a->subtitle() ?></h4>
-      <p class="gray--600"><em>by</em> <strong><?php echo $a->author() ?></strong></p>
+      <?php if ($a->book_author()->isNotEmpty()): ?>
+        <p class="gray--600"><em>by</em> <strong><?php echo $a->book_author() ?></strong>, <em>reviewed by</em> <strong><?php echo $a->author() ?></strong></p>
+      <?php else: ?>
+        <p class="gray--600"><em>by</em> <strong><?php echo $a->author() ?></strong></p>
+      <?php endif; ?>
       <?php if ($a->hasImages()): ?>
         <img src="<?php echo $a->images()->first()->resize(500,500)->url() ?>" alt="">
       <?php endif; ?>
