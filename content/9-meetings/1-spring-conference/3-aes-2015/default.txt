@@ -1,31 +1,47 @@
-Title: AES 2015
+Title: AES 2015: Emergence
+
 ----
+
 Date: 06/02/2015
+
 ----
+
 Category: 
+
 ----
+
 Summary: 
+
 ----
+
 Tags: 
+
 ----
-Text:
+
+Text: 
+
 (link: http://aesonline.org/wp-content/uploads/2013/10/2015-aes-poster-650px.jpg text: <figure>
 (image: http://aesonline.org/wp-content/uploads/2013/10/2015-aes-poster-650px-231x300.jpg alt: AES Spring Meeting poster)
 <figcaption>AES Spring Meeting poster</figcaption>
 </figure>
 
 )2015 AES Spring Meeting
------------------------
 
-**March 12-14, 2015** Wyndham San Diego Bayside Hotel San Diego, California <figure>
-(image: http://aesonline.org/wp-content/uploads/2013/10/bullet-triangle.gif alt: triangle)
+----
+
+March-12-14-2015-wyndham-san-diego-bayside-hotel-san-diego-california-figure-image: 
+
+http://aesonline.org/wp-content/uploads/2013/10/bullet-triangle.gif alt: triangle)
 <figcaption>triangle</figcaption>
 </figure>
 
 (link: http://aesonline.org/wp-content/uploads/2013/10/aes-2015-program-final.pdf text: AES 2015 Spring Conference)EMERGENCE
----------
 
- To emerge is to come forth, to come into view, to become known. Emergence may be predictable or unexpected, either an evolutionary process or the creation of something altogether new. In thinking of “emergence” as a contemporary theme in cultural anthropology, we envision a range of possibilities. Current scholarship on energetic ideas such as vitality, vibrancy, and liveliness speaks to being and becoming, yet so does affective and material work on the generative properties of decay, destruction, and ruins, or research on the social forms that emerge after war or disaster. Joining theoretical conversations about ontology, ethnological research offers insights into how things, concepts, infrastructures, and characters come into being, but also directs attention to what is put aside, deliberately obviated, or lost. Studies of "emerging” democracies, economies, or donors provide strong bases to critique the determinism inherent in notions of emergence. Recent explorations of new anthropological spaces, formations, data, and subjects (human and non-human) open related questions. For example, how do topics or questions emerge as new, or perhaps as newfangled, and what sort of relationships or scholarship follows? We invite proposals for papers, panels, workshops, and special events that bring forth new thinking about the process of becoming. Topics might include: - Emergencies and related social forms that come out of war, conflict or destruction
+----
+
+To-emerge-is-to-come-forth-to-come-into-view-to-become-known-emergence-may-be-predictable-or-unexpected-either-an-evolutionary-process-or-the-creation-of-something-altogether-new-in-thinking-of-emergence-as-a-contemporary-theme-in-cultural-anthropology-we-envision-a-range-of-possibilities-current-scholarship-on-energetic-ideas-such-as-vitality-vibrancy-and-liveliness-speaks-to-being-and-becoming-yet-so-does-affective-and-material-work-on-the-generative-properties-of-decay-destruction-and-ruins-or-research-on-the-social-forms-that-emerge-after-war-or-disaster-joining-theoretical-conversations-about-ontology-ethnological-research-offers-insights-into-how-things-concepts-infrastructures-and-characters-come-into-being-but-also-directs-attention-to-what-is-put-aside-deliberately-obviated-or-lost-studies-of-emerging-democracies-economies-or-donors-provide-strong-bases-to-critique-the-determinism-inherent-in-notions-of-emergence-recent-explorations-of-new-anthropological-spaces-formations-data-and-subjects-human-and-non-human-open-related-questions-for-example-how-do-topics-or-questions-emerge-as-new-or-perhaps-as-newfangled-and-what-sort-of-relationships-or-scholarship-follows-we-invite-proposals-for-papers-panels-workshops-and-special-events-that-bring-forth-new-thinking-about-the-process-of-becoming-topics-might-include: 
+
+- Emergencies and related social forms that come out of war, conflict or destruction
 - The role of infrastructure in bringing forth new anthropological subjects
 - New forms of data and information that construct novel forms of subjectivity
 - The emergence of material objects as vital agents
