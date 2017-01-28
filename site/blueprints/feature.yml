@@ -11,6 +11,12 @@ fields:
   title:
     label: Title
     type:  text
+    width: 1/2
+
+  date:
+    label: Date
+    type: date
+    width: 1/2
 
   modules: modules
 
@@ -21,7 +27,3 @@ fields:
   tags:
     label: Keywords
     type: tags
-
-  date:
-    label: Date
-    type: date
