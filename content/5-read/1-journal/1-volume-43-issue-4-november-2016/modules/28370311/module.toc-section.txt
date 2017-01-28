@@ -1,5 +1,21 @@
-Title: TOC Section
+Title: Book Reviews
 
 ----
 
 Articles: 
+
+- 
+  article: >
+    read/journal/volume-43-issue-4-november-2016/no-billionaire-left-behind-satirical-activism-in-america-angelique-haugerud
+- 
+  article: >
+    read/journal/volume-43-issue-4-november-2016/world-heritage-on-the-ground-ethnographic-perspectives-christoph-brumann-and-david-berliner-eds
+- 
+  article: >
+    read/journal/volume-43-issue-4-november-2016/thank-you-for-dying-for-our-country-commemorative-texts-and-performances-in-jerusalem-chaim-noy
+- 
+  article: >
+    read/journal/volume-43-issue-4-november-2016/palestinian-commemoration-in-israel-calendars-monuments-and-martyrs
+- 
+  article: >
+    read/journal/volume-43-issue-4-november-2016/nature-culture-and-society-anthropological-perspectives-on-life-gisli-palsson
