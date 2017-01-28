@@ -34,4 +34,4 @@ Subtitle:
 
 ----
 
-Book-author: Hana Cervinkova,Michal Buchowski,and Zdeněk Uherek,eds.
+Book-author: Hana Cervinkova,Michal Buchowski
