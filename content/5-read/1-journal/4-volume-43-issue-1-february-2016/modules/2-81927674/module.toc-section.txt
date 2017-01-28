@@ -1,0 +1,33 @@
+Title: Research Articles
+
+----
+
+Articles: 
+
+- 
+  article: >
+    read/journal/volume-43-issue-1-february-2016/love-in-the-time-of-occupation-reveries-longing-and-intoxication-in-kashmir
+- 
+  article: >
+    read/journal/volume-43-issue-1-february-2016/ordering-dependence-care-disorder-and-kinship-ideology-in-north-indian-antiviolence-counseling
+- 
+  article: >
+    read/journal/volume-43-issue-1-february-2016/the-righteous-and-the-rightful-the-technomoral-politics-of-ngos-social-movements-and-the-state-in-india
+- 
+  article: >
+    read/journal/volume-43-issue-1-february-2016/rituals-of-care-for-the-elderly-in-northern-thailand-merit-morality-and-the-everyday-of-longterm-care
+- 
+  article: >
+    read/journal/volume-43-issue-1-february-2016/skill-and-masculinity-in-olympic-weightlifting-training-cues-and-cultivated-craziness-in-georgia
+- 
+  article: >
+    read/journal/volume-43-issue-1-february-2016/trading-in-broken-things-gendered-performances-and-spatial-practices-in-a-northern-vietnamese-ruralurban-waste-economy
+- 
+  article: >
+    read/journal/volume-43-issue-1-february-2016/palestine-my-love-the-ethicopolitics-of-love-and-mourning-in-jewish-israeli-solidarity-activism
+- 
+  article: >
+    read/journal/volume-43-issue-1-february-2016/i-am-a-radioactive-mutant-emergent-biological-subjectivities-at-kazakhstans-semipalatinsk-nuclear-test-site
+- 
+  article: >
+    read/journal/volume-43-issue-1-february-2016/petitioning-a-giant-debt-reciprocity-and-mortgage-modification-in-the-sacramento-valley

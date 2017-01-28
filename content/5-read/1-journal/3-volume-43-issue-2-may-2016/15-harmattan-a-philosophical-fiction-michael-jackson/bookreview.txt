@@ -1,18 +1,37 @@
-Title: Harmattan: A Philosophical Fiction. Michael Jackson.
-----
-Date: 05/24/2016
-----
-Category: Book Reviews - Volume 43, Issue 2 (May 2016), Volume 43, Issue 2 (May 2016)
-----
-Summary: 
-----
-Tags: 
-----
-Text:
+Title: Harmattan
 
 ----
-Wiley:
-http://onlinelibrary.wiley.com/doi/10.1111/amet.12320/full
+
+Date: 05/24/2016
+
 ----
-Author:
-Samuel Mark Anderson
+
+Category: Book Reviews - Volume 43, Issue 2 (May 2016), Volume 43, Issue 2 (May 2016)
+
+----
+
+Summary: 
+
+----
+
+Tags: 
+
+----
+
+Text: 
+
+----
+
+Wiley: http://onlinelibrary.wiley.com/doi/10.1111/amet.12320/full
+
+----
+
+Author: Samuel Mark Anderson
+
+----
+
+Subtitle: A Philosophical Fiction
+
+----
+
+Book-author: Michael Jackson
