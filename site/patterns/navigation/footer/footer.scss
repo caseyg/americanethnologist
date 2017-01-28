@@ -38,3 +38,9 @@ footer {
     bottom: -25%;
     left: -25%;
 }
+
+body#home, body#join {
+  #footer-wrap {
+    margin: 0!important;
+  }
+}
