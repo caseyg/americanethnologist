@@ -37,3 +37,24 @@ Articles:
 - 
   article: >
     read/journal/volume-43-issue-2-may-2016/bush-bound-young-men-and-rural-permanence-in-migrant-west-africa-paolo-gaibazzi
+- 
+  article: >
+    read/journal/volume-43-issue-2-may-2016/hierarchy-and-pluralism-living-religious-difference-in-catholic-poland-agnieszka-pasieka
+- 
+  article: >
+    read/journal/volume-43-issue-2-may-2016/the-slain-god-anthropologists-and-the-christian-faith-timothy-larsen
+- 
+  article: >
+    read/journal/volume-43-issue-2-may-2016/aurality-listening-and-knowledge-in-nineteenthcentury-colombia-ana-mara-ochoa-gautier
+- 
+  article: >
+    read/journal/volume-43-issue-2-may-2016/flowers-that-kill-communicative-opacity-in-political-spaces-emiko-ohnukitierney
+- 
+  article: >
+    read/journal/volume-43-issue-2-may-2016/the-human-right-to-dominate-nicola-perugini-and-neve-gordon
+- 
+  article: >
+    read/journal/volume-43-issue-2-may-2016/jaffa-shared-and-shattered-contrived-coexistence-in-israelpalestine-daniel-monterescu
+- 
+  article: >
+    read/journal/volume-43-issue-2-may-2016/mediating-the-global-expatrias-forms-and-consequences-in-kathmandu-heather-hindman
