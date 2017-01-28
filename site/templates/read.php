@@ -10,7 +10,7 @@
     <p><em>Online-only interviews, news, and resources.</em></p>
     <?php foreach ($pages->find('features')->grandchildren()->visible()->limit(3) as $f): ?>
       <a href="<?php echo $f->url() ?>">
-        <img src="http://placehold.it/300x200" class="img-fluid" alt="">
+        <!--<img src="http://placehold.it/300x200" class="img-fluid" alt="">-->
         <h6 class="mt-1"><?php echo $f->title() ?></h6>
       </a>
       <hr>
@@ -53,7 +53,7 @@
       </div>
     </div>
 
-    <hr>
+<!--    <hr>
 
     <h2 class="mb-1">Browse the AE Archive...</h2>
 
@@ -70,7 +70,7 @@
           <img class="img-fluid" src="http://placehold.it/600x400" alt="">
         </a>
       </div>
-    </div>
+    </div>-->
 
     <?php $page->modules() ?>
   </div>
