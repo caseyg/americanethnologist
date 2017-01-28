@@ -1,0 +1,16 @@
+Title: Text module
+
+----
+
+Text: 
+
+###AES/AAA Invited and Volunteered Sessions for AAA 2017
+Watch here for information on how to submit proposals for AES’s slate of sessions in Washington DC. Questions? Contact Roberto Gonzalez, Councilor, roberto.gonzalez [at] sjsu.edu. Note that seeking cosponsored invited status is recommended (where AES plus another section share the sponsorship).
+
+----
+
+Modulesettings: 
+
+----
+
+Lead: true
