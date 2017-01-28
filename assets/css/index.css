@@ -232,6 +232,9 @@ figure {
 figure.img-thumbnail {
   margin: 0; }
 
+.meeting-info .text {
+  margin-bottom: 50px; }
+
 header li {
   font-size: 13px !important; }
 
@@ -316,6 +319,9 @@ footer {
 .nav .active, .nav .nav-item.open .nav-link {
   color: #ec5e55 !important; }
 
+.nav--sidebar {
+  margin-bottom: 50px; }
+
 .toc__figure {
   max-width: 500px;
   margin: auto; }
@@ -323,4 +329,5 @@ footer {
     font-size: 12px; }
 
 body {
-  background: #f9f6ec; }
+  background: #f9f6ec;
+  position: relative; }
