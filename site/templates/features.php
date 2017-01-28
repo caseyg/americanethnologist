@@ -14,7 +14,7 @@
   } elseif ($page->depth() == 2) {
     $pages = $page->children();
   } ?>
-  <?php foreach ($pages->visible()->sortby('date') as $i): ?>
+  <?php foreach ($pages->visible()->sortBy('date', 'desc') as $i): ?>
     <li class="mb-1">
       <a href="<?php echo $i->url() ?>">
         <div class="media">
