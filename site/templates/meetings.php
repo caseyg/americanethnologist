@@ -10,8 +10,11 @@
 
 <div class="row">
 <?php if ($page->depth() > 1): ?>
+  <div class="col-xs-12 lead mb-3">
+    <?php echo $page->text() ?>
+  </div>
   <?php foreach ($page->children() as $event): ?>
-    <div class="col-sm-6">
+    <div class="col-sm-6 mb-3">
       <a href="<?php echo $event->url() ?>">
         <h4><?php echo $event->title() ?></h4>
         <img class="img-fluid" src="<?php if ($event->hasImages()): echo $event->images()->first()->crop(600,400)->url(); else: echo "http://placehold.it/600x400"; endif;?> " alt="">
