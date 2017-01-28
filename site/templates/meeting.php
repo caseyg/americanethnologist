@@ -1,6 +1,8 @@
 <?php snippet('header') ?>
 
-<h6 class="mb-1"><a href="<?php echo $page->parent()->url() ?>"><i class="fa fa-chevron-left" aria-hidden="true"></i> <?php echo $page->parent()->title() ?></a></h6>
+<?php pattern('navigation/horizontal', array('pages' => $page->parent()->siblings()->visible())) ?>
+
+<hr>
 
 <div class="jumbotron p-0">
   <div class="row">
