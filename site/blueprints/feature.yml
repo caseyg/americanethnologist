@@ -21,3 +21,7 @@ fields:
   tags:
     label: Keywords
     type: tags
+
+  date:
+    label: Date
+    type: date
