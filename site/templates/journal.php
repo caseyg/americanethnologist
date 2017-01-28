@@ -7,7 +7,7 @@
   <main class="main" role="main">
     <?php if ($page->coverimage()->isNotEmpty()): ?>
       <div class="row text-xs-center">
-        <img class="my-2" style="box-shadow: 0 5px 10px rgba(0,0,0,.25);" src="<?php echo $page->coverimage()->toFile()->url() ?>" width="250" alt="">
+        <img class="my-2 img-fluid" style="box-shadow: 0 5px 10px rgba(0,0,0,.25);" src="<?php echo $page->coverimage()->toFile()->resize(350,0)->url() ?>">
       </div>
     <?php endif; ?>
     <div class="row">
