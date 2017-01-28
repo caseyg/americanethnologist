@@ -300,6 +300,9 @@ footer {
   bottom: -25%;
   left: -25%; }
 
+body#home #footer-wrap, body#join #footer-wrap {
+  margin: 0 !important; }
+
 .nav a:link,
 .nav a:visited {
   color: #797979;

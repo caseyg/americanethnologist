@@ -16,6 +16,6 @@
   <?= css('assets/css/index.min.css') ?>
 
 </head>
-<body>
+<body id="<?php echo $page->slug() ?>">
   <div class="container">
     <?php pattern('navigation/header') ?>
