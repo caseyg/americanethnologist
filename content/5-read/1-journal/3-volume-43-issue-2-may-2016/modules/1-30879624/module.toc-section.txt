@@ -31,3 +31,9 @@ Articles:
 - 
   article: >
     read/journal/volume-43-issue-2-may-2016/the-evangelical-financial-ethic-doubled-forms-and-the-search-for-god-in-the-economic-world
+- 
+  article: >
+    read/journal/volume-43-issue-2-may-2016/the-jurez-wives-club-gendered-citizenship-and-us-immigration-law
+- 
+  article: >
+    read/journal/volume-43-issue-2-may-2016/catalonias-human-towers-nationalism-associational-culture-and-the-politics-of-performance
