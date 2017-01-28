@@ -55,3 +55,42 @@ Articles:
 - 
   article: >
     read/journal/volume-43-issue-4-november-2016/global-prayers-contemporary-manifestations-of-the-religious-in-the-city-jochen-becher-katrin-klingan-stephan-lanz-and-kathrin-wildner-eds
+- 
+  article: >
+    read/journal/volume-43-issue-4-november-2016/that-old-bilbao-moon-the-passion-and-resurrection-of-a-city-joseba-zulaika
+- 
+  article: >
+    read/journal/volume-43-issue-4-november-2016/aging-and-loss-mourning-and-maturity-in-contemporary-japan-jason-danely
+- 
+  article: >
+    read/journal/volume-43-issue-4-november-2016/class-work-vocational-schools-and-chinas-urban-youth-t-e-woronov
+- 
+  article: >
+    read/journal/volume-43-issue-4-november-2016/tourist-attractions-performing-race-and-masculinity-in-brazils-sexual-economy-gregory-mitchell
+- 
+  article: >
+    read/journal/volume-43-issue-4-november-2016/insufficient-funds-the-culture-of-money-in-lowwage-transnational-families-hung-cam-thai
+- 
+  article: >
+    read/journal/volume-43-issue-4-november-2016/kabul-carnival-gender-politics-in-postwar-afghanistan-julie-billaud
+- 
+  article: >
+    read/journal/volume-43-issue-4-november-2016/savage-preservation-the-ethnographic-origins-of-modern-media-technology-brian-hochman
+- 
+  article: >
+    read/journal/volume-43-issue-4-november-2016/islam-is-a-foreign-country-american-muslims-and-the-global-crisis-of-authority-zareena-grewal
+- 
+  article: >
+    read/journal/volume-43-issue-4-november-2016/corridor-talk-to-culture-history-public-anthropology-and-its-consequences-regna-darnell-and-frederic-w-gleach-eds
+- 
+  article: >
+    read/journal/volume-43-issue-4-november-2016/living-the-hiplife-celebrity-and-entrepreneurship-in-ghanaian-popular-music-jesse-weaver-shipley
+- 
+  article: >
+    read/journal/volume-43-issue-4-november-2016/earth-beings-ecologies-of-practice-across-andean-worlds-marisol-de-la-cadena
+- 
+  article: >
+    read/journal/volume-43-issue-4-november-2016/ayyas-accounts-a-ledger-of-hope-in-modern-india-anand-pandian-and-m-p-mariappan
+- 
+  article: >
+    read/journal/volume-43-issue-4-november-2016/yayas-story-the-quest-for-wellbeing-in-the-world-paul-stoller
