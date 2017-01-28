@@ -2,6 +2,11 @@ title: Meetings
 
 icon: users
 
+fields:
+  text:
+    label: Text
+    type: textarea
+
 options:
   delete: false
   status: false
