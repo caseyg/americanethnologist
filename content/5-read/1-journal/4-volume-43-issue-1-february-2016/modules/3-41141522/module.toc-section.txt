@@ -34,3 +34,24 @@ Articles:
 - 
   article: >
     read/journal/volume-43-issue-1-february-2016/ethnography-for-the-internet-embedded-embodied-and-everyday-christine-hine
+- 
+  article: >
+    read/journal/volume-43-issue-1-february-2016/the-republic-unsettled-muslim-french-and-the-contradictions-of-secularism-mayanthi-l-fernando
+- 
+  article: >
+    read/journal/volume-43-issue-1-february-2016/the-spirit-of-the-laws-in-mozambique-juan-obarrio
+- 
+  article: >
+    read/journal/volume-43-issue-1-february-2016/tamil-brahmans-the-making-of-a-middleclass-caste-c-j-fuller-and-haripriya-narasimhan
+- 
+  article: >
+    read/journal/volume-43-issue-1-february-2016/the-development-state-aid-culture-and-civil-society-in-tanzania-maia-green
+- 
+  article: >
+    read/journal/volume-43-issue-1-february-2016/return-to-sender-the-moral-economy-of-perus-migrant-remittances-karsten-paerregaard
+- 
+  article: >
+    read/journal/volume-43-issue-1-february-2016/the-impotence-epidemic-mens-medicine-and-sexual-desire-in-contemporary-china-everett-yuehong-zhang
+- 
+  article: >
+    read/journal/volume-43-issue-1-february-2016/the-heros-fight-african-americans-in-west-baltimore-and-the-shadow-of-the-state-patricia-fernndezkelly
