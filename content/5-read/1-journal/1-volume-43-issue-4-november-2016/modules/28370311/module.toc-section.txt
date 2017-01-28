@@ -37,3 +37,21 @@ Articles:
 - 
   article: >
     read/journal/volume-43-issue-4-november-2016/religious-difference-in-a-secular-age-a-minority-report-saba-mahmood
+- 
+  article: >
+    read/journal/volume-43-issue-4-november-2016/global-pentecostalism-in-the-21st-century-robert-w-hefner-ed
+- 
+  article: >
+    read/journal/volume-43-issue-4-november-2016/pipe-politics-contested-waters-embedded-infrastructures-of-millennial-mumbai-lisa-bjrkman
+- 
+  article: >
+    read/journal/volume-43-issue-4-november-2016/owners-of-the-sidewalk-security-and-survival-in-the-informal-city-daniel-m-goldstein
+- 
+  article: >
+    read/journal/volume-43-issue-4-november-2016/a-century-of-violence-in-a-red-city-popular-struggle-counterinsurgency-and-human-rights-in-colombia-lesley-gill
+- 
+  article: >
+    read/journal/volume-43-issue-4-november-2016/the-insecure-city-space-power-and-mobility-in-beirut-kristin-v-monroe
+- 
+  article: >
+    read/journal/volume-43-issue-4-november-2016/global-prayers-contemporary-manifestations-of-the-religious-in-the-city-jochen-becher-katrin-klingan-stephan-lanz-and-kathrin-wildner-eds
