@@ -37,3 +37,39 @@ Articles:
 - 
   article: >
     read/journal/volume-43-issue-2-may-2016/bush-bound-young-men-and-rural-permanence-in-migrant-west-africa-paolo-gaibazzi
+- 
+  article: >
+    read/journal/volume-43-issue-2-may-2016/hierarchy-and-pluralism-living-religious-difference-in-catholic-poland-agnieszka-pasieka
+- 
+  article: >
+    read/journal/volume-43-issue-2-may-2016/the-slain-god-anthropologists-and-the-christian-faith-timothy-larsen
+- 
+  article: >
+    read/journal/volume-43-issue-2-may-2016/aurality-listening-and-knowledge-in-nineteenthcentury-colombia-ana-mara-ochoa-gautier
+- 
+  article: >
+    read/journal/volume-43-issue-2-may-2016/flowers-that-kill-communicative-opacity-in-political-spaces-emiko-ohnukitierney
+- 
+  article: >
+    read/journal/volume-43-issue-2-may-2016/the-human-right-to-dominate-nicola-perugini-and-neve-gordon
+- 
+  article: >
+    read/journal/volume-43-issue-2-may-2016/jaffa-shared-and-shattered-contrived-coexistence-in-israelpalestine-daniel-monterescu
+- 
+  article: >
+    read/journal/volume-43-issue-2-may-2016/mediating-the-global-expatrias-forms-and-consequences-in-kathmandu-heather-hindman
+- 
+  article: >
+    read/journal/volume-43-issue-2-may-2016/the-viral-network-a-pathography-of-the-h1n1-influenza-pandemic-theresa-macphail
+- 
+  article: >
+    read/journal/volume-43-issue-2-may-2016/ordinary-medicine-extraordinary-treatments-longer-lives-and-where-to-draw-the-line-sharon-r-kaufman
+- 
+  article: >
+    read/journal/volume-43-issue-2-may-2016/sinophobia-anxiety-violence-and-the-making-of-mongolian-identity-franck-bill
+- 
+  article: >
+    read/journal/volume-43-issue-2-may-2016/wild-life-the-institution-of-nature-irus-braverman
+- 
+  article: >
+    read/journal/volume-43-issue-2-may-2016/artifacts-and-allegiances-how-museums-put-the-nation-and-the-world-on-display-peggy-levitt
