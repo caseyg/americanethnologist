@@ -19,3 +19,21 @@ Articles:
 - 
   article: >
     read/journal/volume-43-issue-4-november-2016/nature-culture-and-society-anthropological-perspectives-on-life-gisli-palsson
+- 
+  article: >
+    read/journal/volume-43-issue-4-november-2016/climate-cultures-anthropological-perspectives-on-climate-change-jessica-barnes-and-michael-r-dove-eds
+- 
+  article: >
+    read/journal/volume-43-issue-4-november-2016/gambling-debt-icelands-rise-and-fall-in-the-global-economy-e-paul-durrenberger-and-gisli-palsson-eds
+- 
+  article: >
+    read/journal/volume-43-issue-4-november-2016/banking-on-words-the-failure-of-language-in-the-age-of-derivative-finance-arjun-appadurai
+- 
+  article: >
+    read/journal/volume-43-issue-4-november-2016/arbitraging-japan-dreams-of-capitalism-at-the-end-of-finance-hirokazu-miyazaki
+- 
+  article: >
+    read/journal/volume-43-issue-4-november-2016/the-meaning-of-money-in-china-and-the-united-states-the-1986-lewis-henry-morgan-lectures-emily-martin
+- 
+  article: >
+    read/journal/volume-43-issue-4-november-2016/religious-difference-in-a-secular-age-a-minority-report-saba-mahmood
