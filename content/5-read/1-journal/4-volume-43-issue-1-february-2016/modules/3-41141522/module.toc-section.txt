@@ -3,3 +3,34 @@ Title: Book Reviews
 ----
 
 Articles: 
+
+- 
+  article: >
+    read/journal/volume-43-issue-1-february-2016/police-encounters-security-and-surveillance-in-gaza-under-egyptian-rule-ilana-feldman
+- 
+  article: >
+    read/journal/volume-43-issue-1-february-2016/tamils-and-the-haunting-of-justice-history-and-recognition-in-malaysias-plantations-andrew-willford
+- 
+  article: >
+    read/journal/volume-43-issue-1-february-2016/lands-end-capitalist-relations-on-an-indigenous-frontier-tania-murray-li
+- 
+  article: >
+    read/journal/volume-43-issue-1-february-2016/cora-du-bois-anthropologist-diplomat-agent-susan-c-seymour
+- 
+  article: >
+    read/journal/volume-43-issue-1-february-2016/islam-youth-and-modernity-in-the-gambia-the-tablighi-jamaat-marloes-janson
+- 
+  article: >
+    read/journal/volume-43-issue-1-february-2016/the-voice-in-the-drum-music-language-and-emotion-in-islamicate-south-asia-richard-k-wolf
+- 
+  article: >
+    read/journal/volume-43-issue-1-february-2016/cultural-heritage-in-transit-intangible-rights-as-human-rights-deborah-kapchan-ed
+- 
+  article: >
+    read/journal/volume-43-issue-1-february-2016/the-calls-of-islam-sufis-islamists-and-mass-mediation-in-urban-morocco-emilio-spadola
+- 
+  article: >
+    read/journal/volume-43-issue-1-february-2016/the-modern-spirit-of-asia-the-spiritual-and-the-secular-in-china-and-india-peter-van-der-veer
+- 
+  article: >
+    read/journal/volume-43-issue-1-february-2016/ethnography-for-the-internet-embedded-embodied-and-everyday-christine-hine
