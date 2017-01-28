@@ -55,3 +55,12 @@ Articles:
 - 
   article: >
     read/journal/volume-43-issue-1-february-2016/the-heros-fight-african-americans-in-west-baltimore-and-the-shadow-of-the-state-patricia-fernndezkelly
+- 
+  article: >
+    read/journal/volume-43-issue-1-february-2016/fluent-selves-autobiography-person-and-history-in-lowland-south-america-suzanne-oakdale-and-magnus-course-eds
+- 
+  article: >
+    read/journal/volume-43-issue-1-february-2016/histories-of-victimhood-steffen-jensen-and-henrik-ronsbo-eds
+- 
+  article: >
+    read/journal/volume-43-issue-1-february-2016/mysteries-of-the-jaguar-shamans-of-the-northwest-amazon-robin-m-wright
