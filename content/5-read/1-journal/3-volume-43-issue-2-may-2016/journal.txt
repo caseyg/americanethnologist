@@ -18,7 +18,7 @@ Text:
 
 ----
 
-Coverimage: 
+Coverimage: ae-43-2.png
 
 ----
 
