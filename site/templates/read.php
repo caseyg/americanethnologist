@@ -22,9 +22,9 @@
     <h5 class="mb-2">Journal of the American Ethnological Society</h5>
     <?php foreach ($pages->find('read/journal')->children()->visible()->limit(1) as $j): ?>
       <?php if ($j->coverimage()->isNotEmpty()): ?>
-        <img class="img-thumbnail float-sm-right ml-1 mb-1" src="<?php echo $j->coverimage()->toFile()->url() ?>" width="200" height="400" alt="">
+        <img class="float-sm-right ml-1 mb-1 img-fluid" src="<?php echo $j->coverimage()->toFile()->url() ?>" width="200" height="400"  style="box-shadow: 0 5px 10px rgba(0,0,0,.25);">
       <?php else: ?>
-        <img class="img-thumbnail float-sm-right ml-1 mb-1" src="http://placehold.it/200x256" width="200" height="400" alt="">
+        <img class="float-sm-right ml-1 mb-1 img-fluid" src="http://placehold.it/200x256" width="200" height="400"  style="box-shadow: 0 5px 10px rgba(0,0,0,.25);">
       <?php endif; ?>
       <p><em>Current Issue:</em>&nbsp;  <strong><?php echo date('F Y', $j->date()) ?></strong> — Volume <?php echo $j->volume() ?> | Issue <?php echo $j->issue() ?></p>
       <p class="lead"><?php echo $j->text() ?></p>
@@ -38,9 +38,9 @@
       <?php foreach ($pages->find('read/journal')->children()->visible()->sortBy('date', 'desc')->limit(4) as $j): ?>
         <a href="<?php echo $j->url() ?>" class="col-xs-3">
           <?php if ($j->coverimage()->isNotEmpty()): ?>
-            <img class="img-thumbnail float-sm-right ml-1 mb-1" src="<?php echo $j->coverimage()->toFile()->url() ?>" width="200" height="400" alt="">
+            <img class="float-sm-right ml-1 mb-1 img-fluid" src="<?php echo $j->coverimage()->toFile()->url() ?>" style="box-shadow: 0 5px 10px rgba(0,0,0,.25);">
           <?php else: ?>
-            <img class="img-thumbnail float-sm-right ml-1 mb-1" src="http://placehold.it/200x256" width="200" height="400" alt="">
+            <img class="float-sm-right ml-1 mb-1 img-fluid" src="http://placehold.it/200x256" style="box-shadow: 0 5px 10px rgba(0,0,0,.25);">
           <?php endif; ?>
           <h6 class="mt-1"><?php echo $j->title() ?></h6>
         </a>
