@@ -25,3 +25,9 @@ Articles:
 - 
   article: >
     read/journal/volume-43-issue-1-february-2016/palestine-my-love-the-ethicopolitics-of-love-and-mourning-in-jewish-israeli-solidarity-activism
+- 
+  article: >
+    read/journal/volume-43-issue-1-february-2016/i-am-a-radioactive-mutant-emergent-biological-subjectivities-at-kazakhstans-semipalatinsk-nuclear-test-site
+- 
+  article: >
+    read/journal/volume-43-issue-1-february-2016/petitioning-a-giant-debt-reciprocity-and-mortgage-modification-in-the-sacramento-valley
