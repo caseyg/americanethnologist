@@ -13,7 +13,10 @@
         <p class="gray--600"><em>by</em> <strong><?php echo $a->author() ?></strong></p>
       <?php endif; ?>
       <?php if ($a->hasImages()): ?>
-        <img src="<?php echo $a->images()->first()->resize(500,500)->url() ?>" alt="">
+        <figure class="toc__figure">
+          <img src="<?php echo $a->images()->first()->resize(500,500)->url() ?>" alt="">
+          <figcaption><?php echo $a->images()->first()->caption() ?> <?php if ($a->images()->first()->caption()->isNotEmpty()): ?>  (<?php echo $a->images()->first()->credit() ?>)<?php endif; ?></figcaption>
+        </figure>
       <?php endif; ?>
     </a>
     <?php if ($a->related()->isNotEmpty()): ?>

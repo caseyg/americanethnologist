@@ -316,5 +316,11 @@ footer {
 .nav .active, .nav .nav-item.open .nav-link {
   color: #ec5e55 !important; }
 
+.toc__figure {
+  max-width: 500px;
+  margin: auto; }
+  .toc__figure figcaption {
+    font-size: 12px; }
+
 body {
   background: #f9f6ec; }
