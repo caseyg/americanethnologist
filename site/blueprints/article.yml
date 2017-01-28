@@ -35,6 +35,10 @@ fields:
     label: Abstract
     type: textarea
 
+  tags:
+    label: Keywords
+    type: tags
+
   related:
     label: Related Content
     type: select
