@@ -25,3 +25,15 @@ Articles:
 - 
   article: >
     read/journal/volume-43-issue-2-may-2016/beyond-the-big-ditch-politics-ecology-and-infrastructure-at-the-panama-canal-ashley-carse
+- 
+  article: >
+    read/journal/volume-43-issue-2-may-2016/things-fall-apart-the-political-ecology-of-forest-governance-in-southern-nigeria-pauline-von-hellermann
+- 
+  article: >
+    read/journal/volume-43-issue-2-may-2016/harmattan-a-philosophical-fiction-michael-jackson
+- 
+  article: >
+    read/journal/volume-43-issue-2-may-2016/the-arts-of-citizenship-in-african-cities-infrastructures-and-spaces-of-belonging-mamadou-diouf-and-rosalind-fredericks-eds
+- 
+  article: >
+    read/journal/volume-43-issue-2-may-2016/bush-bound-young-men-and-rural-permanence-in-migrant-west-africa-paolo-gaibazzi
