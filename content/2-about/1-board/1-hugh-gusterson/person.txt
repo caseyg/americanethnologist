@@ -23,3 +23,7 @@ Url:
 ----
 
 Homepage: http://anthropology.columbian.gwu.edu/hugh-gusterson
+
+----
+
+Affiliation: 
