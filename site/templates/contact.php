@@ -10,7 +10,11 @@
     </div>
     <div class="col-sm-8 pull-sm-3">
 
-      <form class="form-horizontal" role="form" method="post" action="#">
+      <div class="lead">
+        <p>Please direct all inquiries to <a href="mailto:caitrin.lynch@olin.edu">caitrin.lynch@olin.edu</a>, AES Secretary.</p>
+      </div>
+
+<!--      <form class="form-horizontal" role="form" method="post" action="#">
       	<div class="form-group">
       		<label for="name" class="col-sm-2 control-label">Name</label>
       		<div class="col-sm-10">
@@ -42,7 +46,7 @@
       		</div>
       	</div>
       </form>
-
+-->
     </div>
   </div>
 
