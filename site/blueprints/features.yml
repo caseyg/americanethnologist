@@ -11,3 +11,5 @@ pages:
   template: features
 
 files: false
+
+  modules: modules
