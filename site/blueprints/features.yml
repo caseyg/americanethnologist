@@ -8,7 +8,7 @@ options:
   url: false
 
 pages:
-  template: features
+  template: feature
 
 files: false
 
