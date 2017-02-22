@@ -49,6 +49,8 @@ Nav-col3-links:
 - 
   page: features
 - 
+  page: news
+- 
   page: meetings
 
 ----
