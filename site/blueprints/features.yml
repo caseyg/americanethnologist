@@ -3,7 +3,10 @@ title: Features Index
 icon: newspaper-o
 
 pages:
-  template: feature
+  template:
+    - feature
+    - features
+
 
 files: false
 
