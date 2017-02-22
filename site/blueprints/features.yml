@@ -1,14 +1,12 @@
-title: Features
+title: Features Index
 
 icon: newspaper-o
 
-options:
-  delete: false
-  status: false
-  url: false
-
 pages:
-  template: feature
+  template:
+    - feature
+    - features
+
 
 files: false
 

@@ -31,3 +31,5 @@ Icon
 
 /assets/avatars/*
 !/assets/avatars/index.html
+
+site/cache/index.html
