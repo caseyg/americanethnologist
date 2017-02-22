@@ -31,6 +31,8 @@ of the system, please check out http://getkirby.com/docs/advanced/options
 
 c::set('debug',true);
 
+c::set('cache',true);
+
 c::set('patterns.title', 'AES Styleguide');
 c::set('patterns.path', 'styleguide');
 c::set('patterns.preview.css', ['https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.5/css/bootstrap.min.css', '//cloud.typenetwork.com/projects/578/fontface.css/', 'assets/css/index.min.css', 'assets/css/styleguide.css']);

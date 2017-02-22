@@ -1,4 +1,3 @@
-AddType application/x-httpd-php56 .php
 # Kirby .htaccess
 
 # rewrite rules
@@ -47,3 +46,9 @@ RewriteRule ^(.*) index.php [L]
 # AddDefaultCharset UTF-8
 #
 # php_flag short_open_tag on
+# Start A2 Switcher Block
+# Do not remove or modify this block! Added by PHP Switcher from cPanel to use an alternate PHP version. Contact Support for details.
+<IfModule mod_suphp.c>
+  AddHandler application/x-httpd-php-5.5.13 .php
+</IfModule>
+# End A2 Switcher Block

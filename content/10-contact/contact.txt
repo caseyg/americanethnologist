@@ -38,8 +38,8 @@ Contactoptions:
 - 
   title: Contact
   text: >
-    Feel free to drop us a line if you
-    have any questions.
+    Feel free to drop us a line if you have
+    any questions.
   url: mailto:support@getkirby.com
   linktext: Write an email
   icon: contact.svg
