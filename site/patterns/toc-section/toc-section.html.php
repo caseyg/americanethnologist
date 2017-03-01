@@ -12,10 +12,10 @@
       <?php else: ?>
         <p class="gray--600"><em>by</em> <strong><?php echo $a->author() ?></strong></p>
       <?php endif; ?>
-      <?php if ($a->hasImages()): ?>
+      <?php if ($a->featuredImage()->isNotEmpty()): ?>
         <figure class="toc__figure">
-          <img src="<?php echo $a->images()->first()->resize(500,500)->url() ?>" alt="">
-          <figcaption><?php echo $a->images()->first()->caption() ?> <?php if ($a->images()->first()->caption()->isNotEmpty()): ?>  (<?php echo $a->images()->first()->credit() ?>)<?php endif; ?></figcaption>
+          <img src="<?php echo $a->featuredImage()->toFile()->resize(500,500)->url() ?>" alt="<?php echo $a->featuredImage()->caption() ?>">
+          <figcaption><?php echo $a->featuredImage()->toFile()->caption() ?> <?php if ($a->featuredImage()->toFile()->caption()->isNotEmpty()): ?>  (<?php echo $a->featuredImage()->toFile()->credit() ?>)<?php endif; ?></figcaption>
         </figure>
       <?php endif; ?>
     </a>

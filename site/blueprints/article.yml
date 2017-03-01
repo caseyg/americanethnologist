@@ -39,6 +39,10 @@ fields:
     label: Keywords
     type: tags
 
+  featuredImage:
+    label: Featured Image
+    type: image
+
   related:
     label: Related Content
     type: select
