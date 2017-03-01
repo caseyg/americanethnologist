@@ -1,0 +1,75 @@
+Title: Book Reviews
+
+----
+
+Articles: 
+
+- 
+  article: >
+    read/journal/volume-43-issue-2-may-2016/transcultural-teens-performing-youth-identities-in-french-cits-chantal-tetreault
+- 
+  article: >
+    read/journal/volume-43-issue-2-may-2016/gangs-of-russia-from-the-streets-to-the-corridors-of-power-svetlana-stephenson
+- 
+  article: >
+    read/journal/volume-43-issue-2-may-2016/caged-in-on-the-outside-moral-subjectivity-selfhood-and-islam-in-minangkabau-indonesia-gregory-m-simon
+- 
+  article: >
+    read/journal/volume-43-issue-2-may-2016/people-of-substance-an-ethnography-of-morality-in-the-colombian-amazon-carlos-david-londoo-sulkin
+- 
+  article: >
+    read/journal/volume-43-issue-2-may-2016/sustainable-development-an-appraisal-from-the-gulf-region-paul-sillitoe-ed
+- 
+  article: >
+    read/journal/volume-43-issue-2-may-2016/unearthing-conflict-corporate-mining-activism-and-expertise-in-peru-fabiana-li
+- 
+  article: >
+    read/journal/volume-43-issue-2-may-2016/beyond-the-big-ditch-politics-ecology-and-infrastructure-at-the-panama-canal-ashley-carse
+- 
+  article: >
+    read/journal/volume-43-issue-2-may-2016/things-fall-apart-the-political-ecology-of-forest-governance-in-southern-nigeria-pauline-von-hellermann
+- 
+  article: >
+    read/journal/volume-43-issue-2-may-2016/harmattan-a-philosophical-fiction-michael-jackson
+- 
+  article: >
+    read/journal/volume-43-issue-2-may-2016/the-arts-of-citizenship-in-african-cities-infrastructures-and-spaces-of-belonging-mamadou-diouf-and-rosalind-fredericks-eds
+- 
+  article: >
+    read/journal/volume-43-issue-2-may-2016/bush-bound-young-men-and-rural-permanence-in-migrant-west-africa-paolo-gaibazzi
+- 
+  article: >
+    read/journal/volume-43-issue-2-may-2016/hierarchy-and-pluralism-living-religious-difference-in-catholic-poland-agnieszka-pasieka
+- 
+  article: >
+    read/journal/volume-43-issue-2-may-2016/the-slain-god-anthropologists-and-the-christian-faith-timothy-larsen
+- 
+  article: >
+    read/journal/volume-43-issue-2-may-2016/aurality-listening-and-knowledge-in-nineteenthcentury-colombia-ana-mara-ochoa-gautier
+- 
+  article: >
+    read/journal/volume-43-issue-2-may-2016/flowers-that-kill-communicative-opacity-in-political-spaces-emiko-ohnukitierney
+- 
+  article: >
+    read/journal/volume-43-issue-2-may-2016/the-human-right-to-dominate-nicola-perugini-and-neve-gordon
+- 
+  article: >
+    read/journal/volume-43-issue-2-may-2016/jaffa-shared-and-shattered-contrived-coexistence-in-israelpalestine-daniel-monterescu
+- 
+  article: >
+    read/journal/volume-43-issue-2-may-2016/mediating-the-global-expatrias-forms-and-consequences-in-kathmandu-heather-hindman
+- 
+  article: >
+    read/journal/volume-43-issue-2-may-2016/the-viral-network-a-pathography-of-the-h1n1-influenza-pandemic-theresa-macphail
+- 
+  article: >
+    read/journal/volume-43-issue-2-may-2016/ordinary-medicine-extraordinary-treatments-longer-lives-and-where-to-draw-the-line-sharon-r-kaufman
+- 
+  article: >
+    read/journal/volume-43-issue-2-may-2016/sinophobia-anxiety-violence-and-the-making-of-mongolian-identity-franck-bill
+- 
+  article: >
+    read/journal/volume-43-issue-2-may-2016/wild-life-the-institution-of-nature-irus-braverman
+- 
+  article: >
+    read/journal/volume-43-issue-2-may-2016/artifacts-and-allegiances-how-museums-put-the-nation-and-the-world-on-display-peggy-levitt
