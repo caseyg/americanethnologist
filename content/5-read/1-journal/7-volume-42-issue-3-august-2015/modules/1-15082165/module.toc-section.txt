@@ -1,0 +1,33 @@
+Title: Research Articles
+
+----
+
+Articles: 
+
+- 
+  article: >
+    read/journal/volume-42-issue-3-august-2015/pheasant-capitalism
+- 
+  article: >
+    read/journal/volume-42-issue-3-august-2015/violence-legitimacy-and-prophecy
+- 
+  article: >
+    read/journal/volume-42-issue-3-august-2015/ritual-sounds-political-echoes
+- 
+  article: >
+    read/journal/volume-42-issue-3-august-2015/biomedicine-the-whiteness-of-sleep-and-the-wages-of-spatiotemporal-normativity-in-the-united-states
+- 
+  article: >
+    read/journal/volume-42-issue-3-august-2015/the-doctor-s-political-body
+- 
+  article: >
+    read/journal/volume-42-issue-3-august-2015/securing-social-difference
+- 
+  article: >
+    read/journal/volume-42-issue-3-august-2015/the-becoming-of-ancestral-land
+- 
+  article: >
+    read/journal/volume-42-issue-3-august-2015/the-goat-that-died-for-family
+- 
+  article: >
+    read/journal/volume-42-issue-3-august-2015/spectacular-infrastructure-and-its-breakdown-in-socialist-vietnam

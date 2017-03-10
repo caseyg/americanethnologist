@@ -14,7 +14,12 @@ Wiley: http://onlinelibrary.wiley.com/doi/10.1111/amet.12430/full
 
 ----
 
-Text: Since the anti-Muslim violence in Gujarat, India, in 2002, NGOs, activists, and survivors have relied on India's criminal-justice system to hold Hindu perpetrators accountable. But lower courts in the city of Ahmedabad effectively immunized perpetrators from prosecution. This impunity effect, which allows public, even spectacular violence to go unpunished, is produced by three interrelated techniques: documentation, temporality, and proceduralism. These forms of legality allow postcolonial regimes to inscribe, frame, and repackage exceptional violence against minorities to reinforce and deepen a form of state power based on the explicit subordination of minorities. The Gujarat case reveals a distinctive style of postcolonial state formation, one that is based on the ability of a range of actors, state and nonstate, to reconcile majoritarian rule with everyday legality.
+Text: 
+
+Since the anti-Muslim violence in Gujarat, India, in 2002, NGOs, activists, and survivors have relied on India's criminal-justice system to hold Hindu perpetrators accountable. But lower courts in the city of Ahmedabad effectively immunized perpetrators from prosecution. This impunity effect, which allows public, even spectacular violence to go unpunished, is produced by three interrelated techniques: documentation, temporality, and proceduralism. These forms of legality allow postcolonial regimes to inscribe, frame, and repackage exceptional violence against minorities to reinforce and deepen a form of state power based on the explicit subordination of minorities. The Gujarat case reveals a distinctive style of postcolonial state formation, one that is based on the ability of a range of actors, state and nonstate, to reconcile majoritarian rule with everyday legality.
+
+[Gujarati abstract](http://americanethnologist.org/content/5-read/1-journal/1-volume-44-issue-1-february-2017/the-impunity-effect/gujarati-abstract.png)
+[Hindi abstract](http://americanethnologist.org/content/5-read/1-journal/1-volume-44-issue-1-february-2017/the-impunity-effect/hindi-abstract.png)
 
 ----
 
@@ -23,3 +28,7 @@ Tags: impunity,temporality,documentation,anti-Muslim,Gujarat,India
 ----
 
 Related: 
+
+----
+
+Featuredimage: screenshot-2017-03-03-at-12.30.34-pm.png

@@ -14,7 +14,11 @@ Wiley: http://onlinelibrary.wiley.com/doi/10.1111/amet.12429/full
 
 ----
 
-Text: For decades, families in Lebanon have fought in vain for the release of information about their missing relatives. Their struggle has become increasingly entangled in a transnational configuration of experts, discourses, and practices, a configuration that is sustained by the humanitarian imperative to alleviate suffering and by an appeal to trauma, victimhood, and human rights. This appeal animates new legal and judicial forms of activism that have expanded the scope of the families’ rights, compelled the government to release long-held information, and urged it to enact reforms in accordance with international standards. The convergence of these processes extends a framework of compassionate global governance that is supposed to work on behalf of subjects who are construed as victims and whose experience is essentially one of suffering.
+Text: 
+
+For decades, families in Lebanon have fought in vain for the release of information about their missing relatives. Their struggle has become increasingly entangled in a transnational configuration of experts, discourses, and practices, a configuration that is sustained by the humanitarian imperative to alleviate suffering and by an appeal to trauma, victimhood, and human rights. This appeal animates new legal and judicial forms of activism that have expanded the scope of the families’ rights, compelled the government to release long-held information, and urged it to enact reforms in accordance with international standards. The convergence of these processes extends a framework of compassionate global governance that is supposed to work on behalf of subjects who are construed as victims and whose experience is essentially one of suffering.
+
+[Arabic abstract](http://americanethnologist.org/content/5-read/1-journal/1-volume-44-issue-1-february-2017/the-right-to-know/abstract.png)
 
 ----
 
@@ -23,3 +27,7 @@ Tags: human rights,suffering,global governance,victimhood,trauma,lebanon
 ----
 
 Related: 
+
+----
+
+Featuredimage: screenshot-2017-02-23-at-1.15.14-pm.png

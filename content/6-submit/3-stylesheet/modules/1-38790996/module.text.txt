@@ -29,10 +29,7 @@ Place your in-text citations in parentheses and include the author’s name and 
 
 On the reference list, include every source cited in the text and no others, listed alphabetically by author. Set multiple entries by the same author in chronological order, from oldest to most recent. The layout is as follows, formatted with hanging indentation:
 
->Bessire, Lucas, and David Bond. 2014. “Ontological Anthropology and the Deferral of Critique.” *American Ethnologist* 41 (3): 440–56.
-Comaroff, Jean. 1996. “The Empire’s Old Clothes: Fashioning the Colonial Subject.” In *Cross-Cultural Consumption: Global Markets, Local Realities*, edited by David Howes, 19–38. London: Routledge.
-Daser, Deniz. 2014. “AE Interviews Catherine Lutz (Brown University).” American Ethnologist website, May 9. Accessed [Month Day, Year]. http://americanethnologist.org/2014/ae-interviews-catherine-lutz-brown-university.
-Herzfeld, Michael. 2004. *Cultural Intimacy: Social Poetics in the Nation-State*. 2nd ed. London: Routledge. First published 1997.
+![References](http://americanethnologist.org/content/6-submit/3-stylesheet/modules/1-38790996/screenshot-2017-03-06-at-6.38.34-pm.png)
 
 Do not use tabs or spaces to create the hanging indentation; use the ruler, as explained by the (link: https://support.office.com/en-us/article/Create-a-hanging-indent-7bdfb86a-c714-41a8-ac7a-3782a91ccad5 text: Microsoft Word help page).
 

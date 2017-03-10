@@ -1,0 +1,23 @@
+Title: Housing
+
+----
+
+Text: 
+
+## Housing
+
+Two excellent housing options available, well below market-rates.  Supplies are limited and the conference’s room blocks expire soon, so please book your room as early as possible.
+
+**Stanford Guesthouse (in stunning foothills)**  
+$155/night for a room sleeping two people (tax free), includes the following free items:  breakfast, 24-hour parking, wifi, and shuttle to campus.  To reserve rooms, go to https://ussg.webhotel.microsdc.us/ and click the “Check Availability” button. Once the window opens, enter your room needs and the Group Code: AETHNOSOC0317.  Cutoff date for room block is earlier than Cardinal Hotel.  **Cutoff date is Feb. 7, 2017.**
+
+**Cardinal Hotel (downtown Palo Alto)**  
+As low as $119/night per room.  Free wifi and shuttle to campus.  Rates lower Friday and Saturday nights, higher Thursday night.  To reserve rooms, go to http://goo.gl/JGCF5a (Group Code: AES2017 already pre-entered).  **Cutoff date for the conference’s room block is Feb. 28, 2017.**
+
+----
+
+Modulesettings: 
+
+----
+
+Lead: false
