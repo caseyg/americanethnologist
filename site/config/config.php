@@ -46,9 +46,12 @@ c::set('meta-tags.default', [
               ? site()->title()
               : $page->title() . " | " . site()->title();
       },
-    'meta' => [ 'description' => function($page) { return $page->description(); } ],
     'og' => [
-        'title' => function($page) { return $page->title(); },
+        'title' => function($page) {
+          return $page->isHomePage()
+                  ? site()->title()
+                  : $page->title() . " | " . site()->title();
+          },
         'type' => 'website',
         'site_name' => site()->title(),
         'url' => function($page) { return $page->url(); }
@@ -56,7 +59,11 @@ c::set('meta-tags.default', [
      'twitter' => [
          'card' => 'summary',
          'site' => "@amethno",
-         'title' => function($page) { return $page->title(); }
+         'title' => function($page) {
+           return $page->isHomePage()
+                   ? site()->title()
+                   : $page->title() . " | " . site()->title();
+           },
      ]
 ]);
 c::set('meta-tags.templates', [
