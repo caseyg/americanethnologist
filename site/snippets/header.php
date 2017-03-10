@@ -1,12 +1,11 @@
 <!doctype html>
-<html lang="<?= site()->language() ? site()->language()->code() : 'en' ?>">
+<html lang="<?= site()->language() ? site()->language()->code() : 'en' ?>"  prefix="og: http://ogp.me/ns#">
 <head>
 
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1.0" />
 
-  <title><?= $site->title()->html() ?> | <?= $page->title()->html() ?></title>
-  <meta name="description" content="<?= $site->description()->html() ?>">
+  <?php echo $page->metaTags() ?>
 
   <link href="//cloud.typenetwork.com/projects/578/fontface.css/" rel="stylesheet" type="text/css">
   <script src="https://use.typekit.net/zsj4lxh.js"></script>

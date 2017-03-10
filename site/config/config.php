@@ -40,11 +40,47 @@ c::set('patterns.preview.js', ['https://use.typekit.net/zsj4lxh.js', 'https://aj
 
 c::set('modules.directory', kirby()->roots()->site() . DS . 'patterns');
 
-// Kirby Autogit
+c::set('meta-tags.default', [
+    'title' => function($page) {
+      return $page->isHomePage()
+              ? site()->title()
+              : $page->title() . " | " . site()->title();
+      },
+    'meta' => [ 'description' => function($page) { return $page->description(); } ],
+    'og' => [
+        'title' => function($page) { return $page->title(); },
+        'type' => 'website',
+        'site_name' => site()->title(),
+        'url' => function($page) { return $page->url(); }
+     ],
+     'twitter' => [
+         'card' => 'summary',
+         'site' => "@amethno",
+         'title' => function($page) { return $page->title(); }
+     ]
+]);
+c::set('meta-tags.templates', [
+    'article' => [ // template name
+        'og' => [  // tags group name
+            'type' => 'article', // overrides the default
+            'namespace:article' => function($page) {
+                return [
+                    'author' => $page->author(),
+                    'published_time' => $page->date('%F'),
+                    'modified_time' => $page->modified('%F'),
+                    'tag' => ['tech', 'web']
+                ];
+            },
+            'namespace:image' => function($page) {
+                $image = $page->cover()->toFile();
 
-c::set('autogit.panel.user',     true);
-
-c::set('autogit.widget',         true);
-
-c::set('autogit.webhook.secret', '9ufPvBpyK6KUny');
-c::set('autogit.webhook.url',    'autogit');
+                return [
+                    'image' => $image->url(),
+                    'width' => $image->width(),
+                    'height' => $image->height(),
+                    'type' => $image->mime()
+                ];
+            }
+        ]
+    ],
+]);
