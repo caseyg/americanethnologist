@@ -334,3 +334,14 @@ body#home #footer-wrap, body#join #footer-wrap {
 body {
   background: #f9f6ec;
   position: relative; }
+
+/* Join page bulleted list styles */
+#m-60500885 ul {
+  text-align: left !important;
+  columns: 2;
+  list-style-position: inside; }
+  #m-60500885 ul li {
+    margin-bottom: 1em;
+    -webkit-column-break-inside: avoid;
+    page-break-inside: avoid;
+    break-inside: avoid; }
