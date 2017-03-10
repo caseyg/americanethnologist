@@ -13,7 +13,7 @@
   <div class="col-xs-12 lead mb-3">
     <?php echo $page->text() ?>
   </div>
-  <?php foreach ($page->children() as $event): ?>
+  <?php foreach ($page->children()->visible() as $event): ?>
     <div class="col-sm-6 mb-3">
       <a href="<?php echo $event->url() ?>">
         <h4><?php echo $event->title() ?></h4>
@@ -22,9 +22,9 @@
     </div>
   <?php endforeach; ?>
 <?php else: ?>
-  <?php foreach ($page->children() as $meeting): ?>
+  <?php foreach ($page->children()->visible() as $meeting): ?>
     <div class="col-sm-6">
-        <?php foreach ($meeting->children()->limit(1) as $event): ?>
+        <?php foreach ($meeting->children()->visible()->limit(1) as $event): ?>
           <a href="<?php echo $event->url() ?>">
             <img class="img-fluid" src="<?php if ($event->hasImages()): echo $event->images()->first()->crop(600,400)->url(); else: echo "http://placehold.it/600x400"; endif;?> ">
             <h3 class="mt-1 text-xs-center"><?php echo $event->title() ?></h3>
