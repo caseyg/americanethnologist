@@ -66,7 +66,6 @@ c::set('meta-tags.default', [
            },
      ]
 ]);
-c::set('meta-tags.templates', [
     'article' => [ // template name
         'og' => [  // tags group name
             'type' => 'article', // overrides the default
