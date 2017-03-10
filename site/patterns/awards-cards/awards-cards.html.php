@@ -2,7 +2,7 @@
   <div class="row mt-3">
     <div class="col-sm-4">
       <h3><a href="<?php echo $p->url() ?>"><?php echo $p->title() ?></a></h3>
-      <p><?php echo $p->intro() ?></p>
+      <p><?php echo $p->intro()->kt() ?></p>
       <p><?php echo $p->deadline() ?></p>
       <p><a class="btn btn-secondary bg-background" href="<?php echo $p->url() ?>#more">Read more</a> <?php if ($p->children()->count() > 0): ?><a class="btn btn-secondary bg-background" href="<?php echo $p->url() ?>#awardees">Browse awardees</a><?php endif; ?></p>
     </div>
