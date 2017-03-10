@@ -4,18 +4,25 @@
 
 <hr>
 
-<div class="jumbotron p-0">
-  <div class="row">
-      <div class="col-sm-6">
-        <h1 class="p-1"><?php echo $page->theme() ?></h1>
-        <p class="sans mx-1">
-          <strong><?php echo $page->dates() ?></strong><br>
-          <?php echo $page->location() ?>
-        </p>
-      </div>
-      <?php if ($page->hasImages()): ?><img src="<?php echo $page->images()->first()->resize(600,400)->url() ?>" class="col-sm-6 img-fluid"><?php endif; ?>
+<div class="row">
+  <div class="col-xs-12 text-xs-center">
+    <h1 class="p-1"><?php echo $page->theme() ?></h1>
+    <p class="sans mx-1">
+      <strong><?php echo $page->dates() ?></strong><br>
+      <?php echo $page->location() ?>
+    </p>
   </div>
 </div>
+<div class="row">
+  <?php if ($page->hasImages()): ?>
+    <figure class="col-sm-8 offset-sm-2">
+      <img src="<?php echo $page->images()->first()->resize(600,400)->url() ?>" class="img-fluid">
+    </figure>
+  <?php endif; ?>
+</div>
+
+<hr>
+
 <div class="row">
   <div class="col-sm-3">
     <div id="scroll-nav">
