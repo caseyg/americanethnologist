@@ -1,14 +1,25 @@
-Title: AES 2014
+Title: AES/SVA 2014: In/visibility
+
 ----
+
 Date: 07/16/2014
+
 ----
+
 Category: 
+
 ----
+
 Summary: 
+
 ----
+
 Tags: 
+
 ----
-Text:
+
+Text: 
+
 <figure>
 (image: [aesurl]/wp-content/uploads/2013/10/invisibility-300x240.jpg alt: invisibility theme)
 <figcaption>invisibility theme</figcaption>
@@ -58,3 +69,15 @@ Looking for others to complete a panel? Try placing your call for panelists at (
 </figure>
 
 Hotel information: The conference will be held at the **Boston Park Plaza Hotel**, 50 Park Plaza at Arlington Street, steps from the Boston Common. Conference registrants receive a special rate of $185 per night, single, double, triple or quad. All rooms include complimentary high-speed Internet access. (link: https://bostonparkplaza.reztrip.com/index.html#property=100&mode=b&pm=true&sr=32531&vr=2 text: Conference-rate hotel reservations) – cut-off date for conference-rate reservations is March 19. Special teaching/reading group resource: American Ethnologist virtual issue, “in/visibility” ((link: http://onlinelibrary.wiley.com/journal/10.1111/%28ISSN%291548-1425/homepage/virtual_issue__in_visibility.htm text: http://onlinelibrary.wiley.com/journal/10.1111/%28ISSN%291548-1425/homepage/virtual_issue__in_visibility.htm))
+
+----
+
+Theme: In/visibility: Projects, Media, Politics
+
+----
+
+Dates: April 10-12, 2014
+
+----
+
+Location: Boston, MA

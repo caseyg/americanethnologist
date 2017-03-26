@@ -66,27 +66,3 @@ c::set('meta-tags.default', [
            },
      ]
 ]);
-    'article' => [ // template name
-        'og' => [  // tags group name
-            'type' => 'article', // overrides the default
-            'namespace:article' => function($page) {
-                return [
-                    'author' => $page->author(),
-                    'published_time' => $page->date('%F'),
-                    'modified_time' => $page->modified('%F'),
-                    'tag' => ['tech', 'web']
-                ];
-            },
-            'namespace:image' => function($page) {
-                $image = $page->cover()->toFile();
-
-                return [
-                    'image' => $image->url(),
-                    'width' => $image->width(),
-                    'height' => $image->height(),
-                    'type' => $image->mime()
-                ];
-            }
-        ]
-    ],
-]);
