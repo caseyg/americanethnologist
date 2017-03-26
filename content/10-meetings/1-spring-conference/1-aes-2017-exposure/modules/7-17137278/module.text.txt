@@ -1,0 +1,26 @@
+Title: Additional Information (Location of panels, etc.)
+
+----
+
+Text: 
+
+##Additional Information
+
+####Badges, Final Program, & On-site Registration
+Printed copies of AES17’s final program, conference badges, and on-site registration will be available starting noon, Thursday, March 30th, at the conference check-in desk, which will be located at [building 50](https://campus-map.stanford.edu/?id=01-050&lat=37.42696071&lng=-122.16991448&zoom=17&srch=building%2050), home of Stanford’s Anthro. Department.  
+
+####Location of Panels
+The university’s Main Quad will be the roost for all panels.  Panels will occur in classrooms in or near the Anthro. Department, where you’ll find the AES17 check-in desk (see above).  We are now finalizing room assignments for panels, workshops, and plenaries.  Room assignments will be printed in the final program.
+
+####Helpful App
+Consider downloading the “[Stanford Mobile](https://play.google.com/store/apps/details?id=edu.stanford.m&hl=en)” app, which offers useful info like maps, schedules of free shuttles, and dining locations.
+
+***
+
+----
+
+Modulesettings: 
+
+----
+
+Lead: false

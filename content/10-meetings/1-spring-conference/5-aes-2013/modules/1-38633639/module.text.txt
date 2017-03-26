@@ -1,0 +1,35 @@
+Title: Theme
+
+----
+
+Text: 
+
+###Theme: Anthropologies of Conflict in a New Millenium
+####American Ethnological Society and Association for Political and Legal Anthropology Spring Conference 2013
+
+From the events of September 11 to the war in Iraq, from the Arab spring to Greek riots, from the invasion of Afghanistan to the occupation of Wall Street, the opening of the new millennium has witnessed a burst of new forms of conflict around the world. For anthropologists, these events have raised profound questions both about the nature of human conflict and about the place of our discipline within it. How should anthropologists understand the new forms of conflict that increasingly dominate the world stage? In what ways do we need to rethink our accustomed notions of power, of nation, of technology, and of the relationship between individual and group? And how do we situate ourselves, scientifically and morally, amid the contending groups whose cultures we study?
+
+In April of 2013, the American Ethnological Society and the Association for Political and Legal Anthropology will explore these questions at our joint Spring Meeting in Chicago, Illinois. We invited proposals for papers, panels, workshops, and special events that interrogate the place of conflict in anthropological thought and practice. Subjects include:
+
+>Anthropologists in conflict zones
+Meanings of power in the contemporary world
+The ethics of anthropological engagement with military authorities
+Law and violence
+The meanings of protest on the international stage
+Practices of conflict resolution, repair, and reconciliation
+The changing role of the nation-state
+Religion and power in contemporary conflicts
+The role of the legal process in times of conflict
+Conflict and the surveillance state
+Changing understandings of religious fundamentalism
+Anthropological ethics in a time of violence
+The role and influence of diaspora populations in conflict
+Ethnography of specific conflict arenas – e.g., the Occupy movement, Iraq, Afghanistan, Darfur, the Arab Spring, the European austerity revolts, the War on Terror, the Tea Party movement
+
+----
+
+Modulesettings: 
+
+----
+
+Lead: false
