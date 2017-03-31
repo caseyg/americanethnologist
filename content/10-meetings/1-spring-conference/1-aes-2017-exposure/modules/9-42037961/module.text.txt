@@ -1,0 +1,19 @@
+Title: Parking
+
+----
+
+Text: 
+
+##Parking
+Parking regulations on campus are enforced weekdays.  Some metered spots near the Main Quad can be found on the far side (northeast) of the Oval.  Otherwise, the closest lot to the Main Quad with a large number of metered spots is on the southern edge of the Tresidder Union (lot #: L-39).  Parking is free on Saturdays, including in all “A” permitted spots.  
+
+For a map of campus lots and more details on Stanford parking click [here](https://transportation.stanford.edu/parking/purchase-a-parking-permit/visitors).
+***
+
+----
+
+Modulesettings: 
+
+----
+
+Lead: false
