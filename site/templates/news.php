@@ -1,6 +1,9 @@
 <?php snippet('header') ?>
 
-<ul class="list-unstyled">
+<div class="row">
+
+</div>
+<ul class="list-unstyled col-md-8">
   <?php $pages = $page->children(); ?>
   <?php foreach ($pages->visible()->sortBy('date', 'desc') as $i): ?>
     <li class="mb-1">
@@ -22,7 +25,9 @@
     <hr>
   <?php endforeach; ?>
 </ul>
-
+<div class="col-md-4">
+  <a class="twitter-timeline" href="https://twitter.com/AmEthno">Tweets by AmEthno</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
 <?php $page->modules() ?>
 
 <?php snippet('footer') ?>
