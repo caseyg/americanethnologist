@@ -14,7 +14,7 @@ Summary:
 
 ----
 
-Tags: engaged anthropology, ethics, feminism, Islamophobia, Muslim women, public ethnography, rights
+Tags: engaged anthropology,ethics,feminism,Islamophobia,Muslim women,public ethnography,rights
 
 ----
 
@@ -22,7 +22,7 @@ Text: *Engaged anthropology, public anthropology,* and *public ethnography* are 
 
 ----
 
-Wiley: http://onlinelibrary.wiley.com/doi/10.1111/amet.12377/
+Wiley: http://onlinelibrary.wiley.com/doi/10.1111/amet.12377/full
 
 ----
 
@@ -43,3 +43,7 @@ Related: features/interviews/lila-abu-lughod-interview
 ----
 
 Subtitle: The case of “the Muslimwoman”
+
+----
+
+Featuredimage: 
