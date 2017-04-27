@@ -31,7 +31,7 @@ of the system, please check out http://getkirby.com/docs/advanced/options
 
 c::set('debug',true);
 
-c::set('cache',true);
+c::set('cache',false);
 
 c::set('patterns.title', 'AES Styleguide');
 c::set('patterns.path', 'styleguide');

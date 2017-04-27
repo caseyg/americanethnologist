@@ -1,0 +1,48 @@
+title: Supplement
+
+pages:
+  build:
+    - title: _modules
+      uid: modules
+      template: modules
+
+files:
+  fields:
+    caption:
+      label: Caption
+      type: textarea
+
+    credit:
+      label: Credit
+      type: text
+
+fields:
+  title:
+    label: Title
+    type: title
+
+  volume:
+    label: Volume
+    type: number
+    width: 1/3
+
+  issue:
+    label: Issue
+    type: number
+    width: 1/3
+
+  date:
+    label: Date
+    type: date
+    width: 1/3
+
+  text:
+    label: Text
+    type: textarea
+
+  coverimage:
+    label: Cover Image
+    type: image
+    width: 1/2
+
+  modules: modules

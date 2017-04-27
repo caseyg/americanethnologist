@@ -8,6 +8,7 @@ pages:
     - module.profile-cards
     - module.awards-cards
     - module.toc-section
+    - module.forum-section
 
 fields:
   modules:

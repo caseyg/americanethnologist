@@ -1,0 +1,33 @@
+title: Forum
+
+pages:
+  build:
+    - title: _modules
+      uid: modules
+      template: modules
+
+files:
+  fields:
+    caption:
+      label: Caption
+      type: textarea
+
+    credit:
+      label: Credit
+      type: text
+
+fields:
+  title:
+    label: Title
+    type: title
+
+  date_display:
+    label: Date
+    type: text
+
+  coverimage:
+    label: Cover Image
+    type: image
+    width: 1/2
+
+  modules: modules

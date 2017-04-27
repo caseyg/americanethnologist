@@ -1,0 +1,21 @@
+title: Forums Index
+
+pages:
+  template: forum
+  build:
+    - title: _modules
+      uid: modules
+      template: modules
+
+files: false
+
+fields:
+  title:
+    label: Title
+    type: title
+
+  text:
+    label: Text
+    type: textarea
+
+  modules: modules

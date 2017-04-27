@@ -1,0 +1,26 @@
+title: Forum Section
+pages: false
+files: false
+
+fields:
+  # The title is only used in the Panel for this module
+  title:
+    label: Forum Section Title
+    type: text
+
+  articles:
+    label: Articles
+    type: structure
+    fields:
+      article:
+        label: Article
+        type: select
+        entry: >
+          $page->find({{url}})->title()
+        options: query
+        query:
+          page: read/journal
+          fetch: grandchildren
+          value: '{{uri}}'
+          text: '{{title}}'
+          flip: true
