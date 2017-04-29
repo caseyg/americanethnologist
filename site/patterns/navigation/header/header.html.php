@@ -1,6 +1,6 @@
 <header class="row pt-2 mb-2">
   <div class="col-xs-12 col-sm-2">
-    <h1><a href="/"><span class="bentonsanscondensedblack">(&aelig;s)</span></a></h1>
+    <h1><a href="/">(&aelig;s)</a></h1>
   </div>
   <div class="col-xs-4 col-sm-3">
     <ul class="list-unstyled">
