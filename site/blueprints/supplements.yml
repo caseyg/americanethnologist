@@ -1,6 +1,7 @@
 title: Supplements Index
 
 pages:
+  template: supplement
   build:
     - title: _modules
       uid: modules
@@ -21,28 +22,8 @@ fields:
     label: Title
     type: title
 
-  volume:
-    label: Volume
-    type: number
-    width: 1/3
-
-  issue:
-    label: Issue
-    type: number
-    width: 1/3
-
-  date:
-    label: Date
-    type: date
-    width: 1/3
-
   text:
     label: Text
     type: textarea
-
-  coverimage:
-    label: Cover Image
-    type: image
-    width: 1/2
 
   modules: modules
