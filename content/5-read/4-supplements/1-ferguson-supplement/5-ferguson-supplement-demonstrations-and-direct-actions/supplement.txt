@@ -1,15 +1,26 @@
-Title: #Ferguson Supplement: Demonstrations and Direct Actions
+Title: Demonstrations and Direct Actions
+
 ----
+
 Date: 01/15/2015
+
 ----
+
 Category: Ferguson
+
 ----
+
 Summary: 
+
 ----
+
 Tags: 
+
 ----
-Text:
-Prepared by (link: https://twitter.com/yarimarbonilla  text: @yarimarbonilla) and (link: http://womens-studies.rutgers.edu/graduate-program/student-profiles/phd-students/440-2010-max-hantel text: Max Hantel)(link: http://onlinelibrary.wiley.com/doi/10.1111/amet.12112/abstract text: #Ferguson: Digital protest, hashtag ethnography, and the racial politics of social media in the United States), by (link: http://www.anthro.rutgers.edu/fac/487-yarimar-bonilla text: Yarimar Bonilla) and (link: http://blogs.umass.edu/jdrosa/ text: Jonathan Rosa). American Ethnologist, volume 42, number 1, pp. 4-17.
+
+Text: 
+
+# #Ferguson Supplement: Demonstrations and Direct Actions
 
 The use of social media during protests and direct actions regarding Ferguson reveal a porous boundary between digital and analog activism. When #BlackLivesMatter expresses itself as the physical rallying point for tens of thousands of people marching throughout the United States, for instance, how do we understand the mutual constitution of online and offline worlds beyond simple hierarchy or comparison?
 
@@ -23,9 +34,17 @@ The use of social media during protests and direct actions regarding Ferguson re
 - (link: http://www.theatlantic.com/politics/archive/2015/01/not-just-hashtag-activism-why-social-media-matters-to-protestors/384215/ text: The role of social media in the Ferguson protests: An activist reflects on his experiences)
 - "(link: http://bit.ly/1yrWnW1 text: We The Protestors" Map of Protestor Demands)
 
-Hands-Up United video featuring local protestors describing their experiences:(link: http://vimeo.com/104501034 text: Hands Up) from (link: http://vimeo.com/user31604474 text: HandsUpUnited) on (link: https://vimeo.com text: Vimeo).
-----
-Wiley:
+####WATCH: Hands-Up United video featuring local protestors describing their experiences:
+<iframe src="https://player.vimeo.com/video/104501034" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+___
+
+Prepared by (link: https://twitter.com/yarimarbonilla  text: @yarimarbonilla) and (link: http://womens-studies.rutgers.edu/graduate-program/student-profiles/phd-students/440-2010-max-hantel text: Max Hantel)(link: http://onlinelibrary.wiley.com/doi/10.1111/amet.12112/abstract text: #Ferguson: Digital protest, hashtag ethnography, and the racial politics of social media in the United States), by (link: http://www.anthro.rutgers.edu/fac/487-yarimar-bonilla text: Yarimar Bonilla) and (link: http://blogs.umass.edu/jdrosa/ text: Jonathan Rosa). American Ethnologist, volume 42, number 1, pp. 4-17.
 
 ----
-Author:
+
+Wiley: 
+
+----
+
+Author: 
