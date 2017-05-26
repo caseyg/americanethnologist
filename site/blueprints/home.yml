@@ -1,0 +1,13 @@
+title: Home
+
+files:
+  fields:
+    caption:
+      label: Caption
+      type: textarea
+
+    credit:
+      label: Credit
+      type: text
+
+  modules: modules

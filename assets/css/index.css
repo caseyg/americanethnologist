@@ -345,3 +345,11 @@ body {
     -webkit-column-break-inside: avoid;
     page-break-inside: avoid;
     break-inside: avoid; }
+
+/* Homepage Carousel */
+.carousel .carousel-caption {
+  opacity: 0;
+  transition: opacity .25s; }
+
+.carousel:hover .carousel-caption {
+  opacity: 1; }
