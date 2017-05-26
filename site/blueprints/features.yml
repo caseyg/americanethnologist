@@ -5,9 +5,12 @@ icon: newspaper-o
 pages:
   template:
     - feature
-    - features
-
 
 files: false
+
+fields:
+  title:
+    title: title
+    type: text
 
   modules: modules

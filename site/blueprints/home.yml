@@ -10,4 +10,5 @@ files:
       label: Credit
       type: text
 
+fields:
   modules: modules
