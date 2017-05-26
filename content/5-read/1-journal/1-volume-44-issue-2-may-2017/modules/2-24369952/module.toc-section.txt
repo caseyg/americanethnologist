@@ -1,0 +1,30 @@
+Title: Research Articles
+
+----
+
+Articles: 
+
+- 
+  article: >
+    read/journal/volume-44-issue-2-may-2017/parody-after-identity
+- 
+  article: >
+    read/journal/volume-44-issue-2-may-2017/governing-three-wheeled-motorcycle-taxis-in-urban-ethiopia
+- 
+  article: >
+    read/journal/volume-44-issue-2-may-2017/outside-timbuktu-s-divine-cover
+- 
+  article: >
+    read/journal/volume-44-issue-2-may-2017/torn-dollars-and-war-wounded-francs
+- 
+  article: >
+    read/journal/volume-44-issue-2-may-2017/modal-reasoning-in-dar-es-salaam-s-power-network
+- 
+  article: >
+    read/journal/volume-44-issue-2-may-2017/walking-like-a-christian
+- 
+  article: >
+    read/journal/volume-44-issue-2-may-2017/slotta
+- 
+  article: >
+    read/journal/volume-44-issue-2-may-2017/plant-matters

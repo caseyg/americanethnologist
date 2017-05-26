@@ -1,0 +1,39 @@
+Title: Research Articles
+
+----
+
+Articles: 
+
+- 
+  article: >
+    read/journal/volume-43-issue-4-november-2016/the-crosspublics-of-ethnography-the-case-of-the-muslimwoman
+- 
+  article: >
+    read/journal/volume-43-issue-4-november-2016/a-civilized-revolution-aesthetics-and-political-action-in-egypt
+- 
+  article: >
+    read/journal/volume-43-issue-4-november-2016/there-might-be-blood-oil-humility-and-the-cosmopolitics-of-a-cofn-petrobeing
+- 
+  article: >
+    read/journal/volume-43-issue-4-november-2016/the-ends-of-cutting-in-ghana-blood-loss-scarcity-and-slow-harm-after-ngos
+- 
+  article: >
+    read/journal/volume-43-issue-4-november-2016/inalienable-performances-mutable-heirlooms-dance-cultural-inheritance-and-political-transformation-in-the-republic-of-guinea
+- 
+  article: >
+    read/journal/volume-43-issue-4-november-2016/between-the-ethical-and-the-right-thing-how-not-to-be-corrupt-in-indonesian-bureaucracy-in-an-age-of-good-governance
+- 
+  article: >
+    read/journal/volume-43-issue-4-november-2016/markets-end-fairtrade-social-premiums-as-development-in-dominica
+- 
+  article: >
+    read/journal/volume-43-issue-4-november-2016/documenting-subjects-performativity-and-audit-culture-in-food-production-in-northern-italy
+- 
+  article: >
+    read/journal/volume-43-issue-4-november-2016/producing-iyashi-healing-and-labor-in-tokyos-sex-industry
+- 
+  article: >
+    read/journal/volume-43-issue-4-november-2016/from-humanitarianism-to-humanitarianization-intimacy-estrangement-and-international-aid-in-postwar-bosnia-and-herzegovina
+- 
+  article: >
+    read/journal/volume-43-issue-4-november-2016/expert-evidence-on-trial-social-researchers-in-the-international-criminal-courtroom
