@@ -12,13 +12,13 @@
       <h2 class="h4 text-xs-center"><a href="<?php echo $i->url() ?>"><?php echo $i->title() ?></a></h2>
       <ul class="list-unstyled">
         <?php $n = 0; ?>
-        <?php foreach ($i->children()->visible()->limit(3) as $i): $n++; ?>
+        <?php foreach ($i->children()->visible()->flip()->limit(3) as $i): $n++; ?>
           <li class="mb-1">
             <a href="<?php echo $i->url() ?>">
               <div class="media">
                 <?php if ($n == 1): ?>
                   <?php if ($i->hasImages()): ?>
-                    <img class="media-object img-fluid" src="<?php echo $i->images()->first()->resize(400,300)->url() ?>">
+                    <img class="media-object img-fluid mb-1" src="<?php echo $i->images()->first()->crop(400,250)->url() ?>">
                   <?php endif; ?>
                 <?php endif; ?>
                 <div class="media-body">
