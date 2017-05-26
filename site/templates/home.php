@@ -32,7 +32,7 @@
     <span class="sr-only">Next</span>
   </a>
 </div>
-
+<!--
 <div class="container-fluid bg-blockquote">
   <div class="container pt-3 pb-3">
       <div class="row">
@@ -42,7 +42,7 @@
       </div>
   </div>
 </div>
-
+-->
 <div class="container-fluid">
   <div class="container">
     <div class="row">
