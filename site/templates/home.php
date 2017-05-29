@@ -58,7 +58,7 @@
       <figure class="col-sm-6 col-md-4">
         <h6 class="mt-1"><a href="/read">Read American Ethnologist</a></h6>
         <?php foreach ($pages->find('read/journal')->children()->visible()->limit(1) as $j): ?>
-          <a class="bg-text-secondary text p-1 d-block" href="<?php echo $j->url() ?>">
+          <a class="text d-block" href="<?php echo $j->url() ?>">
             <?php if ($j->coverimage()->isNotEmpty()): ?>
               <img class="mb-2 img-fluid" src="<?php echo $j->coverimage()->toFile()->url() ?>" width="200" height="400"  style="box-shadow: 0 5px 10px rgba(0,0,0,.25);">
             <?php else: ?>
