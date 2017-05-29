@@ -1,8 +1,11 @@
 <?php snippet('header') ?>
 
-<form>
-  <input type="search" name="q" value="<?php echo esc($query) ?>">
-  <input type="submit" value="Search">
+<form class="form-inline search-form text-xs-center" role="search">
+  <p class="lead">Type below to search the AES site:</p>
+    <div class="form-group form-group-lg mt-2 pb-3 d-block">
+        <input type="search" name="q" class="form-control form-control-lg" placeholder="Search"  value="<?php echo esc($query) ?>">
+        <button type="submit" value="Search" class="btn btn-default btn-lg"><i class="fa fa-search" aria-hidden="true"></i></button>
+    </div>
 </form>
 
 <ul class="list-unstyled">
