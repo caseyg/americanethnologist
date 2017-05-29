@@ -71,9 +71,14 @@
 
         </div>
       </div>
-      <p class="footer-copyright"><?php
-        echo html::decode($site->copyright()->kirbytext())
-      ?> American Ethnological Society</p>
+      <br><br>
+      <p class="footer-copyright text-xs-center py-4">
+      <img src="/assets/images/aes-logo.svg" alt="American Ethnological Society" width="100" height="100">
+      <br><br>
+      <?php
+      echo html::decode($site->copyright()->kirbytext())
+    ?> American Ethnological Society
+    </p>
     </footer>
   </div>
 </div>
