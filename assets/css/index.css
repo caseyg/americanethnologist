@@ -331,6 +331,9 @@ body#home #footer-wrap, body#join #footer-wrap {
   .toc__figure figcaption {
     font-size: 12px; }
 
+.text img {
+  max-width: 100%; }
+
 body {
   background: #f9f6ec;
   position: relative; }
