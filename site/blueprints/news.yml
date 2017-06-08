@@ -1,0 +1,10 @@
+title: News
+files: false
+pages:
+  template: feature
+  num: date
+  sort: flip
+fields:
+  title:
+    label: Title
+    type:  text
