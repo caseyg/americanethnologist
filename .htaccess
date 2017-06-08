@@ -52,3 +52,5 @@ RewriteRule ^(.*) index.php [L]
   AddHandler application/x-httpd-php-5.5.13 .php
 </IfModule>
 # End A2 Switcher Block
+SuPHP_ConfigPath /home/aesonlin/public_html/
+
