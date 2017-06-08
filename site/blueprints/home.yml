@@ -10,5 +10,12 @@ files:
       label: Credit
       type: text
 
+pages:
+  template: default
+  build:
+    - title: _modules
+      uid: modules
+      template: modules-home
+
 fields:
   modules: modules

@@ -1,0 +1,16 @@
+title: Modules
+
+pages:
+  max: 3
+  template:
+    - module.latest-news
+    - module.latest-journal
+    - module.latest-meeting
+    - module.custom-text
+
+fields:
+  modules:
+    label: Modules
+    type: modules
+
+hide: true
