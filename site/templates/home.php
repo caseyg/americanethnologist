@@ -1,7 +1,5 @@
 <?php snippet('header') ?>
 
-</div>
-
 <div id="carousel" class="carousel slide mb-2" data-ride="carousel">
   <ol class="carousel-indicators">
     <?php $n = -1; ?>
@@ -33,12 +31,9 @@
   </a>
 </div>
 
-<div class="container-fluid">
-  <div class="container">
-    <div class="row">
-      <?php $page->modules() ?>
-    </div>
-  </div>
+<div class="row">
+  <?php $page->modules() ?>
+</div>
 </div>
 
 <?php snippet('footer') ?>
