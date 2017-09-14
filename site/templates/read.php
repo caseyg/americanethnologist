@@ -30,7 +30,7 @@
       <p class="lead"><?php echo $j->text() ?></p>
       <a href="<?php echo $j->url() ?>" class="btn bg-background btn-secondary btn-outline">Table of Contents <i class="fa fa-angle-double-right" aria-hidden="true"></i></a>
     <?php endforeach; ?>
-    <hr>
+    <hr style="clear:both;">
 
     <h2 class="mb-1">Recent Issues</h2>
 
