@@ -8,7 +8,7 @@
   <div class="col-sm-3 push-sm-9">
     <h3><a href="/features">Features</a></h3>
     <p><em>Online-only interviews, news, and resources.</em></p>
-    <?php foreach ($pages->find('features')->grandchildren()->visible()->limit(3) as $f): ?>
+    <?php foreach ($pages->find('features')->grandchildren()->visible()->flip()->limit(3) as $f): ?>
       <a href="<?php echo $f->url() ?>">
         <!--<img src="http://placehold.it/300x200" class="img-fluid" alt="">-->
         <h6 class="mt-1"><?php echo $f->title() ?></h6>
