@@ -1,4 +1,0 @@
-[10-Nov-2016 14:39:25 UTC] PHP Parse error:  syntax error, unexpected '.', expecting '&' or variable (T_VARIABLE) in /home/caseyago/public_html/aes-dev/site/plugins/autogit/lib/autogit.php on line 37
-[10-Nov-2016 14:39:30 UTC] PHP Parse error:  syntax error, unexpected '.', expecting '&' or variable (T_VARIABLE) in /home/caseyago/public_html/aes-dev/site/plugins/autogit/lib/autogit.php on line 37
-[10-Nov-2016 16:59:31 UTC] PHP Parse error:  syntax error, unexpected '.', expecting '&' or variable (T_VARIABLE) in /home/caseyago/public_html/aes-dev/site/plugins/autogit/lib/autogit.php on line 37
-[10-Nov-2016 16:59:34 UTC] PHP Parse error:  syntax error, unexpected '.', expecting '&' or variable (T_VARIABLE) in /home/caseyago/public_html/aes-dev/site/plugins/autogit/lib/autogit.php on line 37

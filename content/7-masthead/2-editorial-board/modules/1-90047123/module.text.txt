@@ -27,6 +27,7 @@ Text:
 (link: https://en-social-sciences.tau.ac.il/profile/khaled text: Khaled Furani), Tel Aviv University
 (link: http://www.anthro.ucla.edu/faculty/linda-garro text: Linda Garro), University of California, Los Angeles
 (link: https://researchers.anu.edu.au/researchers/george-k text: Ken George), Australian National University
+(link: http://www.indiana.edu/~anthro/people/faculty/igershon.shtml text: Ilana Gershon), Indiana University
 (link: https://www.amherst.edu/people/facstaff/dbgewertz text: Deborah Gewertz), Amherst College
 (link: https://www.helsinki.fi/en/faculty-of-social-sciences text: Sarah Green), University of Helsinki
 (link: https://www.princeton.edu/anthropology/faculty/carol_greenhouse/ text: Carol Greenhouse), Princeton University
@@ -43,13 +44,13 @@ Text:
 (link: http://www.gold.ac.uk/anthropology/staff/johnson-mark/ text: Mark Johnson), Goldsmiths, University of London
 (link: http://anthropology.yale.edu/people/william-w-kelly text: William W. Kelly), Yale University
 (link: https://www.buffalo.edu/cas/anthropology/faculty/faculty_directory/frederick-klaits.html text: Fred Klaits), State University of New York at Buffalo
-(link: http://www.utsc.utoronto.ca/anthropology/michael-lambek text: Michael Lambek), University of Toronto
 (link: http://anthropology.utoronto.ca/people/faculty/bonnie-mcelhinny/ text: Bonnie McElhinny), University of Toronto
 (link: http://anthropology.emory.edu/home/people/faculty/nugent.html text: David Nugent), Emory University
 (link: http://www.anthro.ucla.edu/faculty/elinor-ochs text: Elinor Ochs), University of California, Los Angeles
 (link: http://graduateinstitute.ch/directory/_/people/randeria text: Shalini Randeria), Graduate Institute Geneva and Institute for Human Sciences, Vienna
 (link: https://researchers.anu.edu.au/researchers/rumsey-al text: Alan Rumsey), Australian National University
 (link: http://navi.ufsc.br/?page_id=4 text: Carmen Silvia de Moraes Rial), Universidade Federal de Santa Catarina
+(link: https://www.trentu.ca/ids/faculty-research/dr-jacqueline-s-solway text: Jacqueline Solway), Trent University
 (link: http://www.socanth.cam.ac.uk/directory/dr-rupert-stasch text: Rupert Stasch), University of Cambridge
 (link: http://www.anthropology.hawaii.edu/people/Faculty/Tengan/index.html text: Ty Tengan), University of Hawai‘i at Mānoa
 (link: https://researchers.anu.edu.au/researchers/tomlinson-ma text: Matt Tomlinson), Australian National University

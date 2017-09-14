@@ -1,0 +1,84 @@
+Title: Book Reviews
+
+----
+
+Articles: 
+
+- 
+  article: >
+    read/journal/volume-44-issue-3-august-2017/killer-apes-naked-apes-and-just-plain-nasty-people
+- 
+  article: >
+    read/journal/volume-44-issue-3-august-2017/decoding-chomsky
+- 
+  article: >
+    read/journal/volume-44-issue-3-august-2017/living-beings
+- 
+  article: >
+    read/journal/volume-44-issue-3-august-2017/articulating-dinosaurs
+- 
+  article: >
+    read/journal/volume-44-issue-3-august-2017/what-is-existential-anthropology
+- 
+  article: >
+    read/journal/volume-44-issue-3-august-2017/sacred-rice
+- 
+  article: >
+    read/journal/volume-44-issue-3-august-2017/musa
+- 
+  article: >
+    read/journal/volume-44-issue-3-august-2017/islamic-education-in-africa
+- 
+  article: >
+    read/journal/volume-44-issue-3-august-2017/trickster-theatre
+- 
+  article: >
+    read/journal/volume-44-issue-3-august-2017/beyond-religious-tolerance
+- 
+  article: >
+    read/journal/volume-44-issue-3-august-2017/violent-conversion
+- 
+  article: >
+    read/journal/volume-44-issue-3-august-2017/looking-back-moving-forward
+- 
+  article: >
+    read/journal/volume-44-issue-3-august-2017/rights-after-wrongs
+- 
+  article: >
+    read/journal/volume-44-issue-3-august-2017/biomedicine-in-an-unstable-place
+- 
+  article: >
+    read/journal/volume-44-issue-3-august-2017/essential-trade
+- 
+  article: >
+    read/journal/volume-44-issue-3-august-2017/ghost-protocol
+- 
+  article: >
+    read/journal/volume-44-issue-3-august-2017/afghanistan-remembers
+- 
+  article: >
+    read/journal/volume-44-issue-3-august-2017/crossing-the-gulf
+- 
+  article: >
+    read/journal/volume-44-issue-3-august-2017/the-reckoning-of-pluralism
+- 
+  article: >
+    read/journal/volume-44-issue-3-august-2017/oikos-and-market
+- 
+  article: >
+    read/journal/volume-44-issue-3-august-2017/the-anthropology-of-security
+- 
+  article: >
+    read/journal/volume-44-issue-3-august-2017/figurations-of-the-future
+- 
+  article: >
+    read/journal/volume-44-issue-3-august-2017/the-management-of-hate
+- 
+  article: >
+    read/journal/volume-44-issue-3-august-2017/le-cosmopolitisme-de-la-ville-au-politique
+- 
+  article: >
+    read/journal/volume-44-issue-3-august-2017/singular-and-plural
+- 
+  article: >
+    read/journal/volume-44-issue-3-august-2017/anthropologies-of-class
