@@ -20,7 +20,7 @@ Tags:
 
 Text: 
 
-# #Ferguson: Digital Supplement
+<h1>#Ferguson: Digital Supplement</h1>
 
 Prepared by (link: https://twitter.com/yarimarbonilla  text: @yarimarbonilla) and (link: http://womens-studies.rutgers.edu/graduate-program/student-profiles/phd-students/440-2010-max-hantel text: Max Hantel)
 
