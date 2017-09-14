@@ -3,6 +3,7 @@
 class InputListField extends InputField {
 
   public $columns = 2;
+  protected $cache;
 
   public function input() {
     $input = parent::input();
@@ -10,15 +11,26 @@ class InputListField extends InputField {
     return $input;
   }
 
+  public function label() {
+    $label = parent::label();
+    if(is_null($label)) return null;
+
+    // use a legend to avoid having a label
+    // that is just connected to the first input
+    return $label->tag('legend')->attr('for', false);
+  }
+
   public function options() {
-    return fieldoptions::build($this);
+    if($this->cache) return $this->cache;
+    
+    return $this->cache = fieldoptions::build($this);
   }
 
   public function item($value, $text) {
 
     $input = $this->input($value);
 
-    $label = new Brick('label', $this->i18n($text));
+    $label = new Brick('label', '<span>' . $this->i18n($text) . '</span>');
     $label->addClass('input');
     $label->attr('data-focus', 'true');
     $label->prepend($input);
