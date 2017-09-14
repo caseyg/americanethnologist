@@ -66,3 +66,5 @@ c::set('meta-tags.default', [
            },
      ]
 ]);
+
+c::set('panelBar.widget', false);

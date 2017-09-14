@@ -1,5 +1,75 @@
 # Changelog
 
+## [2.3.1](https://github.com/distantnative/panel-bar/releases/tag/2.3.1) (2017-05-18)
+:zap: Improved handling of custom element plugins  
+:globe_with_meridians: Panel view translatable  
+:lock: Restricted API routes to users with panel access  
+:alien: Improved panel instance imitation 
+:bug: prevent reset of $site to home by panel instance imitation   
+:truck: Moved files around  
+
+
+## [2.3.0](https://github.com/distantnative/panel-bar/releases/tag/2.3.0) (2017-04-23)
+:sparkles: Setting panel elements: panel view instead of widget  
+
+
+## [2.2.1](https://github.com/distantnative/panel-bar/releases/tag/2.2.1) (2017-04-21)
+:balloon: Do not display login shortcut as default (if you want it: `c::set('panelBar.login', true)`)  
+:lipstick: Navigation element: Using blueprint page icons  
+:bug: User element: display $user in translation  
+
+
+## [2.2.0](https://github.com/distantnative/panel-bar/releases/tag/2.2.0) (2017-04-9)
+:sparkles: New element: Google PageSpeed API
+:sparkles: Set element float via panel widget
+:lipstick: Panel widget: now all pretty
+:balloon: Translations now follow the panel user's language  
+:balloon: Translations now get passed {$variables} to be more flexible 
+:poop: Dropped RTL support for the moment   
+
+## [2.1.2](https://github.com/distantnative/panel-bar/releases/tag/2.1.2) (2017-03-28)
+:bug: CLI installing to wrong destination  
+:bug: active elements not considering default element set  
+
+## [2.1.1](https://github.com/distantnative/panel-bar/releases/tag/2.1.1) (2017-03-26)
+:bug: Visibility element: Unhiding numbered pages works again  
+:bug: Modals: close button works again  
+
+## [2.1.0](https://github.com/distantnative/panel-bar/releases/tag/2.1.0) (2017-03-26)
+:rotating_light: Custom elements can only be created through element classes  
+:sparkles: Panel widget to set the active panelBar elements  
+:sparkles: Config file `site/config/panelBar.yml` defines element set  
+:sparkles: Modal component to be used by elements  
+:sparkles: Content component for easy pre-styled text  
+:sparkles: New element: `navigation` (included in default set)  
+:sparkles: Login icon when user is not signed-in  
+:balloon: Dropdown pattern: additional CSS classes per dropdown item  
+:balloon: Added `about` element as sample for modal and content component  
+:balloon: Index element: using blueprint page icons  
+:balloon: Panel integration: respect custom site paths  
+:balloon: Set key shortcuts per element (`$this->key($keycode, $jsfunction)`)  
+:bug: Handle element names with `-`(now stripping `-`)   
+:bug: Core translations loading in time to be displayed   
+:bug: Custom element classes would overwrite pattern classes  
+:bug: Visibility element: Bug when hiding only child  
+:bug: Overlay: border on iframe in Chrome  
+:bug: Images element: responsive grid sizes  
+:bug: Dropdowns disappeared in responsive mode  
+:arrow_up: FontAwesome 4.7  
+:books: MIT License added  
+:books: Documentation offers more direct links to helpful code examples  
+
+## [2.0.1](https://github.com/distantnative/panel-bar/releases/tag/2.0.1) (2017-03-24)
+:bug: Custom element asset route fixed  
+
+## [2.0.0](https://github.com/distantnative/panel-bar/releases/tag/2.0.0) (2017-03-24)
+- Version 2 is here after years! :sparkle:
+- Complete rewrite
+- Feature: Encapsulated elements, custom element plugins and so much more
+- Feature: Own registry for panelBar elements (so other plugins can provide their elements for the panelBar)
+- Feature: Routes, Translations, Assets for elements
+- Improved: Added methods to use localStorage for custom elements
+
 ## Version 1.0
 - Feature: Close button in iFrame mode which redirects to current panel page
 - Feature: Added a first draft of the [assets guide](assets/GUIDE.md)

@@ -1,0 +1,11 @@
+panel: [ ]
+add: [ ]
+edit: [ ]
+navigation: [ ]
+files: [ ]
+logout:
+  float: right
+user:
+  float: right
+index: [ ]
+visibility: [ ]

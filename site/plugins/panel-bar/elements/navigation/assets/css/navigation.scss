@@ -1,0 +1,66 @@
+
+@import '../../../../assets/scss/util/colors';
+
+.panelBar--navigation {
+  &.panelBar-mDropParent {
+    &:hover::after {
+      border-bottom-color: $color-lightgrey;
+    }
+
+    &.with-parent {
+      &:hover::after {
+        border-bottom-color: $color-almostwhite;
+      }
+    }
+  }
+
+  &__parent {
+    border-bottom:    none;
+    background-color: $color-almostwhite;
+  }
+
+  &__sibling {
+    display:          inline-block;
+    width:            100%;
+    min-width:        120px;
+    border-bottom:    none;
+    background-color: $color-lightgrey;
+
+    &.both { width: 50%;        }
+    & + &  { margin-left: -2px; }
+  }
+
+  &__child {
+    font-size: .85em;
+    text-align: left;
+
+    .icon.fa { margin-right: 12px; }
+
+  }
+
+  &__eye {
+    position: absolute;
+
+    &.fa-eye,
+    &.fa-eye-slash {
+      transform: translate(-17px, 40%);
+      font-size: .85em;
+    }
+
+    &.fa-circle {
+      transform: translate(-19px, 4px);
+      color: rgba($color-white, .85);
+      font-size: 1.2em;
+    }
+
+  }
+
+  &--invisible {
+    .icon { opacity: .3; }
+  }
+
+  &__parent,
+  &__child {
+    .fa { margin-right: .5em; }
+  }
+}

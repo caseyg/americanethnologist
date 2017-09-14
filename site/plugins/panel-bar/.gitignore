@@ -1,3 +1,9 @@
 .DS_Store
 .sass-cache
 *.css.map
+
+.sass-lint.yml
+/node_modules/
+config.codekit
+
+elements/about
