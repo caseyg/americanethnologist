@@ -7,3 +7,7 @@ Text:
 *Promoting rich ethnography and relevant, cutting-edge theory in cultural anthropology since 1842.*
 
 Attend our (link: /meetings text: conferences).  Read our (link: /read text: journal).  Follow our (link: /features text: conversations) about human diversity.
+
+---
+
+AES is a section of the (link: http://www.americananthro.org/ text: American Anthropological Association).
