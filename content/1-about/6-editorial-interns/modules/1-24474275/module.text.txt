@@ -1,0 +1,13 @@
+Title: Lead
+
+----
+
+Text: The AES Editorial Intern Team debuted at the AES spring meeting in 2016. The team works with AES Section Editor Carole McGranahan to introduce new features and conversations to our website and social media. We welcome your ideas, and each year will invite applications for other graduate students to join us.
+
+----
+
+Modulesettings: 
+
+----
+
+Lead: true

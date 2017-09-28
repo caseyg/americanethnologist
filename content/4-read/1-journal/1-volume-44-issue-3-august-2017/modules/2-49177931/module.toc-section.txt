@@ -1,0 +1,30 @@
+Title: Research Articles
+
+----
+
+Articles: 
+
+- 
+  article: >
+    read/journal/volume-44-issue-3-august-2017/homework
+- 
+  article: >
+    read/journal/volume-44-issue-3-august-2017/professional-apartheid
+- 
+  article: >
+    read/journal/volume-44-issue-3-august-2017/keeping-god-s-distance
+- 
+  article: >
+    read/journal/volume-44-issue-3-august-2017/glossolalia-and-cacophony-in-south-korea
+- 
+  article: >
+    read/journal/volume-44-issue-3-august-2017/beyond-cultural-intimacy
+- 
+  article: >
+    read/journal/volume-44-issue-3-august-2017/sacralizing-kinship-naturalizing-the-nation
+- 
+  article: >
+    read/journal/volume-44-issue-3-august-2017/an-offer-of-pleasure
+- 
+  article: >
+    read/journal/volume-44-issue-3-august-2017/social-impact-without-social-justice

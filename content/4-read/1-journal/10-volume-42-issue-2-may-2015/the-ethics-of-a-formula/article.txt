@@ -1,0 +1,29 @@
+Title: The ethics of a formula
+
+----
+
+Subtitle: Calculating a financial–humanitarian price for water
+
+----
+
+Author: Andrea Ballestero
+
+----
+
+Wiley: http://onlinelibrary.wiley.com/doi/10.1111/amet.12129/full
+
+----
+
+Text: When Costa Rican regulators set water rates, they effectively transform the human right to water into a price. I propose the notion of a “calculation grammar” to grasp the inventive patterns and vibrant social engagements that fuse the ethical investments, ontological assumptions, and quantified expressions involved in this process. This grammar governs the relative weights and proportions of the elements in numeric propositions, giving them distinct meanings and political valences. The liveliness of these propositions derives from the power of numeric techniques in their inevitably place-specific expressions as well as from the legal principles of sociality that enable them. I follow the mathematical formula regulators use to set water prices to reveal the inconspicuous financialization of human rights and the humanitarization of finance as they currently unfold across technocratic centers of calculation. I also argue for an ethnographic approach that remains committed to the ontological indivisibility of the technical and the cultural in any quantification effort.
+
+----
+
+Tags: human rights,prices,water,calculation,regulation,finance,Costa Rica
+
+----
+
+Featuredimage: 
+
+----
+
+Related: 

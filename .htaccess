@@ -38,6 +38,9 @@ RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule ^(.*) index.php [L]
 
+# redirect ferguson supplement
+RedirectMatch 301 /2015/ferguson-digital-protest-february-2015/ http://americanethnologist.org/read/supplements/ferguson-supplement
+
 </IfModule>
 
 # Additional recommended values

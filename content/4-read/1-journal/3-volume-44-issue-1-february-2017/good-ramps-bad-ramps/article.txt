@@ -1,0 +1,29 @@
+Title: Good ramps, bad ramps
+
+----
+
+Subtitle: Centralized design standards and disability access in urban Russian infrastructure
+
+----
+
+Author: Cassandra Hartblay
+
+----
+
+Wiley: http://onlinelibrary.wiley.com/doi/10.1111/amet.12422/full
+
+----
+
+Text: 
+
+Accessible design seeks to reconfigure the social by restructuring the material. As the idea moves globally, it becomes entwined in local logics of moral obligations between citizens and the state. Wheelchair users in the city of Petrozavodsk, in northwestern Russia, talk about inaccessible infrastructure as being embedded in moral relationships. In their stories, hierarchies of expertise diffuse responsibility for outcomes and devalue user knowledge. When accessible design elements are installed to meet minimum standards, they are “just for the check mark” and often do not “work.” Wheelchair ramps produce value for businesses or governments by representing an idea of access that circulates as a commodity. Failed accessible design draws attention to a moral field governing the responsibilities of actors to produce a “good” built environment, imbricated in teleologies of progress. [disability, design, infrastructure, access, ramps, postsocialism, Russia]
+
+Смысл идеи создания «доступной среды» заключается не просто в реконструкции материальных объектов и создании нового удобного дизайна, но, главным образом, в перестройке паттернов мышления и социальных отношений. Глобальное продвижение данной идеи в отдельных странах и культурах сопровождается столкновением новых смыслов с уже существующими местными представлениями о моральных обязательствах между государством и его гражданами. Так, жители северо-запада России, города Петрозаводска, использующие инвалидные коляски (инвалиды колясочники) рассказывают о недоступности местной инфраструктуры, которая существует именно из-за устоявшихся моральных порядков. В своих интервью инвалиды колясочники объясняют, что внедрение новых стандартов «доступной среды» происходит централизовано, без обращения к опыту самих людей с инвалидностью, что в итоге приводит к рассеиванию ответственности за конечные результаты. Зачастую элементы доступной среды устанавливают только «для галочки» — ради соблюдения стандартных требований, делая их при этом совершенно непригодными для использования. Таким образом, установка пандусов для маломобильных групп населения, символизируя собой идею «доступности», становится товаром и используется власть имущие (бизнес и государство) лишь с целью формирования собственной положительной репутации. Подобные неудачные примеры реализации идеи «доступной среды» сосредоточивают наше внимание на «неписаных» моральных правилах, которые регулируют деятельность лиц, ответственных за создание «хороший дизайн» городской среды, при этом всегда тесно переплетаются с существующими в конкретном обществе приоритетами развития. [инвалидность, дизайн, инфраструктура, доступность, пандус, постсоциализм, Россия]
+
+----
+
+Tags: disability,design,infrastructure,access,ramps,postsocialism,Russia
+
+----
+
+Related: 

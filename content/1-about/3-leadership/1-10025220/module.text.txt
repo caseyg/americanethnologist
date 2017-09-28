@@ -1,0 +1,45 @@
+Title: Text module
+
+----
+
+Text: 
+
+#Leadership
+#####AES Presidents 1981 to present
+David Maybury-Lewis (1981)
+Edward Bruner
+June Helm
+Keith Basso
+Eugene Hammel
+Sally Falk Moore
+Louise Lamphere
+Stephen Gudeman
+Ellen Basso
+Renato Rosaldo
+Margery Wolf
+Emily Martin
+Susan Harding
+Fred Myers
+Catherine Lutz
+Ida Susser
+David Nugent
+Jane Collins
+Sally Merry
+Carol Greenhouse
+Hugh Gusterson (2015-2017)
+ 
+#####Earlier presidents (we welcome additions to this list)
+Morris Jesup (1900)
+James Grant Wilson (1910)
+Franz Boas (1914, 1915)
+Pliny Goddard (1918)
+Clark Wissler (1919)
+Ruth Benedict (1928, 1929)
+
+----
+
+Modulesettings: 
+
+----
+
+Lead: false

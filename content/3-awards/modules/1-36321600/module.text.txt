@@ -1,0 +1,13 @@
+Title: Text module
+
+----
+
+Text: AES regularly holds juried competitions for three awards, all of which recognize outstanding work in the field.
+
+----
+
+Modulesettings: 
+
+----
+
+Lead: true

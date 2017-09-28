@@ -1,0 +1,17 @@
+Title: Profile cards
+
+----
+
+Text: 
+
+----
+
+Modulesettings:
+
+----
+
+Width: small
+
+----
+
+Fontsize: default

@@ -1,0 +1,24 @@
+Title: test-citations
+
+----
+
+Text: 
+
+(image: scotland.jpg)
+Lorem ipsum dolor sit amet, qui nonumes ocurreret cu, id pri tritani invenire inimicus, an dicat solet scriptorem usu. Brute labore iracundia ut sea, noluisse voluptatum duo no, eum inani semper ut. Ex mel tollit mediocritatem, nam at blandit noluisse principes. Commodo quaeque neglegentur cum ea, duo ea nulla dictas. Ex pri noluisse percipit. No qui tota ferri intellegat.
+
+Ne mazim virtute veritus eum, quidam graecis dissentiet in sed, duo at magna malorum temporibus. Vivendo suavitate pro ad, tollit aliquid temporibus ad vim. Sed facer honestatis cu. Ius nullam omittam invenire id, menandri contentiones at his.
+
+Causae mediocrem mel id, usu munere oportere id. Qui dicam volutpat no, recteque hendrerit inciderint pro no. Eum luptatum consulatu id, id vix delenit denique aliquando, vix case noluisse voluptatum ei. Eu ius quis dicta omittam. Usu ex adipisci democritum. Cu ius odio eleifend, aliquando omittantur contentiones his eu.
+
+Te appareat recteque conclusionemque usu. Sea novum tantas mollis et, id augue dicunt mel. Ex diceret partiendo vis, similique pertinacia sed ex. Pro in soleat legimus, cu amet laoreet oportere usu.
+
+Cum an placerat complectitur, semper gloriatur appellantur est cu. Pro virtute aliquando cu. Ne sea dolorem scaevola, vim cu quaeque noluisse. Ius utinam aliquam in, ne vel praesent suscipiantur.
+
+----
+
+Modulesettings: 
+
+----
+
+Lead: false

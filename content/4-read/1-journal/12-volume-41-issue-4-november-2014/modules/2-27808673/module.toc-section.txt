@@ -1,0 +1,96 @@
+Title: Book Reviews
+
+----
+
+Articles: 
+
+- 
+  article: >
+    read/journal/volume-41-issue-4-november-2014/figures-of-southeast-asian-modernity
+- 
+  article: >
+    read/journal/volume-41-issue-4-november-2014/religious-bodies-politic
+- 
+  article: >
+    read/journal/volume-41-issue-4-november-2014/how-difficult-it-is-to-be-god
+- 
+  article: >
+    read/journal/volume-41-issue-4-november-2014/digital-anthropology
+- 
+  article: >
+    read/journal/volume-41-issue-4-november-2014/my-father-s-wars
+- 
+  article: >
+    read/journal/volume-41-issue-4-november-2014/the-indigenous-space
+- 
+  article: >
+    read/journal/volume-41-issue-4-november-2014/fresh-fruit-broken-bodies
+- 
+  article: >
+    read/journal/volume-41-issue-4-november-2014/back-stories
+- 
+  article: >
+    read/journal/volume-41-issue-4-november-2014/laughing-at-leviathan
+- 
+  article: >
+    read/journal/volume-41-issue-4-november-2014/return
+- 
+  article: >
+    read/journal/volume-41-issue-4-november-2014/violence-and-vengeance
+- 
+  article: >
+    read/journal/volume-41-issue-4-november-2014/advertising-and-anthropology
+- 
+  article: >
+    read/journal/volume-41-issue-4-november-2014/the-subject-of-virtue
+- 
+  article: >
+    read/journal/volume-41-issue-4-november-2014/the-perils-of-normalcy
+- 
+  article: >
+    read/journal/volume-41-issue-4-november-2014/patients-of-the-state
+- 
+  article: >
+    read/journal/volume-41-issue-4-november-2014/feminist-activist-ethnography
+- 
+  article: >
+    read/journal/volume-41-issue-4-november-2014/the-social-life-of-achievement
+- 
+  article: >
+    read/journal/volume-41-issue-4-november-2014/the-social-life-of-spirits
+- 
+  article: >
+    read/journal/volume-41-issue-4-november-2014/precarious-japan
+- 
+  article: >
+    read/journal/volume-41-issue-4-november-2014/peripheral-vision
+- 
+  article: >
+    read/journal/volume-41-issue-4-november-2014/culture-works
+- 
+  article: >
+    read/journal/volume-41-issue-4-november-2014/moving-matters
+- 
+  article: >
+    read/journal/volume-41-issue-4-november-2014/anxious-wealth
+- 
+  article: >
+    read/journal/volume-41-issue-4-november-2014/the-ecology-of-the-spoken-word
+- 
+  article: >
+    read/journal/volume-41-issue-4-november-2014/economy-of-words
+- 
+  article: >
+    read/journal/volume-41-issue-4-november-2014/economy-of-words
+- 
+  article: >
+    read/journal/volume-41-issue-4-november-2014/blue-ribbon-babies-and-labors-of-love
+- 
+  article: >
+    read/journal/volume-41-issue-4-november-2014/emerald-city
+- 
+  article: >
+    read/journal/volume-41-issue-4-november-2014/irish-ness-is-all-around-us
+- 
+  article: >
+    read/journal/volume-41-issue-4-november-2014/flaming-souls

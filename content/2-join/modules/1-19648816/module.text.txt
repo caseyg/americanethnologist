@@ -1,0 +1,17 @@
+Title: Lead
+
+----
+
+Text: 
+
+The American Ethnological Society (AES) is part of the American Anthropological Association (AAA). You can join AES through the AAA site link listed below. Membership includes a subscription to our quarterly journal (link: /read text: *American Ethnologist*).
+
+<a href="http://www.americananthro.org/join" class="btn btn-lg btn-success">Join</a>
+
+----
+
+Modulesettings: 
+
+----
+
+Lead: true

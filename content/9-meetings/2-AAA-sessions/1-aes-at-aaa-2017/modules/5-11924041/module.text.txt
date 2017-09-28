@@ -1,0 +1,28 @@
+Title: AES Workshops
+
+----
+
+Text: 
+
+###AES Workshops
+Pre-registration <span style="color:blue">(link: http://www.americananthro.org/AttendEvents/Content.aspx?ItemNumber=2294&navItemNumber=566 text: here)</span>
+
+#####1) Teaching Anthropology (led by Tristan Daniel Jones [Rutgers University] and Kenneth J. Guest [Baruch College, City University of New York]; Organizer: Kenneth J. Guest)
+**Saturday, December 2, 2017, 9:00 AM - 12:00 PM**
+Undergraduate students enrolled in introductory cultural anthropology courses, both majors and non-majors, comprise our discipline’s largest public audience. More than a blog post, an op-ed or a citation in a major media piece, the introductory classroom provides anthropologists with opportunities for in-depth and extended presentation of the key research strategies and analytical frameworks of our field. Come discuss how to create a dynamic and engaged intro classroom experience designed to help students apply the key concepts of anthropology to their everyday lives.
+
+#####2) Publishing a Peer-Reviewed Article: Thoughts from a Journal Editor (led by Niko Besnier, AE Editor)
+**Thursday, November 30, 2017, 10:30 AM - 12:30 PM**
+This workshop is focused on helping attendees who seek to publish their manuscripts in peer-reviewed academic journals, particularly anthropology journals. The workshop will be coordinated by the editor-in-chief of American Ethnologist, who during his tenure has reviewed hundreds of manuscripts on a wide range of topics. Attendees will have the opportunity to ask questions from an experienced journal editor, and in so doing potentially improve the chance that they will succeed in getting their own manuscripts published. Topics to be covered include: choosing an appropriate journal for your manuscript; understanding the importance of submission guidelines; demystifying the process of peer review; tips for responding to reviewers' comments and revising your manuscript; what to do if your manuscript is rejected outright; and tips for promoting your work once it is in print.
+
+#####3) Getting Your Book Manuscript Published: Meet with Academic Press Editors (led by Fred Appel, Princeton University Press; Priya Nelson, The University of Chicago Press; and Ken Wissoker, Duke University Press; Organizer: Roberto Gonzalez)
+**Friday, December 1, 2017, 1:00 PM - 3:00 PM**
+This workshop is focused on helping attendees who are interested in the possibility of submitting book manuscripts to peer-reviewed academic publishers. Workshop participants will include acquisitions editors from three university presses who have overseen the review of hundreds of manuscripts covering a wide range of topics. Attendees will have the opportunity to ask questions from these experienced editors, and in so doing potentially improve the chances that they will succeed in getting their own book manuscripts published. Some of the topics that will be covered include: choosing the right publisher for your work; preparing a book proposal or prospectus; submitting your book manuscript; how the peer review process works; revising your manuscript; working with publishers to promote your book; and tips for avoiding common mistakes.
+
+----
+
+Modulesettings: 
+
+----
+
+Lead: false
