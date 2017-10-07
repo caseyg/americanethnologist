@@ -80,9 +80,7 @@
   overflow: hidden;
   width: 100%;
   text-overflow: ellipsis;
-}
-structure[data-sortable=true] .structure-table td a {
-  cursor: move;  
+  cursor: move;
 }
 .structure-table-options {
   width: 3rem;

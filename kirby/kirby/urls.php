@@ -16,28 +16,20 @@ class Urls {
   public $autojs;
   public $avatars;
 
-  public function index($url = null) {
-    if(isset($url)) {
-      // remove trailing slash in URL but ignore a single slash
-      if($url !== '/') {
-        $url = rtrim($url, '/');
-      }
-      $this->index = $url;
+  public function index() {
+
+    if(isset($this->index)) return $this->index;
+
+    if(r::cli()) {
+      $index = '/';
+    } else {
+      $index = url::base() . preg_replace('!\/index\.php$!i', '', server::get('SCRIPT_NAME'));
     }
 
-    if(is_null($url)) {
-      if(isset($this->index)) return $this->index;
+    // fix index URL for the Panel
+    if(function_exists('panel')) $index = dirname($index);
+    return $this->index = $index;
 
-      if(r::cli()) {
-        $index = '/';
-      } else {
-        $index = url::base() . preg_replace('!\/index\.php$!i', '', server::get('SCRIPT_NAME'));
-      }
-
-      // fix index URL for the Panel
-      if(function_exists('panel')) $index = dirname($index);
-      return $this->index = $index;
-    }
   }
 
   public function content() {

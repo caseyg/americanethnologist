@@ -23,75 +23,72 @@ return function($user) {
   }
 
   // the default set of fields
-  $fields = array();
+  $fields = array(
 
-  if($user && !$user->password()) {
-    // Warning that the user does not have a password and can't login
-    $fields['noPasswordHelp'] = array(
-      'type' => 'info',
-      'text' => 'users.form.password.none.info'
-    );
-  }
+    'username' => array(
+      'label'     => 'users.form.username.label',
+      'type'      => 'text',
+      'icon'      => 'user',
+      'autofocus' => $mode != 'edit',
+      'required'  => true,
+      'help'      => $mode == 'edit' ? 'users.form.username.readonly' : 'users.form.username.help',
+      'readonly'  => $mode == 'edit',
+    ),
 
-  $fields['username'] = array(
-    'label'     => 'users.form.username.label',
-    'type'      => 'text',
-    'icon'      => 'user',
-    'autofocus' => $mode != 'edit',
-    'required'  => true,
-    'help'      => $mode == 'edit' ? 'users.form.username.readonly' : 'users.form.username.help',
-    'readonly'  => $mode == 'edit',
-  );
+    'firstName' => array(
+      'label'     => 'users.form.firstname.label',
+      'autofocus' => $mode == 'edit',
+      'type'      => 'text',
+      'width'     => '1/2',
+    ),
 
-  $fields['firstName'] = array(
-    'label'     => 'users.form.firstname.label',
-    'autofocus' => $mode == 'edit',
-    'type'      => 'text',
-    'width'     => '1/2',
-  );
+    'lastName' => array(
+      'label' => 'users.form.lastname.label',
+      'type'  => 'text',
+      'width' => '1/2',
+    ),
 
-  $fields['lastName'] = array(
-    'label' => 'users.form.lastname.label',
-    'type'  => 'text',
-    'width' => '1/2',
-  );
-
-  $fields['email'] = array(
-    'label'        => 'users.form.email.label',
-    'type'         => 'email',
-    'autocomplete' => false
-  );
-  
-  $fields['password'] = array(
-    'label'      => $mode == 'edit' && $user->password() ? 'users.form.password.new.label' : 'users.form.password.label',
-    'type'       => 'password',
-    'width'      => '1/2',
-    'suggestion' => true,
-  );
-
-  $fields['passwordConfirmation'] = array(
-    'label'    => $mode == 'edit' && $user->password() ? 'users.form.password.new.confirm.label' : 'users.form.password.confirm.label',
-    'type'     => 'password',
-    'width'    => '1/2',
-  );
-
-  $fields['language'] = array(
-    'label'    => 'users.form.language.label',
-    'type'     => 'select',
-    'required' => true,
-    'width'    => '1/2',
-    'default'  => kirby()->option('panel.language', 'en'),
-    'options'  => $translations
-  );
+    'email' => array(
+      'label'        => 'users.form.email.label',
+      'type'         => 'email',
+      'required'     => true,
+      'autocomplete' => false
+    ),
     
-  $fields['role'] = array(
-    'label'    => 'users.form.role.label',
-    'type'     => 'select',
-    'required' => true,
-    'width'    => '1/2',
-    'default'  => site()->roles()->findDefault()->id(),
-    'options'  => $roles,
-    'readonly' => (!panel()->user()->isAdmin() or ($user and $user->isLastAdmin()))
+    'password' => array(
+      'label'      => $mode == 'edit' ? 'users.form.password.new.label' : 'users.form.password.label',
+      'required'   => $mode == 'add',
+      'type'       => 'password',
+      'width'      => '1/2',
+      'suggestion' => true,
+    ),
+
+    'passwordConfirmation' => array(
+      'label'    => $mode == 'edit' ? 'users.form.password.new.confirm.label' : 'users.form.password.confirm.label',
+      'required' => $mode == 'add',
+      'type'     => 'password',
+      'width'    => '1/2',
+    ),
+
+    'language' => array(
+      'label'    => 'users.form.language.label',
+      'type'     => 'select',
+      'required' => true,
+      'width'    => '1/2',
+      'default'  => kirby()->option('panel.language', 'en'),
+      'options'  => $translations
+    ),
+    
+    'role' => array(
+      'label'    => 'users.form.role.label',
+      'type'     => 'select',
+      'required' => true,
+      'width'    => '1/2',
+      'default'  => site()->roles()->findDefault()->id(),
+      'options'  => $roles,
+      'readonly' => (!panel()->user()->isAdmin() or ($user and $user->isLastAdmin()))
+    ),
+
   );
 
   if($user) {

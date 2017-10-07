@@ -34,7 +34,7 @@ class Router {
 
   // The wildcard patterns supported by the router.
   protected $patterns = array(
-    '(:num)'     => '(-?[0-9]+)',
+    '(:num)'     => '([0-9]+)',
     '(:alpha)'   => '([a-zA-Z]+)',
     '(:any)'     => '([a-zA-Z0-9\.\-_%=]+)',
     '(:all)'     => '(.*)',
@@ -137,8 +137,6 @@ class Router {
       } else {
         $route->filter = array($route->filter);
       }
-    } else if(is_object($route->filter) && ($route->filter instanceof Closure)) {
-      $route->filter = array($route->filter);
     }
 
     foreach($route->method as $method) {
@@ -172,26 +170,13 @@ class Router {
    * Call all matching filters
    *
    * @param mixed $filters
-   * @return boolean
    */
   protected function filterer($filters, $route) {
     foreach((array)$filters as $filter) {
-      // fetch the filter function
-      $function = null;
-      if(is_object($filter) && ($filter instanceof Closure)) {
-        $function = $filter;
-      } else if(array_key_exists($filter, $this->filters) && is_callable($this->filters[$filter])) {
-        $function = $this->filters[$filter];
-      }
-
-      // if we found one, call it and expect a boolean result
-      if($function) {
-        $return = call($function, $route);
-        if($return === false) return false;
+      if(array_key_exists($filter, $this->filters) && is_callable($this->filters[$filter])) {
+        call_user_func($this->filters[$filter], $route);
       }
     }
-    
-    return true;
   }
 
   /**
@@ -233,12 +218,8 @@ class Router {
 
       // handle exact matches
       if($route->pattern == $path) {
-        // Run the filters
-        // If the route passes all filters, we choose it;
-        // otherwise the search continues
-        if($this->filterer($route->filter, $route) !== false) {
-          return $this->route = $route;
-        }
+        $this->route = $route;
+        break;
       }
 
       // We only need to check routes with regular expression since all others
@@ -252,20 +233,18 @@ class Router {
       // parameter match, as preg_match sets the first array item to the
       // full-text match of the pattern.
       if(preg_match($preg, $path, $parameters)) {
-        $route->arguments = array_slice($parameters, 1);
-
-        // Run the filters
-        // If the route passes all filters, we choose it;
-        // otherwise the search continues
-        if($this->filterer($route->filter, $route) !== false) {
-          return $this->route = $route;
-        }
+        $this->route = $route;
+        $this->route->arguments = array_slice($parameters, 1);
+        break;
       }
 
     }
 
-    // We didn't find any route :(
-    return null;
+    if($this->route && $this->filterer($this->route->filter, $this->route) !== false) {
+      return $this->route;
+    } else {
+      return null;
+    }
 
   }
 

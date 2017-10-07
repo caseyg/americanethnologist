@@ -88,11 +88,8 @@ class Structure {
   public function fields() {
 
     $fields = $this->config->fields();
-    $fields = new Fields($fields, $this->model, 'structure');
+    $fields = new Fields($fields, $this->model);
     $fields = $fields->toArray();
-
-    // unify keys
-    $fields = array_change_key_case($fields, CASE_LOWER);
 
     // make sure that no unwanted options or fields 
     // are being included here
@@ -128,7 +125,6 @@ class Structure {
 
     $collection = new Collection($this->store()->data());
     $collection = $collection->map(function($item) {
-      $item = array_change_key_case($item, CASE_LOWER);
       return new Obj($item);
     });
 
@@ -137,12 +133,7 @@ class Structure {
   }
 
   public function toObject($array) {
-    if(is_array($array)) {
-      $array = array_change_key_case($array, CASE_LOWER);
-      return new Obj($array);
-    } else {
-      return false;
-    }
+    return is_array($array) ? new Obj($array) : false;
   }
 
   public function find($id) {

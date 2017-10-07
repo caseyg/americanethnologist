@@ -3,10 +3,8 @@
 require_once('lib/bootstrap.php');
 
 class XmlTest extends PHPUnit_Framework_TestCase {
-
-  protected $string;
   
-  protected function setUp() {
+  public function __construct() {
     $this->string = 'Süper Önencœded ßtring';
   }
 

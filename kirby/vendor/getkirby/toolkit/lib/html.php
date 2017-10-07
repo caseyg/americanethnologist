@@ -14,17 +14,6 @@
 class Html {
 
   /**
-   * Can be used to switch to trailing slashes if required
-   * 
-   * ```php
-   * html::$void = ' />'
-   * ```
-   * 
-   * @var string $void
-   */
-  public static $void = '>';
-
-  /**
    * An internal store for a html entities translation table
    *
    * @return array
@@ -170,7 +159,7 @@ class Html {
     if(!empty($attr)) $html .= ' ' . $attr;
 
     if(static::isVoid($name)) {
-      $html .= static::$void;
+      $html .= '>';
     } else {
       $html .= '>' . $content . '</' . $name . '>';
     }

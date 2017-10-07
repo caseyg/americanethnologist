@@ -65,15 +65,15 @@ v::$validators = array(
     return v::min($value, $min) && v::max($value, $max);
   },
   'date' => function($value) {
-    $date = date_parse($value);
+    $time = strtotime($value);
+    if(!is_int($time)) return false;
 
-    if($date === false ||
-       $date['error_count'] > 0 ||
-       $date['warning_count'] > 0) {
-      return false;
-    }
+    $year  = date('Y', $time);
+    $month = date('m', $time);
+    $day   = date('d', $time);
 
-    return true;
+    return checkdate($month, $day, $year);
+
   },
   'different' => function($value, $other) {
     return $value !== $other;

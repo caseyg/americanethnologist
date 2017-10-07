@@ -101,11 +101,6 @@ class PagesController extends Kirby\Panel\Controllers\Base {
 
     $form = $page->form('delete', function($form) use($page, $self) {
       try {
-
-        if($page->children()->count() && get('check') !== 'on') {
-          throw new PermissionsException();
-        }
-
         $page->delete();
         $self->notify(':)');
         $self->redirect($page->parent()->isSite() ? '/' : $page->parent());

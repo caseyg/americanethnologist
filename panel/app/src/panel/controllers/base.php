@@ -51,7 +51,6 @@ class Base extends Obj {
       'meta'      => $this->snippet('meta'),
       'css'       => css($cssbase . '/panel.min.css?v=' . $version),
       'js'        => js($jsbase . '/dist/panel.min.js?v=' . $version),
-      'favicon'   => $this->snippet('favicon', ['url' => panel()->kirby()->option('panel.favicon')]),
       'content'   => '',
       'bodyclass' => '',
     );    

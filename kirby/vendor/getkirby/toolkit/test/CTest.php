@@ -4,7 +4,7 @@ require_once('lib/bootstrap.php');
 
 class CTest extends PHPUnit_Framework_TestCase {
 
-  protected function setUp() {
+  public function __construct() {
 
     c::set('testvar', 'testvalue');
 

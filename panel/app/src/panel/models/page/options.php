@@ -132,13 +132,6 @@ class Options {
   }
 
   /**
-   * Option to sort files
-   */
-  public function sortFiles() {
-    return $this->page->blueprint()->files()->sortable();
-  }
-
-  /**
    * Option to have subpages
    */
   public function pages() {
@@ -164,6 +157,8 @@ class Options {
     if($this->page->isHomePage()) {
       return false;
     } else if($this->page->isErrorPage()) {
+      return false;
+    } else if($this->page->hasChildren()) {
       return false;
     } else if($this->page->blueprint()->deletable() === false) {
       return false;

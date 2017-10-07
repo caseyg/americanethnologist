@@ -3,7 +3,6 @@
 class InputListField extends InputField {
 
   public $columns = 2;
-  protected $cache;
 
   public function input() {
     $input = parent::input();
@@ -11,19 +10,8 @@ class InputListField extends InputField {
     return $input;
   }
 
-  public function label() {
-    $label = parent::label();
-    if(is_null($label)) return null;
-
-    // use a legend to avoid having a label
-    // that is just connected to the first input
-    return $label->tag('legend')->attr('for', false);
-  }
-
   public function options() {
-    if($this->cache) return $this->cache;
-    
-    return $this->cache = fieldoptions::build($this);
+    return fieldoptions::build($this);
   }
 
   public function item($value, $text) {

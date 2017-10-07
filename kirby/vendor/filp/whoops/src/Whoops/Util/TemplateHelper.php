@@ -39,17 +39,6 @@ class TemplateHelper
     private $cloner;
 
     /**
-     * @var string
-     */
-    private $applicationRootPath;
-
-    public function __construct()
-    {
-        // root path for ordinary composer projects
-        $this->applicationRootPath = dirname(dirname(dirname(dirname(dirname(dirname(__DIR__))))));
-    }
-
-    /**
      * Escapes a string for output in an HTML document
      *
      * @param  string $raw
@@ -70,8 +59,6 @@ class TemplateHelper
             // we do not blacklist anything anywhere.
             $flags |= ENT_IGNORE;
         }
-
-        $raw = str_replace(chr(9), '    ', $raw);
 
         return htmlspecialchars($raw, $flags, "UTF-8");
     }
@@ -117,8 +104,9 @@ class TemplateHelper
      */
     public function shorten($path)
     {
-        if ($this->applicationRootPath != "/") {
-            $path = str_replace($this->applicationRootPath, '&hellip;', $path);
+        $dirname = dirname(dirname(dirname(dirname(dirname(dirname(__DIR__))))));
+        if ($dirname != "/") {
+            $path = str_replace($dirname, '&hellip;', $path);
         }
 
         return $path;
@@ -327,25 +315,5 @@ class TemplateHelper
             $this->cloner = new VarCloner();
         }
         return $this->cloner;
-    }
-
-    /**
-     * Set the application root path.
-     *
-     * @param string $applicationRootPath
-     */
-    public function setApplicationRootPath($applicationRootPath)
-    {
-        $this->applicationRootPath = $applicationRootPath;
-    }
-
-    /**
-     * Return the application root path.
-     *
-     * @return string
-     */
-    public function getApplicationRootPath()
-    {
-        return $this->applicationRootPath;
     }
 }

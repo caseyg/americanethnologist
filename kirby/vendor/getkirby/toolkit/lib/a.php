@@ -329,17 +329,18 @@ class A {
    *
    * <code>
    *
-   * $array = [
+   * $array = array(
    *   'cat' => 'miao',
    *   'dog' => 'wuff',
-   *   'bird' => 'tweet',
-   *   'hippo' => null
-   * ];
+   *   'bird' => 'tweet'
+   * );
    *
-   * $required = ['cat', 'elephant', 'hippo'];
+   * $required = array('cat', 'elephant');
    *
-   * $missing = a::missing($array, $required);
-   * // missing: ['elephant', 'hippo'];
+   * $missng = a::missing($array, $required);
+   * // missing: array(
+   * //    'elephant'
+   * // );
    *
    * </code>
    *
@@ -347,10 +348,10 @@ class A {
    * @param   array  $required An array of required keys
    * @return  array  An array of missing fields. If this is empty, nothing is missing.
    */
-  public static function missing($array, $required = []) {
-    $missing = [];
-    foreach($required as $r) {
-      if(!isset($array[$r])) $missing[] = $r;
+  public static function missing($array, $required=array()) {
+    $missing = array();
+    foreach($required AS $r) {
+      if(empty($array[$r])) $missing[] = $r;
     }
     return $missing;
   }
@@ -447,7 +448,7 @@ class A {
    * @return  int    The average value
    */
   public static function average($array, $decimals = 0) {
-    return round((array_sum($array) / sizeof($array)), $decimals);
+    return round(array_sum($array), $decimals) / sizeof($array);
   }
 
   /**

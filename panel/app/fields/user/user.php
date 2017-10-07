@@ -6,18 +6,12 @@ class UserField extends SelectField {
     $this->type    = 'text';
     $this->icon    = 'user';
     $this->label   = l::get('fields.user.label', 'User');
-  }
-
-  // generating user list here instead of in the constructor because of
-  // https://github.com/getkirby/panel/issues/1034
-  public function options() {
-    $options = null;
+    $this->options = array();
 
     foreach(kirby()->site()->users() as $user) {
-      $options[$user->username()] = $user->username();
+      $this->options[$user->username()] = $user->username();
     }
 
-    return $options;
   }
 
   public function value() {

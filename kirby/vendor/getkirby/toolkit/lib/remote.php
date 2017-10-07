@@ -110,10 +110,6 @@ class Remote {
         }
 
         break;
-      case 'patch':
-        $params[CURLOPT_CUSTOMREQUEST] = 'PATCH';
-        $params[CURLOPT_POSTFIELDS]    = $this->postfields($this->options['data']);
-        break;
       case 'delete':
         $params[CURLOPT_CUSTOMREQUEST] = 'DELETE';
         $params[CURLOPT_POSTFIELDS]    = $this->postfields($this->options['data']);
@@ -256,24 +252,6 @@ class Remote {
 
     $defaults = array(
       'method' => 'PUT'
-    );
-
-    $request = new self($url, array_merge($defaults, $params));
-    return $request->response();
-
-  }
-
-  /**
-   * Static method to send a PATCH request
-   *
-   * @param string $url
-   * @param array $params
-   * @return object Response
-   */
-  public static function patch($url, $params = array()) {
-
-    $defaults = array(
-      'method' => 'PATCH'
     );
 
     $request = new self($url, array_merge($defaults, $params));

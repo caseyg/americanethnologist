@@ -18,7 +18,6 @@
   <?php echo $appjs ?>
   <?php echo $formjs ?>
   <?php echo $pluginsjs ?>
-  <?php echo $favicon ?>
 
 </head>
 <body class="app <?php __($direction) ?>" data-csrf="<?php __($csrf) ?>">

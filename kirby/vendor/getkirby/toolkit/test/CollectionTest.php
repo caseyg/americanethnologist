@@ -3,11 +3,8 @@
 require_once('lib/bootstrap.php');
 
 class CollectionTest extends PHPUnit_Framework_TestCase {
-
-  protected $data;
-  protected $collection;
   
-  protected function setUp() {
+  public function __construct() {
   
     $this->data = array(
       'first'  => 'My first element',

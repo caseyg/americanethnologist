@@ -60,11 +60,7 @@ class Method extends Entry {
     }
 
     $class = $this->subtype;
-    if(!isset($class::$methods[$name])) {
-      return $class::$methods[$name] = $callback;
-    } else {
-      return false;
-    }
+    return $class::$methods[$name] = $callback;
 
   }
 

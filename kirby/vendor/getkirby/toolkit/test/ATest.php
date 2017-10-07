@@ -3,18 +3,13 @@
 require_once('lib/bootstrap.php');
 
 class ATest extends PHPUnit_Framework_TestCase {
-
-  protected $user;
-  protected $users;
   
-  protected function setUp() {
+  public function __construct() {
 
     $this->user = array(
       'username' => 'testuser',
       'password' => 'testpassword',
-      'email'    => 'test@user.com',
-      'image'    => null,
-      'logins'   => 0
+      'email'    => 'test@user.com'
     );
 
     $this->users = array();
@@ -102,11 +97,11 @@ class ATest extends PHPUnit_Framework_TestCase {
   public function testMissing() {
 
     $user = $this->user;
-    $required = array('username', 'password', 'website', 'image', 'logins');
+    $required = array('username', 'password', 'website');
 
     $missing = a::missing($user, $required);
 
-    $this->assertEquals(array('website', 'image'), $missing);
+    $this->assertEquals(array('website'), $missing);
 
   }
 

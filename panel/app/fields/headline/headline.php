@@ -2,8 +2,6 @@
 
 class HeadlineField extends BaseField {
 
-  public $numbered = true;
-
   static public $assets = array(
     'css' => array(
       'headline.css'
@@ -25,7 +23,6 @@ class HeadlineField extends BaseField {
   public function element() {
     $element = parent::element();
     $element->addClass('field-with-headline');
-    if($this->numbered()) $element->addClass('field-with-headline-numbered');
     return $element;
   }
 

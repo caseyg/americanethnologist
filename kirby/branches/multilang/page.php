@@ -261,12 +261,7 @@ class Page extends PageAbstract {
    */
   public function update($input = array(), $lang = null) {
 
-    // normalize keys to make sure that fields are updated correctly
-    $normalizer = data::$adapters['kd']['_normalizeKeys'];
-    $current    = $normalizer($this->content($lang)->toArray());
-    $input      = $normalizer($input);
-
-    $data = a::update($current, $input);
+    $data = a::update($this->content($lang)->toArray(), $input);
 
     if(!data::write($this->textfile(null, $lang), $data, 'kd')) {
       throw new Exception('The page could not be updated');
@@ -287,19 +282,7 @@ class Page extends PageAbstract {
    */
   public function intendedTemplate() {
     if(isset($this->cache['intendedTemplate'])) return $this->cache['intendedTemplate'];
-
-    // check each language's content file
-    // prefer the default language's one (check that one first)
-    foreach($this->site->languages()->sortBy('isDefault', 'desc') as $lang) {
-      $content = $this->content($lang->code());
-
-      // the content file exists, use its file name
-      if($content->exists()) {
-        return $this->cache['intendedTemplate'] = $content->name();
-      }
-    }
-
-    return $this->cache['intendedTemplate'] = 'default';
+    return $this->cache['intendedTemplate'] = $this->content($this->site->defaultLanguage()->code())->exists() ? $this->content()->name() : 'default';
   }
 
 }

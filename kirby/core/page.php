@@ -1263,12 +1263,7 @@ abstract class PageAbstract {
    */
   public function update($input = array()) {
 
-    // normalize keys to make sure that fields are updated correctly
-    $normalizer = data::$adapters['kd']['_normalizeKeys'];
-    $current    = $normalizer($this->content()->toArray());
-    $input      = $normalizer($input);
-
-    $data = a::update($current, $input);
+    $data = a::update($this->content()->toArray(), $input);
 
     if(!data::write($this->textfile(), $data, 'kd')) {
       throw new Exception('The page could not be updated');

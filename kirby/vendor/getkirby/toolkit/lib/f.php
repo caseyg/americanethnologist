@@ -89,7 +89,6 @@ class F {
     'text'  => 'text/plain',
     'log'   => array('text/plain', 'text/x-log'),
     'rtx'   => 'text/richtext',
-    'ics'   => 'text/calendar',
     'rtf'   => 'text/rtf',
     'xml'   => 'text/xml',
     'xsl'   => 'text/xml',
@@ -531,135 +530,46 @@ class F {
    * Returns the mime type of a file
    *
    * @param string $file
-   * @return string|false
-   */
-  public static function mimeFromFileInfo($file) {
-
-    if(function_exists('finfo_file') && file_exists($file)) {
-      $finfo = finfo_open(FILEINFO_MIME_TYPE);
-      $mime  = finfo_file($finfo, $file);
-      finfo_close($finfo);
-      return $mime;
-    } else {
-      return false;
-    }
-
-  }
-
-  /**
-   * Returns the mime type of a file
-   *
-   * @param string $file
-   * @return string|false
-   */
-  public static function mimeFromMimeContentType($file) {
-
-    if(function_exists('mime_content_type') && file_exists($file) && $mime = @mime_content_type($file) !== false) {
-      return $mime;
-    } else {
-      return false;
-    }
-
-  }
-
-  /**
-   * Returns the mime type of a file
-   *
-   * @param string $file
-   * @return string|false
-   */
-  public static function mimeFromSystem($file) {
-
-    try {
-
-      if(!file_exists($file)) {
-        throw new Exception('The file does not exist');
-      }
-
-      $mime = system::execute('file', [$file, '-z', '-b', '--mime'], 'output');  
-      $mime = trim(str::split($mime, ';')[0]);
-
-      if(!static::mimeToExtension($mime)) {
-        throw new Exception('Unknown mime type');  
-      } 
-
-      return $mime;
-
-    } catch(Exception $e) {
-      // no mime type detectable with shell  
-      return false;
-    }
-
-  }
-
-  /**
-   * Returns the mime type of a file
-   *
-   * @param string $file
-   * @return string|false
-   */
-  public static function mimeFromSniffer($file) {
-
-    if(file_exists($file)) {
-
-      $reader = new MimeReader($file);
-      $mime   = $reader->get_type();
-
-      if(!empty($mime) && static::mimeToExtension($mime)) {
-        return $mime;
-      }
-
-    } 
-
-    return false;
-
-  }
-
-  /**
-   * Returns the mime type of a file
-   *
-   * @param string $file
    * @return mixed
    */
   public static function mime($file) {
 
-    // use the standard finfo extension 
-    $mime = static::mimeFromFileInfo($file);
+    // stop for invalid files
+    if(!file_exists($file)) return null;
 
-    // use the mime_content_type function
-    if(!$mime) {
-      $mime = static::mimeFromMimeContentType($file);
+    // Fileinfo is prefered if available
+    if(function_exists('finfo_file')) {
+      $finfo = finfo_open(FILEINFO_MIME_TYPE);
+      $mime  = finfo_file($finfo, $file);
+      finfo_close($finfo);
+      return $mime;
     }
 
-    // try to get it via cli
-    if(!$mime) {
-      $mime = static::mimeFromSystem($file);
+    // for older versions with mime_content_type go for that.
+    if(function_exists('mime_content_type') && $mime = @mime_content_type($file) !== false) {
+      return $mime;
     }
 
-    // use the mime sniffer class
-    if(!$mime) {
-      $mime = static::mimeFromSniffer($file);
+    // shell check
+    try {
+      $mime = system::execute('file', [$file, '-z', '-b', '--mime'], 'output');  
+      $mime = trim(str::split($mime, ';')[0]);
+      if(f::mimeToExtension($mime)) return $mime;
+    } catch(Exception $e) {
+      // no mime type detectable with shell  
+      $mime = null;
     }
 
-    // try to guess the mime type at least
-    if(!$mime) {
-      $mime = static::extensionToMime(static::extension($file));      
+    // Mime Sniffing
+    $reader = new MimeReader($file);
+    $mime   = $reader->get_type();
+
+    if(!empty($mime) && f::mimeToExtension($mime)) {
+      return $mime;
     }
 
-    // fix broken mime detection for svg files with style attribute
-    if($mime === 'text/html' && static::extension($file) === 'svg') {
-
-      libxml_use_internal_errors(true);
-      
-      $svg = new SimpleXMLElement(static::read($file));
-
-      if($svg !== false && $svg->getName() === 'svg') {
-        return 'image/svg+xml';
-      }
-
-    } 
-
-    return $mime;
+    // guess the matching mime type by extension
+    return f::extensionToMime(f::extension($file));
 
   }
 

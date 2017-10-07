@@ -19,7 +19,7 @@ class CSS extends \Kirby\Component {
    * Builds the html link tag for the given css file
    * 
    * @param string $url
-   * @param string|array $media Either a media string or an array of attributes
+   * @param null|string $media
    * @return string
    */
   public function tag($url, $media = null) {
@@ -41,18 +41,11 @@ class CSS extends \Kirby\Component {
 
     }
 
-    // build the array of HTML attributes
-    $attr = array(
-      'rel'  => 'stylesheet',
-      'href' => url($url)
-    );
-    if(is_array($media)) {
-      $attr = array_merge($attr, $media);
-    } else if(is_string($media)) {
-      $attr['media'] = $media;
-    }
-
-    return html::tag('link', null, $attr);
+    return html::tag('link', null, array(
+      'rel'   => 'stylesheet',
+      'href'  => url($url),
+      'media' => $media
+    ));
 
   }
 

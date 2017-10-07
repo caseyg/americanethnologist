@@ -3,13 +3,7 @@
 require_once('lib/bootstrap.php');
 
 class PaginationTest extends PHPUnit_Framework_TestCase {
-
-  protected $data;
-  protected $url;
-  protected $pages;
-  protected $pagination;
-
-  protected function setUp() {
+  public function __construct() {
     
     $this->data = new Collection(); 
 
