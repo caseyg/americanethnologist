@@ -92,13 +92,10 @@ data::$adapters['kd'] = array(
   'encode' => function($data) {
 
     // normalize keys
-    $normalizer = data::$adapters['kd']['_normalizeKeys'];
-    $data = $normalizer($data);
+    $data = data::$adapters['kd']['_normalizeKeys']($data);
 
     $result = array();
-
     foreach($data AS $key => $value) {
-
       if(empty($key) || is_null($value)) continue;
 
       // avoid problems with arrays
@@ -114,7 +111,7 @@ data::$adapters['kd'] = array(
         $result[$key] = $key . ": \n\n" . trim($value);
       // single-line content
       } else {
-        $result[$key] = $key . ': ' . trim($value);
+        $result[$key] = $key . ': ' . trim($value);        
       }
 
     }

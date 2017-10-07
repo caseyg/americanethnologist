@@ -56,7 +56,7 @@
           </li>
 
           <li>
-            <?php if($user->ui()->delete() && !$user->isLastAdmin()): ?>
+            <?php if($user->ui()->delete()): ?>
             <a data-modal class="btn btn-with-icon" href="<?php __($user->url('delete')) ?>">
               <?php i('trash-o', 'left') . _l('users.index.delete') ?>
             </a>

@@ -37,11 +37,6 @@ Tags:
 Builder: 
 
 - 
-  image: >
-    19048304_10208887281804011_1965859488_o.jpg
-  class: image--left
-  _fieldset: image
-- 
   text: |
     The upcoming AES Spring Meeting raises a vibrant theme, Emergence. Thinking about emergence opens a discussion on a variety of crucial issues such as aggravating war conflicts, new political movements, diseases and “emerging threats,” to name just few. Julia Elyachar is one of two invited keynote speakers for the event. With her background in anthropology, political economy, and Middle Eastern studies, she will open up some of the central questions of the conference in her plenary address.
     

@@ -27,11 +27,6 @@ class PlainTextHandler extends Handler
     protected $logger;
 
     /**
-     * @var callable
-     */
-    protected $dumper;
-
-    /**
      * @var bool
      */
     private $addTraceToOutput = true;
@@ -86,17 +81,6 @@ class PlainTextHandler extends Handler
     public function getLogger()
     {
         return $this->logger;
-    }
-
-    /**
-     * Set var dumper callback function.
-     *
-     * @param  callable $dumper
-     * @return void
-     */
-    public function setDumper(callable $dumper)
-    {
-        $this->dumper = $dumper;
     }
 
     /**
@@ -209,7 +193,7 @@ class PlainTextHandler extends Handler
 
         // Dump the arguments:
         ob_start();
-        $this->dump($frame->getArgs());
+        var_dump($frame->getArgs());
         if (ob_get_length() > $this->getTraceFunctionArgsOutputLimit()) {
             // The argument var_dump is to big.
             // Discarded to limit memory usage.
@@ -224,21 +208,6 @@ class PlainTextHandler extends Handler
         return sprintf("\n%s",
             preg_replace('/^/m', self::VAR_DUMP_PREFIX, ob_get_clean())
         );
-    }
-
-    /**
-     * Dump variable.
-     *
-     * @param mixed $var
-     * @return void
-     */
-    protected function dump($var)
-    {
-        if ($this->dumper) {
-            call_user_func($this->dumper, $var);
-        } else {
-            var_dump($var);
-        }
     }
 
     /**

@@ -13,6 +13,7 @@ body {
   }
 
 .panel {
+    overflow-x: hidden;
     overflow-y: scroll;
     height: 100%;
     position: fixed;
