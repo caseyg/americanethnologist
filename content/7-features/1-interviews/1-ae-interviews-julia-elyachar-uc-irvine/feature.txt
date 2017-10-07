@@ -13,9 +13,24 @@ Tags:
 Builder:
 
 -
+  text: >
+    The upcoming AES Spring Meeting raises a
+    vibrant theme, Emergence. Thinking about
+    emergence opens a discussion on a
+    variety of crucial issues such as
+    aggravating war conflicts, new political
+    movements, diseases and “emerging
+    threats,” to name just few. Julia
+    Elyachar is one of two invited keynote
+    speakers for the event. With her
+    background in anthropology, political
+    economy, and Middle Eastern studies, she
+    will open up some of the central
+    questions of the conference in her
+    plenary address.
+  _fieldset: leadtext
+-
   text: |
-    The upcoming AES Spring Meeting raises a vibrant theme, Emergence. Thinking about emergence opens a discussion on a variety of crucial issues such as aggravating war conflicts, new political movements, diseases and “emerging threats,” to name just few. Julia Elyachar is one of two invited keynote speakers for the event. With her background in anthropology, political economy, and Middle Eastern studies, she will open up some of the central questions of the conference in her plenary address.
-
     **American Ethnologist (AE):** Your first monograph developed from your fieldwork in Egypt in the 1990s. What were the main ideas in Markets of Dispossession? Do you revisit some of those ideas in your work now?
 
     **Julia Elyachar (JE):** *Markets of Dispossession* shows how new kinds of debt and financialization mediated by NGOs in Egypt transformed social and cultural practices, which had long been condemned as “backward” or a waste of time, into sources of economic value. In the neoliberal development approaches of the 1990s, poor Egyptians and a generation of youth facing unemployment would now be empowered by debt and the market. I called this process “empowerment debt.” To financialize culture, social networks, and youth itself unleashes a whole set of unintended dynamics. Among those was increased corruption and theft among state officials, which was the object of huge rage in the years leading up to the January 25th Revolution [in 2011]. It also fed into a widespread tacit critique of neoliberalism. Behaviors being promoted under these neoliberal development policies were known by my informants to provoke attacks of the evil eye. A number of my informants who had gotten rich quickly, for example, found their enterprises and homes ruined through car accidents, fires, and scandals that they attributed to the evil eye. In Markets of Dispossession I argued that the rapacious neoliberalism promoted in Egypt and elsewhere in the 1990s was likely to implode, as indeed has turned out to be true.

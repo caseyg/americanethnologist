@@ -46,3 +46,26 @@ body {
     height: auto;
   }
 }
+
+/* Images */
+
+.image img {
+  max-width: 100%;
+  height: auto;
+}
+
+.image.image--right {
+  display: block;
+  width: 33%;
+  float: right;
+  margin-left: 15px;
+  margin-bottom: 15px;
+}
+
+.image.image--left {
+  display: block;
+  width: 33%;
+  float: left;
+  margin-right: 15px;
+  margin-bottom: 15px;
+}

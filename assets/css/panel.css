@@ -14,3 +14,8 @@
   width: 33%;
   margin-right: 15px;
 }
+
+.lead p {
+  font-size: 1.25em!important;
+  line-height:1.25;
+}
