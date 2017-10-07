@@ -29,7 +29,7 @@ Place your in-text citations in parentheses and include the author’s name and 
 
 On the reference list, include every source cited in the text and no others, listed alphabetically by author. Set multiple entries by the same author in chronological order, from oldest to most recent. The layout is as follows, formatted with hanging indentation:
 
-![References](http://americanethnologist.org/content/6-submit/3-stylesheet/modules/1-38790996/screenshot-2017-03-06-at-6.38.34-pm.png)
+![References](http://americanethnologist.org/content/5-submit/3-stylesheet/modules/1-38790996/screenshot-2017-03-06-at-6.38.34-pm.png)
 
 Do not use tabs or spaces to create the hanging indentation; use the ruler, as explained by the (link: https://support.office.com/en-us/article/Create-a-hanging-indent-7bdfb86a-c714-41a8-ac7a-3782a91ccad5 text: Microsoft Word help page).
 
