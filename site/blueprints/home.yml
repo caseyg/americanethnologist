@@ -18,4 +18,10 @@ pages:
       template: modules-home
 
 fields:
+  welcome_header:
+    type: text
+    label: Welcome Header
+  welcome_text:
+    type: textarea
+    label: Welcome Text
   modules: modules

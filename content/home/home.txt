@@ -7,3 +7,19 @@ Intro: American Ethnological Society is a thriving group of nearly 4,000 anthrop
 ----
 
 Text: 
+
+----
+
+Welcome-header: Welcome to the American Ethnological Society
+
+----
+
+Welcome-text: 
+
+*Promoting rich ethnography and relevant, cutting-edge theory in cultural anthropology since 1842.*
+
+Attend our (link: /meetings text: conferences).  Read our (link: /read text: journal).  Follow our (link: /features text: conversations) about human diversity.
+
+---
+
+AES is a section of the (link: http://www.americananthro.org/ text: American Anthropological Association).
