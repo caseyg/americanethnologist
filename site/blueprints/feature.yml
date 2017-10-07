@@ -1,11 +1,6 @@
 title: Feature
 
-pages:
-  template: default
-  build:
-    - title: _modules
-      uid: modules
-      template: module
+pages: false
 
 fields:
   title:
@@ -18,14 +13,8 @@ fields:
     type: date
     width: 1/2
 
-  modules: modules
-
-  builder: builder
-
-  text:
-    label: Text
-    type: textarea
-
   tags:
     label: Keywords
     type: tags
+
+  builder: builder

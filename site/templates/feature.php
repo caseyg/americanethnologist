@@ -8,13 +8,10 @@
 <div class="col-xs-12">
   <?php pattern('heading-title') ?>
 
-  <?php if ($page->hasModules()): ?>
-      <?php $page->modules() ?>
-  <?php else: ?>
-    <div class="text">
-      <?= $page->text()->kt() ?>
-    </div>
-  <?php endif; ?>
+    <?php foreach($page->builder()->toStructure() as $section): ?>
+      <?php snippet('sections/' . $section->_fieldset(), array('data' => $section)) ?>
+    <?php endforeach ?>
+
 </div>
 
 <?php snippet('footer') ?>

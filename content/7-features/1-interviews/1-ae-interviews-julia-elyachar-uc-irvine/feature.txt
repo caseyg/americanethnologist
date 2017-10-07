@@ -31,3 +31,31 @@ The upcoming AES Spring Meeting raises a vibrant theme, Emergence. Thinking abou
 ----
 
 Tags: 
+
+----
+
+Builder: 
+
+- 
+  image: >
+    19048304_10208887281804011_1965859488_o.jpg
+  class: image--left
+  _fieldset: image
+- 
+  text: |
+    The upcoming AES Spring Meeting raises a vibrant theme, Emergence. Thinking about emergence opens a discussion on a variety of crucial issues such as aggravating war conflicts, new political movements, diseases and “emerging threats,” to name just few. Julia Elyachar is one of two invited keynote speakers for the event. With her background in anthropology, political economy, and Middle Eastern studies, she will open up some of the central questions of the conference in her plenary address.
+    
+    **American Ethnologist (AE):** Your first monograph developed from your fieldwork in Egypt in the 1990s. What were the main ideas in Markets of Dispossession? Do you revisit some of those ideas in your work now?
+    
+    **Julia Elyachar (JE):** *Markets of Dispossession* shows how new kinds of debt and financialization mediated by NGOs in Egypt transformed social and cultural practices, which had long been condemned as “backward” or a waste of time, into sources of economic value. In the neoliberal development approaches of the 1990s, poor Egyptians and a generation of youth facing unemployment would now be empowered by debt and the market. I called this process “empowerment debt.” To financialize culture, social networks, and youth itself unleashes a whole set of unintended dynamics. Among those was increased corruption and theft among state officials, which was the object of huge rage in the years leading up to the January 25th Revolution [in 2011]. It also fed into a widespread tacit critique of neoliberalism. Behaviors being promoted under these neoliberal development policies were known by my informants to provoke attacks of the evil eye. A number of my informants who had gotten rich quickly, for example, found their enterprises and homes ruined through car accidents, fires, and scandals that they attributed to the evil eye. In Markets of Dispossession I argued that the rapacious neoliberalism promoted in Egypt and elsewhere in the 1990s was likely to implode, as indeed has turned out to be true.
+    
+    **AE:** The situation in Egypt has shifted dramatically in the last few years. How have these sociopolitical changes affected your research?
+    
+    **JE:** I was not in Egypt during the Revolution. In the year or two after, I worked with colleagues to organize panels at the AES and AAA meetings. These panels then grew into a collection I curated for Cultural Anthropology with Jessica Winegar, which came out a year after the January 25th Revolution, called Revolution and Counter-Revolution in Egypt. This collection was widely read and cited outside of anthropology as well. I didn’t feel comfortable writing about Egypt in this period, since I was not there and so many had lost so much; it wasn’t my place. I returned to Egypt in the summers of 2012 and 2013, and drew on that research for my recent piece in History and Anthropology, called “Upending Infrastructure.” This piece focused on the controversial movement called tamarod, which brought down President Morsi of the Muslim Brotherhood. I continue to work and write on topics that concerned me before the revolution, such as debt, finance, and infrastructure, and which are crucial in the current period as well. [Ed. note: See also American Ethnologist*'s February 2012 forum on Egypt's 2011 Tahrir Square uprising, with articles by Lila Abu-Lughod, Hussein Ali Agrama, Farha Ghannam, Sherine Hafez, Sherine F. Hamdy, Charles Hirschkind, Saba Mahmood, Reem Saad, and Jessica Winegar: americanethnologist.org/archives/volume-39-issue-1-feb-2012]
+    
+    **AE:** What are you working on now?
+    
+    **JE:** I am trying to finish two books. One draws on my long-term research on alternative economies and old dilemmas of political economy that are of crucial importance in the Anthropocene. This book is called “Before and After Growth: Steady States, the Scourge of Accumulation, and an Economic Anthropology for the Anthropocene.” The second book, on which I draw for my plenary at the AES, is called "Forgotten Futures." This book draws on ethnography in Egypt and Israel/Palestine; archives from my own family history in Palestine; archives collected by my long-term interlocutor, Essam Fawzi; and my previous archival research on debt in the Ottoman Empire. If it is increasingly clear that there is no world we can imagine in the terms and political arrangements now extant, it is true as well that in order to think our way forward, we must see that which is gone. I look back as well to moments in the history of thought before the social theory we inherited was consolidated, to follow other strands of those debates whose futures were foreclosed. My talk at the AES, titled “Emergence(y): The Levant, Capitulations, and Social Theory after the January 25th Revolution in Egypt,” looks at that which emerges in times of emergency, such as those we are living through today.
+    
+    *Julia Elyachar is an Associate Professor at the Department of Anthropology and a Director of the Center for Global Peace and Conflict Studies, at the University of California, Irvine. Her research interests are in political economy, social theory, and finance, with a particular focus on the Middle East. She is the author of Markets of Dispossession: NGOs, Economic Development, and the State in Cairo (2005), which was awarded AES's 2007 Sharon Stephens Prize.*
+  _fieldset: bodytext
