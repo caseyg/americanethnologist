@@ -25,17 +25,24 @@ body {
   }
 }
 
-/* Homepage Carousel */
-
-.carousel {
-  .carousel-caption {
-    opacity: 0;
-    transition: opacity .25s;
+.carousel-captions {
+  display: block;
+  border: 1px solid $blockquote;
+  padding: 15px;
+  h6, .caption {
+    color: darken($blockquote,25%);
+  }
+  .caption {
+    line-height: 1.5!important;
   }
 }
 
-.carousel:hover {
-  .carousel-caption {
-    opacity: 1;
+/* Homepage Carousel */
+
+.carousel {
+  .carousel-cell,
+  img {
+    max-width: 100%;
+    height: auto;
   }
 }

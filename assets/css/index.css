@@ -349,10 +349,17 @@ body {
     page-break-inside: avoid;
     break-inside: avoid; }
 
-/* Homepage Carousel */
-.carousel .carousel-caption {
-  opacity: 0;
-  transition: opacity .25s; }
+.carousel-captions {
+  display: block;
+  border: 1px solid #d8d9c6;
+  padding: 15px; }
+  .carousel-captions h6, .carousel-captions .caption {
+    color: #a4a67a; }
+  .carousel-captions .caption {
+    line-height: 1.5 !important; }
 
-.carousel:hover .carousel-caption {
-  opacity: 1; }
+/* Homepage Carousel */
+.carousel .carousel-cell,
+.carousel img {
+  max-width: 100%;
+  height: auto; }
