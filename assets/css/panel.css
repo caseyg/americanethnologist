@@ -1,0 +1,16 @@
+.image img {
+  max-width: 100%;
+  height: auto;
+}
+
+.image.image--right {
+  display: block;
+  width: 33%;
+  margin-left: 15px;
+}
+
+.image.image--left {
+  display: block;
+  width: 33%;
+  margin-right: 15px;
+}
