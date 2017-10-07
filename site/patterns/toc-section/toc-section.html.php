@@ -8,7 +8,7 @@
       <h3 class="mb-0"><?php echo $a->title() ?></h3>
       <h4 class="mb-1 bentonsanscondensedregular"><?php echo $a->subtitle() ?></h4>
       <?php if ($a->book_author()->isNotEmpty()): ?>
-        <p class="gray--600"><em>by</em> <strong><?php echo $a->book_author() ?></strong>, <em>reviewed by</em> <strong><?php snippet('author', array('author' => $a->author())) ?></strong></p>
+        <p class="gray--600"><em>by</em> <strong><?php snippet('author', array('author' => $a->book_author())) ?></strong> &bull; <em>reviewed by</em> <strong><?php snippet('author', array('author' => $a->author())) ?></strong></p>
       <?php else: ?>
         <p class="gray--600"><em>by</em> <strong><?php snippet('author', array('author' => $a->author())) ?></strong></p>
       <?php endif; ?>
