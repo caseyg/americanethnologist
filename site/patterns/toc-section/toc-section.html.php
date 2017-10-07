@@ -15,7 +15,7 @@
       <?php if ($a->featuredImage()->isNotEmpty()): ?>
         <figure class="toc__figure">
           <img src="<?php echo $a->featuredImage()->toFile()->resize(500,500)->url() ?>" alt="<?php echo $a->featuredImage()->caption() ?>">
-          <figcaption><?php echo $a->featuredImage()->toFile()->caption() ?> <?php if ($a->featuredImage()->toFile()->caption()->isNotEmpty()): ?>  (<?php echo $a->featuredImage()->toFile()->credit() ?>)<?php endif; ?></figcaption>
+          <figcaption><?php echo $a->featuredImage()->toFile()->caption() ?> <?php if ($a->featuredImage()->toFile()->credit()->isNotEmpty()): ?>  (<?php echo $a->featuredImage()->toFile()->credit() ?>)<?php endif; ?></figcaption>
         </figure>
       <?php endif; ?>
     </a>

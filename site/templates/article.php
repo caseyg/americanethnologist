@@ -26,7 +26,7 @@
     <?php if ($page->hasImages()): ?>
       <figure class="col-md-6 mt-0">
         <img src="<?php echo $page->images()->first()->url() ?>" class="img-fluid" alt="<?php echo $page->images()->first()->caption() ?>">
-        <figcaption><?php echo $page->images()->first()->caption() ?> <?php if ($page->images()->first()->caption()->isNotEmpty()): ?>  (<?php echo $page->images()->first()->credit() ?>)<?php endif; ?></figcaption>
+        <figcaption><?php echo $page->images()->first()->caption() ?> <?php if ($page->images()->first()->credit()->isNotEmpty()): ?>  (<?php echo $page->images()->first()->credit() ?>)<?php endif; ?></figcaption>
       </figure>
     <?php endif; ?>
 
