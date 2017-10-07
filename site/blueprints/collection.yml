@@ -1,0 +1,16 @@
+title: Collection
+
+pages:
+  template:
+    - feature
+
+files: false
+
+fields:
+  title:
+    label: Title
+    type: title
+
+  text:
+    label: Text
+    type: textarea
