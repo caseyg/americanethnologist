@@ -1,0 +1,17 @@
+Title: Anthropology & Ferguson, Missouri
+----
+Date: 11/26/2014
+----
+Category:
+----
+Summary:
+----
+Tags:
+----
+
+Builder:
+
+-
+  _fieldset: bodytext
+  text: |
+    (link: http://onlinelibrary.wiley.com/doi/10.1111/amet.12112/abstract text: Feb. 2015 article) by Yarimar Bonilla and Jonathan Rosa, plus digital supplement with audio-visual resources.

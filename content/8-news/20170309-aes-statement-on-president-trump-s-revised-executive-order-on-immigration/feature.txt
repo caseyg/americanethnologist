@@ -6,15 +6,17 @@ Date: 2017-03-09
 
 ----
 
-Modules: 
-
+Modules:
 ----
 
-Text: 
+Builder:
 
-On February 1, AES issued a [statement](http://americanethnologist.org/news/american-ethnological-society-statement-on-president-trumps-immigration-executive-order) condemning the Trump Administration's executive order on immigration.  On March 6 the Trump
-Administration issued a revised executive order.  We oppose the new executive order too, endorsing the [formal statement by the American
-Anthropological Association](http://www.americananthro.org/ParticipateAndAdvocate/AdvocacyDetail.aspx?ItemNumber=21183) that the revised order "does not differ in spirit from the order issued in January even as there are differences in certain respects."
+-
+  _fieldset: bodytext
+  text: |
+    On February 1, AES issued a [statement](http://americanethnologist.org/news/american-ethnological-society-statement-on-president-trumps-immigration-executive-order) condemning the Trump Administration's executive order on immigration.  On March 6 the Trump
+    Administration issued a revised executive order.  We oppose the new executive order too, endorsing the [formal statement by the American
+    Anthropological Association](http://www.americananthro.org/ParticipateAndAdvocate/AdvocacyDetail.aspx?ItemNumber=21183) that the revised order "does not differ in spirit from the order issued in January even as there are differences in certain respects."
 
 ----
 

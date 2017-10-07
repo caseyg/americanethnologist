@@ -1,7 +1,8 @@
 title: News
 files: false
 pages:
-  template: feature
+  template:
+    - feature
   num: date
   sort: flip
 fields:
