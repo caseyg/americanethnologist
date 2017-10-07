@@ -1,0 +1,63 @@
+label: Sections
+type: builder
+fieldsets:
+  bodytext:
+    label: Body Text
+    snippet: sections/bodytext
+    fields:
+      text:
+        label: Text
+        type: textarea
+  quote:
+    label: Quote
+    snippet: sections/quote
+    fields:
+      text:
+        label: Quote Text
+        type: textarea
+      citation:
+        label: Citation
+        type: text
+  excerpt:
+    label: Excerpt
+    snippet: sections/excerpt
+    fields:
+      text:
+        label: Quote Text
+        type: textarea
+      title:
+        label: Title
+        type: text
+        width: 1/2
+      link:
+        label: Link
+        type: url
+        width: 1/2
+      date_text:
+        label: Date
+        type: text
+  image:
+    label: Image
+    snippet: sections/image
+    fields:
+      image:
+        type: image
+        label: Image
+      class:
+        type: select
+        label: Position
+        options:
+          image--left: Left Align
+          image--center: Center Align
+          image--right: Right Align
+          image--full: Full Width
+  slideshow:
+    label: Slideshow
+    snippet: sections/slideshow
+    fields:
+      slideshow:
+        label: Slideshow
+        type: images
+  divider:
+    label: Divider
+    snippet: sections/divider

@@ -20,6 +20,8 @@ fields:
 
   modules: modules
 
+  builder: builder
+
   text:
     label: Text
     type: textarea
