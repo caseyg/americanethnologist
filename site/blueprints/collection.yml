@@ -15,10 +15,6 @@ fields:
     label: Editors(s)
     type: tags
 
-  date:
-    label: Date
-    type: date
-
   featuredImage:
     label: Featured Image
     type: image
