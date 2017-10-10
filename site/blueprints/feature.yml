@@ -18,10 +18,22 @@ fields:
     type:  text
     width: 1/2
 
+  subtitle:
+    label: Subtitle
+    type:  text
+    width: 1/2
+
+  author:
+    label: Author(s)
+    type: tags
+
   date:
     label: Date
     type: date
-    width: 1/2
+
+  featuredImage:
+    label: Featured Image
+    type: image
 
   tags:
     label: Keywords
