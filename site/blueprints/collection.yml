@@ -11,6 +11,18 @@ fields:
     label: Title
     type: title
 
+  editors:
+    label: Editors(s)
+    type: tags
+
+  date:
+    label: Date
+    type: date
+
+  featuredImage:
+    label: Featured Image
+    type: image
+
   text:
     label: Text
     type: textarea
