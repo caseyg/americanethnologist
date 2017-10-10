@@ -2,6 +2,16 @@ title: Feature
 
 pages: false
 
+files:
+  fields:
+    caption:
+      label: Caption
+      type: textarea
+
+    credit:
+      label: Credit
+      type: text
+
 fields:
   title:
     label: Title
