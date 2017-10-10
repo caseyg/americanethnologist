@@ -1,0 +1,98 @@
+Title: The Digital Sound of Southeast Asian Islam
+
+----
+
+Date: 2017-10-09
+
+----
+
+Tags: digital,sound,southeast asia,social media,islam
+
+----
+
+Builder: 
+
+- 
+  text: '**Bart Barendregt** (Leiden University)'
+  _fieldset: leadtext
+- 
+  text: |
+    >*As I watch your eyes
+    There is cloud of yesterday’s grief and wounds,
+    No need to mourn
+    As God will change it for happiness,
+    Start the day
+    With bright face,
+    Be thankful for the blessings,
+    Be content and keep going.*
+    
+    >(Posted at @Inteam, March 8th 2017)
+    
+    Over the last two decades, the musical form known as nasheed has become the most global and commercial of Islamic music, popular now in the Middle East, Europe, the US and especially in Muslim Southeast Asia. As a musical style, it has been at the forefront of merging Islamic piety with a modern consumerist lifestyle. Balancing the interests of an Islamic reform movement, various state actors, and entertainment industries, nasheed musicians and fans have effectively pioneered some of the most sensory expressions of the newborn halal chic now ubiquitous in Southeast Asia. While many of the new forms of Islamic public piety have been particularly visual in nature, nasheed has become the “soundscape” (Hirschkind 2006) of an affective condition: making palpable an aspiration to piety that can otherwise feel ineffable. Its rhythms, voices, and styles are now synonymous with a young population who imagine themselves as middle-class, urban and creative.
+    
+    The word “nasheed" comes from the Arab word (*annasyid*), which can refer to singing, a hymn or simply raising one’s voice (Barendregt 2011). In the 20th century, grassroots movements in Yemen, Egypt, and Palestine adopted nasheed into resistance anthems, tracing the genre to the praise a group of women sung to the Prophet Muhammad when he fled from Mecca to Medina in 622CE. In the 1970s, Malaysian and Indonesian campus activists distributed the sound of nasheed through cassettes at campuses and in bookstores, connecting it to their own student *dakwah*, or proselytization, movements. By the 1990s, they were using DIY digital technologies, borrowing Middle Eastern resonances, and adopting hip *a cappella* boy band styles popular globally.
+    
+    Perhaps the best example of a nasheed ensemble strategically capitalizing on today’s digital affordances is Inteam from Kuala Lumpur, Malaysia. Inteam was founded in 1998 by musicians with close ties to the Islamic movement al Arqam. After the Malaysian government banned Arqam in 1994, pious performers found that entertainment was less vulnerable to state censorship than other forms of religious organization. Inteam recruited fans from students at Malaysia’s Universiti Islam Antarbangsa. Inteam’s record company, Hijjaz Records, styled them after the latest trends of international boy bands and facilitated a full tour schedule enticing ever-younger audiences. Especially striking, this period saw the band create a new subgenre of “love nasheeds,” particularly popular among female campus activists and blending references of love between Allah and his followers, parents and children and ultimately marriage partners. The 2003 hit single *Kasih kekasih* (‘Affection for a Beloved’) was the best known of this style. When their five year contract with Hijjaz Records ended, the band members focused on reversing their former boy band image, incorporating more serious Islamic genres such as *selawat* and *zikr* and turning to nasheed’s roots as ‘auditory *dakwah*,’ restyling themselves as halal entrepreneurs and lifestyle counselors for Malaysia’s young Muslim generation (many of whom continued to be female fans).
+    
+    This turn in strategy highlights the central role that social media have played in the intersection of music and Islamic consumption in Malaysia. When Inteam realized that major labels showed little interest in their spiritual mission, they decided to launch their own independent record label, Inteam Records (ITR), and to use social media to directly communicate with and distribute music to fans. The digital turn in the Southeast Asian music industry and its use of increasingly ephemeral formats such as MP3 and algorithmically powered streaming services has, as elsewhere, resulted in increased fragmentation of audiences into ever smaller niche segments. Yet it has also been those same digital affordances, especially social media, which are generally hailed as an antidote to these cracks in the music industry, offering an opportunity to re-socialize, share and invest in relations between musicians and fans. Again, Inteam serves as a good illustration, evident in this recent Facebook posting linking a band member’s birthday to a new community channel on Spotify:
+  _fieldset: bodytext
+- 
+  text: >
+    "In conjunction with bro Syah’s
+    birthday, this March 25th, lets see what
+    songs he has for you in this Special
+    Syah Inteam Playlist on Spotify BeeGood.
+    Nah… you can guess what are the kind
+    of songs he likes?"
+  citation: ""
+  _fieldset: quote
+- 
+  image: inteams-spotify-playlist-page.png
+  _fieldset: image
+- 
+  text: |
+    Today ITR is both pioneer and leader of Malaysia’s Islamic education and entertainment industries, releasing recordings from Inteam, other Malay language nasheed acts and that of some of the biggest stars in the contemporary global Muslim music scene, such as Lebanese-Swedish singer Maher Zain and the charismatic Indonesian preacher Habib Syech. The Inteam members have quickly mastered new digital technologies, now running their own digital recording studio Inteam Studios, Inteam Publishing (“a religious online bookstore”), and since 2012, Inteam Mobile, a mobile application selling Islamic books, body care, clothing, and DVDs. Each section of ITR has their own Facebook account and has monthly traffic in the tens of thousands. In 2017, ITR also launched a dedicated YouTube channel for sharia-compliant children’s entertainment, reflecting the fact that their fans have matured and have children. Perhaps most evocative of this mix of media styles is the intimate voice the individual band members use in their personal Twitter and Instagram accounts, through which they post live concert feeds, consult fans about the future design of ITR products, or just simply convey comforting “words of advice,” evident in the opening.
+    
+    Inteam has expanded their scope to less musical, yet more pedagogical, arenas as they simultaneously expand their marketing. Relying on the concept of transnational Islamic community known as the ummah, Inteam established a religious elementary school in southern Thailand in 2012. The Malay Muslim minority can feel vulnerable in the majority Buddhist country, a sense that comes across clearly through posts on the Inteam Thailand Facebook pages or by reposting the Inteam member “wisdoms.”
+  _fieldset: bodytext
+- 
+  text: >
+    "Whoa! We already feel the heat of
+    2016’s Inteam Record’s Musical
+    Academy coming on. Our secretariat just
+    got a call from Thailand affirming that
+    an Islamic music group from Thailand
+    will be joining our ranks. Come on
+    friends from Brunei, Indonesia and
+    Singapore, please do join our program."
+    (Inteam Records Facebook site, November
+    3, 2016)
+  citation: ""
+  _fieldset: quote
+- 
+  text: >
+    The band also launched its 2nd ASEAN
+    Universities Tour in January 2017,
+    touring campuses in Indonesia, Thailand,
+    Singapore and Brunei with a show
+    combining songs, motivational speech and
+    life lessons to a student audience.
+  _fieldset: bodytext
+- 
+  image: >
+    inteams-video-promotion-of-their-thailand-tour.png
+  _fieldset: image
+- 
+  text: |
+    Heard throughout the Middle East, then brought to and rendered local by Malay and Indonesian students, nasheed now shapes a mix of regional cultures by talking directly and intimately to their participants, as members of different, often competing, nations but as citizens of a transnational community in which Islamic culture is their shared social fact. With digital communication, nasheed has become the sound of a community that imagines itself as bigger than any one nation, as modern, and as articulated through a lifestyle that has the potential to feed a pop-culture regionalism (Chua 2015) that goes beyond the political or economic motifs that dominate ASEAN rhetoric. It thereby offers alternative trajectories of modernity to a young urban Southeast Asian generation eager to be at once funky and sharia.
+    
+    #####References Cited
+    Barendregt, Bart
+    2011 “Pop, Politics and Piety: Nasyid Boy band Music in Muslim Southeast Asia,” in Weintraub, Andrews, ed. Islam and popular culture in Indonesia and Malaysia, pp. 235-256. London: Routledge.
+    
+    Hirschkind, Charles
+    2006 The Ethical Soundscape: Cassette Sermons and Islamic Counterpublics. New York: Columbia University Press.
+    
+    Chua, Beng Huat
+    2015 Inter-Asia referencing and shifting frames of comparison. In Carol Johnson, Vera Mackie, and Tessa Morris-Suzuki, eds. The social sciences in the Asian Century, pp. 67-80. Canberra: Australia National University Press.
+  _fieldset: bodytext
