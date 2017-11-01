@@ -1,0 +1,62 @@
+Title: Winners announced for 2017 Sharon Stephens Prize
+
+----
+
+Subtitle: 
+
+----
+
+Author: 
+
+----
+
+Date: 
+
+----
+
+Featuredimage: paper-tiger.png
+
+----
+
+Tags: book awards,book prize,sharon stephens,paper tiger,diagram for fire
+
+----
+
+Builder: 
+
+- 
+  text: 'The American Ethnological Society would like to congratulate the Joint Winners of the 2017 Sharon Stephens Prize, **Nayanika Mathur** and **Jon Bialecki**.'
+  _fieldset: leadtext
+- 
+  text: |
+    ####Prize Committee
+    Shanti Parikh (Washington University in St. Louis), chair; Ilana Gershon (Indiana University, Bloomington); Laurence Ralph (Harvard U)
+    
+    *The Sharon Stephens Prize is awarded bi-annually for a junior scholar’s first book. The prize goes to a work that speaks to contemporary social issues with relevance beyond the discipline and beyond the academy.*
+    
+    View all Sharon Stephens Awardees here: http://americanethnologist.org/awards/sharon-stephens-prize
+  _fieldset: bodytext
+- 
+  text: |
+    ####Paper Tiger
+    #####Law Bureaucracy and the Developmental State in Himalayan India
+    by **Nayanika Mathur**
+    
+    **From the Publisher**
+    A big cat overthrows the Indian state and establishes a reign of terror over the residents of a Himalayan town. A welfare legislation aimed at providing employment and commanding a huge budget becomes 'unimplementable' in a region bedeviled by high levels of poverty and unemployment. Paper Tiger provides a lively ethnographic account of how such seemingly bizarre scenarios come to be in contemporary India. Based on eighteen months of intensive fieldwork, this book presents a unique explanation for why and how progressive laws can do what they do and not, ever-so-often, what they are supposed to do. It reveals the double-edged effects of the reforms that have been ushered in by the post-liberalization Indian state, particularly the effort to render itself more transparent and accountable. Through a meticulous detailing of everyday bureaucratic life on the Himalayan borderland, Paper Tiger makes an argument for shifting the very frames of thought through which we apprehend the workings of the developmental Indian state.
+  _fieldset: bodytext
+- 
+  image: paper-tiger.png
+  _fieldset: image
+- 
+  text: |
+    ####A Diagram for Fire
+    #####Miracles and Variation in an American Charismatic Movement
+    by **Jon Bialecki**
+    
+    **From the Publisher**
+    What is the work that miracles do in American Charismatic Evangelicalism? How can miracles be unanticipated and yet worked for? And finally, what do miracles tell us about other kinds of Christianity and even the category of religion? A Diagram for Fire engages with these questions in a detailed sociocultural ethnographic study of the Vineyard, an American Evangelical movement that originated in Southern California. The Vineyard is known worldwide for its intense musical forms of worship and for advocating the belief that all Christians can perform biblical-style miracles. Examining the miracle as both a strength and a challenge to institutional cohesion and human planning, this book situates the miracle as a fundamentally social means of producing change—surprise and the unexpected used to reimagine and reconfigure the will. Jon Bialecki shows how this configuration of the miraculous shapes typical Pentecostal and Charismatic religious practices as well as music, reading, economic choices, and conservative and progressive political imaginaries.
+  _fieldset: bodytext
+- 
+  image: a-diagram-for-fire.png
+  _fieldset: image
