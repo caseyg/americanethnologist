@@ -7,7 +7,7 @@
 
 <div class="col-xs-12">
 
-	<h1 class="mt-3"><?= $page->title()->html() ?></h1>
+	<h1 class="mt-3 "><?= $page->title()->html() ?></h1>
 	<?php if ($page->subtitle()->isNotEmpty()): ?><h2><?= $page->subtitle()->html() ?></h2><?php endif; ?>
 	<?php if ($page->author()->isNotEmpty()): ?>
 	  <p class="gray--600"><em>by</em>

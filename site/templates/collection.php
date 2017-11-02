@@ -10,8 +10,14 @@
         <img class="my-2 img-fluid" style="box-shadow: 0 5px 10px rgba(0,0,0,.25);" src="<?php echo $page->coverimage()->toFile()->resize(350,0)->url() ?>">
       </div>
     <?php endif; ?>
-    <div class="row">
-      <h1 class="text-xs-center"><?= $page->title()->html() ?></h1>
+    <div class="row text-xs-center">
+      <h1><?= $page->title()->html() ?></h1>
+      <?php if ($page->subtitle()->isNotEmpty()): ?><h2><?= $page->subtitle()->html() ?></h2><?php endif; ?>
+      <?php if ($page->author()->isNotEmpty()): ?>
+        <p class="gray--600"><em>Edited by</em>
+          <?php snippet('author', array('author' => $page->author())) ?>
+        </p>
+      <?php endif; ?>
     </div>
     <div class="row">
       <div class="lead col-sm-8 push-sm-2">

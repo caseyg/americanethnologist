@@ -1,16 +1,12 @@
-Title: Piety, Celebrity, Sociality: A Forum on Islam and Social Media in Southeast Asia
+Title: Piety, Celebrity, Sociality
 
 ----
 
 Text: 
 
-<div style="text-align:center">
-Edited by Martin Slama and Carla Jones
-</div>
-
 ----
 
-Editors: Edited by Martin Slama and Carla Jones
+Author: Martin Slama,Carla Jones
 
 ----
 
@@ -23,3 +19,7 @@ Date: 2017-11-02
 ----
 
 Affiliations: Affiliations go here.
+
+----
+
+Subtitle: A Forum on Islam and Social Media in Southeast Asia

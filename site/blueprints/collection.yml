@@ -19,9 +19,17 @@ fields:
     label: Title
     type: title
 
-  editors:
+  subtitle:
+    label: Subtitle
+    type: text
+
+  author:
     label: Editors(s)
     type: tags
+
+  date:
+    label: Date
+    type: date
 
   featuredImage:
     label: Featured Image
@@ -30,10 +38,6 @@ fields:
   text:
     label: Text
     type: textarea
-
-  date:
-    label: Date
-    type: date
 
   affiliations:
     label: Authors and Institutional Affiliations
