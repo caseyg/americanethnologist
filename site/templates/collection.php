@@ -19,6 +19,9 @@
       </div>
     </div>
     <div class="row">
+      <h6 class="bentonsansreregular text-xs-center mt-2"><?php echo $page->date("M d, Y") ?></h6>
+    </div>
+    <div class="row">
       <?php foreach ($page->children()->visible() as $a): ?>
         <?php $a = page($a); ?>
         <div class="row">

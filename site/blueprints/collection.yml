@@ -22,3 +22,7 @@ fields:
   text:
     label: Text
     type: textarea
+
+  date:
+    label: Date
+    type: date
