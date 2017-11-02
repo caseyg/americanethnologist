@@ -4,7 +4,7 @@ icon: newspaper-o
 
 pages:
   template:
-    - features
+    - feature
 
 files: false
 
