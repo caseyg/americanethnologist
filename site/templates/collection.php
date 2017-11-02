@@ -31,6 +31,14 @@
         </div>
       <?php endforeach; ?>
     </div>
+    <?php if($page->affiliations()->isNotEmpty()): ?>
+      <div class="row">
+        <section class="bodyText col-lg-8 offset-lg-2">
+          <hr class="mt-3">
+          <small><?= $page->affiliations()->kirbytext() ?></small>
+        </section>
+      </div>
+    <?php endif; ?>
   </main>
 
 <?php snippet('footer') ?>

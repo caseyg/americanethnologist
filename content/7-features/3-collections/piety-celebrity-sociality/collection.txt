@@ -19,3 +19,7 @@ Featuredimage:
 ----
 
 Date: 2017-11-02
+
+----
+
+Affiliations: Affiliations go here.

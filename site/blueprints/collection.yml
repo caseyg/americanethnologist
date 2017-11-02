@@ -26,3 +26,7 @@ fields:
   date:
     label: Date
     type: date
+
+  affiliations:
+    label: Authors and Institutional Affiliations
+    type: textarea
