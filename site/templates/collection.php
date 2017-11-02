@@ -28,14 +28,25 @@
       <h6 class="bentonsansreregular text-xs-center mt-2"><?php echo $page->date("M d, Y") ?></h6>
     </div>
     <div class="row">
-      <?php foreach ($page->children()->visible() as $a): ?>
+      <?php $articles = $page->children()->visible(); ?>
+      <?php foreach ($articles as $a): ?>
         <?php $a = page($a); ?>
         <div class="row">
           <a href="<?php echo $a->url() ?>" class="mt-3 d-block text-xs-center">
             <h3 class="mb-0"><?php echo $a->title() ?></h3>
+            <h4 class="mb-1 bentonsanscondensedregular"><?php echo $a->subtitle() ?></h4>
+              <p class="gray--600"><em>by</em> <strong><?php snippet('author', array('author' => $a->author())) ?></strong></p>
+            <?php if ($a->featuredImage()->isNotEmpty()): ?>
+              <figure class="toc__figure">
+                <img src="<?php echo $a->featuredImage()->toFile()->resize(500,500)->url() ?>" alt="<?php echo $a->featuredImage()->caption() ?>">
+                <figcaption><?php echo $a->featuredImage()->toFile()->caption() ?> <?php if ($a->featuredImage()->toFile()->credit()->isNotEmpty()): ?>  (<?php echo $a->featuredImage()->toFile()->credit() ?>)<?php endif; ?></figcaption>
+              </figure>
+            <?php endif; ?>
           </a>
         </div>
       <?php endforeach; ?>
+
+
     </div>
     <?php if($page->affiliations()->isNotEmpty()): ?>
       <div class="row">
