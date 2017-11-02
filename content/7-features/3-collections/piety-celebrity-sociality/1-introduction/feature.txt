@@ -1,4 +1,4 @@
-Title: Introduction: Piety, Celebrity, Sociality
+Title: Introduction
 
 ----
 
@@ -55,7 +55,7 @@ Builder:
 
 ----
 
-Subtitle: 
+Subtitle: Piety, Celebrity, Sociality
 
 ----
 
