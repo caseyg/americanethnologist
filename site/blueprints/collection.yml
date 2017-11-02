@@ -4,7 +4,15 @@ pages:
   template:
     - feature
 
-files: false
+files:
+  fields:
+    caption:
+      label: Caption
+      type: textarea
+
+    credit:
+      label: Credit
+      type: text
 
 fields:
   title:
