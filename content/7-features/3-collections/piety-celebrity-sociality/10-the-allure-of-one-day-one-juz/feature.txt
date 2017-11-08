@@ -10,7 +10,7 @@ Author: Eva Nisa
 
 ----
 
-Date: 2017-10-14
+Date: 2017-11-08
 
 ----
 
@@ -97,4 +97,9 @@ Builder:
     
     Lim, Merlyna
     2013 Many Clicks but Little Sticks: Social Media Activism in Indonesia. Journal of Contemporary Asia 43(4):636-657.
+  _fieldset: bodytext
+- 
+  _fieldset: divider
+- 
+  text: '**Cite as:** Nisa, Eva. 2017 "The Allure of “One Day One Juz”" In "Piety, Celebrity, Sociality: A Forum on Islam and Social Media in Southeast Asia," Carla Jones and Martin Slama, eds., American Ethnologist website, November 8. http://americanethnologist.org/features/collections/piety-celebrity-sociality/the-allure-of-one-day-one-juz'
   _fieldset: bodytext

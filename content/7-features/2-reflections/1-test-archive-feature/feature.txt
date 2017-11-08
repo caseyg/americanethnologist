@@ -6,19 +6,17 @@ Date: 2017-04-05
 
 ----
 
-Tags: 
+Tags: dakota access pipeline,nodapl,standing rock
 
 ----
 
 Builder: 
 
 - 
+  image: nodapl-panel.png
+  _fieldset: image
+- 
   text: |
-    (image: nodapl-panel-pic.png)
-    
-    ##A Reflection on Anthropology, Empathy, and Consent at Standing Rock
-    #####By Tara Joly
-    
     “Anthropologists Against Pipelines.” This was part of the text of a flyer water protectors from the movement at Standing Rock distributed before a teach-in and panel discussions relating to the movement at the November 2016 AAA meeting in Minneapolis, Minnesota. At the Oceti Sakowin camp, water protectors are working to resist the construction of the Dakota Access Pipeline (DAPL) across the Missouri River near the Standing Rock reservation. The camp’s stated goal “is to peacefully and prayerfully defend our rights, and rise up as one to sustain Mother Earth and her inhabitants” (Oceti Sakowin Camp 2017). Due to the location of the conference on Lakota, Dakota, and Nakota territory, as well as anthropology’s entanglement with settler colonialism, the ongoing resistances were an important emergent issue for anthropologists at the AAAs – and with the pipeline’s recent approval through Trump’s January [executive order](https://www.theatlantic.com/science/archive/2017/01/trumps-dakota-access-pipeline-memo-what-we-know-right-now/514271/), followed by the camp’s evacuation [order](https://www.google.com/url?q=https://indiancountrymedianetwork.com/news/environment/standing-rock-tribal-council-approves-evacuation-order-camps/&sa=D&ust=1496095942506000&usg=AFQjCNGHPKEen4xKP8ampT_lM5BDHG98GQ) – the water protector’s fight [carries on](https://www.google.com/url?q=https://indiancountrymedianetwork.com/news/native-news/razing-standing-rock-oceti-sakowin/&sa=D&ust=1496095942503000&usg=AFQjCNE9S1fIhJV4x8I80P2OAeX0DsGdvw). How can Indigenous and (in my case) settler anthropologists answer calls to “stand with” Standing Rock in an ethical and truly collaborative manner? How can we be effective “anthropologists against pipelines?”
     
     As with any anthropological engagement, an initial step is to listen to the stories and requests of those with whom we are being asked to stand. At the AES business meeting at AAA2016, a panel of four water protectors described their experiences at Standing Rock. Andy Pearson, Craig Moyer, Samantha West, and Yashar Shafiei gave emotive descriptions of their time on the frontlines, including violence they faced, and arrest. With metaphorical resonance, they described the significance of Standing Rock as the largest Indigenous resistance in the USA in over 100 years. They highlighted the fact that at the camp they had witnessed the most ugly events in their lives, but also the most beautiful – the coming together of people in peace, prayer, and kinship.
@@ -49,13 +47,31 @@ Builder:
     
     #####References
     Baker, Janelle and Clinton Westman. Unpublished manuscript. “Extracting Knowledge: Social Science, Environmental Impact Assessment, and Aboriginal Consultation in the Oil Sands of Alberta, Canada.”
+    
     Behar, Ruth. 1996. The Vulnerable Observer: Anthropology that Breaks Your Heart. Boston: Beacon Press.
+    
     Comaroff, Jean, and John Comaroff. 2003. “Ethnography on an Awkward Scale: Postcolonial Anthropology and the Violence of Abstraction.” Ethnography 4(2): 147-179.
+    
     Donald, Dwayne. 2009. “Forts, Curriculum, and Indigenous Métissage: Imagining Decolonization of Aboriginal-Canadian Relations in Educational Contexts.” First Nations Perspectives 2(1): 1-24.
+    
     Kirmayer, Laurence J. 2008. “Empathy and Alterity in Cultural Psychiatry.” Journal of the Society for Psychological Anthropology 36(4): 457-474.
+    
     Oceti Sakowin Camp. 2017. “About Us”. Retrieved 27 March 2017 from http://www.ocetisakowincamp.org/about.
+    
     Williams, Raymond. 1977. Marxism and Literature. Oxford and New York: Oxford University Press.
     
     
     *Tara Joly is a PhD candidate in anthropology at the University of Aberdeen. She is also Researcher, Archaeology and Anthropology at the University of Saskatchewan, and Instructor in Circumpolar Studies at the University of the Arctic/University of Northern British Columbia.*
   _fieldset: bodytext
+
+----
+
+Subtitle: A Reflection on Anthropology, Empathy, and Consent at Standing Rock
+
+----
+
+Author: Tara Joly
+
+----
+
+Featuredimage: nodapl-panel.png

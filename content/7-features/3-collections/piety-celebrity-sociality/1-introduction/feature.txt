@@ -2,7 +2,7 @@ Title: Introduction
 
 ----
 
-Date: 2017-10-09
+Date: 2017-11-08
 
 ----
 
@@ -51,6 +51,11 @@ Builder:
   text: |
     **Acknowledgements**
     *Many of the essays in this collection were initially presented at the workshop "Social Media and Islamic Practice in Southeast Asia," which took place in April 2016, in Vienna, Austria. The workshop was an initiative of the Austrian Science Fund (FWF) project "Islamic (Inter)Faces of the Internet: Emerging Socialities and Forms of Piety in Indonesia," which is directed by Martin Slama at the Institute for Social Anthropology, Austrian Academy of Sciences.*
+  _fieldset: bodytext
+- 
+  _fieldset: divider
+- 
+  text: '**Cite as:** Jones, Carla and Martin Slama. 2017 "Introduction: Piety, Celebrity, Sociality." In "Piety, Celebrity, Sociality: A Forum on Islam and Social Media in Southeast Asia," Carla Jones and Martin Slama, eds., American Ethnologist website, November 8. http://americanethnologist.org/features/collections/piety-celebrity-sociality/introduction'
   _fieldset: bodytext
 
 ----

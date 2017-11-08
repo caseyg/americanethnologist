@@ -10,7 +10,7 @@ Author: Saskia Schäfer
 
 ----
 
-Date: 2017-10-14
+Date: 2017-11-08
 
 ----
 
@@ -58,4 +58,9 @@ Builder:
     
     Dede Mulyanto and Coen Husain Pontoh
     2017 *Bela Islam atau Bela Oligarki? Pertalian Agama, Politik, dan Kapitalisme di Indonesia*. Pustaka IndoPROGRESS & Islam Bergerak. Available at: https://indoprogress.com/2016/12/aksi-bela-islam-antara-bela-agama-dan-bela-oligarki/
+  _fieldset: bodytext
+- 
+  _fieldset: divider
+- 
+  text: '**Cite as:** Schäfer, Saskia. 2017 "Understanding Piety and Anger in Indonesia’s 2016 Islamic Mass Rallies" In "Piety, Celebrity, Sociality: A Forum on Islam and Social Media in Southeast Asia," Carla Jones and Martin Slama, eds., American Ethnologist website, November 8. http://americanethnologist.org/features/collections/piety-celebrity-sociality/understanding-piety-and-anger-in-indonesias-2016-islamic-mass-rallies'
   _fieldset: bodytext
