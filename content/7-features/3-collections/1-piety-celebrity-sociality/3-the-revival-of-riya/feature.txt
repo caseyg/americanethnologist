@@ -1,0 +1,72 @@
+Title: The Revival of Riya’
+
+----
+
+Date: 2017-11-08
+
+----
+
+Tags: riya',piety,social media,indonesia
+
+----
+
+Builder: 
+
+- 
+  text: '**Fatimah Husein** (State Islamic University Yogyakarta)'
+  _fieldset: leadtext
+- 
+  text: |
+    > “When we were helping to collect donations through Merapi Care after the eruption of Mount Merapi in 2010 we realized that the money was getting short. My arisan friends and I realized that the method of giving our own money to donate would not be sufficient and therefore we need to find other donators. How would we do this? We came up with an idea to post the request for donations in our Display Picture in BBM (BlackBerry Messenger) because people will see.  But to be honest I wondered whether this is an act of *riya’*. Then I consulted some preachers, ‘could this be categorized as riya’?’ They answered ‘riya’ goes back to your original intention (*niyat*). The most important thing is for you to continue doing good things and let Allah judge what you do. You do not judge for yourself.’ From that point I was confident to post the calls for donation on my DP.”
+    
+    >(Nur Linda, a middle class professional woman living in Yogyakarta)
+    
+    This essay traces debates about how pious Indonesian Muslims understand and translate an old-yet-newly-revived theological problem: the issue of riya’, or showing off prayers and good deeds to others. I argue that riya’ has emerged as a contemporary problem through the use of social media, and is also resolved through social media. Riya’ is commonly defined as “the act of showing off our ‘ibadah (worship) with the hope to be praised by others before, during, or after conducting that activity” (Quraish Shihab, 1996: 677). It is a common theme in classical Islamic literature, especially in tasawwuf (Islamic mysticism) discussions of worship. The Sufi master al-Muhasibi (d. 857) described riya’ as an impediment to sincere worship, and a potential barrier to Allah’s receipt of human prayers, going so far as to suggest that good deeds could lead a person to hell if they were performed with riya’ in their hearts (2003:63). In line with al-Muhasibi, the eminent Islamic scholar Abu Hamid al-Ghazali (d. 1111) stated that riya’ is unlawful (haram), that Allah hates those who have riya’ in their hearts during prayers (2007:275-316), and that riya’ could even constitute a form of polytheism, by worshiping the self in addition to Allah (280). More recently, the influential Indonesian Muslim scholar Quraish Shihab warned of the danger of riya’ because Allah would not accept any ‘ibadah that has an element of riya’ (1996:677).
+    
+    While avoiding riya’ has been a longstanding concern in Islamic theology and practice, it has emerged as a new problem in contemporary Indonesia. The past two decades have seen an Islamic revival in Indonesia, a period of time in which internet access and cellphone ownership has also increased.  As a result, an increasingly popular technique for forms of Islamic piety has been mediated by internet and cellphone technology.  Phone apps facilitate pious acts, but also include a broadcasting quality that displays these deeds to a social network.  It is in this context that examples such as Nur Linda’s have become debatable. Do they constitute acts of riya’ or not?  How can one deduce intentionality from socially mediated reports? And most importantly, what strategies can one use to avoid committing riya’?
+    
+    Sharifah Surayah, a middle age woman living in Solo, joined an online Qur’an reading called One Day One Juz (ODOJ). ODOJ groups bring together 30 people through WhatsApp as a community of Qur’an readers with the aim of reading all 30 chapters (*juz*) of the Qur’an in a single day. Discipline, consistency (*istiqomah*), and mutual support are the core of this Qur’anic reading activity. Every night the ODOJ coordinator assigns a certain chapter of the Qur’an to each WhatsApp group member with the obligation that they have to report back to the group within 24 hours on whether they completed their assigned chapter. Surayah explained her encounter with riya’:
+  _fieldset: bodytext
+- 
+  text: |
+    >There were times when some people asked me: ‘Isn’t it categorized as riya’ when you read the Qur’an and let other people know (through social media)? Aren’t good deeds supposed to be a business between Allah and us?’ But then my teacher told me that it is all right to commit riya’ when it is meant for good intentions (*kebaikan*). This means that it [the organization through social media] is not meant for us to be arrogant but it is aimed at inviting others to participate in this Qur’an reading.
+    
+    Surayah’s concern and the response her teacher offered demonstrates that she was not the first member of an ODOJ group to worry about whether committing riya’ might counter the positive value of worship. Her teacher’s clarification between good and bad types of riya’, dependent on intention, reveal a subtle solution that fuse classical theological training with contemporary advantages, such as using technology to generate worship.
+    
+    A particularly vulnerable arena for concerns about riya’ is the use of socially mediated apps for online charity donation (*sedekah*). Nur Linda, whose example was in the opening vignette, demonstrates the tension between the benefit of organizing charity activities through social media and the fear of committing riya’. She was especially aware of this risk because of the ubiquity of sermons on TV and online raising this issue. Here, similar to Surayah’s example, she developed a strategy of asking her teachers to ease her worry. Strikingly, her preacher assured her that all that mattered was her intention, thereby encouraging her to return to her online religious communities.
+    
+    A different approach recommends avoiding social media altogether. Karimah Ayman’s example is illustrative.  She asked me to help her join an ODOJ group in which I was involved but withdrew almost immediately. She wrote the following WhatsApp message to me:
+  _fieldset: bodytext
+- 
+  text: |
+    >I am sorry. I am withdrawing my intention to join the One Day One Juz group. I have discussed this with my husband and we are of the opinion that it is better to discipline ourselves by reading the Qur’an individually at home. We don’t think that the ODOJ method is a good one because other people would know about us being involved in the Qur’an reading activity and this is prone to riya’.
+    
+    These examples demonstrate that while riya’ is not a new topic in Islamic theology, contemporary technologies of piety such as social media have revived new worries about its prevalence. These worries are related to but are different from those imagined by al-Muhasibi or al-Ghazali, who placed a heavy emphasis on the danger of riya’ even when it was only intended by the heart. Instead, contemporary Indonesian Muslims deal with the issue in variety of ways: some develop a strategy of consulting their preachers who reassure them by arguing that Allah can see a person’s good intentions, thereby allowing continued use of social media. Other teachers offered a new way of differentiating between “good” and “bad” riya’.  Other users ultimately chose to stop their religious social media activities altogether to avoid any hint of riya’. These examples suggest that while concerns about the risks of riya’ are widespread, there is no uniform orthodoxy on this issue, and that recognizing a spectrum of solutions is a more accurate way to understand how and why this issue has re-emerged. Put simply, the revival of Islamic piety in contemporary Indonesia has generated unexpected, related revivals.  Riya’ is one such revival.
+    
+    #####References Cited
+    Al-Ghazali, Abu Hamid
+    2007 *Mutiara Ihya’ Ulumuddin*. Translated by Tholib Anis and Iwan Kurniawan. Bandung: Mizan.
+    
+    Al-Muhasibi, Al-Harits
+    2003 *Tulus Tanpa Batas: Mengasah Kalbu Meraih Ikhlas*. Translated by Tim Penerjemah Serambi. Jakarta: Serambi.
+    
+    Shihab, Quraish
+    1996 *Wawasan Al-Qur’an: Tafsir Tematik atas Pelbagai Persoalan Umat*. Bandung: Mizan.
+  _fieldset: bodytext
+- 
+  _fieldset: divider
+- 
+  text: '**Cite as:** Husein, Fatimah. 2017 "The Revival of Riya’: Displaying Muslim Piety Online in Indonesia" In "Piety, Celebrity, Sociality: A Forum on Islam and Social Media in Southeast Asia," Martin Slama and Carla Jones, eds., American Ethnologist website, November 8. http://americanethnologist.org/features/collections/piety-celebrity-sociality/the-revival-of-riya'
+  _fieldset: bodytext
+
+----
+
+Subtitle: Displaying Muslim Piety Online in Indonesia
+
+----
+
+Author: Fatimah Husein
+
+----
+
+Featuredimage: 
