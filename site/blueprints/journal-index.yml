@@ -1,0 +1,16 @@
+files: false
+pages:
+  template: journal
+
+fields:
+  title:
+    label: Title
+    type: title
+  link:
+    label: Redirect To
+    type: select
+    options: query
+    query:
+        fetch: pages
+        value: '{{uri}}'
+        text: '{{title}}'
