@@ -13,7 +13,15 @@
   <link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css">
   <?= css('assets/css/bootstrap.min.css') ?>
   <?= css('assets/css/index.css') ?>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-48247744-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
 
+    gtag('config', 'UA-48247744-1');
+  </script>
 </head>
 <body id="<?php echo $page->slug() ?>">
   <div class="container">
