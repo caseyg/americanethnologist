@@ -26,14 +26,12 @@
   <script async data-no-instant src="https://www.googletagmanager.com/gtag/js?id=UA-48247744-1"></script>
   <?php if(!$site->user()): ?>
     <script data-no-instant>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-
-      gtag('config', 'UA-48247744-1');
-
       InstantClick.on('change', function() {
-        ga('send', 'pageview', location.pathname + location.search);
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-48247744-1');
       });
 
       InstantClick.init('mousedown');
