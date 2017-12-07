@@ -1,0 +1,33 @@
+Title: Research Articles
+
+----
+
+Articles: 
+
+- 
+  article: >
+    read/journal/volume-44-issue-4-november-2017/a-world-without-innocence
+- 
+  article: >
+    read/journal/volume-44-issue-4-november-2017/development-as-pedagogy
+- 
+  article: >
+    read/journal/volume-44-issue-4-november-2017/the-ambiguous-figures-of-social-enterprise
+- 
+  article: >
+    read/journal/volume-44-issue-4-november-2017/fixity
+- 
+  article: >
+    read/journal/volume-44-issue-4-november-2017/before-the-ruins
+- 
+  article: >
+    read/journal/volume-44-issue-4-november-2017/never-too-late-for-pleasure
+- 
+  article: >
+    read/journal/volume-44-issue-4-november-2017/the-power-of-submission
+- 
+  article: >
+    read/journal/volume-44-issue-4-november-2017/nationalism-without-borders
+- 
+  article: >
+    read/journal/volume-44-issue-4-november-2017/entangled-sovereignties

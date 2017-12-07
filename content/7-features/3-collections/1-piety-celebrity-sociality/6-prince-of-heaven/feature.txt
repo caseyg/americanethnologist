@@ -65,7 +65,7 @@ Builder:
 - 
   _fieldset: divider
 - 
-  text: '**Cite as:** Langauer, Dayana. 2017 "Prince of Heaven: Blogging the Concerns of Great Muslimah" In "Piety, Celebrity, Sociality: A Forum on Islam and Social Media in Southeast Asia," Martin Slama and Carla Jones, eds., American Ethnologist website, November 8. http://americanethnologist.org/features/collections/piety-celebrity-sociality/prince-of-heaven'
+  text: '**Cite as:** Lengauer, Dayana. 2017 "Prince of Heaven: Blogging the Concerns of Great Muslimah" In "Piety, Celebrity, Sociality: A Forum on Islam and Social Media in Southeast Asia," Martin Slama and Carla Jones, eds., American Ethnologist website, November 8. http://americanethnologist.org/features/collections/piety-celebrity-sociality/prince-of-heaven'
   _fieldset: bodytext
 
 ----
@@ -74,7 +74,7 @@ Subtitle: Blogging the Concerns of Great Muslimah
 
 ----
 
-Author: Dayana Langauer
+Author: Dayana Lengauer
 
 ----
 
