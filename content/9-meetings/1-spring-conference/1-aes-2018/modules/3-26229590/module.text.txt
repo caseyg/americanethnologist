@@ -1,0 +1,16 @@
+Title: Registration is closed
+
+----
+
+Text: 
+
+##Registration 
+Registration is closed for AES and SVA's 2018 Joint Spring Conference, Resemblance, which will be held at the Sonesta Philadelphia Downtown Rittenhouse Square Hotel, March 22-24, 2018.
+
+----
+
+Modulesettings: 
+
+----
+
+Lead: false

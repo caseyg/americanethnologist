@@ -1,0 +1,20 @@
+Title: Hotel Reservations
+
+----
+
+Text: 
+
+##Hotel Reservations
+(link: https://www.google.com/maps?q=1800+Market+St%0D+Philadelphia,+PA+19103&entry=gmail&source=g text: Sonesta Philadelphia Downtown Rittenhouse Square Hotel
+1800 Market St
+Philadelphia, PA 19103)
+
+Reserve your room by calling 1.800.766.3782 or booking online through our (link: https://gc.synxis.com/rez.aspx?Hotel=56921&Chain=5157&arrive=3/18/2018&depart=3/28/2018&adult=2&child=0&group=0321AMANAS text: special reservation link). The deadline for making room reservations at the special AAA rate of $169 S/D/T is Thursday, March 1, 2018. When making reservations by phone, please mention that you are with the AES Meeting. The block of rooms is limited, and rooms might sell out before the deadline. To ensure availability at the group rate, please make your reservations as soon as possible.
+
+----
+
+Modulesettings: 
+
+----
+
+Lead: false

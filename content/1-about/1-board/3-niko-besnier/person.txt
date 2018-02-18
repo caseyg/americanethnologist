@@ -6,7 +6,7 @@ Position: Editor
 
 ----
 
-Term: July 2015 - July 2019
+Term: 2015 - 2019
 
 ----
 
@@ -19,3 +19,7 @@ Email: n.besnier@uva.nl
 ----
 
 Homepage: http://pacific.socsci.uva.nl/besnier/
+
+----
+
+Affiliation: 

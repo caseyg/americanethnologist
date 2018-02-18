@@ -1,0 +1,96 @@
+Title: AE Interviews Miriam Ticktin: Innocence, Ethnography, and Politics Beyond the Human
+
+----
+
+Subtitle: 
+
+----
+
+Author: 
+
+----
+
+Date: 2017-12-22
+
+----
+
+Featuredimage: ticktin_600px.jpg
+
+----
+
+Tags: innocence,ethnography,interview,human,politics
+
+----
+
+Builder: 
+
+- 
+  text: |
+    **Alison Hanson**, AES editorial intern and graduate student at the University of California, Santa Cruz, interviews **Miriam Ticktin**, professor of anthropology at the New School for Social Research about her latest article in *American Ethnologist*, (link: http://americanethnologist.org/read/journal/volume-44-issue-4-november-2017/a-world-without-innocence text: “A World Without Innocence.”) ¹
+    
+    *The conversation explores the concept of innocence, humanitarianism and politics beyond the human, and the possibilities of engaging ethnographic scholarship with broader publics.*
+  _fieldset: leadtext
+- 
+  image: ticktin_600px.jpg
+  _fieldset: image
+- 
+  text: |
+    **Alison Hanson (AH):** Hello, Miriam. Thank you so much for doing this interview with me. I want to start out by diving right in to the concept of “innocence” at the heart of your new AE article. You trace how innocence is not just an ethico-moral category, but also a *political* one. Without summing up or giving away your entire article, can you briefly discuss how innocence as a concept functions politically?
+    
+    **Miriam Ticktin (MT):** As Ann Stoler has argued, some of the most favored concepts of political theory acquire their critical force because they are not considered political concepts at all! ² Innocence is such a concept. *Innocence* means “freedom from sin, guilt or moral wrong in general;” “freedom from specific guilt;” “freedom from cunning or artifice.” ³ This space of “freedom *from*” is so free indeed that it is seemingly free of content; it purports to be a state of *moral and epistemic purity*. My goal has been to trace how – either because of or despite its very emptiness—innocence has been deployed politically in more or less vigorous ways over time. Part of the argument is that innocence promises a space of purity, which is also its political potential: it works as a boundary concept, regulating human kinds and their constituent outsides.
+    
+    I trace how the concept has been harnessed, particularly since the 1960s in the Global North, to refigure the meaning of politics; the way I see it, politics is continually being displaced to the limit of innocence – we are in a never-ending quest for an innocent other to save, as a space of impossible, absolute purity to rally behind. This is a space outside of corruption and emptied of power. Those who have temporarily inhabited this conceptual space include the (white) child, the (suffering) refugee, the (sexually trafficked) woman, and now, the (cute) animal. We see how this is political when we think of those who are denied innocence: black boys and girls in the United States, for instance. Without innocence, they are expelled from the category of “child” altogether, and because of this, they are incarcerated, detained, or killed in ways that would be unacceptable (and illegal) for those who do count as children. I am arguing, instead, in favor of contamination!
+    
+    **AH:** Innocence as a category seems to have salience beyond humanitarianism to responses to gendered violence more broadly. In the context of my own work, I see the figure of the rape victim is predicated on moral innocence and suffering, and of course is raced and gendered. What implications does innocence have for rights and justice more broadly?
+    
+    **MT:** When thinking about rights and justice, people probably first think of innocence in its legal guise. In contemporary legal terms, innocence is about acquittal—a decision to acquit may be based on exculpatory evidence or a lack of evidence to prove guilt. It does not mean that there is absolute certainty about innocence, only reasonable doubt about the defendant’s guilt. This understanding is counter posed to innocence as an ethico-moral concept, which is much less flexible, much less compromising, and which I suggest helps to constitute identities or kinds in relation to purity. I have been more engaged with this latter register, arguing against the ethico-moral concept of innocence, which I suggest ultimately causes more harm than good.
+    
+    That said, I am not prepared to argue against the legal concept of innocence! However, these registers certainly do work together to determine the meaning of innocence. Perhaps the most well-known contemporary example to mobilize the juridical language of innocence – *The Innocence Project* – is grounded in the search for a combined form of legal-moral purity. The Innocence Project works to exonerate those wrongly accused, by way of forensic and DNA evidence. It helps people who are untainted – who have not committed the crime, full stop – not those who might have been unfairly sentenced. While their work is undoubtedly path breaking and important, it raises the question of whether the language of innocence allows any room to address the injustice of those sentenced to life in prison for possession of a small amount of marijuana – or more broadly, for the injustices of the prison industrial complex. So, we might ask, does the concept of innocence preclude struggles for a different kind of justice?
+    
+    The example you are speaking about – rape victims – is precisely why I took on this project; innocence does nothing to help them. Rather, it is always turned against them; they are figured as guilty, and the burden of proof is reversed, requiring that they prove their innocence rather than the guilt of their attackers. Even in the most recent allegations of sexual harassment and violence by famous actors, politicians, and academics, condemnation of the perpetrators seems to require a group of women before the accusation holds; their innocence has to be bolstered by the claims of multiple others. It does not hold on its own.
+    
+    **AH:** Innocence is an extension of the “morally legitimate suffering body” you so intricately explore in *(link: https://www.ucpress.edu/book.php?isbn=9780520269057 text: Casualties of Care)* that, looking back, it almost seems surprising innocence isn’t an explicit part of that book. I’m curious to know why innocence *now*? What about the current moment makes innocence a salient political and intellectual concept?
+    
+    **MT:** Yes, it is strange how certain concepts haunt us, but do not immediately get attended to! Innocence does appear in *Casualties of Care*, but primarily as part of a larger moral cluster, “innocent apolitical victim.” I did not attend to it as a concept by itself.
+    
+    Oddly, perhaps, it was the increased public attention to *animal* suffering that pushed me to pay closer attention to innocence as a concept. I got interested in the way that new humanitarian technologies, infrastructures, and logics were being applied to animals following natural disasters – for instance, after the earthquake in Haiti. I do not want animals to suffer or die, but I was curious about the shift in concern, from people to (certain kinds of) animals; in the case of Haiti, this seemed relatively divorced from concern about the Haitian people who were left to live in deplorable conditions. Of course, humanitarian and animal cruelty organizations share a common history, both contributing to the project of creating a compassionate sensibility in humans. But I was fascinated by the massive amount of media attention certain animals were receiving (think of Harambe the Gorilla, Cecil the Lion, Michael Vick and his dog ring), often specifically counter posed to human suffering.
+    
+    I became convinced that this renewed and amplified focus on suffering animals (though not the kind involved in factory farming!) was driven by the desire to find an untouchable, indisputably good moral figure – one that people could stand behind, and feel good about, one that wasn’t dirtied by politics. The animal was in this sense, the latest incarnation of the innocent victim.
+    
+    The big challenge for me has been figuring out how this argument has changed now that we have largely entered into an illiberal political world. In the US, we see innocence amplified in relation to the fetus, for instance, but how else? I am thinking more about how innocence comes to play, perhaps counter-intuitively, not simply to define the victim, but to prop up power. I am interested in how those in power capture innocence and use it to purify or absolve themselves. One variant of this is what James Baldwin referred to as “racial innocence,” by which he meant a form of engagement based on ignorance. ⁴ He was referring to a refusal to deal with deeply entrenched forms of racial injustice, pretending that Americans were beyond it. Today, in this illiberal climate, we see this ignorance increasingly being deployed and ultimately linked to white supremacy, where certain white people are casting themselves as the innocent victims, and using this form of “unknowing” to hold onto power.
+    
+    **AH:** Your work has been quite influential for me in thinking about the politics of sexual violence at the intersection of law, medicine, and activism. What advice do you have for graduate students who are developing projects on NGOs, medical systems, and/or legal institutions? Are there methodological, practical, or ethical considerations we should keep in mind?
+    
+    **MT:** I actually teach a class on the intersections of law and medicine, and would be happy to share the syllabus with anyone interested. The one piece of methodological advice I can offer is about how to make sense of the people who are trying to do good, but work for systems that may also perpetuate inequality (such as NGOs, medical systems or legal institutions). Rather than blaming individuals, I would try to understand them as part of larger systems of power, and see their work as both enabled and constrained by these institutions. Anthropological work can shed light on the limits of state and other institutions and expert discourses, without criticizing individuals who are part of these institutions, or reading their actions through the lens of individual intentionality. I faced this issue with the French state nurses I engaged with in my fieldwork for *Casualties of Care*; I respected them enormously, as they cared deeply for those who were disenfranchised, and they were tremendously hardworking and generous. And yet, they were perpetuating a system of inequality by way of humanitarian exceptions for a few at the expense of many others. My advice is quite simple, really -- to understand such actions as part of larger structures and systems.
+    
+    **AH:** Your new article begins with an image that became iconic of the Syrian refugee crisis, which seems to me to signal a public and political urgency of the project. What do you see as the role of ethnography in addressing global issues of inequality, violence, or suffering? In other words, what is your take on emerging calls for a publicly engaged anthropology?
+    
+    **MT:** I have long felt the obligation to engage with non-academic publics – but of course, now more so than ever. It is not as easy as it may seem, though, since we are trained to write in a language that is often inaccessible to non-academic publics. A few years ago, I worked with several of my feminist colleagues to get funding to do workshops with the Op-Ed Project, which aims to increase the number of women and minorities contributing to commentary forums and to larger public debates by teaching us how to pitch ideas and write for different audiences.
+    
+    Perhaps unsurprisingly, the issue of sanctuary has captivated me lately, in relation to Trump’s racist immigration policies. I recently published an Op-Ed in *(link: http://www.truth-out.org/opinion/item/40416-the-sanctuary-movement-and-women-s-rights-sister-struggles text: Truthout)* about this. ⁵ The New Sanctuary Movement in the United States—which originally began in the 1980s with interfaith communities along the Southwest border providing protection to undocumented immigrants fleeing violence in Central America—was reactivated in 2007 to protect immigrants under threat of deportation. This movement has been strengthened under the Trump presidency and deployed in new political forms, from sanctuary cities and states to campuses, churches and faith-based institutions, restaurants, and even arts spaces.  I have been personally involved with faculty, staff, and students at the New School in trying to protect students and their families at risk from the administration’s policies. We have worked in solidarity with other universities in New York City and with community organizations in NYC more broadly.
+    
+    Speaking specifically to the question of how scholarship can be brought to bear here, my colleagues and I received some funding to step back and think about the concept of sanctuary, and its political limits and possibilities, working with activists and others touched by these issues. One of the great things about the Sanctuary movement is that it offers us a flexible political concept: indeed, the fact that sanctuary has no particular legal status actually allows us to deploy it politically in new and powerful ways. Yet, as I have learned from ethnographic research, sanctuary – like humanitarianism – risks playing into a logic of exceptional compassion and care, rather than of equality. The problem with humanitarianism as it has been instituted in the world today is that it is one-sided, unequal. It is the same (more privileged) people who help, and the same (more disenfranchised) people who require help. In this sense, humanitarianism actually works to sediment unequal power relations and to fix understandings of others as unable to care for themselves or to manage their affairs. Sanctuary also risks helping people one by one and reinforcing power, rather than grappling with systemic issues. And architectures of sanctuary can open the way to more nefarious pursuits, insofar as these spaces of protection can also be sites of containment – that is, sanctuaries presume a form of bordering.
+    
+    Nevertheless, the Sanctuary movement has already shown itself to be extremely powerful, rethinking basic concepts like (local) sovereignty. The question for me is how far can the concept of sanctuary go in forging new political forms and new possibilities for equality, mobility, and belonging? To this end, informed by ethnographic work, my colleagues and I are pushing to support and develop the idea and practice of *expanded* sanctuary, based on the belief that discrimination against immigrants works hand-in-hand with other forms of racism, sexism, homophobia, violence and containment, and that we need to work all together to create a political architecture that goes beyond the exclusionary forms of the nation.
+    
+    **AH:** Can you talk a bit about your current book project that looks at politics and encounters beyond the human. Where is this research going? In what ways is this project an extension from your work on humanitarianism?
+    
+    **MT:** I am working on two related book projects, actually. And yes, they certainly build on my work on humanitarianism, insofar as I turned to these in search of a politics that does not organize itself around the category of humanity – one that takes human life into account, but thinks outside of humanism. One is a short book on the concept of innocence – this article offers a taste! As you can see in this piece, certain animals serve as the latest frontier of innocence, in a world where politics is constantly driven by the search for innocence. But, I also try to think about the way that environmentalist movements work with the concept of innocence, from “Mother Earth” to the legal rights recently granted to rivers. I am interested in whether innocence changes when applied to various non-human others, and whether there is a different politics at work. Ultimately, this is an experiment in imagining what a world without innocence would look like.
+    
+    The second project is on border walls and containment. I am interested in how borders zones are made up of assemblages of things, moving with and against one another – from people, to transnational technologies, capital, pathogens, laws and wildlife. I am also fascinated by the logistics and design of borders. My argument is that border walls, and all the surrounding and auxiliary technologies they harness, work through a form of politics that shifts and plays with how we understand different kinds of beings. For instance, in the 19th century, before abolition, enslaved people were regulated under commerce law. Are immigrants and refugees now regulated as different kinds of beings? How do laws come to reflect, enable or create new ideas of how people can be in the world, and how they can move, or not move?  How are different mobilities separated or recombined, and in the process, ontologies of personhood or humanity challenged?
+    
+    **AH:** These projects both sound fascinating, and I can’t wait to read them! Thank you again, Miriam, for taking the time to do this interview with me. It’s been a pleasure to talk with you.
+  _fieldset: bodytext
+- 
+  _fieldset: divider
+- 
+  text: |
+    1. Ticktin, Miriam. 2017. “A World Without Innocence.” *American Ethnologist* 44, no. 4 (November): 577-90.
+    2. Stoler, Ann. 2011. “Colony,” *Political Concepts: A Critical Lexicon*, 1. http://www.politicalconcepts.org/issue1/colony/.
+    3. *Oxford English Dictionary*, s.v. “Innocence, n.,” accessed August 18, 2017, http://www.oed.com/view/Entry/96292?redirectedFrom=Innocence.
+    4. Baldwin, James. 1988. *Collected Essays*. Edited by Toni Morrison. New York: Library of America.
+    5. Ticktin, Miriam. 2017. “The Sanctuary Movement and Women's Rights: Sister Struggles.” TruthOut, April 29, 2017, http://www.truth-out.org/opinion/item/40416-the-sanctuary-movement-and-women-s-rights-sister-struggles.
+    
+    **Cite as**
+    Hanson, Alison. 2017. “AE Interviews Miriam Ticktin: Innocence, Ethnography, and Politics Beyond the Human.” American Ethnologist, December 22, 2017, http://americanethnologist.org/features/interviews/ae-interviews-miriam-ticktin-innocence-ethnography-and-politics-beyond-the-human
+  _fieldset: bodytext
