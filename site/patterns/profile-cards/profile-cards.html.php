@@ -12,12 +12,12 @@
   <?php endforeach; ?>
 </div>
 <style type="text/css">
-@media (min-width:1201px) {
+@media (min-width:992px) {
   .row>.col-lg-4:nth-child(3n+1) {
     clear: left;
   }
 }
-@media (max-width: 1200px) {
+@media (max-width: 992px) {
   .row>.col-xs-6:nth-child(odd) {
     clear: left;
   }
