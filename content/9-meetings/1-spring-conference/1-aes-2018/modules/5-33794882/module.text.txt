@@ -1,0 +1,24 @@
+Title: Keynotes
+
+----
+
+Text: 
+
+##Keynotes
+  
+**Elizabeth Chin, Art Center College of Design**
+“The Laboratory of Speculative Ethnology: Design Prototypes for Different Tomorrows.”
+
+**Sherry Ortner, UC Los Angeles**
+“Documenting Newark: Violent Resemblances”
+
+**Kamala Visweswaran, UC San Diego**
+“Ethnography and the Algorithmic Turn.”
+
+----
+
+Modulesettings: 
+
+----
+
+Lead: false

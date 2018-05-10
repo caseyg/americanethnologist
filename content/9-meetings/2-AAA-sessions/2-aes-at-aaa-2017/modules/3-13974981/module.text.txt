@@ -1,0 +1,22 @@
+Title: Featured Community Engagement Event
+
+----
+
+Text: 
+
+###Featured Community Engagement Event
+**Strategizing for Sanctuary**
+**Organized by:** Adrienne Pine (American U.). 
+
+Saturday, Dec 2., 3- 5:45 PM
+St. Stephen and the Incarnation Episcopal Church, 1525 Newton St NW, Washington, DC 20010
+
+Sanctuary DMV (http://sanctuarydmv.org/) has led the nation in revitalizing the Sanctuary movement. Recent achievements include: Working to strengthen DC's Sanctuary City status; creating safe houses to shelter families facing deportation; accompanying individuals at risk of deportation to their court dates and ICE check-ins; creating "rapid response" groups to monitor sites of ICE activity; providing "Know Your Rights" training to community organizations; and organizing interfaith sanctuary congregations. We will bring DMV-area sanctuary leaders together to inform anthropologists interested in supporting sanctuary efforts. Because community partners all have nationwide networks, non-local attendees can make connections enabling collaboration with sanctuary movements in different regions.
+
+----
+
+Modulesettings: 
+
+----
+
+Lead: false

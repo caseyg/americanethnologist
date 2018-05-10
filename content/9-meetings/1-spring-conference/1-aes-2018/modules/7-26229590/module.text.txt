@@ -1,0 +1,22 @@
+Title: Registration
+
+----
+
+Text: 
+
+##Registration 
+Registration remains open until the final day of the conference. Register (link: https://secure.americananthro.org/eweb/DynamicPage.aspx?webcode=EventInfo&RegPath=EventRegFees&REg_evt_key=513999b0-05bb-4e98-b980-c72739873499 text: HERE). 
+
+Graduate (and undergraduate) students! We have a deal for you. AES membership is free if you sign up between now and March 31, 2018. This would normally be $18, but it’s free for a whole year. It also will get you a $5 discount on the AES/SVA spring meeting registration because you can register for at student “member" rate ($40) rather than the student "non-member" rate ($45). To access this deal, do the following: 
+- Become an AES member. Enter the code AESSS18 (there are 3 Ss in the code) at the checkout on the join/renew form. 
+- Then register for the AES-SVA 2018 spring conference (link: https://secure.americananthro.org/eweb/DynamicPage.aspx?webcode=EventInfo&RegPath=EventRegFees&REg_evt_key=513999b0-05bb-4e98-b980-c72739873499 text: here) at the subsidized student member rate.
+
+Submissions for panels and presentations for AES/SVA 2018 are now closed.
+
+----
+
+Modulesettings: 
+
+----
+
+Lead: false

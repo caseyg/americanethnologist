@@ -1,0 +1,73 @@
+Title: DACA Preliminary Injunctions: The State Deferred
+
+----
+
+Subtitle: 
+
+----
+
+Author: Gray Abarca,Susan Bibler Coutin
+
+----
+
+Date: 2018-04-18
+
+----
+
+Featuredimage: photo-taken-at-southern-california-rally-in-response-to-the-rescission-of-daca-on-september-5-2017.png
+
+----
+
+Tags: 
+
+----
+
+Builder: 
+
+- 
+  image: >
+    photo-taken-at-southern-california-rally-in-response-to-the-rescission-of-daca-on-september-5-2017.png
+  _fieldset: image
+- 
+  text: |
+    <br>
+    On February 13, 2018, in a case known as *Batalla Vidal et al v. Nielsen et al*, the United States District Court for the Eastern District of New York issued a (link: http://cdn.cnn.com/cnn/2018/images/02/13/orderdaca.pdf text: preliminary injunction) preventing the Trump administration from rescinding the (link: https://www.uscis.gov/humanitarian/deferred-action-childhood-arrivals-response-january-2018-preliminary-injunction text: Deferred Action for Childhood Arrivals or DACA program) that has enabled undocumented immigrants who entered the United States without authorization as children and who met other age, residency, educational, and security requirements to obtain temporary work authorization and a stay of deportation.  This injunction followed an earlier (link: https://www.nilc.org/wp-content/uploads/2018/01/Regents-v-DHS-prelim-injunction-2018-01-09.pdf text: injunction issued by the United States District Court for the Northern District of California) in *Regents of the University of California, et al v. Department of Homeland Security et al.*, so the New York district court ruling did not actually change existing practice (but note that a Maryland court reluctantly (link: https://www.insidehighered.com/quicktakes/2018/03/07/judge-upholds-decision-end-daca#.WqCCjcl9Xzg.email text: issued a conflicting ruling)  on March 5, 2018). The New York injunction nonetheless provides insight into the contradictory workings of *plenary power*, a U.S. legal doctrine that gives the political branches of government (rather than the judiciary) relatively unfettered power, as a matter of national sovereignty, over non-nationals who are in the United States (Ngai 2003). This doctrine has “privileged the nation’s sovereignty absolutely over the rights of individual persons” (Ngai 2003, 71).
+    
+    We encountered the lived experience of plenary power in our fieldwork among Southern California undocumented immigrants who were seeking to regularize their status in the United States. As we recount in a (link: https://americanethnologist.org/read/journal/volume-45-issue-1-february-2018/sovereign-intimacies text: recent article published in *American Ethnologist* ), plenary power creates extreme uncertainty for undocumented immigrants, who never know whether or when legalization opportunities will arise or disappear.  This uncertainty places them in a potentially abusive relationship with the U.S. government in that they are vulnerable to harm (such as detention, deportation, or denial of work authorization) from the very entity to which they must appeal for legalization or temporary status.  We found that the accusation that the undocumented are undeserving can be internalized, leading the individuals we interviewed to continually defend themselves by stressing that they obeyed the law and contributed to society by working, having families, and exemplifying patriotic ideals.  For many, saving documents became both a way of preparing for future legalization and demonstrating deservingness.  Individuals had kept years of check stubs, rent receipts, tax returns, letters, school records and other everyday documents, as though to meet the gaze of the sovereign with a record that it would be unable to ignore. [1]  As we argue in the article, the state’s ability to exercise discretion grants documents a form of power that “makes not only immigrants but also the state vulnerable” (Abarca and Coutin 2018:7).
+  _fieldset: bodytext
+- 
+  image: >
+    photo-taken-at-2017-may-day-rally-in-los-angeles.png
+  _fieldset: image
+- 
+  text: |
+    <br>
+    The February 2018 preliminary injunction illustrates the complex dynamics that undergird such vulnerability.  Martin Jonathan Batalla Vidal, (link: https://www.nilc.org/wp-content/uploads/2017/09/Batalla-Vidal-v-Baran-et-al-complaint-2016-08-25.pdf text: the lead plaintiff) in the case, filed suit against Department of Homeland Security Secretary Kirstjen M. Nielsen and other defendants, challenging the federal government’s decision to revoke DACA recipients’ work authorization.  Batalla Vidal was a New York state resident who had come to the United States from Mexico at the age of seven and received work authorization through DACA in 2014.  He was studying to become a medical assistant while also supporting his family, pursuits that would be harmed by the DACA rescission.  In requesting a preliminary injunction, Batalla Vidal and fellow plaintiffs argued, among other points, that under the Administrative Procedure Act, a federal agency could not act arbitrarily, capriciously, or in abuse of discretion, and that the Trump administration had done just that when it revoked DACA.  The U.S. District Court for the Eastern District of New York (EDNY) agreed that the plaintiffs were likely to prevail on this argument. Significantly, the court did not challenge plenary power.  On the contrary, the Judge, Nicholas G. Garaufis, wrote, “Defendants indisputably can end the DACA program.  Nothing in the Constitution or the Immigration and Nationality Act ... requires immigration authorities to grant deferred action or work authorization to individuals without lawful immigration status” (p. 4).  The legality of the government’s revocation of DACA, then, rested on whether or not the reasons that the administration gave for its decision were sufficiently adequate to avoid being viewed as arbitrary and capricious.
+    
+    Much like an undocumented immigrant who has to provide records that demonstrate deservingness, in this case, the administration had to subject its evidentiary record – executive orders, memoranda, letters – to legal scrutiny.  Moreover, only justifications that had been offered at the time were considered relevant, no “post hoc” rationalizations were to be considered.  In reviewing the administrative record, the court found three key inconsistencies and lapses of logic in the rationales proffered for the DACA rescission:
+    >First, the decision to end the DACA program appears to rest exclusively on a legal conclusion that the program was unconstitutional and violated the APA and INA.  Because that conclusion was erroneous, the decision to end the DACA program cannot stand.  Second, this erroneous conclusion appears to have relied in par on the plainly incorrect factual premise that courts have recognized ‘constitutional defects’ in the somewhat analogous Deferred Action for Parents of Americans and Lawful Permanent Residents (“DAPA”) program. Third, Defendants’ decision appears to be internally contradictory, as the means by which Defendants chose to ‘wind down’ the program (namely, by continuing to adjudicate certain DACA renewal applications) cannot be reconciled with their stated rationale for ending the program (namely, that DACA was unconstitutional).  Any of these flaws would support invalidating the DACA rescission as arbitrary and capricious. (p. 5)
+    
+    For these reasons, the court concluded that the plaintiffs were likely to win on the merits of their case, so a preliminary injunction while the case was pending was in order.
+    
+    While plenary power remained intact – according to the court, the government has the discretion to end DACA – the government’s own paper trail had to provide a legally justifiable rationale for doing so.  Of course, the administration could attempt create a different and more justifiable paper trail in the future, if desired, though in our judgement it would be unjust and unwise to do so.  Judge Garaufis’ preliminary injunction order noted that the ordinary remedy for a judicial determination that an agency decision was legally inadequate was to remand the decision to the agency, which then could reissue the same decision but with a different rationale.  So, conceivably, the government could get its papers in order.  In the meantime, however, DACA recipients have been able to renew their DACA nationwide and they likely will be able to continue to do so until the U.S. Supreme Court takes up the case, which it is expected to do during the 2018-2019 term.  While the preliminary injunction has deferred the attempt to end the deferred action program, the administration will get a tiny taste of the "limbo" that migrants experience on a regular basis.
+    
+    DACA recipients and their allies are not simply waiting in limbo however.  Rather, they have organized rallies, demonstrations, lobbying efforts, social media campaigns, and (link: https://www.cbsnews.com/news/bernie-sanders-former-press-secretary-is-among-seven-dreamers-in-prison-on-hunger-strike/ text: hunger strikes) to pressure Congress to pass a (link: https://unitedwedream.org/our-work/#campaigns text: “clean DREAM act,”) that is, legislation that would give DACA recipients and other immigrants who arrived in the United States as children the opportunity to secure lawful permanent residency, without any further funding for enforcement initiatives such as a wall along the U.S.-Mexico border.  Activism surrounding DACA and related programs, such as Temporary Protected Status, which is awarded to nationals from countries that have suffered a natural disaster or military conflict, thus seeks to transform the traces of undocumented residents’ lives into a pathway to citizenship.
+    
+    **Endnotes**
+    [1] For example, in 2014, we interviewed Dora, a 35-year- old immigrant from Mexico whose two children had been born in the United States. She told us, “I am gathering everything having to do with my children’s schooling, everything in order, like the vaccination records. So that they [officials] see that I am not just getting [public benefits] for them [her children] but rather than I have raised them [...] doing my part as a mother, and that they see. And evidence such as the light bill, the gas bill.”
+    
+    **References**
+    Abarca, Gray Albert and Susan Bibler Coutin. 2018. “Sovereign Intimacies: The Lives of Documents within US State-Noncitizen Relationships.” American Ethnologist 45(1):7-19.
+    
+    Ngai, Mae M. 2004. Impossible Subjects: Illegal Aliens and the Making of Modern America. Princeton, NJ: Princeton University Press.
+  _fieldset: bodytext
+- 
+  _fieldset: divider
+- 
+  text: |
+    **Cite as:** Abarca, Gray and Susan Bibler Coutin. 2018. “DACA Preliminary Injunctions: The State Deferred.” American Ethnologist website, April 18, 2018. http://americanethnologist.org/features/reflections/daca-preliminary-injunctions-the-state-deferred
+    
+    *Gray Abarca is a Doctoral Candidate in Anthropology at the University of California, Irvine*
+    
+    *Susan Bibler Coutin is Professor of Criminology, Law and Society and Anthropology at the University of California, Irvine.*
+  _fieldset: bodytext

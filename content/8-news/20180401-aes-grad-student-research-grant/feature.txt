@@ -1,0 +1,54 @@
+Title: AES announces Graduate Student Research Grant
+
+----
+
+Subtitle: 
+
+----
+
+Author: 
+
+----
+
+Date: 2018-04-01
+
+----
+
+Featuredimage: 
+
+----
+
+Tags: grant prize,awards,research grant,announcement
+
+----
+
+Builder: 
+
+- 
+  text: |
+    The American Ethnological Society (AES) announces the **AES Graduate Student Research Grant** for students who have completed at least one year of graduate study in anthropology or allied fields. Projects that involve ethnographic field research and/or documentary research are eligible for consideration and may commence as early as June 2018. Exploratory research that is part of a planned dissertation project is encouraged.
+    
+    **Deadline to apply:** April 27, 2018
+    
+    **Award:** $2,500
+    
+    **Applicants must submit:**
+    
+    - A statement of no more than 600 words that outlines the significance of the project, the main research questions, the methods used to analyze the questions, and the potential impact of the project;
+    - A list of sources relevant to the proposal (not more than one page);
+    - A curriculum vitae of no more than one page;
+    - A budget of up to $2,500, which must indicate if other funding has been obtained or is anticipated; and
+    - A letter of not more than one page from a faculty advisor that endorses the project and that certifies that the applicant has completed at least one year of graduate study (or will have completed this prior to initiating the research).
+    
+    Grantees will be encouraged to write a brief, blog-style report on project findings for the AES website. An additional $500 will be available to grantees who present their work at the 2019 AES annual meeting. AES strongly encourages applications from graduate students from under-represented groups (African Americans, Asian Americans, Latinx, Native Americans, Pacific Islanders, and people with disabilities). Winners will be announced in mid-May.
+    
+    **FAQs**
+    
+    - Graduate students who have completed or will have completed at least one year of graduate study in anthropology or allied fields by the start date of the research.
+    - Citizens of any country may apply.
+    - Applicants may be students in any graduate program, in any country.
+    - Preference will be given to applicants in the early stages of their graduate studies.
+    - Faculty letters must be sent directly by the advisor. They must not be included with the student's application.
+    
+    **Send all application materials by 5:00pm EDT on April 27, 2018, to AESGrantsCompetition@gmail.com with “AES grant competition” + applicant’s last name in the subject line.**
+  _fieldset: leadtext

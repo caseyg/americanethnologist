@@ -1,0 +1,99 @@
+Title: Book Reviews
+
+----
+
+Articles: 
+
+- 
+  article: >
+    read/journal/volume-44-issue-2-may-2017/from-notes-to-narrative
+- 
+  article: >
+    read/journal/volume-44-issue-2-may-2017/evil-in-africa
+- 
+  article: >
+    read/journal/volume-44-issue-2-may-2017/who-counts
+- 
+  article: >
+    read/journal/volume-44-issue-2-may-2017/rhythms-of-the-pachakuti
+- 
+  article: >
+    read/journal/volume-44-issue-2-may-2017/thunder-shaman
+- 
+  article: >
+    read/journal/volume-44-issue-2-may-2017/divination-s-grasp
+- 
+  article: >
+    read/journal/volume-44-issue-2-may-2017/the-politics-of-suffering
+- 
+  article: >
+    read/journal/volume-44-issue-2-may-2017/the-politics-of-distinction
+- 
+  article: >
+    read/journal/volume-44-issue-2-may-2017/bits-of-belonging
+- 
+  article: >
+    read/journal/volume-44-issue-2-may-2017/speculative-markets
+- 
+  article: >
+    read/journal/volume-44-issue-2-may-2017/conjuring-property
+- 
+  article: >
+    read/journal/volume-44-issue-2-may-2017/of-sand-or-soil
+- 
+  article: >
+    read/journal/volume-44-issue-2-may-2017/bukharan-jews-and-the-dynamics-of-global-judaism
+- 
+  article: >
+    read/journal/volume-44-issue-2-may-2017/critical-christianity
+- 
+  article: >
+    read/journal/volume-44-issue-2-may-2017/the-art-of-making-do-in-naples
+- 
+  article: >
+    read/journal/volume-44-issue-2-may-2017/the-slow-boil
+- 
+  article: >
+    read/journal/volume-44-issue-2-may-2017/the-voice-and-its-doubles
+- 
+  article: >
+    read/journal/volume-44-issue-2-may-2017/last-project-standing
+- 
+  article: >
+    read/journal/volume-44-issue-2-may-2017/physics-of-blackness
+- 
+  article: >
+    read/journal/volume-44-issue-2-may-2017/race-on-the-move
+- 
+  article: >
+    read/journal/volume-44-issue-2-may-2017/race-becomes-tomorrow
+- 
+  article: >
+    read/journal/volume-44-issue-2-may-2017/making-refuge
+- 
+  article: >
+    read/journal/volume-44-issue-2-may-2017/where-the-river-ends
+- 
+  article: >
+    read/journal/volume-44-issue-2-may-2017/skin-for-skin
+- 
+  article: >
+    read/journal/volume-44-issue-2-may-2017/dwelling-in-conflict
+- 
+  article: >
+    read/journal/volume-44-issue-2-may-2017/becoming-legal
+- 
+  article: >
+    read/journal/volume-44-issue-2-may-2017/fat-talk-nation
+- 
+  article: >
+    read/journal/volume-44-issue-2-may-2017/occupational-hazards
+- 
+  article: >
+    read/journal/volume-44-issue-2-may-2017/memorializing-pearl-harbor
+- 
+  article: >
+    read/journal/volume-44-issue-2-may-2017/a-jewish-guide-in-the-holy-land
+- 
+  article: >
+    read/journal/volume-44-issue-2-may-2017/resonance

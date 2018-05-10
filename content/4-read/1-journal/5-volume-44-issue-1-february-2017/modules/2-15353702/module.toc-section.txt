@@ -1,0 +1,111 @@
+Title: Book Reviews
+
+----
+
+Articles: 
+
+- 
+  article: >
+    read/journal/volume-44-issue-1-february-2017/in-football-we-trust
+- 
+  article: >
+    read/journal/volume-44-issue-1-february-2017/reel-world
+- 
+  article: >
+    read/journal/volume-44-issue-1-february-2017/memorylands
+- 
+  article: >
+    read/journal/volume-44-issue-1-february-2017/tourism-imaginaries
+- 
+  article: >
+    read/journal/volume-44-issue-1-february-2017/rainforest-cowboys
+- 
+  article: >
+    read/journal/volume-44-issue-1-february-2017/the-blue-and-the-green
+- 
+  article: >
+    read/journal/volume-44-issue-1-february-2017/at-home-in-the-okavango
+- 
+  article: >
+    read/journal/volume-44-issue-1-february-2017/refugees-of-the-revolution
+- 
+  article: >
+    read/journal/volume-44-issue-1-february-2017/two-arabs-a-berber-and-a-jew
+- 
+  article: >
+    read/journal/volume-44-issue-1-february-2017/return-to-casablanca
+- 
+  article: >
+    read/journal/volume-44-issue-1-february-2017/at-home-with-the-diplomats
+- 
+  article: >
+    read/journal/volume-44-issue-1-february-2017/the-need-to-help
+- 
+  article: >
+    read/journal/volume-44-issue-1-february-2017/losing-afghanistan
+- 
+  article: >
+    read/journal/volume-44-issue-1-february-2017/us-military-bases-and-anti-military-organizing
+- 
+  article: >
+    read/journal/volume-44-issue-1-february-2017/social-science-goes-to-war
+- 
+  article: >
+    read/journal/volume-44-issue-1-february-2017/shamanism-discourse-modernity
+- 
+  article: >
+    read/journal/volume-44-issue-1-february-2017/the-saint-in-the-banyan-tree
+- 
+  article: >
+    read/journal/volume-44-issue-1-february-2017/voicing-subjects
+- 
+  article: >
+    read/journal/volume-44-issue-1-february-2017/yearnings-in-the-meantime
+- 
+  article: >
+    read/journal/volume-44-issue-1-february-2017/savage-frontier
+- 
+  article: >
+    read/journal/volume-44-issue-1-february-2017/landscapes-beyond-land
+- 
+  article: >
+    read/journal/volume-44-issue-1-february-2017/addicted-pregnant-poor
+- 
+  article: >
+    read/journal/volume-44-issue-1-february-2017/constructing-transnational-and-transracial-identity
+- 
+  article: >
+    read/journal/volume-44-issue-1-february-2017/non-sovereign-futures
+- 
+  article: >
+    read/journal/volume-44-issue-1-february-2017/tourism-and-informal-encounters-in-cuba
+- 
+  article: >
+    read/journal/volume-44-issue-1-february-2017/anthropology-at-the-crossroads
+- 
+  article: >
+    read/journal/volume-44-issue-1-february-2017/pious-practice-and-secular-constraints
+- 
+  article: >
+    read/journal/volume-44-issue-1-february-2017/gypsy-economy
+- 
+  article: >
+    read/journal/volume-44-issue-1-february-2017/social-collateral
+- 
+  article: >
+    read/journal/volume-44-issue-1-february-2017/enduring-uncertainty
+- 
+  article: >
+    read/journal/volume-44-issue-1-february-2017/moral-laboratories
+- 
+  article: >
+    read/journal/volume-44-issue-1-february-2017/made-in-madagascar
+- 
+  article: >
+    read/journal/volume-44-issue-1-february-2017/metamorphosis
+- 
+  article: >
+    read/journal/volume-44-issue-1-february-2017/the-government-next-door
+- 
+  article: >
+    read/journal/volume-44-issue-1-february-2017/at-the-heart-of-the-state

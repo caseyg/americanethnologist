@@ -1,0 +1,83 @@
+Title: "The Personal is Political"
+
+----
+
+Subtitle: Reflections, Critique, and Steps Forward in the Era of Donald Trump
+
+----
+
+Author: Chelsey Carter
+
+----
+
+Date: 2018-02-19
+
+----
+
+Featuredimage: peronsalpolitical2.jpg
+
+----
+
+Tags: reflections,trump,trumpocene
+
+----
+
+Builder: 
+
+- 
+  image: peronsalpolitical2.jpg
+  _fieldset: image
+- 
+  text: |
+    “A political contribution which we feel we have already made is the expansion of the feminist principle that the personal is political,” wrote the Combahee River Collective in 1977. This axiom has framed the work and lives of black feminists for decades, but what has its “expanded” sense meant for black anthropologists? In practice it means that black feminist anthropologists have been doing the work of advancing a decolonized anthropology that is both theoretical and based in a politics of praxis (McLaurin 2001). Our work as anthropologists cannot be detached or objective because the politics of our work come directly out of our own identities. This powerful intervention deployed by black feminists for decades, values, and legitimates the lived experiences of scholars, which orient, guide, and transform our work and our discipline for the better. Unfortunately, this same intervention has not been widely deployed outside of a small subset of anthropologists. An expansion of the idea “the personal is political” is long overdue.
+    
+    The presidency of Donald J. Trump has thwarted disciplinary attempts to detach the personal from our scholarship, and especially from our pedagogy. Starting during the electoral campaign season, anthropologists have weighed in on Trump and his supporters including in a special forum in the (link: http://americanethnologist.org/read/journal/volume-44-issue-2-may-2017 text: May 2017 *American Ethnologist*). The November 2017 AAA meeting held in Washington, D.C. was no different in the many calls for anthropologists to reflect on Donald Trump’s presidency. The ‘How’s the Trumpocene Going? Anthropologists Reflect on the Past Year’ roundtable (co-sponsored by the American Ethnological Society and Society for Feminist Anthropology) offered new and compelling theories on the “who’s to blame” discourse. Participants discussed how Trump’s power transformed their academic work and activism, considered how global attitudes towards the US and Americans have changed, and specifically how our work has been challenged since his presidency began.
+    
+    What I found most compelling about the panel were the anthropologists using their ethnographic lens both inside and outside of the academy - and discovering that these are no longer separate spaces. This revelation is not anything new to black feminist anthologists and activists. Bianca Williams noted during her remarks that “ethnography is [her] super power.” Most black feminist anthropologist have never had the privilege of turning off their “ethnographic lens” because their work is always with them. Williams highlights that the United States government, through the FBI, now identifies her (and myself) as a “Black Identity Extremist.” Many of the experiences that Williams recalled and that other black people, people of color, and LGBTQ folk have experienced since the beginning of the Trump administration are not just rhetorical, theoretical, or analytical sites for ripe intervention, but are dire real life conditions. Williams commented that “the label of black identity extremist reminds us that anti-blackness is central to how the US has always operated and continues to do so…for many of us in black communities this moment of the Trumpocene is simply a heightened version of a white supremacist experience we’ve lived with every day before he was in office.” Real lives, real conditions, real harm is happening during the Trumpocene and this is our moment as anthropologist to use our “super power” to connect, mobilize, and act.
+    
+    In this spirit, panelist Jose Vasquez feels energized by the Trumpocene moment – calling it an “encouraging populist moment.” Not because present conditions are not dire, but because “important movements and connects are being made. People are facing very similar conditions which is causing them to then analyze both how they’ve been doing things in the past and how they want to do things differently and work across movement sectors, across lines of race, and class and gender.” Vasquez engages with the Veterans Organizing Institute (VOI), a program building capacity among veterans to bring about progressive social change. Through VOI Vasquez works with committed veterans shifting the balance of power to create a better country for *everyone*. He recounts that hundreds of VOI members stood in solidarity at Standing Rock and have supported the demilitarization of the police across the country – two causes that many would not think of as veterans’ issues. But what Vasquez reveals through his research and activism is the necessity to study “US.” “US” meaning the “United States,” and “us” as in our culture and experiences here in the United States. The ability to stay attuned to what Faye Harrison calls our ‘participatory ethic’ is one of the strengths of our field, but also a responsibility for anthropologists. Harrison goes on to argue that when anthropology, and our super power ethnography, is deployed well “we immerse ourselves in [the] everyday lives and demands of ordinary people all over the world” (McGranahan, Roland, Williams 2016). Yet for some reason, we forget to do this for ourselves and are now faced with the consequences of not looking in the mirror.
+    
+    Laura Nader reminded the audience that American anthropologists did not predict the election of Donald Trump, but a Canadian anthropologist did. Nader quoted this Canadian anthropologist asking: “What’s the matter with American anthropologists that they don’t understand their own society?” This provocative question underlines the shock of the Trumpocene opportunity missed by (most) US-based anthropologists. Nader also admonished anthropology for not protecting the people who engage in activism, who perpetually place their bodies in danger and speak out publicly. She emphasized anthropologist David Graeber, of the Occupy Movement, and claims he was “blackballed” by five American Anthropology departments. Although this is an appropriate critique, I want to extend Nader’s focus further, beyond white cis-gender men with PhDs to professors, post-docs, and graduate students of color (and other marginalizing identities) who have long been pushed out of their own discipline (Brodkin, Morgen, & Hutchinson 2011).
+    
+    “Where are the anthropologists?” Ahmed Akbar astutely asked the panel and audience. As the grueling fieldwork examples of roundtable participants Adrienne Pine and Narges Bajoghli highlighted, there is a small group of anthropologists who are deeply invested in exploring the experiences of US immigration (Pine) and the entanglements between the Middle East and the West (Bajoghli). But what these scholars emphasize is that their work is only the beginning. We must be on the ground seeking informants who are not “the other,” but are US. We must be willing to wrestle with the ways in which we are all complicit in the Trumpocene and be capable of working in the conditions that our informants and “US” experience.
+    
+    Personally, I cringe when I hear the word Trumpocene. Is this a productive intervention for us moving forward? Many times, our interventions rely heavily on “showcabulary” and not theoretical contributions that clearly articulate and explain a particular phenomenon to better understand culture. “Trumpocene” fits neatly in the “showcabulary” category but I would argue that the very formation of “Trumpocene” may help us do better. I urge anthropologists to engage publicly, authentically, and consistently with “US.” Do not simply talk about the Trumpocene as an amorphous concept for the next academic roundtable or publication. Use your superpower to understand why your undergraduate said, “that was racist” after Trump referred to their country of origin as a “shithole.” Stop considering the Trump Administration’s policies, actions, and words as one-off gaffes that are void of deleterious impacts on your interlocutors, students, neighbors, service people, colleagues, friends, etc. Refrain from legitimatizing and pedestalizing President Trump, and see this as a symptom of the America many of us have always known.
+    
+    Nader stated provocatively that “American exceptionalism is a disease.” This disease, I would argue, has real impacts on people’s lives and on their bodies. The Trump Administration is not just a fun anthropological field site in need of solely theoretical interventions and new jargon. This administration offers the perfect place for anthropologists to begin to build theory with the intentionality of praxis. Real problems, real people, and real lives are desperately being affected in this moment and it’s our responsibility to do more than write AAA reflections, develop theories, sign petitions, write letters of dissent from our various societies, and consider how our informants outside of the United States are affected by the Trumpocene. We need to return to the emic perspective and consider how “US” are affected by the Trumpocene. If nothing else, Trump’s rise to power proves the need for our discipline, but we can only meet that need if we do better. For too long, black feminists and indigenous anthropologists have called for the decolonization of anthropology (Harrison 1991a; Harrison 1991b). What better opportunity than right now to understand who we are, what we are, and where we come from? “Research is formalized curiosity. It is poking and prying with a purpose” wrote Zora Neale Hurston (Hurston 1996/1942). My hope is that we poke and pry tirelessly and intentionally, while simultaneously asking ourselves Bianca Williams’ question: “What are we willing to risk?” And are we willing to be uncomfortable? We can no longer be apolitical because this is now personal for all of us.
+    
+    Note: This brief commentary does not attend to all the wonderful panel remarks and audience commentaries. Panel contributions were offered by: Akbar Ahmed, William O. Beeman, Narges Bajoghli, Ruth M. Gomberg-Munoz, Roberto Gonzalez (co-organizer), Laura Nader (co-organizer), Adrienne Pine, Gustavo Lins Ribeiro, Jose N. Vasquez, Christine J. Walley and Bianca C. Williams.
+  _fieldset: bodytext
+- 
+  _fieldset: divider
+- 
+  text: |
+    **References**
+    
+    Brodkin, Karen, Sandra Morgen, and Janis Hutchinson. 2011. “Anthropology as White Public
+    Space?” American Anthropologist, 113(4): 545-556.
+    
+    Combahee River Collective. 2014. “A Black Feminist Statement.” Women's Studies Quarterly:
+    271-280. First published in 1977.
+    
+    Harrison, Faye V. 1991a. “Anthropology as an Agent of Transformation: Introductory Comments
+    and Queries.” In F. V. Harrison (Ed.), Decolonizing Anthropology: Moving Further toward an Anthropology for Liberation (pp. 1-11). Washington, DC: American Anthropological Association.
+    
+    Harrison, Faye. V. 1991b. Ethnography as Politics. In F. V. Harrison (Ed.), Decolonizing
+    Anthropology: Moving Further toward an Anthropology for Liberation (pp. 88-109). Washington, DC: American Anthropological Association.
+    
+    Hurston, Z. N. 1996. Dust Tracks On a Road. New York: HarperCollins. First published in 1942.
+    
+    McGranahan, C., Roland, K., & Williams, B. C. 2016. “Decolonizing Anthropology: A
+    Conversation with Faye V. Harrison.” Savage Minds website. May 2. Accessed February, 2018. https://savageminds.org/2016/05/02/decolonizing-anthropology-a-conversation-with-faye-v-harrison-part-i/
+    
+    McClaurin, I. ed., 2001. Black Feminist Anthropology: Theory, Politics, Praxis, and Poetics. New
+    Brunswick, NJ: Rutgers University Press.
+  _fieldset: bodytext
+- 
+  _fieldset: divider
+- 
+  text: |
+    **Cite as:** Carter, Chelsey. 2018. “‘The Personal is Political’: Reflection, Critique, and Steps Forward in the Era of Donald Trump,” American Ethnologist website, February 19, 2018.
+    
+    *Chelsey Carter is a MPH/PhD candidate in Anthropology at Washington University in St. Louis. Her forthcoming dissertation project will examine how black people with neuromuscular diseases (like ALS) navigate healthcare spaces and experience care by healthcare institutions in post-Ferguson St. Louis, Missouri.*
+  _fieldset: bodytext

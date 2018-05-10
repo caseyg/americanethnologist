@@ -1,0 +1,25 @@
+Title: Detecting research patterns and paratextual features in AE word clouds, keywords, and titles
+----
+Date: 02/18/2014
+----
+Category: Articles - Volume 41, Issue 1 (February 2014), Volume 41, Issue 1 (February 2014)
+----
+Summary: 
+----
+Tags: fonts, literacy practices, paratextual features, titles, word clouds
+----
+Text:
+By Laura M. Ahearn**Full Article: **(link: http://onlinelibrary.wiley.com/doi/10.1111/amet.12056/abstract text: http://onlinelibrary.wiley.com/doi/10.1111/amet.12056/abstract)
+
+ The keywords and titles from AE’s 2013, 2003, 1993, and 1983 articles are a cryptic, condensed metanarrative that authors tell about their own scholarship. They thus offer an opportunity to reflect on directions in anthropological research over the past few decades. In addition, the tables and word clouds that can be generated from those keywords and titles demonstrate how the presentation of information can influence its perception and interpretation. In this commentary, I note some patterns in the AE data and present sets of word clouds that demonstrate how differently the same array of words can appear because of paratextual features such as font and the placement of the words. I also present the selection of keywords and titles as a set of literacy practices. See Word Cloud Gallery: (link: http://americanethnologist.org/ae-word-clouds-comparing-2013-with-earlier-years/ text: **AE Word Clouds – Comparing 2013 with Earlier Years**) <figure>
+(image: http://www.americanethnologist.org/wp-content/uploads/sites/2/2014/02/41-1-word-cloud-figure-19-800px-500x254.jpg alt: Word cloud generated from core keywords of AE’s 1983 articles, using Loved by the King font.)
+<figcaption>Word cloud generated from core keywords of AE’s 1983 articles, using Loved by the King font.</figcaption>
+</figure>
+
+ Word cloud generated from core keywords of AE’s 1983 articles, using Loved by the King font.
+----
+Wiley:
+http://onlinelibrary.wiley.com/doi/10.1111/amet.12056/abstract
+----
+Author:
+Laura M. Ahearn

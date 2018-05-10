@@ -1,0 +1,72 @@
+Title: Book Reviews
+
+----
+
+Articles: 
+
+- 
+  article: >
+    read/journal/volume-43-issue-3-august-2016/politics-in-color-and-concrete-socialist-materialities-and-the-middle-class-in-hungary-krisztina-fehrvry
+- 
+  article: >
+    read/journal/volume-43-issue-3-august-2016/landscape-of-discontent-urban-sustainability-in-immigrant-paris-andrew-newman
+- 
+  article: >
+    read/journal/volume-43-issue-3-august-2016/african-appropriations-cultural-difference-mimesis-and-media-matthias-krings
+- 
+  article: >
+    read/journal/volume-43-issue-3-august-2016/sensational-movies-video-vision-and-christianity-in-ghana-birgit-meyer
+- 
+  article: >
+    read/journal/volume-43-issue-3-august-2016/moral-economies-of-corruption-state-formation-and-political-culture-in-nigeria-steven-pierce
+- 
+  article: >
+    read/journal/volume-43-issue-3-august-2016/the-government-of-mistrust-illegibility-and-bureaucratic-power-in-socialist-vietnam-ken-maclean
+- 
+  article: >
+    read/journal/volume-43-issue-3-august-2016/rule-by-aesthetics-worldclass-city-making-in-delhi-d-asher-ghertner
+- 
+  article: >
+    read/journal/volume-43-issue-3-august-2016/articulating-rapa-nui-polynesian-cultural-politics-in-a-latin-american-nationstate-riet-delsing
+- 
+  article: >
+    read/journal/volume-43-issue-3-august-2016/revolt-of-the-saints-memory-and-redemption-in-the-twilight-of-brazilian-racial-democracy-john-f-collins
+- 
+  article: >
+    read/journal/volume-43-issue-3-august-2016/the-mushroom-at-the-end-of-the-world-on-the-possibility-of-life-in-capitalist-ruins-anna-lowenhaupt-tsing
+- 
+  article: >
+    read/journal/volume-43-issue-3-august-2016/cruel-attachments-the-ritual-rehab-of-child-molesters-in-germany-john-borneman
+- 
+  article: >
+    read/journal/volume-43-issue-3-august-2016/listening-to-war-sound-music-trauma-and-survival-in-wartime-iraq-j-martin-daughtry
+- 
+  article: >
+    read/journal/volume-43-issue-3-august-2016/in-the-absence-of-the-gift-new-forms-of-value-and-personhood-in-a-papua-new-guinea-community-anders-emil-rasmussen
+- 
+  article: >
+    read/journal/volume-43-issue-3-august-2016/multiethnic-korea-multiculturalism-migration-and-peoplehood-diversity-in-contemporary-south-korea-john-lie-ed
+- 
+  article: >
+    read/journal/volume-43-issue-3-august-2016/getting-by-class-and-state-formation-among-chinese-in-malaysia-donald-m-nonini
+- 
+  article: >
+    read/journal/volume-43-issue-3-august-2016/youth-politics-in-putins-russia-producing-patriots-and-entrepreneurs-julie-hemment
+- 
+  article: >
+    read/journal/volume-43-issue-3-august-2016/the-making-of-an-african-working-class-politics-law-and-cultural-protest-in-the-manual-workers-union-of-botswana-pnina-werbner
+- 
+  article: >
+    read/journal/volume-43-issue-3-august-2016/wrapped-in-the-flag-of-israel-mizrahi-single-mothers-and-bureaucratic-torture-smadar-lavie
+- 
+  article: >
+    read/journal/volume-43-issue-3-august-2016/walking-where-jesus-walked-american-christians-and-holy-land-pilgrimage-hillary-kaell
+- 
+  article: >
+    read/journal/volume-43-issue-3-august-2016/when-the-world-becomes-female-guises-of-a-south-indian-goddess-joyce-burkhalter-flueckiger
+- 
+  article: >
+    read/journal/volume-43-issue-3-august-2016/cultures-of-energy-power-practices-technologies-sarah-strauss-stephanie-rupp-and-thomas-love-eds
+- 
+  article: >
+    read/journal/volume-43-issue-3-august-2016/international-volunteer-tourism-critical-reflections-on-good-works-in-central-america-katherine-borland-and-abigail-e-adams-eds

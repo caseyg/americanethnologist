@@ -1,0 +1,81 @@
+Title: Book Reviews
+
+----
+
+Articles: 
+
+- 
+  article: >
+    read/journal/volume-45-issue-1-february-2018/image-brokers
+- 
+  article: >
+    read/journal/volume-45-issue-1-february-2018/reporting-for-china
+- 
+  article: >
+    read/journal/volume-45-issue-1-february-2018/the-resonance-of-unseen-things
+- 
+  article: >
+    read/journal/volume-45-issue-1-february-2018/real-pigs
+- 
+  article: >
+    read/journal/volume-45-issue-1-february-2018/my-life-with-things
+- 
+  article: >
+    read/journal/volume-45-issue-1-february-2018/emergent-ecologies
+- 
+  article: >
+    read/journal/volume-45-issue-1-february-2018/sounding-the-limits-of-life
+- 
+  article: >
+    read/journal/volume-45-issue-1-february-2018/animate-planet
+- 
+  article: >
+    read/journal/volume-45-issue-1-february-2018/culturing-bioscience
+- 
+  article: >
+    read/journal/volume-45-issue-1-february-2018/dispossession-and-the-environment
+- 
+  article: >
+    read/journal/volume-45-issue-1-february-2018/rebuilding-shattered-worlds
+- 
+  article: >
+    read/journal/volume-45-issue-1-february-2018/rebranding-islam
+- 
+  article: >
+    read/journal/volume-45-issue-1-february-2018/shii-cosmopolitanisms-in-africa
+- 
+  article: >
+    read/journal/volume-45-issue-1-february-2018/for-love-of-the-prophet
+- 
+  article: >
+    read/journal/volume-45-issue-1-february-2018/sovereignty-in-exile
+- 
+  article: >
+    read/journal/volume-45-issue-1-february-2018/everyday-piety
+- 
+  article: >
+    read/journal/volume-45-issue-1-february-2018/siege-of-the-spirits
+- 
+  article: >
+    read/journal/volume-45-issue-1-february-2018/faith-and-charity
+- 
+  article: >
+    read/journal/volume-45-issue-1-february-2018/affective-circuits
+- 
+  article: >
+    read/journal/volume-45-issue-1-february-2018/impulse-to-act
+- 
+  article: >
+    read/journal/volume-45-issue-1-february-2018/mortuary-dialogues
+- 
+  article: >
+    read/journal/volume-45-issue-1-february-2018/fragile-elite
+- 
+  article: >
+    read/journal/volume-45-issue-1-february-2018/the-social-life-of-materials
+- 
+  article: >
+    read/journal/volume-45-issue-1-february-2018/mapping-feminist-anthropology-in-the-twenty-first-century
+- 
+  article: >
+    read/journal/volume-45-issue-1-february-2018/we-were-adivasis
