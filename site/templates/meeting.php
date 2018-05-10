@@ -29,7 +29,7 @@
         <h5>On this page</h5>
         <nav class="nav nav-pills nav-stacked nav--sidebar">
           <?php foreach($page->moduleList() as $module): ?>
-            <a class="nav-link" href="#<?php echo $module->slug() ?>"><?php echo $module->title(); ?></a>
+            <a class="nav-link" href="#m-<?php echo $module->slug() ?>"><?php echo $module->title(); ?></a>
           <?php endforeach; ?>
         </nav>
     </div>
