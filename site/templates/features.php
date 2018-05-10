@@ -18,8 +18,8 @@
                   <a href="<?php echo $i->url() ?>">
                     <div class="media">
                       <?php if ($n == 1): ?>
-                        <?php if ($i->hasImages()): ?>
-                          <img class="media-object img-fluid mb-1" src="<?php echo $i->images()->first()->crop(400,250)->url() ?>">
+                        <?php if ($i->featuredImage()): ?>
+                          <img class="media-object img-fluid mb-1" src="<?php echo $i->featuredImage()->toFile()->crop(400,250)->url() ?>">
                         <?php endif; ?>
                       <?php endif; ?>
                       <div class="media-body">
