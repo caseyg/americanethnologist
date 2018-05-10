@@ -22,6 +22,10 @@
 
     <?= $page->text()->kt() ?>
 
+    <br>
+
+    <?php pattern('social-buttons') ?>
+
   </div>
 
 </div>

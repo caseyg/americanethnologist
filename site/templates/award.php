@@ -23,6 +23,8 @@
       <?php echo $page->intro()->kt() ?>
     </div>
     <?php echo $page->text()->kt() ?>
+    <br>
+    <?php pattern('social-buttons') ?>
   </div>
 </div>
 

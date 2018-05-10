@@ -17,6 +17,8 @@
 
 	<h6 class="bentonsansreregular mb-2"><?php echo $page->date("M d, Y") ?></h6>
 
+  <?php pattern('social-buttons') ?>
+
 	<hr>
 
     <?php foreach($page->builder()->toStructure() as $section): ?>

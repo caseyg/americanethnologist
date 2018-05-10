@@ -21,6 +21,10 @@
   <?php endif; ?>
 </div>
 
+<center>
+  <?php pattern('social-buttons') ?>
+</center>
+
 <hr>
 
 <div class="row">

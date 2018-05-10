@@ -19,6 +19,9 @@
       </div>
     </div>
     <div class="row">
+      <center><?php pattern('social-buttons') ?></center>
+    </div>
+    <div class="row">
       <?php if ($page->hasModules()): ?>
           <?php $page->modules() ?>
       <?php else: ?>
