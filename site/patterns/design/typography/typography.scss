@@ -80,13 +80,13 @@ a:hover, a:active {
 //  background-color: #d8d9c6;
 }
 
-.sans, ol, li, ul, dl, table, figcaption, header, nav {
+.sans, table, figcaption, header, nav {
   font-family: "Benton Sans RE Reg";
   font-size: .9rem;
   line-height: 2em;
 }
 
-.sans strong, ol strong, ul strong, li strong, dl strong, table strong, figcaption strong, header strong, nav strong {
+.sans strong, table strong, figcaption strong, header strong, nav strong {
   font-family: "Benton Sans RE Bd";
   font-style: Bold;
   font-weight: Bold;
