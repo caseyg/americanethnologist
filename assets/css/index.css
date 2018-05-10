@@ -529,3 +529,6 @@ body {
     position: sticky;
     top: 0;
     padding-top: 15px; } }
+
+figcaption {
+  margin-bottom: 15px !important; }
