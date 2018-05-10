@@ -18,7 +18,7 @@
       </div>
     </li>
     <li class="nav-item">
-      <a class="nav-link <?php if ($pages->find('read/access-subscriptions')->isActive()): ?>active<?php endif; ?>" href="http://americanethnologist.dev/read/access-subscriptions">Access &amp; Subscriptions</a>
+      <a class="nav-link <?php if ($pages->find('read/access-subscriptions')->isActive()): ?>active<?php endif; ?>" href="/read/access-subscriptions">Access &amp; Subscriptions</a>
     </li>
     <li class="nav-item ml-1 float-xs-right">
       <form class="form-inline" action="/search" method="get">
