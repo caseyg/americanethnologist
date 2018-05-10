@@ -69,3 +69,10 @@ body {
   margin-right: 15px;
   margin-bottom: 15px;
 }
+@media (min-width: 577px) {
+  #scroll-nav {
+    position: sticky;
+    top: 0;
+    padding-top: 15px;
+  }
+}

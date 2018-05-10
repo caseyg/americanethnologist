@@ -24,8 +24,8 @@
 <hr>
 
 <div class="row">
-  <div class="col-sm-3">
-    <div id="scroll-nav">
+  <div class="col-sm-3" id="scroll-nav">
+    <div>
         <h5>On this page</h5>
         <nav class="nav nav-pills nav-stacked nav--sidebar">
           <?php foreach($page->moduleList() as $module): ?>
