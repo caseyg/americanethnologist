@@ -227,7 +227,8 @@ figure {
     color: #797979;
     margin: auto;
     text-align: center;
-    width: 80%; }
+    width: 80%;
+    margin-bottom: 15px !important; }
 
 figure.img-thumbnail {
   margin: 0; }
@@ -529,6 +530,3 @@ body {
     position: sticky;
     top: 0;
     padding-top: 15px; } }
-
-figcaption {
-  margin-bottom: 15px !important; }
