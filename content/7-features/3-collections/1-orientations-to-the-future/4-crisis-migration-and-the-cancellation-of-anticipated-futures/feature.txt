@@ -1,0 +1,63 @@
+Title: Crisis, Migration, and the Cancellation of Anticipated Futures
+
+----
+
+Subtitle: 
+
+----
+
+Author: Kristín Loftsdóttir
+
+----
+
+Date: 2019-03-08
+
+----
+
+Featuredimage: windowpaperlessmigrant.png
+
+----
+
+Tags: 
+
+----
+
+Builder: 
+
+- 
+  text: |
+    At the beginning of the song, a stern impersonal voice announces: “May I have your attention, please? The future that you anticipated has been cancelled. Please remain seated and wait for further instructions.” The soundscape indicates that we are at an airport, train station or some other site of transit, where we are moved from one point to another. In this case, the movement seems to be from one time to another, where cancellation of one’s future mobilizes a new reality with a new trajectory.
+    
+    I heard this song by the band OMD for the first time when driving on a motorway in Austria. I had just started a book on the 2008 Icelandic economic collapse (Loftsdóttir 2019), while working on a new project on precarious Nigerien migrants in Belgium and Italy. Intersecting crisis-talk has been one key characteristic of the 21st century. The 2008 economic crisis in North America and Europe was followed by the “crisis” of refugees and asylum seekers, as well as a pressing sense of escalating environmental emergency. As is captured by the OMD song – and as I was learning from my projects – crises are deeply embedded with a sense of cancellation of one’s future, revolving around a loss of particular anticipation of the future. The anticipated future in the later part of the 20th century was embedded in the promises of late-modernity, and the disappearance of this future has created a sense of loss. In the Icelandic economic collapse, the idea that the future was predictable and a birthright in the Western world vanished overnight, creating anxieties and fear as chronic austerity gripped daily lives.
+  _fieldset: bodytext
+- 
+  image: minieurope.png
+  _fieldset: image
+- 
+  text: 'The concept of cancellation captures not only the loss of the anticipated future under conditions of austerity, but also, I was to find, distinguishes the experiences of precarious migrants. Cancellation can imply two futural trajectories – either something that will never exist, or something that is postponed for a determinate or indeterminate period of time. Salim, a Nigerien migrant in Belgium, explains with great frustration his sense of a future permanently cancelled. University educated, Salim came to Belgium as an asylum seeker because he believed in the idea of universal human rights and in the hope of a predictable future promised by “Western modernity.” Salim has applied for asylum in Belgium but is still in the transit period. When we meet, Salim repeats that he is “well integrated.” His point echoes the established migration vocabulary, which discusses in rather technical terms migrants as subjects that need to “adjust,” “integrate,” or “assimilate” to the so-called culture of mainstream society. For his future, Salim desires a job, to be “beneficial to society,” to marry, and have children. He states: “It is normal to want those things, but here one is prevented from it. One is, in fact, prevented from having a life.” Salim’s anticipation of a future based in his visions of life in Western late-modernity have been firmly defeated, emphasizing how futural orientations are often pivoted on the collapse of dreams, desires, and expectations.'
+  _fieldset: bodytext
+- 
+  image: windowpaperlessmigrant.png
+  _fieldset: image
+- 
+  text: |
+    Our mutual friend, Ali, who is sitting with us, does not say anything but while he shares Salim’s sense of a cancelled future, he conceptualizes this breakdown of anticipation in a different way. For Salim, the cancellation consists of rejection in a system of Western late-modernity that does not live up to his dreams or expectations. Ali does not envision the future as located in Europe; his aspiration is to return to Niger to his family and take with him a more prosperous life. Ali came to Europe seven years earlier, believing that there he could, through hard work, save enough money to make a better future in Niger. Ali, as most of the men with whom I talked, is stuck in Europe due to what he sees as a future deficit in Niger, partly caused by “the West’s” continued and violent involvement in West and North Africa (Loftsdóttir 2017). Now, Ali is stuck in a transit zone, temporally and geographically displaced, unable to go back and unable to create this more prosperous future he aspired to and anticipated when he left Niger. To become an asylum seeker not only means to see one’s future cancelled back home, but also a postponement of temporal succession since people often have to wait for years in limbo to find out if their asylum application will be granted. Temporality, in the sense of enforcing a period of extended waiting, has become a strategy to push against so-called illegal immigration (Anderson 2014:3). The cancellation of the anticipated futures of asylum seekers to northern Europe is enforced as a deterrent, a temporal weapon against immigration. Ali’s everyday future orientation can now best be described as enduring while not losing sight of his original goal. He is still aiming to improve his one-day future life back in Niger. His actions in the present are still focused on a return home, although this future is currently indefinitely postponed.
+    
+    In the global north, many of those engaging in anti-migration rhetoric – who fear men like Salim and Ali – have themselves experienced increased precarity since the economic crash. The rhetoric of hateful populism also engages with the affective sense of future-cancelled for the everyday citizen in the global north – the future of a stable income, pension, and secure job that used to be confidently anticipated are no longer guaranteed (Stoller 2018; Bear 2017). By Western governments increasing the precarity of immigrant futures, anti-migration publics believe that their own vulnerability in a harsh austerity economy will be reduced and their own cancelled future reinstated. For some, the sense of a future-cancelled thus ironically justifies the exclusion of certain groups from both liveable futures and humanitarian spaces. In contemporary Europe, the cancellation of anticipated futures for immigrants is a political ploy aimed at powering the sense among the masses that futures once considered a birthright will be reinstated for those disenfranchised by the economic crash. As futural orientation, cancellation leaves migrants like Salim and Ali in limbo, unsure of where or even if to invest in the present, trapped in a space of defeated anticipation.
+    
+    **References**
+    Anderson, Ruben. 2014. "Time and the Migrant Other: European Border Controls and the
+    Temporal Economics of Illegality." *American Anthropologist* 116 (4): 795-809.
+    
+    Bear, Laura. 2017. "’Alternatives’ to Austerity: A Critique of Financialized Infrastructure in India and Beyond." *Anthropology Today*, 33 (5): 3-7.
+    
+    Loftsdóttir, Kristín. 2017. "‘Europe is Finished’: Migrants Lives in Europe’s Capital at Times of Crisis." *Social Identities* 2 (2).
+    
+    Loftsdóttir, Kristín. 2019.  *Crisis and Coloniality at Europe’s Margins:  Creating Exotic Iceland*.  London: Routledge.
+    
+    Stoller, Paul. 2018. “Resisting the Alternate Realities of Global Populism.” *Economic Anthropology* 5 (1): 138-140.
+    
+    **Cite as:** Loftsdóttir, Kristín. 2019. “Crisis, Migration, and the Cancellation of Anticipated Futures.” In “Orientations to the Future,” Rebecca Bryant and Daniel M. Knight, eds., *American Ethnologist* website, March 8. http://americanethnologist.org/features/collections/orientations-to-the-future/crisis-migration-and-the-cancellation-of-anticipated-futures.
+    
+    **Kristín Loftsdóttir** is Professor of Anthropology at the University of Iceland. Her research has focused on whiteness, gender, racial identity, Nordic exceptionalism and crisis, based on work in Iceland, Niger and Belgium. Loftsdóttir’s most recent publications are the monograph *Crisis and Coloniality at Europe’s Margins: Creating Exotic Iceland* (Routledge, 2019) and the co-edited book (with Andrea L. Smith and Brigitte Hipfl), *Messy Europe: Crisis, Race and Nation State in a Postcolonial World* (Berghahn, 2018).
+  _fieldset: bodytext

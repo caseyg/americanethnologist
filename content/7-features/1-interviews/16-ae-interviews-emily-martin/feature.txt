@@ -1,0 +1,108 @@
+Title: AE Interviews Emily Martin
+
+----
+
+Subtitle: The 25th Anniversary of "The End of the Body?"
+
+----
+
+Author: Alison Cool
+
+----
+
+Date: 2018-06-10
+
+----
+
+Featuredimage: screenshot-2018-06-07-at-10.23.24-pm.png
+
+----
+
+Tags: 
+
+----
+
+Builder: 
+
+- 
+  text: |
+    AES is pleased to launch a new feature: interviews celebrating the 25th anniversary of a major article in *American Ethnologist*. **Alison Cool**, assistant professor of anthropology at the University of Colorado interviews **Emily Martin**, professor of anthropology at New York University about her 1992 AE article "The End of the Body?"
+    
+    *This interview reflects on Martin’s ethnographic process, the shifting political implications of systems thinking, and the past and future of (public) anthropology.*
+  _fieldset: leadtext
+- 
+  image: screenshot-2018-06-07-at-10.23.24-pm.png
+  _fieldset: image
+- 
+  text: |
+    **Alison Cool:** In “The End of the Body?,” published in *American Ethnologist* in 1992, [1] you wrote about the immune system, the HIV/AIDS crisis, and massive changes that were taking place in the organization of bodies and labor in the United States at that time. This work also formed the basis for *Flexible Bodies: The Role of Immunity in American Culture from the Days of Polio to the Age of AIDS* (1994). [2] How did you come to think of the immune system as something that could be studied ethnographically? What is your research process more generally?
+    
+    **Emily Martin:** Starting with *The Woman in the Body* (1987), [3] I proceeded in doing fieldwork by trying to think about a current social issue that was relevant and disturbing—disturbing because people were being misused, poorly represented, forced to do things they didn’t want to do, or were ignored or considered disposable. Sometimes, this could be something that wasn’t seen specifically as a social problem, but something underlying it. Then I would think—if I did an ethnography on this, what would be the theoretical interest? Would it be amenable to being written or talked about in a way that might have a public impact?
+    
+    Serendipity always plays a big role. At the time, I was reading a lot of books about complex systems theory, including a book by the sociologist William Arney. [4] His book was the first thing I had seen that tried to explain how if things in our world are becoming organized like complex systems instead of hierarchical bureaucracies, then what does that mean for the operations of power? Can we see who exerts power? Do we have agency? If so, what is it?
+    
+    I was also reading about the building of the atomic bomb. [5] The language of Oppenheimer and others who were building the atomic bomb just really got to me. They would say things like, “It doesn’t matter whether we in Los Alamos do *x, y,* or *z*, or those in Chicago do *x, y*, or *z*—the system will manifest itself.” It’s like Oppenheimer would say, “I am not the author of this instrument of mass destruction. It is a thing that has already been brought into existence and it is going to come together and be deployed no matter what.”
+    
+    I just thought this is the most amazing picture of the world, where systems have a will of their own, and no one feels that they could stop it or exercise control over how it would be used. It’s like it became a living thing. It seemed like the process that Marx described—where abstraction from sensory qualities produces the concept of value and makes different kinds of work and commodities commensurable—had reached a kind of apotheosis in the building of the bomb.
+    
+    Anyway, I was thinking about complex systems. David Harvey was then beginning to write about flexible accumulation and a development of factory life into rapidly changing workplaces, shifting capital, and more and more abstract forms of financial value. [6] To me, it just seemed connected somehow. Meanwhile, the AIDS crisis was beginning.
+    
+    I started to look into places where AIDS was being treated and where people had to contend with HIV and how activist groups were trying to get the medical establishment to do more. It all just went hand in hand in with the ideas that were developing in the workplace. Only in the case of HIV/AIDS, it was how people who were afflicted had lost the great cultural game of flexibility and failed on the one count that was coming to matter so much. This was very compelling to me, and where the hope for activism came in—that this could do something to ameliorate the stigma and prejudice involving people with HIV/AIDS.
+    
+    **AC:** How did you start to see the relationship between all these things? Was it something you anticipated before fieldwork?
+    
+    **EM:** I didn’t know ahead of time. I was working with four graduate students, and they each had a regular group or place to go to, like an AIDS support group or a neighborhood community organization. We had weekly meetings, like lab meetings, and everyone would hear what everybody else had found out. I would traipse around and visit them in their different sites.
+    
+    At one of our lab meetings, Karen-Sue Taussig [one of the graduate students working on the project] said, “My brother works for Outward Bound and they are having a session somewhere in the Rockies that was contracted by a company. I think it might be related.” She thought it was weird that a corporation would pay to have its employees go on a bare-bones wilderness trek. At the time, I couldn’t imagine that it was related, but with her encouragement, I talked to her brother and found out who the subcontracted agency was and got in touch with them. They were running this huge set of exercises on specially built sites up and down the East Coast for a major corporation. So I thought, this might be related, so I’ll just go. I’ll be there, I will hang out.
+    
+    That’s where I found these management consultants who train workforces to be better. In this case, it was through doing stuff on the high wire and ziplines and things like that. They talked about the immune system all the time! It was their language for seeing the world of work as no longer a hierarchical system with top-down control, but a spread of nodes where each person was a node and each person had creativity, agency and input. The immune system wasn’t my metaphor for what was going on—they were using it. That seemed to me the best you could do as an ethnographer, to tap into what people are seeing and doing.
+    
+    **AC:** It’s been over twenty-five years since you wrote this. Now we have a president obsessed with building a wall, which resonates with your description of the “non-self world as foreign and hostile.” [7] We also have new research on the microbiome, epigenetics, and neuroplasticity which seems to speak to a blurring of the self and non-self worlds. Are we still living in the era of the flexible body?
+    
+    **EM:** What sort of bodies do we have today? The microbiome is really a major sea change—we have more bacteria than our own cells. It has become a huge new market opportunity with products for skin, gastrointestinal tract, vagina, mouth, scalp—you name it. But behind that is quite a different view of what the body is made up of and a great increase in the number of factors that you need to be aware of if you want to treat ailments in any of these microbiome-infiltrated areas—which is everywhere, apparently.
+    
+    The microbiome is maybe, in some way-too-theoretical way, a way of seeing the body as an open complex system with precariously maintained balance. That’s what the complex systems theorists were talking about back when I was writing about flexible bodies—a complex system can be in homeostasis, but only briefly. It is always susceptible to tipping over into a completely different form of control from somewhere else, or into disarray, into breakdown.
+    
+    On the other hand, on the theme of disposable people, not everybody gets to have such a cool, flexible, connected, open-systems body. Some people are not worthy, not fitting—and that idea has now intensified. Perhaps it’s backlash against having had an African American president, or against feminism—all the liberal lines of development. Perhaps it is some other kind of opening that has allowed fears along quite ancient lines to reemerge in the present about race, territory, nationality, and sexuality. I think most of us are completely flabbergasted. We thought this was in the past, and instead, here it is, alive and well.
+    
+    It is slightly interesting to me that Trump, as the epitome of all this, in addition to his boundary-maintaining activities—the walls, the tariff wars, and the rest—is also germophobic! This is complete speculation, but it is striking that as the spokesperson for society as a set of social isolates, some of which are pure and some of which ought to be removed, Trump is worried about germs.
+    
+    **AC:** Along these lines of flexibility, I also wondered what you think about more recent economic and social formations like platform capitalism?
+    
+    **EM:** I think anthropology is the perfect discipline to figure this out and to say something informed and unique about platform capitalism—about what this means economically, socially, and in a personal way for many people. My current project on psychology really brushes up against some of the things I would think are enabling or making platform capitalism possible, like the incredible harvesting of information that’s going on. There are deep connections between that information and the discipline of psychology and its ability to test people in ways where they don’t realize what they are really contributing to. With online workplaces like Amazon Turk, algorithms, heightened effectiveness in calculative technologies—all that seems, to me, a bundle that is going to be of increasing urgency for us to contend with and understand. As we all know from recent news, this is being used to directly influence elections all over the world—it is like a revisiting of the old colonial empires in disguise.
+    
+    When Christopher Wylie, the Cambridge Analytica whistleblower, told the British Parliament that they achieved what they call a conversion rate of 5 to 7 percent in the Brexit vote, my hair stood on end. That doesn’t mean that 5 to 7 percent of people changed their vote; it means that 5 to 7 percent went beyond clicking on an ad and either donated money or went to a meeting or joined an organization. I have so many questions: Is this development compatible with democracy? Is this the apotheosis of abstraction—that every individual, every person can be divided up into different bits of information?
+    
+    We are freely and willingly participating in what are basically psychological tests where someone else is asking the question. It is connected to the constant demand for feedback. Everything you purchase—how did you like it? Every service phone call—how did that go? They are always asking questions that we are supposed to answer but we are not allowed or are rarely given the opportunity to ask questions of them. I think anthropology is about asking the questions ourselves. That’s what our field is: we ask questions.
+    
+    **AC:** It seems like anthropologists have increasingly become interested not only in asking questions about these kinds of pressing social problems, but also in finding ways to share our findings with audiences beyond our immediate colleagues. You have worked for a long time to find ways to make anthropology relevant to the public, like with *Anthropology Now*. Why do you think this is important?
+    
+    **EM:** To ensure funding from the public coffers, we need to be known as a field for what we do and appreciated for what we do. We need to somehow create what we do as having social value, and we haven’t succeeded in that in recent decades. You know that very common story that you go to the dentist and you say that you are an anthropologist and they think that you are an archaeologist or a paleontologist, so the cultural part doesn’t get through in the public awareness of what this field is.
+    
+    The problem is that in a world in which the “objective” sciences use quantitative methods, how do you get across the value of a discipline like ours that uses qualitative methods and that does very slow, long research which is expensive? Why would we support that if we could just go in with, I don’t know, a DNA test or survey questions?
+    
+    The idea of *Anthropology Now* was to encourage and find ways for anthropologists to learn to write for a general audience, and then to publish things that were written accessibly but weren’t simplified. Our goal was to write things that were understandable by any member of the reading public but that keep that analytical twist or unexpected finding that ethnographies usually produce, and then to also use all kinds of genres like photo essays and cartoons to try and do this.
+    
+    It’s been a long slog, it has taken a lot of time from many people. But *Anthropology Now* was bought by Routledge and Taylor & Francis and is now part of their social science package. Libraries all over the world subscribe, and we’re in it, and so it is not just us all by ourselves fighting for subscriptions. We are just automatically available to thousands and thousands of libraries, so that feels good.
+    
+    **AC:** Do you have any final thoughts about “The End of the Body?” after twenty-five years?
+    
+    **EM:** I would just reiterate how important the AES has been for so many people, including me, and the importance of the journal. I think that AES and *American Ethnologist* have been immeasurably great for the field by providing a safe harbor and a conviction that long-term slow fieldwork is a unique method that will yield insights that can’t be gotten any other way.
+  _fieldset: bodytext
+- 
+  _fieldset: divider
+- 
+  text: |
+    1. Martin, Emily. 1992. “The End of the Body?” *American Ethnologist* 19 no. 1 (February): 121–40.
+    2. Martin, Emily. 1994. *Flexible Bodies: The Role of Immunity in American Culture from the Days of Polio to the Age of AIDS.* Boston: Beacon Press.
+    3. Martin, Emily. 1987. *The Woman in the Body.* Boston: Beacon Press.
+    4. Arney, William Ray. 1991. *Experts in the Age of Systems.* Albuquerque: University of New Mexico Press.
+    5. Rhodes, Richard. 1986. *The Making of the Atomic Bomb.* New York: Simon & Schuster.
+    6. Harvey, David. 1989. *The Condition of Postmodernity: An Enquiry into the Origins of Cultural Change.* Oxford, UK; Cambridge, MA: Blackwell.
+    7. Martin, Emily. 1992. “The End of the Body?,” American Ethnologist 19, no. 1, 126.
+  _fieldset: bodytext
+- 
+  text: |
+    **Cite as**
+    Cool, Alison. 2018. "AE Interviews Emily Martin: The 25th Anniversary of "The End of the Body"." American Ethnologist, June 10, 2018, http://americanethnologist.org/features/interviews/ae-interviews-emily-martin.
+  _fieldset: bodytext

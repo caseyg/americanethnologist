@@ -1,0 +1,29 @@
+Title: AE author Jean Dennison wins prize from the Native American and Indigenous Studies Association (NAISA)
+
+----
+
+Subtitle: 
+
+----
+
+Author: 
+
+----
+
+Date: 2018-07-18
+
+----
+
+Featuredimage: 
+
+----
+
+Tags: 
+
+----
+
+Builder: 
+
+- 
+  text: "Congratulations to *AE* author Jean Dennison (U Washington) whose 2017 *AE* essay won the 2017 prize for “Most Thought-Provoking Article in Native American and Indigenous Studies” from the (link: https://www.naisa.org text: Native American and Indigenous Studies Association) (NAISA). The essay, “Entangled Sovereignties: The Osage Nation's Interconnections with Governmental and Corporate Authorities,” was published in *AE*, (link: http://americanethnologist.org/read/journal/volume-44-issue-4-november-2017/entangled-sovereignties text: Volume 44, Issue 4) (November 2017).  The prize was announced at the NAISA conference in Los Angeles in May."
+  _fieldset: bodytext

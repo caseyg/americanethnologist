@@ -1,0 +1,30 @@
+Title: Research Articles
+
+----
+
+Articles: 
+
+- 
+  article: >
+    read/journal/volume-45-issue-3-august-2018/farming-out-of-place
+- 
+  article: >
+    read/journal/volume-45-issue-3-august-2018/commensuration-performativity-and-the-reform-of-statistics-in-turkey
+- 
+  article: >
+    read/journal/volume-45-issue-3-august-2018/immersive-invisibility-in-the-settlercolonial-city
+- 
+  article: >
+    read/journal/volume-45-issue-3-august-2018/the-magic-of-guns
+- 
+  article: >
+    read/journal/volume-45-issue-3-august-2018/refusal-as-political-practice
+- 
+  article: >
+    read/journal/volume-45-issue-3-august-2018/dancing-the-word
+- 
+  article: >
+    read/journal/volume-45-issue-3-august-2018/contesting-love-through-commodification
+- 
+  article: >
+    read/journal/volume-45-issue-3-august-2018/learning-to-feel-at-home-in-the-anthropocene

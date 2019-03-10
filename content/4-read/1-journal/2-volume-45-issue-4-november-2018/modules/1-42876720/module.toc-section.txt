@@ -1,0 +1,30 @@
+Title: Research Articles
+
+----
+
+Articles: 
+
+- 
+  article: >
+    read/journal/volume-45-issue-4-november-2018/contractual-dependencies-disability-and-the-bureaucracy-of-begging-in-kinshasa-democratic-republic-of-congo
+- 
+  article: >
+    read/journal/volume-45-issue-4-november-2018/west-african-strangers-and-the-politics-of-inhumanity-in-angola
+- 
+  article: >
+    read/journal/volume-45-issue-4-november-2018/to-make-one-s-name-famous
+- 
+  article: >
+    read/journal/volume-45-issue-4-november-2018/the-farming-of-trust
+- 
+  article: >
+    read/journal/volume-45-issue-4-november-2018/toward-a-life-with-dignity
+- 
+  article: >
+    read/journal/volume-45-issue-4-november-2018/turbulent-dislocations-in-central-australia
+- 
+  article: >
+    read/journal/volume-45-issue-4-november-2018/imperial-mimesis
+- 
+  article: >
+    read/journal/volume-45-issue-4-november-2018/citizens-united-citizens-divided

@@ -1,0 +1,88 @@
+Title: Time of Crisis:
+
+----
+
+Subtitle: Permanence as Orientation
+
+----
+
+Author: Daniel M. Knight
+
+----
+
+Date: 2019-03-08
+
+----
+
+Featuredimage: snapshotofgreece.png
+
+----
+
+Tags: 
+
+----
+
+Builder: 
+
+- 
+  text: >
+    “I fear the future,” Christina tells
+    me as we walk through the bustling
+    streets of the Monday market in late
+    2017. “Years ago, I could not wait to
+    escape this crisis, the pressures of new
+    taxes, the anxiety of constantly pending
+    unemployment, the crazy political talk
+    that surrounds us every day. But now we
+    have all learned to cope.” A
+    self-employed 38-year-old mother of two,
+    Christina echoes the views of an
+    increasing majority of my research
+    participants in the central Greek town
+    of Trikala when she states that people
+    have become accustomed to living in a
+    Time of Crisis.
+  _fieldset: bodytext
+- 
+  image: snapshotofgreece.png
+  _fieldset: image
+- 
+  text: |
+    For Greek youth, a Time of Crisis is all they have known. The crisis generation have been raised in a world where the vernacular is austerity, memoranda, Troika; the key affects being suppression, nausea, disenchantment, and more recently apathy and exhaustion toward the future. In conversation with Christina in 2014 she mentioned how she had “given up” fighting the economic crisis that was infiltrating every aspect of her daily life. For her, and many others, it was a choice between either accepting the status quo or, in her words, “going mad.” She says that the crisis is permanent, “singular” and “the Greek people, have accepted that … We have adapted and learned to survive.” Poignantly, Christina insists that she and her friends are now “comfortable” with crisis, that they “know how to navigate” the suffocating consequences of austerity enforced by their “occupiers” that have “suppressed” them for so long. Talk of a post-crisis future, Christina adds, “only makes people more anxious to the point of physically vomiting with the fear of the unknown.”
+    
+    Christina’s narrative represents how people are trapped in a permanent present with an increasing inability to project imaginations for potential futures. A Time of Crisis has bred an uncomfortable comfort with the present and a fear of what lies over the futural threshold. There is public acknowledgment that this crisis is not a rupture in the normal progression toward late-capitalist modernity, but rather a chronic state of existence. The future is understood as stasis, as more of the same, there is no alternative future punctuating the current status quo. The permanence of a Time of Crisis in Greece has fostered a form of Stockholm Syndrome where people have become accustomed to living under the conditions imposed by their captors – here the so-called Troika of the European Commission, European Central Bank, and International Monetary Fund. As people express increasing levels of comfort in living in crisis, fearing emergence, and justifying their suffering, a Time of Crisis should be analyzed as its own vernacular timespace, an epochal way of thinking that identifies certain affective structures, characteristics, and teleologies. The future is empty, leading people to embrace the temporal rhythms and orientations of a Time of Crisis.
+  _fieldset: bodytext
+- 
+  image: anopenfire.png
+  _fieldset: image
+- 
+  text: |
+    **Permanence, Stasis, Repetition**
+    In Greece the Time of Crisis has become permanent and the affective structure of the epoch is comfort and coping rather than orientations with futural momentum such as hope or potentiality. Paralysis and stasis mark the temporal rhythm and speed, a spin-cycle of repetition and lost trajectories induce feelings of “temporal vertigo” (Knight 2016). As futural orientation, the epochal paralysis described by my informants is at odds with the momentum associated with hope, for instance. Hope is a form of futural momentum, vehemently pressing into the future when people imagine how potentialities can be actualized (Bryant and Knight 2019). Whereas hope provides momentum toward an indeterminate *something*, toward the actuation of aspiration, the Time of Crisis is defined by stasis and stuckness, experienced as an elongated period that structures an enduring way of life, to the extent that promises of emergence induce such anxiety that people defend their hardship – and lack of future – as justified and somehow deserved.
+    
+    Once considered in epochal terms, permanence becomes a key feature of the timespace of crisis. The past and the future pale in significance to the event itself, an uncanny present in Rebecca Bryant’s (2016) terms. The future is more dangerous than the now familiar timespace of crisis that somewhat paradoxically offers a place of security in the “known” world. Learning to live with drastically decreased household income, policy attacks on healthcare, energy, and property rights, and yet slowly being able to justify the actions of the oppressors is central to the analysis of the affective structure of a Time of Crisis being likened to Stockholm Syndrome.
+  _fieldset: bodytext
+- 
+  image: everything5euros.png
+  _fieldset: image
+- 
+  text: |
+    The future is no longer a desired destination. As one informant puts it, “the future doesn’t offer me anything. Even with all this suffering around me, today I have found my own safe place (in the world).” He says that he is “disinterested in the future” and that “the world is stuck in crisis and I just have to get on with it, stop moaning, and accept it … all we have is here and now.” The wish to continue in a Time of Crisis rather than invest in imaginations of an emergent post-crisis future is based on nearly a decade of toil. This ethos is captured expertly by a precariously employed 40-year-old, Kostas, when he says, “When you realise there is no end to crisis, that you can’t trust the promises of anybody, you seek sanctuary in that which you know. I know how to live in the crisis.” Providing for a family of four during the austerity years, Kostas states that only he can “defend” the family from further harm inflicted by “those who have big ideas about the future of Greece, but we know that they don’t care any more than our current occupiers.”
+    
+    **Stockholm Syndrome: Affinity with Crisis**
+    Permanence as orientation sees the future turn back in on itself. The seemingly illogical preference to remain in a Time of Crisis, with associated social suffering, decreased living standards, stresses, and anxieties, is what I suggest could be termed Stockholm Syndrome and is part of the affective structure of the epoch. People have accepted the permanence of the timespace and have managed to find a degree of self-determination. After years of struggle and protest they find a sense of security in the familiar. Stockholm Syndrome can be utilized as a vernacular resource to help unpack the affective structure of a Time of Crisis. The perspectives described by my informants – paralysis, justification for their punishment, security in entrapment – echo the symptoms of people involved in an intimate relationship with their captors, where survival is of foremost concern. Stockholm Syndrome is a useful tool in analyzing everyday explanations of the crisis and desires for the future, furthering an attempt to populate the affects and orientations of a Time of Crisis that is marked by stasis, permanence, and repetition.
+    
+    **Acknowledgments**
+    For intellectual inspiration I am most grateful to Rebecca Bryant. Alice Elliot encouraged me to think about permanence as orientation, while my ongoing work on temporality has immensely benefited from conversations with Debbora Battaglia, Charles Stewart, and David Valentine. The Leverhulme Trust, the Ladislav Holy Memorial Trust, and the Centre for Cosmopolitan Studies at the University of St Andrews have funded parts of this research.
+    
+    **References**
+    Bryant, Rebecca. 2016. “On Critical Times: Return, Repetition, and the Uncanny Present.” *History and Anthropology* 27 (1): 19–31.
+    
+    Bryant, Rebecca. and Daniel. M. Knight. 2019. *The Anthropology of the Future.* Cambridge: Cambridge University Press.
+    
+    Knight, Daniel. M. 2016. “Temporal Vertigo and Time Vortices on Greece’s Central Plain.” *Cambridge Journal of Anthropology* 34 (1): 32–44.
+    
+    **Cite as:** Knight, Daniel M. 2019. “Time of Crisis: Permanence as Orientation.” In “Orientations to the Future,” Rebecca Bryant and Daniel M. Knight, eds., *American Ethnologist* website, March 8. http://americanethnologist.org/features/collections/orientations-to-the-future/time-of-crisis-permanence-as-orientation.
+    
+    **Daniel M. Knight** is a Lecturer and Leverhulme Fellow in the Department of Social Anthropology at the University of St Andrews, Scotland, where he is also Director of the Centre for Cosmopolitan Studies. He is author of *History, Time, and Economic Crisis in Central Greece* (2015) and co-author of *The Anthropology of the Future* (2019, with Rebecca Bryant). He has edited collections on *Ethnographies of Austerity: Temporality, Crisis and Affect in Southern Europe* (2016, with Charles Stewart) and *Alternatives to Austerity* (2017, with Laura Bear). Daniel is co-editor of *History and Anthropology* journal and has *American Ethnologist* articles on irony and crisis (2015) and cosmopolitanism and Brexit (2017).
+  _fieldset: bodytext

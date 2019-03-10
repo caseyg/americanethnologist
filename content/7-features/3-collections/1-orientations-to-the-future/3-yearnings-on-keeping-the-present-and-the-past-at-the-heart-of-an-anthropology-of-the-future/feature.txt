@@ -1,0 +1,72 @@
+Title: Yearnings:
+
+----
+
+Subtitle: On Keeping the Present and the Past at the Heart of an Anthropology of the Future
+
+----
+
+Author: Stef Jansen
+
+----
+
+Date: 2019-03-08
+
+----
+
+Featuredimage: hopespast.png
+
+----
+
+Tags: 
+
+----
+
+Builder: 
+
+- 
+  text: |
+    In *Sevdalinka*, a singer from Serbia evokes estrangement from the present and apprehension about the future in postwar Bosnia and Herzegovina (BiH). [1] This song also contains a rare passage where hesitant but persistent local doubts about prevalent recollections of the past are verbalized: “Were they really better days,” the protagonist asks, “or were we better people?”
+    
+    A decade and a half after the signing of the Dayton Agreement that ended the 1992-1995 war, my ethnographic study in BiH's capital Sarajevo, did not try to establish the veracity of memories of prewar lives (Jansen 2015). But they featured prominently in people's evocations of what they called “normal lives,” a figure that stood for peaceful, secure, comfortable, relaxed, and predictably improving trajectories gridded in a state-ensured system. “Normal lives” were fondly remembered as what had been. Their re-activation—perhaps in some new avatar—was also ardently desired as what ought to be. But in the vernacular timespace that I call the Dayton Meantime—suspended between a war that was not quite considered over and EU accession that had not quite been embarked upon—they were felt to be exasperatingly out of reach.
+    
+    Aiming to contribute to a then incipient anthropology of the future, I initially conceptualized these issues in terms of hope, which I operationalized ethnographically as a positively charged, disappointable future-oriented disposition or affect (Jansen 2016). Posing questions in that register helped me to crystallize my insights, but, ultimately, it would be incorrect to say that my interlocutors hoped for “normal lives.” Instead, we could say, they longed to hope for them. Proposing a heuristic distinction to develop an operational method for an anthropology of the future, I decided to refer to this orientation as “yearning.”
+    
+    As a disposition or affect, yearning has much in common with hope. But the term emphasizes duration: yearning is more persistent, continuous, prolonged. It also foregrounds disappointability: compared to hope, the object of yearning is seen to be spatially and temporally further out of reach. While others consider ambiguity central to the promise of the study of hope for anthropology (e.g. Miyazaki 2004), this characteristic is present in enhanced form in yearning. Indeed, ambiguity was key to Sarajevan yearnings for “normal lives.” Their leaps ahead of the present encapsulated journeys back into the past. Playing on tensions between the “is,” the “ought,” and the “was” (Kelly 2008), they reached both backward into previous lives and forward into future lives: they evoked an object that was both irretrievably lost and indefinitely deferred.
+  _fieldset: bodytext
+- 
+  image: hopespast.png
+  _fieldset: image
+- 
+  text: "Such yearnings, I argue, make up an important affect in the vernacular timespace of contemporary BiH. While some interlocutors did speak of *čežnja* (yearning), my choice of this term does not reflect prevalence in local speech. Still, it is worth pointing out that yearning resonates with the emic concept of *sevdah*. Like *dor* in Romanian, *hüzün* in Turkish, *Sehnsucht* in German, *saudade* in Portuguese, and so on, *sevdah* is considered to be the untranslatable name for a unique component of Bosnian cultural intimacy. More amenable to artistic evocation than to signification in disenchanting social scientific language, it denotes an affect associated mainly with certain forms of Bosnian music and people's experience of it. Derived from the Persian for black bile (like melancholia and *saudade*) *sevdah* is considered to be a profoundly ambiguous affect. Incorporating love, loss, longing, and unattainability, it reaches backward and forward, it is painful and ecstatic. Fulfillment always remains deferred. In *sevdah* one does not hope for love, one yearns for it. And, importantly, *sevdah* is beyond straightforward willful human intervention. It inhabits you. Or better: it happens to you. When “it hits you,” it is said, you “fall into it.”"
+  _fieldset: bodytext
+- 
+  image: dobrinjamaindrag.png
+  _fieldset: image
+- 
+  text: "Both tender and ferocious, like *sevdah*, the yearnings for “normal lives” I encountered in Sarajevo were marked by wistfulness. Relentlessly ambiguous, they insisted on entitlement but could not prevent doubt from creeping in. What if, as hinted at in the song with which I opened this text (itself named after *sevdah*), previous “normal lives” weren't really as they were remembered? What if even that which was correctly recalled was too good to be true? And what if the world had irrevocably changed? Such doubts undermined hopes for “normal lives,” but did not seem to decrease yearnings for them."
+  _fieldset: bodytext
+- 
+  image: connectedaspirations.png
+  _fieldset: image
+- 
+  text: |
+    And the song wonders, hesitantly, if it was perhaps people, rather than times, that were better before. This also chimes with my preferred take on the anthropology of the future. Much recent work in this vein foregrounds indeterminacy and seeks to protect it from being dampened by analytical capture in what are considered determinist accounts. The primary goal is then to provoke attentiveness to the possibilities that the very existence of indeterminacy may open up. To me the promise of a focus on orientations lies elsewhere: in the unique added value of our presentist methodology (Ringel 2018). Ethnography relies on intersubjective communication in a particular time and place: it is in people's words and deeds that we can discern their orientations to the future at work. In this approach, the contribution of anthropological attentiveness to orientations lies not in increased knowledge of the future—let's leave that to diviners—but, true to our methodology, in more sophisticated accounts of present forms of life. Detecting indeterminacy may be part of that, but so is historicization, for to grasp the work of such orientations in a here and now, we need to understand factors that shape them, i.e. their determination. This is how I learned about the important affective work done by yearnings for “normal lives” in the BiH Dayton Meantime. In the process, my ethnographic work also made me increasingly critical of wholesale anthropological rejections of linearity and teleology in favor of celebrations of indeterminacy. They may come in multiple forms and without guarantees, but without sensitivity to ends, I believe, there is no feasible program for an anthropology of the future.
+    
+    [1] From the album Devedesete © Djordje Balašević 2000.
+    
+    **References**
+    Jansen, Stef. 2015. *Yearnings in the Meantime: ‘Normal Lives' and the State in a Sarajevo Apartment Complex.* Oxford: Berghahn.
+    
+    Jansen, Stef. 2016. "For a Relational, Historical Ethnography of Hope: Indeterminacy and Determination in the Bosnian and Herzegovinian Meantime." *History & Anthropology* 27 (4): 447–64.
+    
+    Kelly, Tobias. 2008. "The Attractions of Accountancy: Living an Ordinary Life During the Second Palestinian Intifada."* Ethnography* 9 (3): 351–76.
+    
+    Miyazaki, Hirokazu. 2004. *The Method of Hope: Anthropology, Philosophy and Fijian Knowledge*. Palo Alto: Stanford University Press.
+    
+    Ringel, Felix. 2018. *Back to the Postindustrial Future: An Ethnography of Germany's Fastest-Shrinking City*. Oxford: Berghahn.
+    
+    **Cite as:** Jansen, Stef. 2019. “Yearnings: On Keeping the Present and the Past at the Heart of an Anthropology of the Future.” In “Orientations to the Future,” Rebecca Bryant and Daniel M. Knight, eds., *American Ethnologist* website, March 8. http://americanethnologist.org/features/collections/orientations-to-the-future/yearnings-on-keeping-the-present-and-the-past-at-the-heart-of-an-anthropology-of-the-future.
+    
+    **Stef Jansen** is a Professor of Social Anthropology at the University of Manchester (UK) whose work aims to contribute to the development of a critical anthropology of the making of home and hope with regard to place, nation and postsocialist state transformations, based on long term ethnographic research in the post-Yugoslav states of Bosnia and Herzegovina, Serbia and Croatia.
+  _fieldset: bodytext

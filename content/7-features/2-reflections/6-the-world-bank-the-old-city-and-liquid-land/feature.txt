@@ -1,0 +1,84 @@
+Title: The World Bank, the Old City, and Liquid Land
+
+----
+
+Subtitle: 
+
+----
+
+Author: Tariq Rahman
+
+----
+
+Date: 2019-03-06
+
+----
+
+Featuredimage: screenshot-2019-03-06-at-8.46.33-pm.png
+
+----
+
+Tags: 
+
+----
+
+Builder: 
+
+- 
+  text: >
+    AES is pleased to present fieldwork
+    essays from the winners of our 2018
+    Small Grants Competition.
+  _fieldset: leadtext
+- 
+  image: screenshot-2019-03-06-at-8.46.33-pm.png
+  _fieldset: image
+- 
+  text: |
+    Lahore is an ancient city. Lahore is a megacity. Though I can think of nothing more cliché to say about an Asian city than describing it as a “land of contrasts,” I do find the tension between Lahore’s history and present to be a productive one to think with when it comes to the city’s land records. In this brief blog post, I consider a state-led, World Bank-inspired effort to modernize Lahore’s land revenue system. During two months of preliminary fieldwork for my dissertation project made possible by the American Ethnological Society’s Graduate Student Research Grant, I conducted participant-observation and semi-structured interviews in what is generally called “old city” Lahore. What I learned was that despite tens of millions of dollars, years of effort, and an assortment of global experts, land in the old city had stubbornly refused its invitation to the 21st century, instead clinging to Lahore’s tumultuous, convoluted, and still very present past. Why has the state’s project failed? What might this have to do with the qualities of land itself?
+    
+    In 2007, the World Bank launched the Land Records Management and Information Systems
+    (LRMIS) project, a 10-year, $115 million effort to digitize rural land records across Pakistan’s Punjab province. Recalling economist Hernando de Soto’s view of land in the Global South as “dead capital” whose awakening depended upon the establishment of modern property rights (2000), at the heart of LRMIS was the belief that empowerment in rural Punjab hinged upon making land liquid, or an asset that could be quickly bought and sold. For the World Bank, whatever historical, social, or spiritual relationships to land that existed were worse than unimportant—they were hindrances. Land was an asset to be leveraged against future profit (World Bank 2018). Rural Punjabis were stockbrokers who simply hadn’t yet been given access to the market.
+    
+    The centerpiece of the LRMIS project was the removal of the *patwari*, or the traditional land revenue official. *Patwaris* maintain manually drafted spreadsheets and maps pertaining to landownership in a given area, records that often date to the 19th century. In order for land to be bought and sold, *patwaris* have to issue sellers a *fard*, or an official land record copy reflecting the rights of ownership of land. In the eyes of the World Bank, *patwaris* played a traditional, but ultimately obstructive human role. World Bank reports are quite hostile to *patwaris*, describing them as “predatory middlemen” and, most damningly, accusing them of “reducing the liquidity of family assets composed mostly or wholly of land” (World Bank 2017b). For the World Bank, liquidity would naturally follow from the replacement of the *patwari* with a digital system, as the value of long-held but inaccessible local assets would finally be unlocked. Under the decade-long LRMIS project, 10 million pages of records were scanned, centuries-old maps were converted into GIS data, and 144 new computerized land record centers were opened across the Punjab.
+    
+    The World Bank hails LRMIS as a resounding success. Its website champions the project as an example to developing countries in Africa, Latin America, South Asia, and Southeast Asia, and in 2017 the organization held an international conference in Bangkok, Thailand where government officials and development experts gathered to learn from the LRMIS model (World Bank 2016). And yet, the organization admits that it was unable to completely eliminate the role of *patwaris*. As one article explains:
+    
+    >The software and the IT system, however, were unable to resolve the land records conundrum
+    on their own unless a sustained and a clear social strategy to include and promote the participation of the ancestral Patwari system within the new and sophisticated computerized system was set in place. The incentives to foster the involvement and participation of the Patwaris to clean and update the records was and remains crucial. They continue to play a key role within the overall governance of the land records system, but in a regularized form with checks and balances. (World Bank 2017a)
+    
+    Though the World Bank project ended in 2017, in 2016 the Government of Punjab launched an effort to digitize land records in old city Lahore as an extension of the LRMIS project. Through conversations with local *patwaris*, I learned more about the so-called “land records conundrum” that plagued digitization efforts. As with LRMIS, *patwari* records in the old city had been scanned and made available at newly built land record centers. However, the system was encumbered by the countless number of discrepancies in *patwari* records, which stem from shifting property regimes from the colonial through the postcolonial era, undocumented transfers after partition, and generations of inheritance and subdivision, issues that are magnified by the old city’s dense residential settlements. Tracing the rightful ownership of land is typically a time-consuming process and requires visiting properties, consulting with neighbors, and tracing family lineages. *Patwaris* told me that though their records had been scanned, their own role had not changed, as they were still needed to resolve the discrepancies in the now digitized record. In other words, land in old city Lahore was both physically and socially embedded in relations that exceeded digital representation.
+    
+    Though digitization was intended to increase the liquidity of land, at present the process appears to have had the opposite effect. Rather than replacing *patwaris*, digitization has seemingly added yet another layer to the already tortuous process of buying and selling land in old city Lahore. One frustrated broker explained to me that whereas previously he only had to pay a bribe to the *patwari*, now he has to also pay one to the *computer wallah* (computer guy). With the global rise of transparency discourses and e-governance, anthropologists have warned that digitization threatens to render obsolete the informal relations through which powerful institutions have historically been accessed (Hetherington 2012; Hull 2012). Such cautionary interpretations, however, risk reproducing digitization’s narrative of itself as the wedge between a cut-and-dry formal computational world and the vagaries of human life (Smith 1994). In old city Lahore, the reliance of the state’s new database on *patwaris*, papers, and sociality serves as an important reminder that even digital space is always also social and material (Latour 2005). Indeed, scholars in anthropology as well as other disciplines have powerfully argued against any notion of autonomous technical systems (French 2014; Irani 2015; Dourish 2017; Gray and Suri 2017; Seaver 2018). Rather than assuming digital hegemony, the anthropology of 21st century bureaucracies must contend with how digitization is producing new configurations between the state, citizens, and records.
+    
+    ####References
+    
+    Dourish, Paul. 2017. *The Stuff of Bits: An Essay on the Materialities of Information.* Cambridge: MIT Press.
+    
+    French, Martin. 2014. “Gaps in the Gaze: Informatic Practice and the Work of Public Health Surveillance.” *Surveillance & Society* 12 (2): 226–42. https://doi.org/10.24908/ss.v12i2.4750.
+    
+    Gray, Mary L., and Siddharth Suri. 2017. “The Humans Working Behind the AI Curtain.” *Harvard Business Review*, January 9, 2017. https://hbr.org/2017/01/the-humans-working-behind-the-ai-curtain.
+    
+    Hetherington, Kregg. 2012. “Agency, Scale, and the Ethnography of Transparency.” *PoLAR: Political and Legal Anthropology Review* 35 (2): 242–47. https://doi.org/10.1111/j.1555-2934.2012.01201.x.
+    
+    Hull, Matthew S. 2012. *Government of Paper: The Materiality of Bureaucracy in Urban Pakistan.* Berkeley: University of California Press.
+    
+    Irani, Lilly. 2015. “Justice for ‘Data Janitors.’” Public Books (blog). January 15, 2015. https://www.publicbooks.org/justice-for-data-janitors/.
+    
+    Latour, Bruno. 2007. *Reassembling the Social: An Introduction to Actor-Network-Theory.* Oxford: Oxford University Press.
+    
+    Seaver, Nick. 2018. “What Should an Anthropology of Algorithms Do?” *Cultural Anthropology* 33 (3): 375–85. https://doi.org/10.14506/ca33.3.04.
+    
+    Smith, Brian Cantwell. 1994. “Coming Apart at the Seams: The Role of Computation in a Successor Metaphysics.” Paper read at Intersection of the Real and the Virtual, June 2-4, at Stanford University.
+    
+    Soto, Hernando De. 2000. *The Mystery of Capital: Why Capitalism Triumphs in the West and Fails Everywhere Else.* New York, NY: Basic Books.
+    
+    World Bank. 2016. “In Pakistan and Beyond, Land Records Get a Digital Upgrade.” http://www.worldbank.org/en/news/feature/2017/09/20/in-pakistan-and-beyond-land-records-get-a-digital-upgrade.
+    ———. 2017a. “Land Records Go Digital in Punjab, Pakistan.” http://blogs.worldbank.org/endpovertyinsouthasia/land-records-go-digital-punjab-pakistan.
+    ———. 2017b. “Punjab Land Records Management and Information Systems Project.” ICR3719. http://documents.worldbank.org/curated/en/632241498842804246/Pakistan-Land-Records-Management-and-Information-Systems-Project.
+    ———. 2018. “Land.” http://www.worldbank.org/en/topic/land.
+    
+    **Cite as:** Rahman, Tariq. 2019. “The World Bank, the Old City, and Liquid Land.” American Ethnologist website, March 6, 2019. http://americanethnologist.org/features/reflections/the-world-bank-the-old-city-and-liquid-land.
+    
+    *Tariq Rahman is a PhD student in anthropology at the University of California, Irvine. He researches the financialization of land in Lahore, Pakistan, conducting fieldwork with developers, investors, brokers, bureaucrats, and residents to understand how the social and material qualities of land entangle with processes of financialization in the city.*
+  _fieldset: bodytext

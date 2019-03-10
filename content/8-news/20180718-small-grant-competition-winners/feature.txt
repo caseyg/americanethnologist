@@ -1,0 +1,140 @@
+Title: AES announces 2018 Small Grant Competition winners
+
+----
+
+Subtitle: 
+
+----
+
+Author: 
+
+----
+
+Date: 2018-07-18
+
+----
+
+Featuredimage: alia-ayman-photo-edited.jpg
+
+----
+
+Tags: small grant competition,winners,2018 small grant competition
+
+----
+
+Builder: 
+
+- 
+  text: >
+    The American Ethnological Society is
+    pleased to announce the winners of the
+    2018 AES Graduate Student Research
+    Grant.
+  _fieldset: leadtext
+- 
+  text: |
+    The competition, in its inaugural year, received almost 200 proposals, and the committee was challenged to select from a pool of very worthy projects. The award of $2500 is to fund dissertation research. Grantees will be encouraged to write a brief, blog-style report on project findings for the AES website, and an additional $500 will be available to grantees who present their work at the 2019 AES spring meeting: March 14 to 16, 2019 at Washington University in St. Louis, co-hosted by the Association of Black Anthropologists (ABA) and the Association of Latino and Latina Anthropologists (ALLA).
+    
+    AES plans to run the competition again in 2019.
+    
+    The committee awarded grants to the following ten graduate students:
+  _fieldset: bodytext
+- 
+  image: alia-ayman-photo-edited.jpg
+  _fieldset: image
+- 
+  text: |
+    ####Alia Ayman
+    #####(New York University)
+    
+    Ayman’s research examines the history of Egyptian documentary films commissioned by the state after the 1952 revolution. The research explores the politics and poetics of representing cultural difference through examining a vast corpus of short films, newsreels and non-theatrical films that were integral to the project of post-colonial nation building led by Gamal Abd El Nasser.
+  _fieldset: bodytext
+- 
+  image: abrams_hs-edited-1.jpg
+  _fieldset: image
+- 
+  text: |
+    ####Nicholas Abrams
+    #####(University of Toronto)
+    
+    Abrams’s research concerns translations of African witchcraft beliefs into non-Black church communities in Durban (South Africa) as a lens onto anxieties about decolonization, post-apartheid biopolitics, and recent shifts in the discourses surrounding race, religion and medicine.
+  _fieldset: bodytext
+- 
+  image: benitez-ernesto-edited.jpg
+  _fieldset: image
+- 
+  text: |
+    ####Ernesto J. Benítez
+    #####(Florida International University)
+    
+    Benítez’s research analyzes the impact that participation in ecotourism, and particularly increasing opportunities for intimate encounters with foreign women, is having on how young Kichwa tour guides in the Ecuadorian Amazon present themselves as indigenous individuals and as men. The research will illuminate notions that drive (mostly white) female tourists' desires for short-term sexual intimacy; the ways in which indigenous men – particularly tour guides – have responded to these new economic and intimate opportunities; and the ways these encounters are shifting understandings of indigenous masculinity and sexuality among the broader population.
+  _fieldset: bodytext
+- 
+  image: cabrera-gabrielle-edited.jpg
+  _fieldset: image
+- 
+  text: |
+    ####Gabrielle Cabrera
+    #####(Rutgers University)
+    Cabrera's research examines the mobilization of diversity discourse in university settings, especially in regards to undocumented students. She is interested in understanding the ways in which diversity initiatives and bureaucratic procedures define "undocumentedness" and how the uneven structures of universities allow undocumented students to make political claims.
+  _fieldset: bodytext
+- 
+  image: demaio-matthew-photograph-edited.jpg
+  _fieldset: image
+- 
+  text: |
+    ####Matthew DeMaio
+    #####(The George Washington University)
+    DeMaio’s research investigates the role of place and humanitarian practice in the relationship between Palestinian refugees who fled from Syria to Lebanon and their co-nationals from Lebanon in the Burj Barajneh Palestinian refugee camp in Beirut.
+  _fieldset: bodytext
+- 
+  image: ida-hoequist-edited.jpg
+  _fieldset: image
+- 
+  text: |
+    ####Ida Hoequist
+    #####(University of Virginia)
+    
+    Hoequist’s project is a multimodal, holistic first step to documenting and describing the unrecorded, typologically unusual speech surrogate system used by speakers of the Abu’ Arapesh language in Papua New Guinea.
+  _fieldset: bodytext
+- 
+  image: >
+    ndiaye-gana-img_20171020_215201284-edited.jpg
+  _fieldset: image
+- 
+  text: |
+    ####Gana Ndiaye
+    #####(Boston University)
+    
+    Ndiaye’s research focuses on the social and intellectual activism of Senegalese Muslim migrants in Brazil, specifically the followers of the Muridiyya Sufi order. It examines the ways in which Senegalese migrants showcase their Muslim identities, expand meanings of “Africanness,” and contribute to a revival of Black Muslim heritage in Brazil.
+  _fieldset: bodytext
+- 
+  image: lieberman-headshot-edited.png
+  _fieldset: image
+- 
+  text: |
+    ####Max Lieberman
+    #####(University of Iowa)
+    
+    Lieberman's research focuses on relationships between humans and wild bison in the United States, with a specific emphasis on the bison herds of the Yellowstone ecosystem.
+  _fieldset: bodytext
+- 
+  image: rahman-tariq-headshot-edited.jpg
+  _fieldset: image
+- 
+  text: |
+    ####Tariq Rahman
+    #####(University of California, Irvine)
+    
+    Rahman’s research investigates how land acquires financial value in Lahore, Pakistan and the ways in which the financialization of land is transforming space and life in the city.
+  _fieldset: bodytext
+- 
+  image: romagnoli-img_2350-edited.jpg
+  _fieldset: image
+- 
+  text: |
+    ####Bianca Romagnoli
+    #####(University of California, Los Angeles)
+    
+    Romagnoli’s research examines the experiences of Indigenous communities living in northern Canada who join the Canadian Rangers as part of the larger military mission to establish Canadian sovereignty in the arctic. As political and economic interests shift, so do the lives of the indigenous communities in the area. Romagnoli will analyze how political and personal stakes in indigenous sovereignty are juxtaposed to those of the Canadian state.
+  _fieldset: bodytext

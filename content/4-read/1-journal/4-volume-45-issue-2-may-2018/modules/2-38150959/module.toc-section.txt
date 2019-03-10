@@ -1,0 +1,81 @@
+Title: Book Reviews
+
+----
+
+Articles: 
+
+- 
+  article: >
+    read/journal/volume-45-issue-2-may-2018/lions-of-the-north-sounds-of-the-new-nordic-radical-nationalism
+- 
+  article: >
+    read/journal/volume-45-issue-2-may-2018/african-futures
+- 
+  article: >
+    read/journal/volume-45-issue-2-may-2018/ebola
+- 
+  article: >
+    read/journal/volume-45-issue-2-may-2018/the-mask-and-the-flag
+- 
+  article: >
+    read/journal/volume-45-issue-2-may-2018/violent-becomings
+- 
+  article: >
+    read/journal/volume-45-issue-2-may-2018/creating-dialogues
+- 
+  article: >
+    read/journal/volume-45-issue-2-may-2018/forests-are-gold
+- 
+  article: >
+    read/journal/volume-45-issue-2-may-2018/forests-are-gold
+- 
+  article: >
+    read/journal/volume-45-issue-2-may-2018/muslim-cool
+- 
+  article: >
+    read/journal/volume-45-issue-2-may-2018/spatializing-culture
+- 
+  article: >
+    read/journal/volume-45-issue-2-may-2018/living-faithfully-in-an-unjust-world
+- 
+  article: >
+    read/journal/volume-45-issue-2-may-2018/endangered-city
+- 
+  article: >
+    read/journal/volume-45-issue-2-may-2018/hydraulic-city
+- 
+  article: >
+    read/journal/volume-45-issue-2-may-2018/markets-of-sorrow-labors-of-faith
+- 
+  article: >
+    read/journal/volume-45-issue-2-may-2018/from-drag-queens-to-leathermen
+- 
+  article: >
+    read/journal/volume-45-issue-2-may-2018/the-value-of-comparison
+- 
+  article: >
+    read/journal/volume-45-issue-2-may-2018/fertility-holidays
+- 
+  article: >
+    read/journal/volume-45-issue-2-may-2018/unsettling-india
+- 
+  article: >
+    read/journal/volume-45-issue-2-may-2018/the-precarious-diasporas-of-sikh-and-ahmadiyya-generations
+- 
+  article: >
+    read/journal/volume-45-issue-2-may-2018/metabolic-living
+- 
+  article: >
+    read/journal/volume-45-issue-2-may-2018/mixed-messages
+- 
+  article: >
+    read/journal/volume-45-issue-2-may-2018/is-racism-an-environmental-threat
+- 
+  article: >
+    read/journal/volume-45-issue-2-may-2018/bodies-of-truth
+- 
+  article: >
+    read/journal/volume-45-issue-2-may-2018/an-ethnography-of-a-vodu-shrine-in-southern-togo
+- 
+  article: >
+    read/journal/volume-45-issue-2-may-2018/america-s-digital-army

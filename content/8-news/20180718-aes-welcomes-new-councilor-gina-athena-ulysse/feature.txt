@@ -1,0 +1,38 @@
+Title: AES welcomes new councilor Gina Athena Ulysse
+
+----
+
+Subtitle: 
+
+----
+
+Author: 
+
+----
+
+Date: 2018-07-18
+
+----
+
+Featuredimage: 
+
+----
+
+Tags: 
+
+----
+
+Builder: 
+
+- 
+  text: >
+    AES is proud to welcome Gina Athena
+    Ulysse as a new AES Councilor, to serve
+    from 2019-2023.
+  _fieldset: leadtext
+- 
+  text: |
+    Gina, who teaches at Wesleyan U, is a distinguished public anthropologist and performance artist. http://www.wesleyan.edu/academics/faculty/gulysse/profile.html.
+    
+    Shalini Shankar (Northwestern U) will be rotating off the board after organizing and hosting (with SVA) a wonderful spring conference in Philadelphia this past March. Thank you Shalini!
+  _fieldset: bodytext

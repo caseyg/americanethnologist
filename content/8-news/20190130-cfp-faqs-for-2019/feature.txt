@@ -1,0 +1,99 @@
+Title: CFP: AES Small Grants Competition 2019
+
+----
+
+Subtitle: 
+
+----
+
+Author: 
+
+----
+
+Date: 2019-01-30
+
+----
+
+Featuredimage: 
+
+----
+
+Tags: 
+
+----
+
+Builder: 
+
+- 
+  text: >
+    The American Ethnological Society (AES)
+    announces a small grant competition for
+    students who have completed at least one
+    year but not more than two years of
+    graduate study in anthropology or allied
+    fields.
+  _fieldset: leadtext
+- 
+  text: |
+    ##Call for proposals
+    
+    Projects that involve ethnographic field research and/or documentary research are eligible for consideration and may commence as early as June 2019. Exploratory research that is part of a planned dissertation project is encouraged.
+    
+    **Send all application materials by 5:00pm EST on March 18, 2019. Winners will be announced by mid-May.**
+    
+    Please read the instructions and FAQs below before submitting an application or making inquiries about the application process or anything else about the AES small grants program.
+    
+    Applicants must submit all documents except the letter of support in a single Word (not pdf) file, with page breaks after the end of each section and a filename as follows LASTNAME FIRST INITIAL AES GRANTS 2019. The email that accompanies the application file must:
+    
+    (1) Specify the title of the project, which must be short and included in the body of the email;
+    (2) In addition, the email must have “APPLICANT’S LAST NAME + AES Grants Competition” in the subject line.
+    
+    The application should be sent to <aesfieldresearchgrants@gmail.com>.
+    
+    The application file from the applicant (named as indicated above) should include:
+    
+    (1) A statement of no more than two numbered double-spaced 8.5”X11” pages in 12-point font, with one-inch margins. The first page should have a title that fits in one line. The statement must outline the significance of the project, the main research questions, the methods used to analyze the questions, and the potential impact of the project;
+    (2) A list of references cited or bibliography (may be single-spaced, but not more than one page);
+    (3) A curriculum vitae of no more than one page;
+    (4) A budget of up to $2,500, which must indicate if other funding has been obtained or is anticipated (one page maximum).
+    
+    In addition to the above application, the applicant’s faculty advisor should send directly and separately a letter of not more than one page that endorses the project and that certifies that the applicant has completed at least one year and not more than two years of graduate study (or will have completed this prior to initiating the research). AES is not asking for a long letter of recommendation, simply an endorsement and documentation of the years of study the applicant has completed. The advisor’s letter should to be sent to <aesfieldresearchgrants@gmail.com>. It must have a subject line as follows: APPLICANT’S LAST NAME + FACULTY MEMBER’S LAST NAME + LETTER.
+    
+    Grantees will be encouraged to write a brief, blog-style report on project findings for the AES website. An additional $500 will be available to grantees who present their work at the 2020 AES annual meeting. AES strongly encourages applications from graduate students from under-represented groups (African Americans, Asian Americans, Latinx, Native Americans, Pacific Islanders, and people with disabilities).
+  _fieldset: bodytext
+- 
+  text: |
+    ##FAQs
+    ***I’ve never written a research proposal before. Can you provide any guidance?***
+    One of the best short guides is *On the Art of Writing Proposals* by Adam Pzreworski and Frank Salomon. You may download it (link: https://www.ssrc.org/publications/view/7A9CB4F4-815F-DE11-BD80-001CC477EC70/ text: here). Another excellent short guide is Karen Kelsky’s (link: https://theprofessorisin.com/2011/07/05/dr-karens-foolproof-grant-template/ text: “Foolproof Grant Template.”)
+    
+    ***Two double-spaced pages doesn’t seem like much for explaining a research project as complex and sophisticated as mine. What happens if I go a little bit over the limit?***
+    AES runs this competition with a very small selection committee and no support staff. Last year we received almost 200 applications. We need to keep submissions concise. Any proposal that goes over the two-page limit or that otherwise fails to conform to the specifications above will not be considered. An advisor’s letter over one page will also result in the proposal not being considered. It is the applicant’s responsibility to make sure that the advisor understands that.
+    If you have trouble fitting your proposal into two pages, we recommend that you study Revising Prose by Richard Lanham. (link: https://people.umass.edu/curtis/academics/editingtoolbox/Lanham_LardFactor.pdf text: A succinct summary of Lanham’s method is here.) This will help you eliminate extra words and will likely improve your proposal. Do not include epigraphs, tables, maps, lengthy block quotations or other material that might be suitable for a longer text.
+    
+    ***Do I have to be a citizen of the United States or matriculated in a U.S. university to apply for this grant?***
+    No. Applicants may be citizens of any country or stateless persons. They must be studying in a graduate program, but this can be anywhere in the world.
+    
+    ***Does “graduate program” mean “doctoral or PhD program” or does it also include students in master’s degree programs?***
+    Students in master’s programs are eligible to apply.
+    
+    ***I transferred to my current university after one year of study in another graduate program. Does that previous year of study count as part of the two-year cutoff? Or does the clock reset when I start a program at a different university?***
+    All study beyond the undergraduate degree counts as part of the two-year limit, unless the previous study was in a completely different field (e.g., you switch from chemical engineering to anthropology, but not from sociology to anthropology).
+    
+    ***My advisor is used to writing letters of recommendation that are three or more pages long. What’s different about this one?***
+    The one-page advisor’s letter should simply state that the applicant has or will have completed at least one year and not more than two years of graduate study before the project commences. It should also endorse the project and indicate any other funding that the applicant might have for the research.
+    
+    We urge you to impress on your advisor that the deadline is firm and, if possible, to watch your advisor submit the letter. In last year’s competition many advisors failed to submit letters on time or even at all.
+    
+    ***My advisor is very busy, very important, in the hospital, and/or traveling abroad. Is it okay if she/he submits the letter a few days or hours after the deadline?***
+    No. The deadline is absolutely firm. Request a letter from your advisor well in advance of the deadline. AES will not entertain special pleas from colleagues and friends who ask to submit late recommendation letters.
+    
+    ***Will AES consider a grant application from someone who already has another small grant? ***
+    Our preference is to use the AES grants as seed money for graduate student researchers who do not have other funding for their projects. In exceptional cases, where a project has a high budget and a suitable justification for it, we will consider applicants who already have one other small grant from their universities or another source.
+    
+    ***My project is ethnographic, but I am in a cultural studies, sociology or other doctoral program. Will AES consider my application?***
+    If the project addresses questions of interest to anthropologists and employs ethnographic and related methods, AES may consider your application.
+    
+    ***My advisor is on the AES board and may be on the selection committee. Does this give me an edge in the competition?***
+    No. Selection committee members are conscientious about recusing themselves from consideration of proposals that might raise conflict of interest issues for them.
+  _fieldset: bodytext

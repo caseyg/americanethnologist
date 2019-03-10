@@ -1,0 +1,51 @@
+Title: The Timespace of Emptiness
+
+----
+
+Subtitle: 
+
+----
+
+Author: Dace Dzenovska
+
+----
+
+Date: 2019-03-08
+
+----
+
+Featuredimage: appletree.png
+
+----
+
+Tags: 
+
+----
+
+Builder: 
+
+- 
+  text: '92-year old Milja lives in a village in the Latvian-Russian borderlands that emerged in the middle of the 19th century next to a railway station on the St. Petersburg-Warsaw line. During the Soviet period, it was a vibrant transportation hub. Residents recall “wagons of watermelons” that passed through, crowds of summer residents (*dachniki*) from Leningrad, and “the world’s tastiest doughnuts (*ponchiki*)” in the station’s buffet. Things have changed since then, the locals say. Now everything is “empty” (*tukšs*). The last passenger train passed through two years ago. There is no work, and the store has closed. Only a few homes are occupied. An elderly woman who lives alone exchanges one or two euros for the meagre labor of a man, half her age, who is not needed by anybody else, but who needs the euros for cheap alcohol. The shop-on-wheels comes to the village every Friday not for profit, but because the remaining residents need it. In the absence of actual family members, the village becomes everyone’s makeshift—and, by most accounts, dysfunctional—family.'
+  _fieldset: bodytext
+- 
+  image: appletree.png
+  _fieldset: image
+- 
+  text: |
+    This summer, I asked Milja when was the best time of her life. Now, she replied. Her parents died when she was very young. Her teenage years were ravaged by war. For most of her adult life, she worked as a secretary of the village soviet and sang in the district’s ethnographic ensemble. Her husband drank too much and died early. Now Milja is enjoying life. She moves across the yard with a skip in her step, but the world around her is getting emptier by the day. “There used to be thirty cows [in the village],” says Milja, “but now there is one.” Milja’s daughter, granddaughter, and great-grandson live in England. Next to the aesthetically Soviet-looking awards received for long years of work stand photographs of a small boy from another world. He is wearing a velvet jacket and a fancy tie. He does not speak Latvian, but he relayed one phrase over the phone on Christmas day: “Great-grandmother, I love you very much (*vecvecmamma, es Tevi ļoti mīlu*)!” Milja’s life may be the best she’s ever had, but with every day there is less and less in her world.
+    
+    The place and its people have futures, of course, but not together. Their common future is one of radical separation of people from place, in relation to which the present emerges as a timespace of emptiness. When local residents imagine the future, they speak of “wild nature taking over” or of “the place being taken over by others” (Chinese in the most radical version or Danish farmers in the more realistic scenario). Everyone agrees that, come what may, this is the end of the world as they know it. This end-of-the world “orientation” guides actions in the present, which, in turn, produce multiple individual futures. Some people expect to die as the world ends or the world to end when they die. Others, such as Milja’s children, leave the village to make a life abroad. There, abroad, time seems to flow in a recognizable manner, with hard work leading to incremental life improvements—a higher salary, a better job, some vacation time. Some hope to benefit from the near-end scenario, when real-estate prices collapse. Two years ago, a woman from a neighboring town bought a house in the village for 200 euros and moved there with her family. This summer she left for Germany to take care of the elderly for 2000 euros a month. There are no promises coming forth from anybody to reinvigorate life in the village or to devise a development plan that would allow people to reproduce their lives in the place in which they live. Instead, recent development plans for the village are lists of infrastructure maintenance projects: to change windows in the kindergarten and to fix heating pipes in the closed school building. The people who are still there do not want to let the buildings die, but they do not have any ideas for how to keep the village alive.
+    
+    The future as the end of the world emerges in conditions when the horizon of expectations of socialist modernity is gone and the promises of capitalist modernity have failed. The emptying that precedes the end of the world seems like a crisis, where the old world is dying, the new cannot be born, and “in the interregnum a great variety of morbid symptoms appear” (Gramsci 1971, 276). But locals do not talk about it as a crisis. They talk about emptying as simultaneously a transitional state towards a future that is radically different from the past and the present and as an enduring state of affairs with its own internal spatial and temporal dynamics. Emptying is all-encompassing. It refers to material reality, insofar as one can see homes without people and tracks without trains. It denotes the dispersal of social relations—without thick networks of friends and neighbors, lives become emptier. And it has a sensual dimension: the smell of damp basements suggests empty houses. Some people say that the abandoned homes make them feel anxious, even a little nauseous. The future is imagined as radical replacement rather than reproduction.
+    
+    But preparation for the end of the world tomorrow means managing emptying today. Crumbling houses need to be dismantled, and their residents need to be moved. The elderly need to be cared for, especially in the winter, when few visitors come. A variety of “monsters” need to be kept at bay—depending on one’s perspective, they appear as Russian spies, clandestine border crossers, or populist politicians (Muehlebach 2016). Emptying is uneven, seasonal, but inevitable. Its telos is *apocalyptic*. Within that, there is a range of individual temporal orientations. Some people pursue futures past by moving in space, others work to maintain the future as a little bit more of the present, while others yet, such as Milja, enjoy the freedom that comes with the end of the world.
+    
+    **References**
+    Gramsci, Antonio. 1971. *Selections from the Prison Notebooks*, edited and translated by Quintin Hoare and Geoffrey Novell-Smith. London: Lawrence & Wishart.
+    
+    Muehlebach, Andrea. "Time of Monsters." *Cultural Anthropology* website, October 27, 2016. https://culanth.org/fieldsights/979-time-of-monsters
+    
+    **Cite as:** Dzenovska, Dace. 2019. “The Timespace of Emptiness.” In “Orientations to the Future,” Rebecca Bryant and Daniel M. Knight, eds., *American Ethnologist* website, March 8. http://americanethnologist.org/features/collections/orientations-to-the-future/the-timespace-of-emptiness.
+    
+    **Dace Dzenovska** is Associate Professor of Anthropology of Migration, University of Oxford. She writes about re-bordering and migration in the context of European Union enlargement, as well as about tolerance promotion and the post-socialist democratization agenda in Eastern Europe. She is the author of *School of Europeanness: Tolerance and Other Lessons in Political Liberalism in Latvia* (Cornell University Press, 2018).
+  _fieldset: bodytext

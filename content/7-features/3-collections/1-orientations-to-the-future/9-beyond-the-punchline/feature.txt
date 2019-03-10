@@ -1,0 +1,68 @@
+Title: Beyond the Punchline:
+
+----
+
+Subtitle: Mythic Involution as Recursive Futural Orientation among Stand-up Comics in New York City
+
+----
+
+Author: Morten Nielsen
+
+----
+
+Date: 2019-03-08
+
+----
+
+Featuredimage: comedycellar.png
+
+----
+
+Tags: 
+
+----
+
+Builder: 
+
+- 
+  text: 'What happens to a progressive temporal orientation when the future is cancelled out? How might social life be invested with a futural drive but without an end-point to guide anticipatory actions? In this article, I introduce the idea of *mythic involution* – the internal complication of time - as a way of capturing a form of immediate temporal orientation, which recursively bounces off an end-point on a linear scale in order to open up and reflect on the paradoxes of its own progressive trajectory. The argument will be that, in some instances, the future cancels itself out in order for a temporal orientation of forward moving linear progression to momentarily scaffold a different kind of recursive affective structure. I discuss mythic involution in relation to an ethnographic analysis of the narrative aesthetics of stand-up comedy among comics in New York City. As I will argue, stand-up comedy bits can fruitfully be considered as contemporary myths, which offer a narrative armature for contemplating the contradictions and incongruities of social life. In myths as well as in stand-up comedy, a futural orientation is turned against itself in order to allow for the paradoxes of progressive linearity to play themselves out.'
+  _fieldset: bodytext
+- 
+  image: comedycellar.png
+  _fieldset: image
+- 
+  text: |
+    Stand-up comedy is again at the heart of American popular culture. In New York as well as in many cities throughout the country, a still growing number of comedy clubs, open mic venues and bars with regular comedy shows offer stage time to thousands of upcoming and professional comics. The current boom is driven not least by a form of comedy that takes its point of departure in the comics’ reflections about the hardship and challenges of their personal lives: break-ups, mental problems, social awkwardness, dysfunctional relationships, etc. This widespread form of confessional comedy arises from the comics’ introspective journey towards the most intimate realms of their lives. Longer comedic bits are usually strung together by a number of interwoven jokes that circle around some loosely defined theme from which the comic constantly digresses. And as the narrative advances, the confessional comic, as it were, gradually gives shape to an inner world built on self-deprecating and seemingly autobiographical insights about the nature of personal failures and flaws. Consider, for example, Chris Saget’s bit about seeing a therapist:
+    
+    >I’ll get right to it. I feel like you guys are disappointed already… My parents are divorced. That comes up during therapy. He (the therapist) told me to tell him about it. He was like: ‘Start from the beginning. Tell me about when they told you.’ And I said: ‘Well, this is how they told me: They said ‘Chris, we want you to know that we’re getting divorced and it’s not your fault.’ And I was like: ‘Yeah, I’m seven! The thought didn’t even cross my mind till you brought it up.’ It’s a weird way of phrasing something… They did that with other things too, you know. When my grandma died, they were like: ‘Chris, grandma died last night, I want you to know that you’re not a suspect… Also… tell us your alibi.’
+    
+    Stand-up comedy is certainly not the only form of American popular culture
+    to use confessionalism as a narrative aesthetics. As recently described by Grobe (2017), in post-war America, the performance of confession has become a main vehicle of cultural expression for a number of media and genres, such as poetry, literature, films and reality TV. I will argue, however, that what characterizes confessional comedy is that a questioning of the truth value of the comedic narrative has become an integral part of the comedic bit itself. In other words, what makes a confessional joke work is not only the way that the punchline forces the narrative in an unexpected direction by rupturing the initial framing (cf. Oring 2016), but, equally important, the way it progressively unsettles its own autobiographical authority. Let me tentatively define this comedic narrative dynamic as mythic involution.
+    
+    The narrative structure of a comedic bit is conventionally oriented towards its conclusion. The initial part of the narrative establishes a premise by outlining a number of target assumptions, which are subsequently twisted out of proportion by one or several punchlines. The payoff to the comedic bit, then, is the conclusive punchline(s), whose surprising twist to the narrative recursively force the listener to reconsider the initial target assumptions. As an example, consider a joke by New York comic Dave Attell: “I was on a date with this really hot model. Well, it wasn't really a date date. We just ate dinner and saw a movie. Then the plane landed.” Whereas in most other forms of stand-up comedy, it is irrelevant whether a joke is based on the comic’s lived experiences, in confessional comedy, the underlying premise is that the comic is sharing intimate details about his or her personal life with the audience. At the same time, it is obviously a requirement that the comedic bit is funny and that forces the comic to configure subjective experiences so that they activate a humorous potential in the form of a punchline. It is precisely this narrative requirement, I will argue, which unsettles the autobiographical authority of the comedic bit. As a play within the play (Wagner 2018), it involutes the narrative’s temporal orientation by recursively circling inwards.
+    
+    In Chris Saget’s bit on seeing a therapist, the self-depricating opening line immediately sets the tone for the comedic narrative and leads into the first part, where his parents’ divorce is introduced as a central theme during therapy sessions. The second part of the bit is structured as a digression from Saget’s retelling of how his parents announced their divorce to a similar confrontational situation regarding the death of his grandmother. From the way that Saget has composed the bit – the retelling of two separate confrontations with his parents where his possible involvement in unfortunate events is being questioned, it seems that an affective undercurrent is his sense of guilt and possible responsibility for his family’s misfortunes. In order for this to work comedically and have an immediate and sensuous grip on the audience, however, Saget introduces an emotional paradox: two seemingly loving parents involve their son in the emotionally difficult processes of a divorce and dealing with the death of a family member and, in doing so, they implicitly blame him for both misfortunes. Whether or not the two confrontational encounters actually occurred as described by Saget is, of course, questionable. But that is precisely the comedic, or, you might say, involutional point.
+    
+    Not unlike myths, which give a narrative form to the paradoxes and contradictions of human life (Lévi-Strauss 1995), stand-up comedy works on the basis of a sensibility towards “the incongruence of being human” (Berger 1997, 193). In confessional comedy, this expression of incongruities undergoes an internal doubling so that the affective paradox splits out into a thematic opposition (say, between love and guilt) and a structural contradiction (say, between the affective truth value and the narrative truth value). The comedic effect can best be described as “an overdriving of an established form” (Geertz 1963, 82). Rather than proceeding along a linear trajectory leading towards the conclusive punchline, the progressive complication of the relationship between form and content – we simply do not know, for instance, whether the comic is telling the truth or not - forces the temporal orientation inwards. The futural orientation of the confessional joke, you might say, arises from bouncing off an end-point on a linear scale without ever reaching it. Even long after the laughter has died out, a comedic temporal residue continues to gnaw at the desire for closure and forces a return to the involuted paradoxes introduced by the confessional comic. These recursive circular movements in and through the comedic bit do invariably establish a volatile but noticeable affective infrastructure, which bends, stretches and diverts the narrative in order for it not to reach its final and decisive conclusion (e.g. regarding the meaning of the comedic bit).
+    
+    If we were to speak of a Time of Comedy, then, we would have to imagine a detached and temporally free-floating epoch, which wedges itself momentarily into the fabric of progressive linearity by complicating the internal workings of time. By strategically introducing a set of comedic paradoxes that may or may not be strung together from the comic’s personal experiences, confessional comedy thereby destabilizes the relationship between the form and content of temporal linearity (cf. Nielsen and Pedersen 2017) and offers a way of sticking with the incongruities of human life.
+    
+    **References**
+    Berger, Peter. 1997. *Redeeming Laughter: The Comic Dimension of Human Experience.* London: Sage.
+    
+    Geertz, Clifford. 1963. *Agricultural Involution. The Processes of Ecological Change in Indonesia.* Berkeley: University of California Press.
+    
+    Grobe, Christopher. 2017. *The Art of Confession: The Performance of Self from Robert Lowell to Reality TV*. New York: NYU Press.
+    
+    Lévi-Strauss, Claude. 1995. *The Story of Lynx.* Chicago: The University of Chicago Press.
+    
+    Nielsen, Morten. and Morten Axel Pedersen 2017. “Epi-pro-logue : An Anthropological Theory of Distortion.” In: *Distortion: Social Processes Beyond the Structured and Systemic,* edited by Nigel Rapport. London: Routledge, pp. 165-173.
+    
+    Oring, Elliott. 2016. *Joking Asides: The Theory, Analysis, and Aesthetics of Humor.* Colorado: University Press of Colorado.
+    
+    Wagner, Roy. 2018. *The Logic of Invention.* Chicago: Hau Books.
+    
+    **Cite as:** Nielsen, Morten. 2019. “Beyond the Punchline: Mythic Involution as Recursive Futural Orientation among Stand Up Comics in New York City.” In “Orientations to the Future,” Rebecca Bryant and Daniel M. Knight, eds., *American Ethnologist* website, March 8. http://americanethnologist.org/features/collections/orientations-to-the-future/beyond-the-punchline.
+    
+    **Morten Nielsen** has a PhD in social anthropology from the University of Copenhagen. He is currently a senior researcher at the National Museum of Denmark and head of the interdisciplinary research project “Middle Class Urbanism: An interdisciplinary study of the physical reordering of urban sub-Saharan Africa.” Based on his fieldwork in Mozambique, Scotland, and USA, he has published on issues such as urban citizenship, time and temporality, comedy, human creativity, urban aesthetics, materiality, infrastructure, and political cosmologies. Recent publications include articles in the *Journal of the Royal Anthropological Institute, Social Analysis,* and *Social Anthropology*.
+  _fieldset: bodytext

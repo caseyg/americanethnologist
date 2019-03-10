@@ -1,0 +1,65 @@
+Title: Orientations to the Future:
+
+----
+
+Subtitle: An Introduction
+
+----
+
+Author: Rebecca Bryant,Daniel M. Knight
+
+----
+
+Date: 2019-03-08
+
+----
+
+Featuredimage: orientationstothefutureintroduction.png
+
+----
+
+Tags: 
+
+----
+
+Builder: 
+
+- 
+  text: |
+    The ruins of global financial collapse, millions displaced by armed conflict, the resurgence of right-wing populism, and imminent ecological disaster. The future is emphatically at the heart of anthropological critique. No longer a “displaced,” “poorly tended” topic, “absent from its homeland in the past-present-future relation” as Nancy Munn (1992, 115-116) once put it, anthropologists have recently posed fundamental questions about displaced, reimagined, or precarious futures which have led to people reassessing their expectations, reorienting themselves to the yet-to-come.
+    
+    Anthropology is particularly well placed to study how we orient to the future in everyday life as we are pulled by the future in numerous affective ways – by hope and great expectations, through anticipation or fantastical speculation, or by acts of faith or believing in fate. We constantly prepare the groundwork for the future through thoughts and desires that leap ahead of the possible, plausible, and potential of the present. Our future-oriented actions shape our relationships in the present and how we choose to selectively archive our past.
+  _fieldset: bodytext
+- 
+  image: orientationstothefutureintroduction.png
+  _fieldset: image
+- 
+  text: |
+    In a forthcoming book we examine how the future awakens the present through a focus on six “orientations” – anticipation, expectation, speculation, potentiality, hope, and destiny (Bryant and Knight 2019). Obviously, our list of such temporal trajectories is far from complete, and authors in this Collection indicate other possible positionalities. Our aim is to introduce an anthropology of futural orientations, or a way of thinking about the indeterminate and open-ended teleologies of everyday life. Teleology has acquired negative connotations in the social sciences ever since it was harnessed to the temporality of modernity and progress. However, in consonance with a recent neo-Aristotelian turn in philosophy, we see a revived understanding of teleology – multiple ways of navigating the course of the quotidian towards “ends” in the plural – as the only way to make sense of the future’s role in orienting everyday action. We intend to break from the notion of linear time while still retaining an aspect of teleology that we find to be important for thinking about everyday lives. We ask what philosophical conjecture about the role of the future in shaping temporality may tell us about the ways that we act together in our futural orientations.
+    
+    The concept of orientations is thus intended to help us gain a hold on the relationship between the future and action. Waiting, speculating, anticipating, and hoping are all futural orientations that anthropologists have recently used to reclaim the future as a central dimension of our temporality. Our concern is to translate this reclaiming of futurality into a more programmatic method for thinking about the future within anthropology. Our claim is that our concept of the present as *present* derives from the future; that without a concept of futurity the present ceases to exist as such.
+    
+    At an experiential level, orientations may be difficult to distinguish or define. Where, for instance, does hope spill into speculation, or when does expectation become anticipation? However, heuristic distinctions allow for more fine-grained analysis of the ways and means by which temporal orientations shape action. Scaling up from individual experience, we argue that time may be collectively perceived, and we may have the sense of living within a period that has a particular temporality with a set of orientations. At the communal level, timespaces and their affects are often described in the vernacular in epochal terms – a Time of War, a Time of Prosperity, a Time of Brexit. Inspired by philosopher Theodore Schatzki, we term this collective experience of affective time “vernacular timespaces,” an epochal way of thinking that identifies certain affective structures, characteristics, and teleologies. For Schatzki, a timespace incorporates “ends, projects, actions, and combinations thereof that participants should or acceptably pursue” (2010, 52). For instance, living in the Time of Brexit may evoke panic, apocalyptic speculation, perhaps resignation for the Remainer. A Time of Peace in the Middle East may be eaten into by the anticipation of imminent displacement and violence. At a Time of Crisis there may be no hope of emergence, the present may feel elongated or inescapable, the future empty. These are times that require or induce collective responses and produce their own affective temporal orientations, giving the vernacular timespace its own resonance, rhythm, and futural speed and expressing the perceived differences in the temporalizing of human activity.
+    
+    Orientations lend texture to our experience of the “now” and how we prepare the groundwork for the future in the present (Pandian 2012). In uncertain worlds, they provide a sense of thickness or porosity to the threshold between present and future, holding the future at an indeterminate distance – depending on the vernacular timespace, sometimes the future is seemingly within reach and with tangible form in the present, at other times little more than a hazy, partially formed dream set in a far-off land. Orientations can make the future appear malleable (aspiration and hope) or set in stone (destiny and fate); they capture the rollercoaster of desires and fears that inhabit every one of us. While orientations entail dynamic planning towards and imagining the future, they also often involve the collapse or exhaustion of those efforts: moments of temporal stasis where hope may turn to apathy, frustrated planning to disillusion, and imagination to fatigue.
+    
+    Our intention is to direct anthropology toward orientations to help us make further sense of the role of the future in shaping the lives of the people we encounter. In contributing to the future as a newly emerging field in anthropology, we offer the concept of orientations as a way to better account for the indefinite teleologies of everyday life. Experienced on the scale of the unimaginably small and the unfathomably large, a focus on orientations to the future adds invaluable detail to our ethnographic quest to better understand the quotidian. Whether fleeting moments or the result of long-term planning, whether individual feelings or part of a collective vernacular, we are constantly anticipating, expecting, hoping for, and speculating about – and thus living – the future. These orientations to the future should, we suggest, be better incorporated into our methodological and analytical toolkit.
+    
+    **Acknowledgements**
+    Many of the essays in this collection were initially presented at the conference “Orientations: The Anthropology of the Future” which took place in March 2018, at the University of St Andrews, Scotland. The event was funded by the Ladislav Holy Memorial Trust and the Centre for Cosmopolitan Studies. We would like to thank Carole McGranahan and Niko Besnier for the invitation to collate a Collection and Gabriela Manley for editorial assistance.
+    
+    **References**
+    Bryant, Rebecca. and Daniel. M. Knight. 2019. *The Anthropology of the Future.* Cambridge: Cambridge University Press.
+    
+    Munn, Nancy. 1992. “The Cultural Anthropology of Time: A Critical Essay.” *Annual Review of Anthropology* 21: 93–123.
+    
+    Pandian, Anand. 2012. “The Time of Anthropology: Notes from a Field of Contemporary Experience.” *Cultural Anthropology* 27 (4): 547–571.
+    
+    Schatzki, Theodore. R. 2010. *The Timespace of Human Activity: On Performance, Society, and History as Indeterminate Teleological Events.* Lanham, MD: Lexington Books.
+    
+    **Cite as:** Bryant, Rebecca and Daniel M. Knight. 2019. “Orientations to the Future: An Introduction.” In “Orientations to the Future,” Rebecca Bryant and Daniel M. Knight, eds., *American Ethnologist* website, March 8. http://americanethnologist.org/features/collections/orientations-to-the-future/orientations-to-the-future-an-introduction.
+    
+    **Rebecca Bryant** is Professor of Cultural Anthropology at Utrecht University. Bryant is an anthropologist of politics and law whose work has focused on ethnic conflict and displacement, border practices, post-conflict reconciliation, and contested sovereignty in Cyprus, Greece and Turkey. She is the author, among other works, of *The Past in Pieces: Belonging in the New Cyprus* (2010), and *De Facto Dreams: Building the So-Called State*, co-authored with Mete Hatay (2019). She holds affiliations as an Associate of the Peace Research Institute Oslo and a Research Fellow in the European Institute of the London School of Economics.
+    
+    **Daniel M. Knight** is Lecturer and Leverhulme Fellow in the Department of Social Anthropology at the University of St Andrews, Scotland, where he is also Director of the Centre for Cosmopolitan Studies. He is author of *History, Time, and Economic Crisis in Central Greece* (2015) and co-author of *The Anthropology of the Future* (2019, with Rebecca Bryant). He has edited collections on *Ethnographies of Austerity: Temporality, Crisis and Affect in Southern Europe* (2016, with Charles Stewart) and Alternatives to Austerity (2017, with Laura Bear). Daniel is co-editor of *History and Anthropology* journal and has *American Ethnologist* articles on irony and crisis (2015) and cosmopolitanism and Brexit (2017).
+  _fieldset: bodytext

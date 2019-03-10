@@ -1,0 +1,47 @@
+Title: AES Editorial Intern Program: Call for Applications 2019
+
+----
+
+Subtitle: 
+
+----
+
+Author: 
+
+----
+
+Date: 2019-02-03
+
+----
+
+Featuredimage: 
+
+----
+
+Tags: 
+
+----
+
+Builder: 
+
+- 
+  text: 'Interested in getting involved with the discipline in a new way? Consider joining the (link: http://americanethnologist.org/about/editorial-interns text: American Ethnological Society Editorial Intern Program for anthropology graduate students). We are pleased to announce we are now accepting applications through February 20.'
+  _fieldset: leadtext
+- 
+  text: |
+    Intern responsibilities include creative intellectual teamwork at annual conferences, on social media such as Facebook and Twitter, as well as generating new content for the (link: http://americanethnologist.org/ text: AE/AES website). Our goal is to expand conversations about anthropology in general, and also to share and supplement the rich body of scholarship produced in the pages of American Ethnologist. Current projects include AE author interviews, curating collections of AE articles, writing and editing online essays, contributing to AE/AES social media accounts, and creative participation in and reporting from the annual AAA and AES meetings. Begun in 2016, the AES Editorial Intern program is a small group composed of grad students from universities around the world.
+    
+    Prospective interns must be enrolled in a PhD program in socio-cultural anthropology. Fluency in social media is essential, as is regular and reliable internet access. Participation in the intern program is a two-year commitment, with the possibility of extending one’s participation longer if desired.
+    
+    
+    ##Application Process
+    
+    To apply to the AES Editorial Intern program, please send the following materials to program director, AES Digital Content Editor Carole McGranahan (<carole.mcgranahan@colorado.edu>) by Wednesday, February 20, 2019:
+    
+    - Current CV
+    - 300-500 word statement introducing yourself, your research interests, stage in your graduate studies, and why you would like to be an AES Editorial Intern. For example, what sort of initiatives would you like to work on or create?
+    
+    Applicants will be notified of their status in early March. Each year, the Editorial Intern team meets in person at the AES spring meeting and the AAA annual meeting. In 2019, the AES spring meeting will be in St. Louis from March 12-14, and the AAA meeting will be in Vancouver, November 20-24 for all members who are able to attend.
+    
+    We welcome your applications!
+  _fieldset: bodytext

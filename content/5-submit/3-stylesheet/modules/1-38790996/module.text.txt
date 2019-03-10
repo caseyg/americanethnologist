@@ -5,7 +5,7 @@ Title: Text module
 Text: 
 
 ###Manuscript form and length
-Double-space all text and use a 12-point font throughout, including for headings, block quotations, the reference list, and endnotes. Set all margins at one inch (2.45 cm) and do not right-justify the text. Use only formatting that is essential to the meaning of the text and use the same font throughout. Manuscripts must not exceed the generous 11,000-word limit, including notes and references but excluding the title, author’s name and contact information, and abstract.
+Double-space all text and use a 12-point font throughout, including for headings, block quotations, the reference list, and endnotes. Set all margins at one inch (2.45 cm) and do not right-justify the text. Use only formatting that is essential to the meaning of the text and use the same font throughout. Manuscripts must be at least 9,000 words long but no more than 11,000 words, including notes and references but excluding the title, abstract, and author’s name and contact information.
 
 ###Title page
 Include the article’s title and your name, institutional affiliation, and contact information for publication (postal address and e-mail address). The contact information should be accurate as of the article’s publication date. Any acknowledgments, including of financial support, should also be included on the title page.
@@ -14,7 +14,7 @@ Include the article’s title and your name, institutional affiliation, and cont
 Each article must begin with an abstract that precisely summarizes the manuscript’s argument. The abstract must be at least 100 words long and no longer than 125, and it should end with a list of up to seven keywords or phrases. After the abstract has been copyedited, authors are strongly encouraged to provide one or two translations of the abstract in languages of the field site—as long as the translation is done by a native speaker of the target language and time remains for it to be properly copyedited by a third-party native speaker (to be commissioned by the editor).
 
 ###Style
-*American Ethnologist* follows *The Chicago Manual of Style*, 16th edition. For spelling, the reference is *Merriam-Webster’s Collegiate Dictionary*, 11th edition, which uses US (rather than British) spellings. Wherever *Merriam-Webster’s* lists variant spellings, use the first one given.
+*American Ethnologist* follows *The Chicago Manual of Style*, 17th edition. For spelling, the reference is *Merriam-Webster’s Collegiate Dictionary*, 11th edition, which uses US (rather than British) spellings. Wherever *Merriam-Webster’s* lists variant spellings, use the first one given.
 
 ###Headings
 Use bold to indicate first-level headings and italics for second-level headings, like this:

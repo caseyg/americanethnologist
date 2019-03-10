@@ -49,11 +49,5 @@ RedirectMatch 301 /2015/ferguson-digital-protest-february-2015/ http://americane
 # AddDefaultCharset UTF-8
 #
 # php_flag short_open_tag on
-# Start A2 Switcher Block
-# Do not remove or modify this block! Added by PHP Switcher from cPanel to use an alternate PHP version. Contact Support for details.
-<IfModule mod_suphp.c>
-  AddHandler application/x-httpd-php-5.5.13 .php
-</IfModule>
-# End A2 Switcher Block
 SuPHP_ConfigPath /home/aesonlin/public_html/
 

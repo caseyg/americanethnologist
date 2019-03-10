@@ -1,0 +1,41 @@
+Title: Announcing the new editors of AE
+
+----
+
+Subtitle: 
+
+----
+
+Author: 
+
+----
+
+Date: 2018-07-24
+
+----
+
+Featuredimage: screenshot-2018-07-24-at-10.56.21-pm.png
+
+----
+
+Tags: editors
+
+----
+
+Builder: 
+
+- 
+  text: 'The Board of the American Ethnological Society is delighted to announce the new editors for *American Ethnologist* — **Stacy Pigg** and **Michael Hathaway**!'
+  _fieldset: leadtext
+- 
+  text: |
+    On July 1, 2019, we will welcome (link: https://www.sfu.ca/sociology-anthropology/People/faculty/stacy-pigg.html text: Stacy Pigg) (Simon Fraser U) and (link: https://www.sfu.ca/sociology-anthropology/People/faculty/michael-hathaway.html text: Michael Hathaway) (Simon Fraser U) as co-editors of *American Ethnologist*, succeeding Niko Besnier (U Amsterdam). The first issue of the journal for which they will be responsible is February 2020. Niko Besnier is responsible for all four issues of 2019. Decisions made by the current editor will be honored by the new editorial team.
+    
+    The AES Board also expresses its gratitude to Niko Besnier for all he has created and continues to contribute as current editor of *AE*.
+  _fieldset: bodytext
+- 
+  image: square-crop-stacy-edited.jpg
+  _fieldset: image
+- 
+  image: michael-h-cropped-edited.jpg
+  _fieldset: image

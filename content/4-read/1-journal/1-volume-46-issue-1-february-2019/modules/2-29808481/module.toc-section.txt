@@ -1,0 +1,66 @@
+Title: Book Reviews
+
+----
+
+Articles: 
+
+- 
+  article: >
+    read/journal/volume-46-issue-1-february-2019/the-antiblack-city
+- 
+  article: >
+    read/journal/volume-46-issue-1-february-2019/my-life-as-a-spy
+- 
+  article: >
+    read/journal/volume-46-issue-1-february-2019/the-art-of-life-and-death
+- 
+  article: >
+    read/journal/volume-46-issue-1-february-2019/paid
+- 
+  article: >
+    read/journal/volume-46-issue-1-february-2019/money-in-a-human-economy
+- 
+  article: >
+    read/journal/volume-46-issue-1-february-2019/europe-unimagined
+- 
+  article: >
+    read/journal/volume-46-issue-1-february-2019/everyday-life-in-global-morocco
+- 
+  article: >
+    read/journal/volume-46-issue-1-february-2019/inheritance-of-loss
+- 
+  article: >
+    read/journal/volume-46-issue-1-february-2019/life-in-oil
+- 
+  article: >
+    read/journal/volume-46-issue-1-february-2019/the-imbalance-of-power
+- 
+  article: >
+    read/journal/volume-46-issue-1-february-2019/living-without-the-dead
+- 
+  article: >
+    read/journal/volume-46-issue-1-february-2019/animal-intimacies
+- 
+  article: >
+    read/journal/volume-46-issue-1-february-2019/citizenship-inequality-and-difference
+- 
+  article: >
+    read/journal/volume-46-issue-1-february-2019/reconnecting-state-and-kinship
+- 
+  article: >
+    read/journal/volume-46-issue-1-february-2019/power-struggles
+- 
+  article: >
+    read/journal/volume-46-issue-1-february-2019/encoding-race-encoding-class
+- 
+  article: >
+    read/journal/volume-46-issue-1-february-2019/everyday-conversions
+- 
+  article: >
+    read/journal/volume-46-issue-1-february-2019/adventures-in-blogging
+- 
+  article: >
+    read/journal/volume-46-issue-1-february-2019/the-anthropology-of-sport
+- 
+  article: >
+    read/journal/volume-46-issue-1-february-2019/white-kids
