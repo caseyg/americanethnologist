@@ -2,6 +2,4 @@ Title: Contact
 
 ----
 
-Text:
-
-Please direct all inquiries to <a href="mailto:caitrin.lynch@olin.edu">caitrin.lynch@olin.edu</a>, AES Secretary.
+Text: Please direct all inquiries to <a href="mailto:cloperena@gc.cuny.edu">Christopher Loperena</a>, AES Secretary.
