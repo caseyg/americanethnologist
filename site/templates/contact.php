@@ -11,7 +11,7 @@
     <div class="col-sm-8 pull-sm-3">
 
       <div class="lead">
-        <p>Please direct all inquiries to <a href="mailto:caitrin.lynch@olin.edu">caitrin.lynch@olin.edu</a>, AES Secretary.</p>
+        <?= $page->text()->kt() ?>
       </div>
 
 <!--      <form class="form-horizontal" role="form" method="post" action="#">
