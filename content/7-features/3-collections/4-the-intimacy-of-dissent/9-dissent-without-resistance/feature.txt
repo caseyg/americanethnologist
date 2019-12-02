@@ -1,0 +1,75 @@
+Title: Dissent without Resistance:
+
+----
+
+Subtitle: Considering Disagreement in a Non-Liberal Key
+
+----
+
+Author: Erica Weiss
+
+----
+
+Date: 2019-04-15
+
+----
+
+Featuredimage: weiss.png
+
+----
+
+Tags: 
+
+----
+
+Builder: 
+
+- 
+  image: weiss.png
+  _fieldset: image
+- 
+  text: |
+    Anthropologists have demonstrated the discipline’s historical valorization of resistance (Abu-Lughod 1990; Ortner 1995), a bias that also prevents anthropology from highlighting other modes of agency (Mahmood 2004; Rouse 2004). But I believe there is value in distinguishing between “resistance,” as a specific value most associated with liberal culture, and “dissent” as a more neutral category applicable cross-culturally. Non-liberal forms of dissent often look different than the features commonly associated with resistance. They are articulated in different ethical grammars, have different aesthetic ideals, and employ different techniques and rhetorics of persuasion.
+    
+    In my fieldwork experiences with both liberal secular Israeli conscientious objectors and peace activists from the ultra-Orthodox community, I witnessed sharp cultural distinctions with regard to the rhetorics and aesthetics of dissent within these two communities. One of these differences regards the tendency of liberal society to respect and even applaud the aesthetics of disruption. In this cultural context, expressions of dissent are made publicly and often in the glamorized aesthetics of rebelliousness. By contrast, ultra-Orthodox society does not idealize dissent. Though it does take disagreement seriously, it tends to deliberate on such matters more quietly and while publicly adhering to the cultural ideals of consensus and continuity and the aesthetic of solidarity.
+    
+    In this short piece, I will focus mainly on ultra-Orthodox dissent. Elsewhere I have shown how secular and liberal Israeli conscientious objectors lodge the moral authority of dissent in individual conscience, which is considered to be an inherent part of the human condition in their worldview. Dissent in this context is also often romanticized and aestheticized through resistance (Weiss 2014).
+    
+    As part of my ongoing research with religious peace initiatives, I participated in a women’s group of ultra-Orthodox Jewish and Muslim social workers that met under the auspices of the Citizen’s Accord Forum. The goal of this group was to explore areas of commonality between these two groups of women both coming from highly religious, traditionalist, non-liberal societies. The idea was that, as two politically marginalized groups, they may have issues of overlapping concern that could be addressed through their joint efforts. It was left to the women to decide which issues they would like to take up.
+    
+    It was the issue of domestic abuse that they decided to focus on as a group. In particular, Tsippy, a social worker in Jerusalem, introduced the concept of “spiritual violence,” which was met with instant recognition on the part of the other participants. This idea refers to harassment and abuse on the part of a husband, specifically that prevents a wife from fulfilling her religious obligations and damaging her relationship with God (Siegel-Itzkovich 2009). Examples included interrupting her prayers or trying to force or trick a woman to violate religious prohibitions such as religious dietary rules.
+    
+    Israeli law, as well as state-employed social workers, currently recognize several forms of violence against women beyond the physical, for example, emotional, verbal, and financial abuse. These ultra-Orthodox social workers felt that women in their communities were being exposed to a further form of violence, spiritual, for which they received no protection in the law. There was significant doubt that the criminal court system with their secular norms would be interested in recognizing this religiously-informed concept, but the Orthodox Jewish women thought they might be able to influence the religious courts.
+    
+    In the Israeli context, this would be a significant intervention. Family law, including marriage and divorce, is under the jurisdiction of the religious courts, Jewish, Muslim, and Christian. If the religious courts would recognize spiritual violence as a kind of abuse, this could be legal grounds for women who were abused in this way to receive justice. One of the members of the group is a well-known figure in the ultra-Orthodox world, and the daughter of a very important rabbi. She is married to a dayan, one of the religious judges in the Jewish courts. She told the other social workers that she would raise this issue of spiritual violence in front of her husband for consideration. After several weeks, she reported back that her husband had found no standing for spiritual violence in Jewish law. The women were disappointed but accepted the decision.
+    
+    One woman explained their acceptance of the decision as such: “I do not want chaos in the community. Maybe we see something that the leadership doesn’t see yet, but maybe we are wrong. We rely on their guidance for a reason, and our solidarity is more important than any one issue.”
+    
+    In this worldview, the individual is not intrinsically qualified to discern the moral good entirely on their own. The capacity for moral discernment is not inherent to the human condition, but is found in education, tradition, and intersubjective deliberation. Consensus is central to the ultra-Orthodox worldview. Exodus 32:2 which says “You shall neither side with the majority to do wrong - you shall not give perverse testimony in a dispute, incline after the many” is interpreted to instruct Jews to follow the majority opinion. This is a general rule in deciding matters of Torah Law as elaborated by the Massekhet Sanhedrin in the Talmud (the “majority” refers to a majority of legal judges, not a democracy of laymen). Yet, the rule to set aside one’s own opinion and defer to Jewish Law as determined by the majority applies to both men and women in all contexts. This does not necessarily imply a radically different conception of personhood or a dividuated subject as found in some non-Western ethnographic contexts. Like with liberal subjects, persons in Judaism are generally considered unique actors who are individually responsible for their actions. Yet in this case, because moral authority is removed from the individual and invested in the rabbinical judges, in the case of error, the onus is on the judges rather than on the individual.
+    
+    In this cultural context, it would be a mistake to diametrically oppose dissent and consent, and would reflect liberal assumptions about moral decision-making as well as the ethics of self-presentation. Through the lens of dissent as resistance, one must choose between dissent and consent. As we see above, this is not the only option. One can hold dissenting opinions until such point at which a consensus is reached, and then consent to the majority stance. The lens of resistance has a hard time processing this shift in positive ethical terms. Through this lens, one cannot change from a dissenter to someone who “genuinely” consents to the popular consensus without undergoing an “authentic” personal transformation. Obeying a demand for consent that does not originate with the individual would be seen as a compromise of one’s principles, if not hypocrisy. This idea is reinforced by the Western assumption that associates secularism with critical thinking and religion with conformity (Asad et al 2013). But ultra-Orthodox see this shift in line with their positively-framed ethical principles, not a compromised act. For them, one has a duty to dissent, and then, one has a duty to give consent to majority rule. These are not contradictory for them.
+    
+    Thus, I suggest that we can describe such ultra-Orthodox and potentially other non-liberal forms of dissent as dissent without resistance. By dissent without resistance, I mean to pry apart the universal social phenomenon of dissent from the specific cultural manifestation that privileges the aesthetics of disruption and romanticizes rebellion. This distinction between resistance and dissent does two things. The first is that following critiques of “resistance” as an anthropological paradigm, my approach considers resistance not as an analytic lens, but as an empirical phenomenon. In other words, some interlocutors hold resistance as a romantic cultural trope and others do not. The second thing it accomplishes is to separate the existence of dissent from its cultural interpretation. In this case, I resist a quantitative distinction that would suggest that secular or ultra-Orthodox Israeli society have different amounts of dissent or that one society has more capacity for social change, but rather I argue that they interpret dissent differently and that they bring different cultural and social resources to bear in their performance of dissent. In doing so, I am trying to correct for a bias that allows researchers from liberal contexts to more easily recognize the rhetoric, aesthetics, and structure of dissent as resistance. And in the wake of critiques of resistance as an analytic lens, I seek to provincialize resistance as a specific cultural approach to dissent.
+  _fieldset: bodytext
+- 
+  text: |
+    **References**
+    Asad, Talal, Wendy Brown, Judith Butler, and Saba Mahmood. 2013. *Is Critique Secular?: Blasphemy, Injury, and Free Speech.* Oxford: Oxford University Press.
+    
+    Abu‐Lughod, Lila. 1990. “The Romance of Resistance: Tracing Transformations of Power through Bedouin Women.” *American Ethnologist* 17 (1): 41-55.
+    
+    Mahmood, Saba. 2004. *The Politics of Piety: The Islamic Revival and the Feminist Subject.* Princeton: Princeton University Press.
+    
+    Ortner, Sherry. 1995. “Resistance and the Problem of Ethnographic Refusal.” *Comparative Studies in Society and History* 37 (1): 173-93.
+    
+    Rouse, Carolyn. 2004. *Engaged Surrender: African American Women and Islam.* Berkeley: University of California Press.
+    
+    Siegel-Itzkovich, Judy. 2009. “An Abuse of Belief.” *Jerusalem Post.* https://www.jpost.com/Jewish-World/Jewish-Features/An-abuse-of-belief Accessed Dec 26, 2018
+    
+    Weiss, Erica. 2014. *Conscientious Objectors in Israel: Sacrifice, Citizenship, Trials of Fealty.* Philadelphia: University of Pennsylvania Press.
+    
+    **Cite as**
+    Weiss, Erica. 2019. “Dissent without Resistance: Considering Disagreement in a Non-Liberal Key.” In Tobias Kelly, ed., “The Intimacy of Dissent,” *American Ethnologist* website, April 15, 2019. http://americanethnologist.org/features/collections/the-intimacy-of-dissent/dissent-without-resistance.
+    
+    **Erica Weiss** is Senior Lecturer in the Department of Sociology and Anthropology at Tel Aviv University.
+  _fieldset: bodytext

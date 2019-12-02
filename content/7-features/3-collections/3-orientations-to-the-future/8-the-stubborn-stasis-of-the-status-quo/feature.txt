@@ -1,0 +1,102 @@
+Title: The Stubborn Stasis of the Status Quo
+
+----
+
+Subtitle: 
+
+----
+
+Author: Rebecca Bryant
+
+----
+
+Date: 2019-03-08
+
+----
+
+Featuredimage: img_2093-2.jpg
+
+----
+
+Tags: 
+
+----
+
+Builder: 
+
+- 
+  text: |
+    At one of the busiest roundabouts of north Nicosia, Cyprus’s divided capital, two men film for an online comedy program, standing at a small cafe table while traffic rushes by. The program’s host, Mehmet Ekin Vaiz, is a young lawyer by training who gradually switched to humor. His online series of short sketches, *Neydi Olacağı* (What Did You Think Would Happen?), has millions of views on its Facebook page and is particularly known for its characters—persons who are natural on camera and emit something that is recognizably “Turkish Cypriot.” [1] For the purposes of the program, one of the most recognizably Cypriot traits appears to be a capacity to express two completely conflicting viewpoints simultaneously.
+    
+    One such character that has achieved considerable popularity is someone Vaiz calls the “*mızır seçmen,*” the voter who is never satisfied, who is always grumbling. *Mızır* is a Turkish Cypriot word that comes from *mızırdanmak*, to whine or grumble, though in the Cypriot dialect it becomes an adjective to describe someone who always complains about his lot, even when doing well. In Vaiz’s rendering of him, the “grumbling voter” is also someone who can easily change his mind or profess completely different viewpoints at the same time. To show this, Vaiz picked a local character named Çetin Sadeli—a man well known in Nicosia for his outspoken views—and filmed numerous short videos of the two of them discussing local politics. That discussion takes the form of a game in which Vaiz gives Sadeli a topic, on which Sadeli gives one view; Vaiz then tells him, “Switch,” and Sadeli with equal enthusiasm and conviction gives exactly the opposite view.
+  _fieldset: bodytext
+- 
+  image: neydiolacagi.png
+  _fieldset: image
+- 
+  text: 'A transcript of the beginning of one such program discussing the then ongoing reunification negotiations in Switzerland will give some idea of the flow:'
+  _fieldset: bodytext
+- 
+  text: |
+    >Vaiz: Will there be a solution?
+    
+    >Sadeli: There *will* be [said with conviction]. For the *very first* time, I really believe that this time there’s going to be a solution. We’re at the closest point we’ve ever been to a solution. I think this is going to happen, we’re going to solve this problem.
+    
+    >Vaiz: Switch.
+    
+    >Sadeli: Nothing’s going to happen at this rate! We selected the leaders of the two communities, and they go to eat and drink! . . . They say, ‘We’re going to solve it, we’re going to solve it,’ and they haven’t solved anything!
+    
+    >Vaiz: How do you evaluate [Greek Cypriot leader] Anastasiades?
+    
+    >Sadeli: Anastasiades is a real gentleman, and this agreement is going to happen. He goes to sleep with the agreement and wakes up with it. They [Greek Cypriots] also don’t have a choice in the matter! We’re going to make Cyprus one again.
+    
+    >Vaiz: Switch.
+    
+    >Sadeli: Cyprus is split in two, and at this rate I think it’s going to be divided into four! Anastasiades goes with our leader, and they eat and eat and drink and drink, and nothing’s going to come of it. This film is finished! Everyone should go home!
+  _fieldset: bodytext
+- 
+  text: |
+    This sketch was filmed during a Time of Negotiations, a period often repeated in Cyprus and other conflict contexts when the United Nations and its multiple arms descend, there is a flurry of interest in international media, and whatever peace plan is on the table at that moment is declared to be “the last chance.” During a Time of Negotiations, the pace of political life noticeably quickens, and debates on television or discussions in cafes are all about what various proposals would mean for the future. Every statement made by a negotiator will be mined for meaning, swinging the public mood from hopeful, to speculative, to anticipatory. Then when negotiations collapse, as they invariably do, everyone sulks back to their own side and goes on with life—at least until the next “last chance.”
+    
+    At first glance, the sketch seems simply to reflect this volatility. And while the extremes of Sadeli’s positions express the widely divergent swings of public opinion during such periods, Vaiz and Sadeli have done other similar sketches about, for example, the candidates in various elections. Instead, Vaiz’s invocation of *mızırlık*, grumbling or being always dissatisfied, directs us to the real point of the sketch, which is to use the negotiations to illustrate something that Turkish Cypriots will see in themselves. What the comedian expects his audience to recognize as familiar is precisely the ability to espouse two entirely opposed viewpoints with equal conviction, almost in the same breath. The expressions that Sadeli uses are recognizable ones, heard constantly on the streets of the island’s capital. In Vaiz’s rendering, holding such entirely contradictory positions is not itself perceived to be contradictory. Rather, it is recognizably what it means to be Turkish Cypriot, where political rhetoric is often emptied of meaning because in the end it cannot change the Status Quo.
+    
+    In ordinary usage, the phrase “status quo” simply means “the existing state of affairs.” In conflict contexts, however, it is used to point to certain “facts on the ground” that are illegitimate and so *must* change and yet are resistant to change. For citizens of an unrecognized state, the “no-war-no-peace” that defines the Status Quo is often expressed in public discourse as an abnormal situation that only a peace deal could normalize. “Normalization” (*normalleşme*) is the word most often used to describe what people believe *should* happen after The Solution—the Solution here coming to stand for the threshold that they will cross into a “normal” future made possible by having a “normal” state. [2] It is this sense of potentially producing a new future, moreover, that gives to any negotiations a liminal, and therefore unpredictable, character. This sense of negotiations as a liminal “time out of time” is common to other conflicts. In Israel-Palestine, notes Julie Peteet, “horrific rounds of violence are interspersed with the periodic ‘peace negotiations,’ which predictably fail to change the status quo” (Peteet 2017, 205).
+    
+    Negotiations, then, are a period that *should* change the Status Quo and yet *cannot* or *do not*. For this reason, the vernacular timespace of the Status Quo is one that takes on the qualities of a stubborn stasis, a situation resistant to change. The stubbornness of this stasis is often encapsulated in negotiators’ descriptions of one side or the other in the conflict as “intransigent,” i.e., unwilling to move from the Status Quo. Instead, negotiators tend to adopt a “wait-and-see” attitude that could also be described as “wait it out.”
+    
+    Waiting it out, in turn, is often about digging in one’s heels, a refusal (McGranahan 2016, Simpson 2014) of either side to give in or give way—in other words, to change the Status Quo. In the case of an unrecognized state such as the one in north Cyprus this happens no matter the embargoes and isolations placed upon it. Here, Status Quo comes to stand not only for the de facto situation but also for the unrecognized state itself, a “fact on the ground” that will not be destroyed but cannot be recognized. The Status Quo is presumably a temporary situation on the way to a lasting solution, despite everyone accepting that it is a temporary situation that could go on forever.
+    
+    In this situation that *should* change and yet *cannot*, discourses of both hope and cynicism are not *only* expressions of the volatility of negotiations. They are also performances, and ones where those expressions serve to create a sociality of those who live with the Status Quo. In a brilliant exposition of the performative meanings of authoritative discourse in the late Soviet state, Alexei Yurchak (2006) argues that ultimately “*how* the discourse represented became more important than *what* it represented,” because it was through a performance emptied of meaning that the community of "normal people" (svoi) was created. Similarly, in the example above, Vaiz creates a character who is recognizably Turkish Cypriot—someone who represents “them”—precisely through a demonstration of the everyday manipulation of both discourses of peace and discourses of division.
+    
+    Of course, being *svoi* “did not preclude one from feeling personal affinity to many values that were explicitly and implicitly central to the socialist system” (Yurchak 2006, 115). Similarly, the *mızır seçmen* of Vaiz’s sketch can say completely opposite things with incredible conviction because both represent familiar values. Both are things that he may simultaneously believe in. However, to express those contradictory views is also to say that no matter what one says or does, no matter what one believes, nothing changes, and change appears to be out of one’s hands.
+    
+    This is what Turkish Cypriots mean by the very common phrase, “*Gıbrız’da bır şey olmaz,*” “Nothing will happen in Cyprus,” something one says with a shrug of the shoulder or dismissive wave of the hand to express the idea that there cannot be positive change in the future, whether that change is recognition of their state or a negotiated solution to the island’s division. In a context where “nothing will happen” and decisions are not up to them, discourses of both hope and despair, both yearning (Jansen 2015) and “stuckness” (Hage 2009) are used less to *mean* than to *signal*, thereby creating a community of persons who recognize the performance as performance. As one retired union leader commented to me, “Everyone’s carved out his own little space in this country (*Hepsinin de bu memlekette biraz yaşam köşecikleri oldu.*) . . . . The status quo here serves both the Right and the Left.” Within the vernacular timespace of the Status Quo, then, the defeated shrug of the shoulders outwardly expresses that “nothing will happen in Cyprus”—even though as a performance it never quite rules out the possibility that something still may.
+    
+    [1] For more on the issue of recognizability, see Bryant and Hatay 2019, Bryant in progress.
+    [2] On the state and “normal lives,” see Fehervary 2002, Greenberg 2011, Jansen 2015.
+    
+    **References**
+    Bryant, Rebecca. In progress. *Faking the State: On Pirates, Puppets, and Other Unbecoming Subjects.*
+    
+    Bryant, Rebecca, and Mete Hatay. 2019 (forthcoming). *De Facto Dreams: Building the So-Called State.* Philadelphia, PA: University of Pennsylvania Press.
+    
+    Fehérváry, Krisztina. 2002.  "American Kitchens, Luxury Bathrooms, and the Search for a ‘Normal’ Life in Postsocialist Hungary.” *Ethnos* 67 (3): 369-400.
+    
+    Greenberg, Jessica. 2011. “On the Road to Normal: Negotiating Agency and State Sovereignty in Postsocialist Serbia.”  *American Anthropologist* 113 (1): 88-100.
+    
+    Hage, Ghassan. 2009. “Waiting Out the Crisis: On Stuckness and Governmentality.” In *Waiting*, ed. Ghassan Hage, 97–106. Carlton, Vic.: University of Melbourne Press.
+    
+    Jansen, Stef. 2015. *Yearnings in the Meantime: ‘Normal Lives’ and the State in a Sarajevo Apartment Complex.* Oxford: Berghahn Books.
+    
+    McGranahan, Carole. 2016. “Theorizing Refusal: An Introduction.” *Cultural Anthropology* 31 (3): 319-325.
+    
+    Peteet, Julie. 2018. “Closure’s Temporality: The Cultural Politics of Time and Waiting.” *The South Atlantic Quarterly* 117 (1): 43-64.
+    
+    Simpson, Audra. 2014. *Mohawk Interruptus: Political Life Across the Borders of Settler States.* Durham and London: Duke University Press.
+    
+    Yurchak, Alexei. 2006. *Everything Was Forever, Until It Was No More.* Princeton, NJ: Princeton University Press.
+    
+    **Cite as:** Bryant, Rebecca. 2019. “The Stubborn Stasis of the Status Quo.” In “Orientations to the Future,” Rebecca Bryant and Daniel M. Knight, eds., *American Ethnologist* website, March 8. http://americanethnologist.org/features/collections/orientations-to-the-future/the-stubborn-stasis-of-the-status-quo.
+    
+    **Rebecca Bryant** is Professor of Cultural Anthropology at Utrecht University. Bryant is an anthropologist of politics and law whose work has focused on ethnic conflict and displacement, border practices, post-conflict reconciliation, and contested sovereignty in Cyprus, Greece and Turkey. She is the author, among other works, of *The Past in Pieces: Belonging in the New Cyprus* (2010), and *De Facto Dreams: Building the So-Called State,* co-authored with Mete Hatay (2019). She holds affiliations as an Associate of the Peace Research Institute Oslo and a Research Fellow in the European Institute of the London School of Economics.
+  _fieldset: bodytext

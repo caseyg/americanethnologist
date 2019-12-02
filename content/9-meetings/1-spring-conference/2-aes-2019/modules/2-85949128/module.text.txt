@@ -1,0 +1,26 @@
+Title: Conference Registration
+
+----
+
+Text: 
+
+##Conference Registration
+
+Registration remains open until the final day of the conference. (link: https://secure.americananthro.org/eweb/DynamicPage.aspx?Site=AAAWeb&WebKey=ced2aab5-ccd7-4f28-bd95-01edee542f5e&navItemNumber=636 text: Register HERE. )
+Graduate (and undergraduate) students! We have a deal for you. AES membership is free if you sign up between now and March 17, 2019. This would normally be $12, but it’s free for a whole year. It also will get you a $5 discount on the AES/ALLA/ABA spring meeting registration because you can register for at student “member" rate ($40) rather than the student "non-member" rate ($45).
+
+|**Rates**                                                                          | Advance    | |   | Onsite |
+|--------------------------------------------------------------------------|--------------------|---|--------------|
+| Non-Student, Member Price                                                | $140               |   | $145         |
+| Non-Student, Nonmember Price                                             | $155               |   | $160         |
+| Student, Member Price (use code "AES19" to get a free membership to AES) | $40                |   | $45          |
+| Student, Nonmember Price                                                 | $45                |   | $50          |
+|                                                                          |                    |   |              |
+
+----
+
+Modulesettings: 
+
+----
+
+Lead: false

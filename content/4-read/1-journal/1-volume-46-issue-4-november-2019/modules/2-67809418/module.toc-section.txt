@@ -1,0 +1,36 @@
+Title: Research Articles
+
+----
+
+Articles: 
+
+- 
+  article: >
+    read/journal/volume-46-issue-4-november-2019/keywords-and-key-words-in-ae
+- 
+  article: >
+    read/journal/volume-46-issue-4-november-2019/porous-social-orders
+- 
+  article: >
+    read/journal/volume-46-issue-4-november-2019/the-missed-period
+- 
+  article: >
+    read/journal/volume-46-issue-4-november-2019/be-your-product
+- 
+  article: >
+    read/journal/volume-46-issue-4-november-2019/interpellating-the-state
+- 
+  article: >
+    read/journal/volume-46-issue-4-november-2019/driving-in-terrain
+- 
+  article: >
+    read/journal/volume-46-issue-4-november-2019/smugglers-migrants-and-demons
+- 
+  article: >
+    read/journal/volume-46-issue-4-november-2019/how-to-speak-like-a-spirit-medium
+- 
+  article: >
+    read/journal/volume-46-issue-4-november-2019/regulating-the-family-through-religion
+- 
+  article: >
+    read/journal/volume-46-issue-4-november-2019/beyond-the-boxes

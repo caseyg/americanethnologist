@@ -1,0 +1,110 @@
+Title: AE interviews Heath Cabot
+
+----
+
+Subtitle: 
+
+----
+
+Author: Ognjen Kojanic
+
+----
+
+Date: 2019-10-22
+
+----
+
+Featuredimage: img_20190923_155020.jpg
+
+----
+
+Tags: 
+
+----
+
+Builder: 
+
+- 
+  text: |
+    AES is pleased to share this interview by Ognjen Kojanic, AES editorial intern and graduate student at the University of Pittsburgh, with Heath Cabot, assistant professor of anthropology at the University of Pittsburgh about her recent article in American Ethnologist, (link: https://americanethnologist.org/read/journal/volume-46-issue-3-august-2019/forum-the-business-of-anthropology-and-the-european-refugee-regime text: “The Business of Anthropology and the European Refugee Regime.”)
+    
+    *The conversation reflects on Cabot’s consideration of the production of knowledge about the “refugee crisis,” what it means to “deexceptionalize displacement,” and the need to leave some refugee stories untold and instead focus on other aspects of the refugee regime.*
+  _fieldset: leadtext
+- 
+  image: img_20190923_155020.jpg
+  _fieldset: image
+- 
+  text: |
+    **Ognjen Kojanic:** In your *American Ethnologist* article, you trace how the infrastructure of our discipline—various funding schemes, conferences, institutes and research groups, journals—shapes knowledge production around the question of “refugee crisis.” I appreciate your emphasis on the business of anthropology and how, if it goes unquestioned, it can replicate logics of marginalization and apartheid. What prompted this reflexive consideration of the anthropological field?
+    
+    **Heath Cabot:** My article is in part a way to make sense of my own failure to intervene productively in public discussions about the European “migration” or “refugee” crisis in 2015 and 2016. When Greece began appearing on the frontpages of US newspapers back in early Fall 2015, I felt that I had said everything I had to say about asylum in Greece in my (link: http://www.upenn.edu/pennpress/book/15206.html text: book manuscript) (2014), much of which was still highly applicable. But I was worried that I did not have adequately nuanced, “up-to-date” knowledge of the emerging border situation and that made me cautious—in hindsight, probably overly cautious. I was also at a very small, teaching-focused institution, and as a junior scholar without a public profile I found it particularly difficult to gain a platform in wider spheres for what I did have to say. And so I eventually stepped back rather than persisting in trying to intervene.
+    
+    In the meantime, many journalists produced caricatures of the situation in Greece and, especially, of seekers of refuge—which is perhaps to be expected. But I also saw qualitative scholars who were relatively new to this topic and the region jump in with both new research projects and public interventions. As I have watched scholarship on these issues emerge, some research has been highly nuanced and insightful; other work is not only inadequate but also, in my view, problematic and exploitative. I also saw some qualitative researchers in the field in Greece—including anthropologists—behaving in ways that flew in the face of everything that I had come to value ethically and politically regarding research on displacement, and ethnographic research in general: variously parachuting in, pressuring asylum seekers, sidestepping the internal rules of collectives or organizations; milking “local scholars,” activists, and students for information and labor; avoiding informed consent; not acknowledging (or even reading) existing research; and not valuing language knowledge.
+    
+    To be absolutely clear, those whose work I name and discuss in detail in the article, even in critical ways, have made important and overall productive interventions and have not to my knowledge engaged in such irresponsible research practices. I did not feel comfortable directly critiquing people with work in-progress or in more precarious positions, but I do hope some of what I discuss resonates with the appropriate parties.
+    
+    Still, despite the dangers “cashing in” on the crisis, I wish I had found a more satisfactory way of responding. I am so incredibly impressed at how (link: http://jasonpatrickdeleon.com/ text: Jason De Leon), for example, has been able to reach different audiences through various collaborations. But I don’t suspect he would be able to do this productively if he had not put in years of work learning about the issues that he intervenes about and the contexts and communities that his work effects.
+    
+    Finally, there is my own sense of complicity at having profited nonetheless from having worked on asylum in Greece even “before the crisis.” The shift I experienced—from having a less visible position in the discipline to acquiring a comparatively large number of citations and speaking invitations over the course of a couple of years—showed how my work was caught up in a shifting political and moral economy of knowledge that was clearly less about individual merit than the flavor of the month.
+    
+    **OK:** Your account highlights the potential pitfalls of what you call “crisis chasing” in migration studies, but it is not pessimistic. You come out in favor of strong empiricism. You echo, among other influences, (link: http://www.anthropology.uct.ac.za/san/people/academic/nyamnjoh text: Francis Nyamnjoh’s) call to abandon an “evangelizing” moral high ground of public anthropology in favor of “science.” How can anthropologists practice “critical and engaged reflexivity,” which may require going against the grain of institutional demands in the current political climate?
+    
+    **HC:** In the spirit of engaged reflexivity, I should admit that I do not have a satisfactory answer—but I am searching, as are so many others. In the article I stake out a fairly strong position on certain things, while in my response to the comments on my article I try to open myself to being displaced, so to speak, from even the points of stability that I articulated.
+    
+    I agree with Nyamnjoh’s (2015, 49) discussion of “science” not in a simple positivistic sense but as a commitment to the “force of evidence” and the “humility of doubt” as key to anthropological practice. This is the empirical thrust of anthropology. Simply put, I do believe that some anthropological accounts are based on more accurate and responsible research than others. History and context are crucial to inform oneself about and to acknowledge. Learning the languages of research participants is important, and we should preserve this as a value and even requirement in our field. Of course, many projects challenge such longstanding tenets of ethnographic practice, and we should also reflexively examine changing demands on methods and ethics.
+    
+    Most strongly, I caution against the obsession with, and cooptation of, “refugee” subjectivities in research projects and the invasive ways in which much, if not most, scholarship (also mine) approaches border crossers. I do not believe we can and should seek purity—that is a danger in and of itself. But we should be willing to make decisions for which there may be costs personally and professionally in order to combat these tendencies. If we are concerned about the implications of a project or article, maybe we should not write about it or publish it; or at the very least we can write with care, do our due diligence in learning and citing the relevant research, and double check our findings with communities and people affected by them. Or maybe we should just do another project altogether.
+    
+    I would never claim to have succeeded here. I can give you a laundry list of things I would have done differently in my earlier and current work. But I also believe there is something to be gained through the ongoing and imperfect (in the sense of always unsatisfactory, and always unfinished) processes of reflection, engagement, and struggle. Anthropologists owe it to ourselves and research participants not to let each other “off the hook.” And we should learn from our inevitable errors.
+    
+    In her response to my article, Catherine Besteman argues that we must go much further than I do and demand real accountability from each other. She calls for a statement and a clear set of commitments from scholars working on displacement and mobility, similar to that issued by (link: https://sites.google.com/site/concernedanthropologists/ text: The Network of Concerned Anthropologists) pledging not to work for the military. I think this is a wonderful idea and would like to work collaboratively to develop this.
+    
+    **OK:** Your article also highlights two processes that are more deeply rooted in the field than “crisis chasing.” One is the power asymmetry between centers of knowledge production (North America, Western Europe) and more peripheral places (such as Greece). The other is the ongoing precarization that takes place even in the more central places of knowledge production, and forces junior scholars to adapt to the neoliberal logic of academia. How can we go beyond following “best practices” in anthropology (long-term fieldwork, linguistic knowledge, historical depth, and familiarity with previous scholarship) to truly embrace decolonizing anthropology and fighting insidious logics that plague the modern university?
+    
+    **HC:** In anthropology especially we have a tendency to focus on the “crisis out there” (itself a colonial tendency) as opposed to the often less visible ones in our backyards. And here we have to remember how the university fits within wider social and political struggles, specifically around race, gender and sexuality, and class/labor. I have also been uncomfortably struck by how my stakes in certain issues have shifted as I have acquired a more privileged position in the university. And for this reason, I am a strong supporter of alliances (such as (link: https://allegralaboratory.net/author/precanthro/ text: PrecAnthro)) and mobilizations (such as (link: unionization text: unionization) (link: https://www.pittgradunion.org/ text: efforts)) and dialogues across sectors, generations, and fields of power precisely in order to check the power of structural interests.
+    
+    I also believe that a playful approach to knowledge production—carving out space for dialogue and conversation that does not necessarily have a clear end—can allow academics to openly question ourselves and others, develop solidarities, and undermine the idea that knowledge must always have a use-value (and thus monetary value as well).
+    
+    We should seek to respect the boundaries of our research interlocutors in clear ways, and there are plenty of scholars who have provided concrete ideas for how to do this (e.g. Khosravi 2017, Simpson 2007, McGranahan 2016); we should not outsource labor to “collaborators,” “local scholars,” or students in marginalized positions without adequate compensation and credit (Sukarieh and Tannock 2019, Rozakou 2019). We shouldn’t necessarily apply for funding just because it is there. And we need to rethink the topical or “issue-focused” aspects of certain research approaches. For me, the whole notion of “migration or “refugee” studies needs to be dismantled. Let’s focus instead on real, enduring questions that will still be there when the spotlight of crisis fades. These make for better research anyway.
+    
+    Finally, as knowledge workers, we have to hold ourselves to higher standards owing to the privileged spaces we occupy. The oft-cited limitations of time or pressure to publish, for instance, are not acceptable excuses for irresponsible research practices; nor is being junior, being precarious, or being a graduate student (though one’s capacity to maneuver of course depends on one’s relative position of power). When people approach mentees, colleagues, collaborators, or research participants in an exploitative or abusive fashion we should hold each other accountable and support each other in doing so. And we should be open (indeed, thankful—even if it hurts) to being held accountable for those problematic things that we all do, often without intending to (since so much of this is structural).
+    
+    **OK:** Your article calls for deexceptionalization. With (link: https://www.anthropology.udel.edu/people/faculty/gramsay text: Georgina Ramsay) (University of Delaware), you organized a symposium entitled (link: https://www.ucis.pitt.edu/global/international-symposium-deexceptionalizing-displacement-rethinking-citizenship-and-mobility text: “De-exceptionalizing Displacement: Rethinking Citizenship and Mobility,”) through (link: https://www.ucis.pitt.edu/global/home text: Pitt’s Global Studies Center) in which you invited participants to think about the intersecting logics of global political economy, characterized by precarity and dispossession; stratification of citizenship, in which certain groups are deemed more worthy of having rights than others; and symbolic geography, which assigns different value to different places on the bedrock of uneven development. Can you talk more about this project of deexceptionalizing displacement? And how does it fit with your call to deexceptionalize anthropology, which requires that anthropologists be more scrupulous in terms of their methodology and epistemology, but also humbler with regard to the real-world effects they ascribe to their discipline?
+    
+    **HC:** This collaboration builds on work that others have already accomplished (e.g. (link: https://www.compas.ox.ac.uk/people/bridget-anderson/ text: Bridget Anderson), (link: http://www.unine.ch/janine.dahinden text: Janine Dahinden), (link: https://www.manchester.ac.uk/research/Nina.glickschiller/personaldetails text: Nina Glick-Schiller), (link: http://www.open.ac.uk/research/careers/academics/engin-isin text: Engin Isin), (link: https://anthropology.stanford.edu/people/liisa-malkki text: Liisa Malkki), (link: https://allegralaboratory.net/introduction-displacement-and-new-sociabilities/ text: Heike Drotbohm and Annika Lems)) which challenges the assumed division between “mobile” and “sedentary” groups, which is usually read in terms of a distinction between “migrants” and “citizens.” The project calls for a few further moves methodologically and politically, and we see it as a starting-point, not an end. It emerges from the increasing realization among interlocutors and scholars not only that cross-border displacement is characterized by great diversity, but that one cannot take for granted a stable figure of the “citizen” who has access to rights, territory, a “home,” etc.
+    
+    We are interested in why some forms of displacement and dispossession are more visible than others (and seen to be more dramatic, or problematic, than others). Why does the cross-border displacement of Syrians, or now Central Americans, generate both profound ire and care? And why is there less interest, for instance, in the dispossessions that indigenous groups have experienced (as discussed by (link: http://www.deakin.edu.au/about-deakin/people/melinda-hinkson text: Melinda Hinkson) at our symposium); or the displacements of African Americans in the US (such as that explored by one of the keynote speakers, (link: https://sst.asu.edu/content/rashad-shabazz-0 text: Rashad Shabazz)); or the struggles of rural residents in mining-affected communities (explored in the work of (link: https://www.newcastle.edu.au/profile/hedda-askland text: Hedda Askland), another speaker)? We also want to highlight how displacement is often historically deep, often characterized more by persistence and continuity than rupture or “crisis,” as shown in the work of (link: https://michellemunyikwa.com/ text: Michele Munyikwa), another symposium speaker. Finally, we seek to explore how not just states but capital, corporations, conglomerates, as well as networks from “below” are also important arbiters of movement (as explored in the current work of (link: http://www.anthropology.pitt.edu/people/nicole-constable text: Nicole Constable)).
+    
+    Deexceptionalizing anthropology is about taking cues from interlocutors who may have much more sophisticated understandings of displacement than scholars, and usually do much more to engage with its effects. Anthropologists are not somehow special or “better” just because we do research with people (and in fact that assumed “virtue” is precisely where many of the dangers come in). We often talk about the “real world relevance” of our work in terms of “intimacy,” “local” or “on-the-ground” knowledge or providing “the human story.” Such notions, while valuable in some ways, also claim a kind of special status for anthropology, over and against other disciplines and even interlocutors. No one who ever shared their knowledge with me for my research needed an anthropologist to “tell their story.” And so, ironically, we sometimes coopt certain perspectives in the name of the very intimacy that we claim.
+    
+    Of course some anthropologists do intervene positively in larger socio-political struggles, but this is often in spite of, not because of our discipline. Others use the tools of our discipline in productive ways. But this is not, in my view, something intrinsic to anthropology, and to claim that it is can be a dangerous form of hubris.
+    
+    **OK:** You suggest that sometimes it might be best to leave some refugee stories untold by anthropologists. Instead, you point out that it might be worthwhile to direct “the ethnographic gaze toward elites in the refugee regime, not merely to enact critique for its own sake but rather to document the ethical-moral, bureaucratic, and political complexities of these worlds.” In your current project, you focus on community-based health care. Migrants and refugees take part in the redistribution of medicines and care within these projects, but they do so alongside pensioners and unemployed persons who are Greek citizens. What is the relationship of this research to your previous work on political asylum?
+    
+    **HC:** My earlier work on asylum was very much focused on the boundary between insider and outsider as negotiated through the work of asylum related legal advocacy, in a country (Greece) that was very often framed as occupying a space on the relative outsides of Europe. It was also about how the classification of “refugee” worked simultaneously to incorporate and reassert alienage. But I was also very interested in the moments when these boundaries broke down and certain forms of sociality emerged that challenged—even in small ways –the assumed boundaries between insider and outsider. At the end of the book I ask how conceptions of insider/outsider would shift under austerity, which was throwing the meaning of citizenship into crisis. My current project in some ways picks up on where this left off, exploring how various forms of (link: https://doi.org/10.1111/1469-8676.12297 text: solidarity) are built through daily forms of labor, redistribution, and care. I have also been exploring experiences of poverty and dispossession that are often uncelebrated. But I also look at the limits of solidarity, and how different forms of exclusion persist or are reasserted through struggles for political inclusion. In short, as in my earlier research, I am interested in the changing meanings of citizenship, and the work that makes everyday forms of justice (in all of their imperfections) possible.
+  _fieldset: bodytext
+- 
+  image: img_20190923_155056.jpg
+  _fieldset: image
+- 
+  text: |
+    **References**
+    
+    Khosravi, Shahram. 2017. "Afterword. Experiences and stories along the way."  *Geoforum* May 2018.
+    
+    Nyamnjoh, Francis B. 2015. “Beyond an evangelising public anthropology: Science, theory and commitment.” *Journal of Contemporary African Studies* 33, no. 1 (Winter): 48-63.
+    
+    McGranahan, Carole. 2016. "Theorizing refusal: An introduction."  *Cultural Anthropology* 31 (3):319-325.
+    
+    Rozakou, Katerina. 2019. "How did you get in? Research access and sovereign power ruring the "Migration Crisis" in Greece."  *Social Anthropology* 27 (S1):68-83. doi: https://doi.org/10.1111/1469-8676.12620.
+    
+    Simpson, Audra. 2007. "On ethnographic refusal: Indigeneity,‘voice’and colonial citizenship."  *Junctures: The Journal for Thematic Dialogue* (9).
+    
+    Sukarieh, Mayssoun, and Stuart Tannock. 2019. "Subcontracting academia: Alienation, exploitation and disillusionment in the UK overseas Syrian refugee research industry."  *Antipode* 51 (2):664-680.
+    
+    Torpey, John. 2000. *The Invention of the Passport: Surveillance, Citizenship, and the State.* Cambridge: Cambridge University Press.
+    
+    
+    **Cite as:**
+    Kojanic, Ognjen. 2019. “AE Interviews Heath Cabot.” American Ethnologist website, October 22, 2019. https://americanethnologist.org/features/interviews/ae-interviews-heath-cabot-2019
+  _fieldset: bodytext

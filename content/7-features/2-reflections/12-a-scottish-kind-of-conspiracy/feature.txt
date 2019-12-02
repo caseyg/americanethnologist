@@ -1,0 +1,64 @@
+Title: A Scottish Kind of Conspiracy
+
+----
+
+Subtitle: 
+
+----
+
+Author: Gabriela Manley
+
+----
+
+Date: 2019-09-03
+
+----
+
+Featuredimage: 
+
+----
+
+Tags: 
+
+----
+
+Builder: 
+
+- 
+  text: |
+    The Scottish National Party (SNP) presents itself as a non-radical civic nationalist party—a traditional party of government, a party to be taken seriously, and one that has capably led the Scottish Parliament for the past eight years. Conspiracy theories are in no way part of the party agenda, nor something to which SNP activists or elected representatives would openly associate. Yet, during my fieldwork with SNP activists, conspiracy theories have been impossible to avoid, ranging from common distrust of the mainstream media to more outlandish theories of actors and infiltrators nefariously tasked with the dismantling of the independence movement.
+    
+    At the National Museum of Scotland, I find myself alongside an SNP elected representative, watching a video of the moon landing. This is the first time I’ve seen the clip, and I’m overwhelmed with genuine awe at humanity’s achievements. My informant, however, interrupts my thoughts with a hesitant, but nonetheless honest, declaration: She doesn’t believe in it. “I’m a bit of a conspiracy theorist,” comes the slightly guilty admission. The moon landing just seems too outlandish to be true. When I ask about the video we just watched, she doubles down and raises common conspiratorial arguments, including that the moon landing video looks suspiciously similar to a fake moon landing filmed for promotional purposes in 1959, the shadows in the video point the wrong way, or the original tapes were mysteriously lost by NASA. It’s no different, she claims, from all the fake videos we see nowadays on the mainstream media, in particular from the UK state broadcaster, as my informants call the BBC. She believes both the moon landing clip and audiences appearing on BBC programs are performances by state-paid actors whose sole job is to mislead the general public and further the establishment’s agenda.
+  _fieldset: bodytext
+- 
+  image: aes-snp-photo-1.png
+  _fieldset: image
+- 
+  text: |
+    Such narratives of state actors crop up routinely among SNP activists. During a recent protest rally at the BBC’s Glasgow headquarters, SNP activists turned out in the hundreds to denounce the (link: https://www.heraldscotland.com/news/16594949.bbc-apologises-for-disgraceful-coverage-of-gers-report/ text: BBC’s negative coverage) of Scotland’s annual Government Expenditure report, a document that is, in their eyes, used by the state to undermine the case for Scottish independence. The atmosphere was tense and watchful, as many believed the rally to be risky, filled with BBC-planted actors tasked with inciting violence in order to undermine the movement’s pacifist agenda.
+    
+    As tempting as it might be to dismiss these conspiracy fears as a simple by-product of Richard Hofstadter’s “clinical paranoiac,” who believes in a vast and sinister conspiracy that exists all around them (Hofstadter 1965; see also (link: https://anthrosource.onlinelibrary.wiley.com/doi/abs/10.1111/AN.640 text: Hodges 2017)), this would be a disservice to my informants. Rather than irrational, their conspiracy theories are better understood as a watered-down version of social critical theory ((link: https://doi.org/10.1086/421123 text: Latour 2004)) or as a direct product of the ongoing process of modern inquiry ((link: https://doi.org/10.1177%2F0267323111433566 text: Aupers 2012)). The SNP activist’s conspiracy theories show legitimate fears rooted in past and present evidence that progressively spiral into greater speculative narratives, blurring the lines between conspiracy and reality.
+    
+    Take, for example, (link: https://www.theguardian.com/uk-news/ng-interactive/2018/oct/15/uk-political-groups-spied-on-undercover-police-list text: the *Guardian’s* investigation) into the hundreds of British spies who were planted in subversive organizations, many of whom were tasked with acting as genuine members while disrupting or dismantling the organization from the inside. These conspiracy theories of yesterday turned to headlines of today reinforce their beliefs and blur the line between what is real—or potentially real—and what is conspiracy. After all, if the state was spying on over 1,000 activist groups, why would they not spy on the SNP? Is accusing disruptive activists of being a plant truly conspiracy? Just like they did with the moon landing in the United States, my SNP informant reiterates, the state will go to any length to retain power. This, she continues, is most obvious in the anti-SNP narratives presented by the BBC, which are being created and manipulated by state-paid actors.
+    
+    Most recently, the SNP has been gripped by the scandal surrounding the BBC’s political commentary programme *Question Time*, where audience members quiz politicians on current affairs. Audience members are said to represent a range of political views and be randomly selected from a pool of applications. However, during one of the most recent episodes filmed in Scotland, a particularly boisterous and aggressive audience member dominated the conversation with strong anti-SNP rhetoric. The hashtag #QuestionTime quickly emerged online, with many SNP viewers claiming this audience member was an actor paid to slander the SNP. Although initially dismissed as a conspiracy theory by many, a number of clips from other *Question Time* episodes filmed in Scotland and featuring this audience member surfaced, along with candid photographs of them meeting with the show’s directors and the politicians appearing in the episode before it was taped. Eventually, after significant pressure from the SNP, the BBC admitted to personally inviting the individual in question, citing a lack of right-wing applicants in Scotland. The person may not have been paid, but in the eyes of my informants they certainly were an actor, sought out and planted in the audience by the BBC so that they could smear the SNP.
+    
+    For SNP members, the BBC’s admission served as irrefutable proof that anti-SNP actors were being deliberately planted in the audience in order to undermine the movement. If such previously unthought-of state intervention has been proven to be true, who is to say that all other conspiracies are not truths waiting to be exposed? If the BBC was manipulating panel audiences, who is to say they weren’t manipulating the news too? As some of these conspiracy theories begin to emerge as being at least partial in truth, the lines between conspiracy and reality blur, strengthening and reinforcing all other conspiracy narratives and turning the impossible into the possible.
+    
+    It is this final point that my informant reiterates at the moon landing display in the National Museum. Time and time again throughout her political career, cases of supposed conspiracy theories have been revealed as truths, sometimes decades down the line. As she turns to the video, watching astronauts jump clumsily in space suits, she reflects: “Who is to say that in years to come this won’t also come out as a state-led plot, the astronauts in the suits paid actors working for the state?” The moon landing conspiracies resonate with BBC state-actor narratives, leaving her with the uncanny feeling that there must be something more to be uncovered. “One must always follow independent evidence,” she concludes, as “the state cannot be trusted.” For her, the lines between real and fake moon landings are just as blurred as the lines between conspiracies of media bias and the truth.
+  _fieldset: bodytext
+- 
+  text: |
+    **References**
+    Aupers, Stef. 2012. “‘Trust no one’: Modernization, paranoia and conspiracy culture.” *European Journal of Communication* 27 (1): 22-34.
+    Hodges, Adam. 2017. “The Paranoid Style of Climate Change Denial.” *Anthropology News website,* October 11. Accessed [August 22, 2019] https://anthrosource.onlinelibrary.wiley.com/doi/pdf/10.1111/AN.640.
+    
+    Hofstadter, Richard. 1965. *The Paranoid Style in American Politics.* New York: Alfred A. Knopf.
+    Latour, Bruno. 2004. "Why Has Critique Run out of Steam? From Matters of Fact to Matters of Concern." *Critical Inquiry* 30 (2): 225-248.
+    
+    **Gabriela Manley** is a PhD candidate in social anthropology at the University of St Andrews. Her research on the Scottish independence movement focuses on time, temporality, and futural orientations of political movements.
+    
+    **Cite as:** Manley, Gabriela. 2019. “A Scottish Kind of Conspiracy.” American Ethnologist website, September 3, 2019. Previously published in *Anthropology News* website, July 12, 2019.
+    
+    This article was originally published by *Anthropology News* on July 12, 2019. See “A Scottish Kind of Conspiracy” on the *Anthropology News* website here: http://www.anthropology-news.org/index.php/2019/07/12/a-scottish-kind-of-conspiracy/
+  _fieldset: bodytext

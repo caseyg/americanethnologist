@@ -1,0 +1,27 @@
+Title: Research Articles
+
+----
+
+Articles: 
+
+- 
+  article: >
+    read/journal/volume-46-issue-1-february-2019/intimate-ethnography-and-the-anthropological-imagination
+- 
+  article: >
+    read/journal/volume-46-issue-1-february-2019/governing-alongside
+- 
+  article: >
+    read/journal/volume-46-issue-1-february-2019/to-sing-with-another-s-voice
+- 
+  article: >
+    read/journal/volume-46-issue-1-february-2019/stock-morality
+- 
+  article: >
+    read/journal/volume-46-issue-1-february-2019/squatters-make-history-in-new-york
+- 
+  article: >
+    read/journal/volume-46-issue-1-february-2019/data-centers-as-infrastructural-inbetweens
+- 
+  article: >
+    read/journal/volume-46-issue-1-february-2019/an-awkward-technocracy

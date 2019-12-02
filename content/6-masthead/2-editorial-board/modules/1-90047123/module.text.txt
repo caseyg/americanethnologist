@@ -4,62 +4,54 @@ Title: Text module
 
 Text: 
 
-### Associate Editors
-(link: http://www.umsl.edu/divisions/artscience/anthro/Faculty/susanbrownell.html text: Susan Brownell), University of Missouri-St Louis
-(link: https://www.research.manchester.ac.uk/portal/jeanette.edwards.html text: Jeanette Edwards), University of Manchester
-(link: http://barcelona.academia.edu/SusanaNarotzky text: Susana Narotzky), Universitat de Barcelona
-(link: https://paige-west.com/ text: Paige West), Barnard College and Columbia University
-(link: http://anthropology.usf.edu/faculty/yelvington/ text: Kevin Yelvington), University of South Florida
-
 ### Editorial Board
-(link: https://findanexpert.unimelb.edu.au/display/person6485 text: Kalissa Alexeyeff), University of Melbourne
-(link: https://culturalanthropology.duke.edu/people/anne-allison text: Anne Allison), Duke University
-(link: https://www.kent.ac.uk/politics/staff/canterbury/bowman.html text: Glenn Bowman), University of Kent
-(link: http://anthro.ucsc.edu/faculty/academic-personnel/singleton.php?&singleton=true&cruz_id=brenneis text: Don Brenneis), University of California, Santa Cruz
-(link: http://www.anthro.ucla.edu/faculty/karen-brodkin text: Karen Brodkin), University of California, Los Angeles
-(link: http://www.mmg.mpg.de/departments/socio-cultural-diversity/scientific-staff/prof-dr-ayse-caglar/ text: Ayşe Çağlar), University of Vienna
-(link: https://humdev.uchicago.edu/directory/jennifer-cole text: Jennifer Cole), University of Chicago
-(link: http://www.anthropology.northwestern.edu/people/faculty/dileonardo.html text: Micaela di Leonardo), Northwestern University
-(link: https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Anthropology/Faculty-Listing/Marc-Edelman text: Marc Edelman), City University of New York Graduate Center and Hunter College
-(link: https://www.sv.uio.no/sai/english/people/aca/geirthe/ text: Thomas Hylland Eriksen), University of Oslo
-(link: https://vivo.brown.edu/display/pfaudree text: Paja Faudree), Brown University
-(link: http://www.ppgasmn-ufrj.com/luiz-fernando-dias-duarte.html text: Luiz Fernando Dias Duarte), Universidade Federal do Rio de Janeiro
-(link: https://en-social-sciences.tau.ac.il/profile/khaled text: Khaled Furani), Tel Aviv University
-(link: http://www.anthro.ucla.edu/faculty/linda-garro text: Linda Garro), University of California, Los Angeles
-(link: https://researchers.anu.edu.au/researchers/george-k text: Ken George), Australian National University
-(link: http://www.indiana.edu/~anthro/people/faculty/igershon.shtml text: Ilana Gershon), Indiana University
-(link: https://www.amherst.edu/people/facstaff/dbgewertz text: Deborah Gewertz), Amherst College
-(link: https://www.helsinki.fi/en/faculty-of-social-sciences text: Sarah Green), University of Helsinki
-(link: https://www.princeton.edu/anthropology/faculty/carol_greenhouse/ text: Carol Greenhouse), Princeton University
-(link: https://researchers.anu.edu.au/researchers/gregory-ca text: Christopher Gregory), Australian National University
-(link: www.usmonline.net/about-guadeloupe text: Francio Guadeloupe), University of St Martin
-(link: http://www.anthro.ucla.edu/faculty/akhil-gupta text: Akhil Gupta), University of California, Los Angeles
-(link: https://anthropology.columbian.gwu.edu/hugh-gusterson text: Hugh Gusterson), George Washington University
-(link: https://findanexpert.unimelb.edu.au/display/person142403 text: Ghassan Hage), University of Melbourne
-(link: http://socialdifference.columbia.edu/people/rema-hammami text: Rema Hammami), Birzeit University
-(link: http://anthro.rutgers.edu/fac/department-undergrad-a-grad-faculty/angelique-haugerud text: Angelique Haugerud), Rutgers University
-(link: http://www.oise.utoronto.ca/sje/People/Faculty/1615/Monica_Heller.html text: Monica Heller), University of Toronto
-(link: http://anthropology.fas.harvard.edu/people/michael-herzfeld text: Michael Herzfeld), Harvard University
-(link: http://www.uib.no/en/persons/Edvard.Hviding text: Edvard Hviding), University of Bergen
-(link: http://www.gold.ac.uk/anthropology/staff/johnson-mark/ text: Mark Johnson), Goldsmiths, University of London
-(link: http://anthropology.yale.edu/people/william-w-kelly text: William W. Kelly), Yale University
-(link: https://www.buffalo.edu/cas/anthropology/faculty/faculty_directory/frederick-klaits.html text: Fred Klaits), State University of New York at Buffalo
-(link: http://anthropology.utoronto.ca/people/faculty/bonnie-mcelhinny/ text: Bonnie McElhinny), University of Toronto
-(link: http://anthropology.emory.edu/home/people/faculty/nugent.html text: David Nugent), Emory University
-(link: http://www.anthro.ucla.edu/faculty/elinor-ochs text: Elinor Ochs), University of California, Los Angeles
-(link: http://graduateinstitute.ch/directory/_/people/randeria text: Shalini Randeria), Graduate Institute Geneva and Institute for Human Sciences, Vienna
-(link: https://researchers.anu.edu.au/researchers/rumsey-al text: Alan Rumsey), Australian National University
-(link: http://navi.ufsc.br/?page_id=4 text: Carmen Silvia de Moraes Rial), Universidade Federal de Santa Catarina
-(link: https://www.trentu.ca/ids/faculty-research/dr-jacqueline-s-solway text: Jacqueline Solway), Trent University
-(link: http://www.socanth.cam.ac.uk/directory/dr-rupert-stasch text: Rupert Stasch), University of Cambridge
-(link: http://www.anthropology.hawaii.edu/people/Faculty/Tengan/index.html text: Ty Tengan), University of Hawai‘i at Mānoa
-(link: https://researchers.anu.edu.au/researchers/tomlinson-ma text: Matt Tomlinson), Australian National University
-(link: https://applicationspub.unil.ch/interpub/noauth/php/Un/UnPers.php?PerNum=1118122&LanCode=8 text: Anne-Christine Trémon), Université de Lausanne
-(link: http://anthropology.utoronto.ca/people/faculty/holly-wardlow/ text: Holly Wardlow), University of Toronto
-(link: http://www.jjay.cuny.edu/faculty/alisse-waterston text: Alisse Waterston), John Jay College of Criminal Justice CUNY
-(link: http://www.ens.fr/recherche/portraits/article/florence-weber?lang=en text: Florence Weber), École normale supérieure
-(link: http://anthropology.hawaii.edu/people/emeritus/white/index.html text: Geoff White,) University of Hawai‘i at Mānoa
-(link: http://www.t.hosei.ac.jp/~matoriy/profile-e.html text: Matori Yamamoto), Hosei University
+Ana Aparicio, Northwestern University  
+Adia Benton, Northwestern University 
+Lucas Bessire, University of Oklahoma
+David Bond, Bennington College 
+Laurian Bowles, Davidson College 
+Don Brenneis, University of California, Santa Cruz
+Heath Cabot, University of Pittsburgh 
+Marisol de la Cadena, University of California, Davis 
+Sidney Cheung, The Chinese University of Hong Kong 
+Mun Young Cho, Yonsei University
+Aimee Cox, Yale University 
+Elizabeth Dunn, Indiana University Bloomington 
+Marc Edelman, City University of New York Graduate Center and Hunter College
+Ilana Gershon, Indiana University
+Akhil Gupta, University of California, Los Angeles
+Hugh Gusterson, George Washington University
+Penny Harvey, University of Manchester 
+Angelique Haugerud, Rutgers University
+Michael Herzfeld, Harvard University
+Dorothy Hodgson, Brandeis University
+Saida Hodzic, Cornell University 
+Andrew Irving, University of Manchester 
+Emma Kowal, Deakin Univesity
+Lilith Mahmud, University of California, Irvine 
+Jeff Maskovsky, The Graduate Center, City University of New York 
+Gordon Mathews, The Chinese University of Hong Kong 
+Martha Menchaca, University of Texas at Austin 
+Scott Morgenson, Queen's University 
+Atsuro Morita, Osaka University
+Andrea Muehlebach, University of Toronto 
+Michelle Murphy, University of Toronto 
+David Nugent, Emory University 
+Richard Rottenburg, University of the Witwatersrand 
+Emilia Sanabria, Centre National de la Recherche Scientifique
+Jade Sasser, Univesity of California, Riverside 
+Alpa Shah, London School of Economics and Political Science
+Vineeta Sinha, National University of Singapore 
+Jacqueline Solway, Trent University
+Sanjay Srivstava, Institute of Economic Growth 
+Yuka Suzuki, Bard College 
+Manuel Tironi, Pontificia Universidad Catolica de Chile
+Sahana Udupa, Ludwig-Maximilians-Universität München (LMU Munich)
+Holly Wardlow, University of Toronto
+Alisse Waterston, John Jay College of Criminal Justice CUNY
+Paige West, Barnard College and Columbia University
+Emily Yates-Doerr, Oregon State University 
+Patricia Zavella, University of California, Santa Cruz
 
 ----
 

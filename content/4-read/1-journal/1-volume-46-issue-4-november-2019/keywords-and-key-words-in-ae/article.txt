@@ -1,0 +1,29 @@
+Title: Keywords and key words in AE
+
+----
+
+Subtitle: The logic of recognition and the limits of algorithmic relevance
+
+----
+
+Author: YATUN SASTRAMIDJAJA
+
+----
+
+Wiley: https://anthrosource.onlinelibrary.wiley.com/doi/10.1111/amet.12835
+
+----
+
+Text: The keywords and titles of articles published in American Ethnologist from 2016 to 2019 show a striking intersection of anthropological scholarship and world‐event trends. Tables and word clouds generated from recurring words expose the centrality of critical events, which appears to support recent contentions about a “crisis‐chasing” mode in anthropology today. But it conceals the multivocality of authors’ engagement with current events, while the idiosyncratic words that fill most of the keyword lists and titles in AE disrupt any generalization about anthropology's primary concerns. Therefore, aggregated key words cannot be taken at face value as signposts of relevance in anthropological scholarship. Yet those isolated words are increasingly influential in an era of digitized publishing, which compels scholars to adapt keywords to algorithmic logics of recognition.
+
+----
+
+Tags: aggregation,algorithm,relevance,anthropology,American Ethnologist
+
+----
+
+Featuredimage: amet12835-fig-0007-m.png
+
+----
+
+Related: 

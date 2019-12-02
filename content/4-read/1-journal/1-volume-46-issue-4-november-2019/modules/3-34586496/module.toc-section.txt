@@ -1,0 +1,81 @@
+Title: Book Reviews
+
+----
+
+Articles: 
+
+- 
+  article: >
+    read/journal/volume-46-issue-4-november-2019/european-anthropologies
+- 
+  article: >
+    read/journal/volume-46-issue-4-november-2019/after-ethnos
+- 
+  article: >
+    read/journal/volume-46-issue-4-november-2019/coyote-s-land
+- 
+  article: >
+    read/journal/volume-46-issue-4-november-2019/smoking-mirror
+- 
+  article: >
+    read/journal/volume-46-issue-4-november-2019/pride-parades
+- 
+  article: >
+    read/journal/volume-46-issue-4-november-2019/contradictions-of-democracy
+- 
+  article: >
+    read/journal/volume-46-issue-4-november-2019/lives-in-transit
+- 
+  article: >
+    read/journal/volume-46-issue-4-november-2019/islands-of-sovereignty
+- 
+  article: >
+    read/journal/volume-46-issue-4-november-2019/beyond-cuban-waters
+- 
+  article: >
+    read/journal/volume-46-issue-4-november-2019/familiar-futures
+- 
+  article: >
+    read/journal/volume-46-issue-4-november-2019/shock-therapy
+- 
+  article: >
+    read/journal/volume-46-issue-4-november-2019/cooking-data
+- 
+  article: >
+    read/journal/volume-46-issue-4-november-2019/animal-ethos
+- 
+  article: >
+    read/journal/volume-46-issue-4-november-2019/religion-as-critique
+- 
+  article: >
+    read/journal/volume-46-issue-4-november-2019/swahili-muslim-publics-and-postcolonial-experience
+- 
+  article: >
+    read/journal/volume-46-issue-4-november-2019/quranic-schools-in-northern-nigeria
+- 
+  article: >
+    read/journal/volume-46-issue-4-november-2019/life-lived-in-relief
+- 
+  article: >
+    read/journal/volume-46-issue-4-november-2019/currencies-of-imagination
+- 
+  article: >
+    read/journal/volume-46-issue-4-november-2019/the-rebirth-of-bodh-gaya
+- 
+  article: >
+    read/journal/volume-46-issue-4-november-2019/navigating-austerity
+- 
+  article: >
+    read/journal/volume-46-issue-4-november-2019/global-mountain-regions-conversations-toward-the-future
+- 
+  article: >
+    read/journal/volume-46-issue-4-november-2019/the-neighborhood-of-gods-the-sacred-and-the-visible-at-the-margins-of-mumbai
+- 
+  article: >
+    read/journal/volume-46-issue-4-november-2019/slavery-and-utopia-the-wars-and-dreams-of-an-amazonian-world-transformer
+- 
+  article: >
+    read/journal/volume-46-issue-4-november-2019/the-owners-of-kinship-asymmetrical-relations-in-indigenous-amazonia
+- 
+  article: >
+    read/journal/volume-46-issue-4-november-2019/writing-the-world-of-policing-the-difference-ethnography-makes

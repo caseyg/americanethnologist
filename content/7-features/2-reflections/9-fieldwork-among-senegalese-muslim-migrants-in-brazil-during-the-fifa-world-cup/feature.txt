@@ -1,0 +1,71 @@
+Title: Fieldwork among Senegalese Muslim Migrants in Brazil during the FIFA World Cup
+
+----
+
+Subtitle: 
+
+----
+
+Author: Gana Ndiaye
+
+----
+
+Date: 2019-07-31
+
+----
+
+Featuredimage: ndiaye-1.png
+
+----
+
+Tags: 
+
+----
+
+Builder: 
+
+- 
+  text: >
+    AES is pleased to present fieldwork
+    essays from the winners of our 2018
+    Small Grants Competition.
+  _fieldset: leadtext
+- 
+  text: |
+    Soccer was unavoidable on my first-ever trip to Rio de Janeiro. It was August 2014, the year Brazil hosted the 2014 FIFA World Cup. I arrived less than a month after the German national team trashed the Brazilian Seleção 7-1 during the quarterfinals. For a country that has won the most World Cup trophies, where (link: http://time.com/3809905/photos-world-cup-brazil-fans/ text: soccer is like a religion), the defeat felt like a tragedy. *O sete a um*, the 7 to 1 defeat, would not be forgotten anytime soon.
+    
+    Four years later, during the next FIFA World Cup, I found myself back in Brazil, in São Paulo this time, with support from the American Ethnological Society. This time during the World Cup, things looked different. I was no longer an exchange student from Belgium. Brazil was not hosting the tournament, and the *Seleção* had improved under its new coach. There was hope that the team would do better, even as memories of their historic defeat were still fresh. Most importantly, for me and for the Senegalese migrants with whom I was working, Senegal qualified for this World Cup. However, I was not expecting the tournament to radically change my fieldwork.
+  _fieldset: bodytext
+- 
+  image: ndiaye-1.png
+  _fieldset: image
+- 
+  text: |
+    Shadows of the 2014 tournament hung over Brazil when Switzerland held the *Seleção* to a draw in their first group match. However, the Brazilian team would go on to win its following matches against Costa Rica and Serbia in the group stage, and against Mexico in the round of sixteen, making it to the quarterfinals. In Brazil, the streets were colorful, filled with excitement; people sang and danced after each win. This was particularly the case in Rio de Janeiro, host to the largest third largest Senegalese community, where I traveled frequently to conduct interviews.
+    
+    Doing fieldwork in this period was challenging. When Brazil had a game, everything stopped. I had to plan according to the team’s schedule. The World Cup affected where and when I could I could meet the Senegalese Muslim migrants I was interviewing. For the Muslim migrants, the festivities created an interesting situation. For example, if one does not drink alcohol, how does one celebrate victories in a country where such activities go hand-in-hand with sharing alcoholic beverages? I traveled to Brazil to learn about the experiences of Senegalese Muslim migrants. I had expected to meet people in mosques and private places of worship. Soccer forced me out of such religious spaces, and thus offered a unique ethnographic perspective to the issues I am investigating.
+  _fieldset: bodytext
+- 
+  image: ndiaye-2.png
+  _fieldset: image
+- 
+  text: |
+    In a world in which many social interactions are mediated through technology, paying attention to online interactions was instructive. People, including me, learned about games and events over social media. Talking with people at these social media-advertised events led to some of the most interesting discussions I had about being a Black Muslim in Brazil.
+    
+    The Brazilian media also noticed and reported on immigrant soccer spectators. After Senegal’s win over Poland, the *Folha de São Paulo* published an article discussing the unique way the Senegalese migrants were rooting for their team. It said: “Sem álcool e com farinha, senegaleses comemoram vitória no centro de [São Paulo],” or Senegalese in São Paulo celebrated “(link: https://www1.folha.uol.com.br/esporte/2018/06/sem-alcool-e-com-farinha-senegaleses-comemoram-vitoria-no-centro-de-sp.shtml text: without alcohol and with flour) [painted on their faces].” Senegalese fans also used social media and profited from the press coverage to raise awareness about the struggle against widespread racism and xenophobia in professional soccer. Hashtags such as *#respeito, #todossomosfaricanos, #antiracismo* became popular in social media as Brazilian news outlets produced (link: https://www.brasildefato.com.br/2018/06/28/senegaleses-se-despedem-da-copa-felizes-com-acolhida-brasileira/ text: reports) about Senegalese fans. Such anti-racist campaigns proved necessary. When Senegal drew against Japan, 2-2, Brazilian journalist João Garcia tweeted that “two cultures” faced each other: the Japanese who were “ethical and correct” against the Senegalese who were “dirty, crooked.” To his dismay, the match ended in a draw.
+  _fieldset: bodytext
+- 
+  image: ndiaye-3.png
+  _fieldset: image
+- 
+  text: |
+    On July 6, Belgium defeated Brazil 2-1 in the quarterfinals, putting an end to Brazil's hope to get over the humiliation of 2014. After losing to Colombia in the last group match, Senegal did not make it to the round of sixteen. Even after the African teams exited the tournament, racist commentary continued to be the subject of discussion on social media and among the people with whom I worked. People denounced the (link: https://www.nexojornal.com.br/expresso/2018/07/04/Os-estere%25C3%25B3tipos-sobre-sele%25C3%25A7%25C3%25B5es-africanas.-E-o-caso-de-Aliou-Ciss%25C3%25A9 text: stereotypes) about African players, discussed the death threat and the racial slurs against Fernandinho because of the own goal he scored against Belgium. I felt some relief when the World Cup ended and soccer made way for other topics. After all, my main research interest was religion, not soccer, even though both intersect race in interesting ways in Brazil.
+    
+    Although my focus during fieldwork was religion, the unavoidable presence of soccer provided me with a lens through which to view Senegalese Muslim identity in Brazil. The public viewing of matches showed me how Senegalese migrants work around the omnipresence of alcohol, confront racist stereotypes, and utilize social media to form community around games. In effect, soccer led me to consider a specific facet of public, local Muslim identity which may have been less obvious if I had stayed in private places of worship. Most importantly, Senegal’s presence in the World Cup gave the Senegalese community in Rio a sense of pride, both in their country and in the conduct of the national team, and a sense of visibility within Brazil.
+  _fieldset: bodytext
+- 
+  text: |
+    **Cite as:** Ndiaye, Gana. 2019. “Fieldwork among Senegalese Muslim Migrants in Brazil during the FIFA World Cup.” American Ethnologist website, July 31, 2019 [https://americanethnologist.org/features/reflections/fieldwork-among-senegalese-muslim-migrants-in-brazil-during-the-fifa-world-cup]
+    
+    *Gana Ndiaye is Ph.D. student of social and cultural anthropology at Boston University.*
+  _fieldset: bodytext

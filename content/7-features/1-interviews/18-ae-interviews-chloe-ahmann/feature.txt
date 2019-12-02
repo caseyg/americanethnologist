@@ -1,0 +1,86 @@
+Title: AE interviews Chloe Ahmann
+
+----
+
+Subtitle: 
+
+----
+
+Author: Alize Arıcan
+
+----
+
+Date: 2019-09-20
+
+----
+
+Featuredimage: proposed-site-aes.png
+
+----
+
+Tags: 
+
+----
+
+Builder: 
+
+- 
+  text: |
+    AES is pleased to share this interview by Alize Arıcan, AES editorial intern and graduate student at the University of Illinois at Chicago, with Chloe Ahmann, current Harper-Schmidt Fellow at University of Chicago and soon-to-be assistant professor of anthropology at Cornell University about her recent article in American Ethnologist, “(link: https://anthrosource.onlinelibrary.wiley.com/doi/abs/10.1111/amet.12792 text: Waste-to-Energy: Garbage Prospects and Subjunctive Politics in Late-Industrial Baltimore.)”
+    
+    *The conversation explores the concept of subjunctive politics, the political potentials and pitfalls of risk, and productive tensions surrounding fieldwork.*
+  _fieldset: leadtext
+- 
+  image: proposed-site-aes.png
+  _fieldset: image
+- 
+  text: |
+    **Alize Arıcan (AA):** Chloe, thank you very much for taking the time to discuss your recent article in *American Ethnologist.* To start off, could you tell us a little bit about your engagement with Baltimore that preceded your ethnographic project? How did it foreground this piece?
+    
+    **Chloe Ahmann (CA):** I first came to south Baltimore as an elementary school teacher. That experience led me to graduate school, where I hoped to wrap my head around tensions I had observed between parents, teachers, school-based administrators, and North Avenue (the headquarters for Baltimore City Public Schools) around the “(link: https://anthrosource.onlinelibrary.wiley.com/doi/full/10.1111/aeq.12184 text: accountability movement)” in public education. During an early fieldwork trip, I got seduced into a very different kind of project about how high school activists were drawing on two centuries of local exposure to fight the construction of a major trash incinerator. So I came to my dissertation fieldwork interested in hostility to the project that I write about here. And when I learned that a sizable contingent of older white residents supported the incinerator—even *desired* it—I have to admit that it was quite the revelation. When I first sat down to write this piece, I saw it as an exercise in working through my own colossal blind spots around what should count as politics in late industrial spaces.
+    
+    For a long time before, my research pivoted around the chronopolitics of risk and what I saw as its determined challenger, the chronopolitics of accumulation. I was curious whether their distinct relationships with history might explain why state actors and local activists felt so differently about the incinerator. As an orientation toward time, risk fixates on the uncertain future and views the past, at best, as an abstract plane of comparable data. As a politics, it is not particularly interested in how a problem like the Fairfield Project might coexist with other past and present sources of pollution. It focuses on one thing at a time and hedges bets based on the conceit of isolation. Ulrich Beck has gone so far as to argue that, in what he famously called “risk society,” “the past loses the power to determine the present” (1992, 34). And we can see that truth play out insofar as we are looking at processes like technocratic risk assessment and at entities like the administrative state. But if we look from a place like Curtis Bay, it becomes very clear that a lot escapes risk’s calculus—and, more importantly, that risk-thinking can have devastating consequences to the extent that it disavows (toxic) accumulation. Accumulation, on the contrary, does not figure past and future as quite so separable, but rather as things that pile onto one another. Thinking time as cumulative in Curtis Bay meant seeing the incinerator as the latest in a pattern of interrelated problems, and therefore proposing solutions that troubled their foundation.
+    
+    I offer this long tangent to underscore that I entered the field with this very clean, symmetrical approach to thinking about the politics available under late industrialism (here-is-how-the-state-sees, here-is-how-the-people-see). And when fieldwork happened, everything got complicated. On Wednesdays, I spent time at the Curtis Bay Senior’s Club with Dorothy and Alice and Joe eating lunch and playing Bingo and being shushed (it is a serious faux pas to talk during Bingo) and realizing that there were multiple ways that past, present, and future were folding in on one another. Simply contrasting risk’s focus on abstract futurity with the campaign’s emphasis on cumulative experience did not do justice to the many ways time textured local politics.
+    
+    What I found so fascinating about the residents I feature here, after I got over my initial surprise, was that they were also thinking about the future in light of local history but coming to very different conclusions than the campaign was. Working through their desire for an industrial revival transformed what I once conceived of as a project about risk and its discontents into an ethnography of the subjunctive—that is, an ethnography concerned with the range of future orientations that have shaped this place over the long term and the vibrant multiplicity of politics they’ve made possible.
+    
+    **AA:** You often articulate your interest in the future as a political object. How does your article, and the concept of “subjunctive politics” you develop, speak to this broader interest?
+    
+    **CA:** Jacques Rancière (2006) teaches us that politics involves a distribution of the sensible. It conditions how we behave, what we say, the ways we see and hear, even the things we want. Before there can be claims about the public good, there is this whole perceptual regime. In this article, squeezing the boundaries of the sensible is precisely what the discourse of “renewal” does. Part recovery and part progress, cyclical and linear, renewal forges ahead by attempting to recoup something of the past—be that a cleaner, whiter, more economically prosperous Curtis Bay in the case of urban renewal or, for renewable energy advocates, an attachment to growth unencumbered by ecology. Both white working-class residents like Michael and technocrats like Peter drew from a pool of past developments (another dump, another chemical plant) when they thought about the sorts of futures available to Curtis Bay. And that orientation toward time rendered the incinerator sensible as a public good—or at least as the “best of all possible options.”
+    
+    So when I say that the future is a political object, what I mean in a very literal sense is that temporal orientations are political ones—not that they condition them or precede them or follow from them but *are themselves political.* The expansiveness with which we are prepared to engage time (deep pasts, far futures; shallow pasts, near futures; etc.) has a profound effect on the sorts of things we even allow ourselves to want. In this essay, I call the subjunctive a formula for conjecture that limits a vast field of potential futures into smaller set of actionable prospects. It’s a preemptive structuring of possibility. Here, the discourse of “renewal” structures possibility in particular ways, but the subjunctive is a fickle thing. There are lots of ways that it might be configured—some of which accommodate a more capacious sense of political possibility than others.
+    
+    **AA:** I appreciated your discussion of prevalent discourses of renewal and waste management in Curtis Bay as inextricable from racialization. You show that this entanglement is not the product of a singular moment (like the 2016 U.S. Presidential elections), but is an enduring, continual process. What is at stake politically in attending to temporality in seemingly abrupt political conjunctures? What kind of political work do you hope your theoretical orientation will do?
+    
+    **CA:** You are right—the election did not inaugurate these discourses in Curtis Bay. With Baltimore in the news lately, we should all be reminded that (link: https://www.baltimoresun.com/opinion/op-ed/bs-ed-op-0806-rat-history-20190805-mypebhazpbahfi7rebbxbj2br4-story.html text: slippage between race-talk and waste-talk is centuries old.) In Curtis Bay, it goes at least as far back as the 18th century, when the region was used as a quarantine zone for “impure” immigrant bodies. So racist tropes are old hat in Baltimore; they weren’t born in 2016. But the election did embolden many locals to broadcast them. And it certainly changed how I listened. It grabbed my distribution of the sensible and chucked it off a cliff…and I think smarter politics starts with that acknowledgment. For the same reason, I offer subjunctive politics as a counterpoint to arguments that see Trumpism, etc., and jump quickly to answers like false consciousness. That’s a writing off that seems untenable. Given everything, I’d say we desperately need other ways to talk about positions that seem short-sighted and illogical.
+    
+    **AA:** In your article in *Cultural Anthropology,* “(link: https://journal.culanth.org/index.php/ca/article/view/3489 text: It’s exhausting to create an event out of nothing,)” you argue that time can be a medium of resistance and refusal as well as slow violence. In what ways do you relate those dynamics to the structuring of possibilities you present in “Waste to Energy”? How do you see these two articles in conversation with each other?
+    
+    **CA:** In “Waste to Energy,” my intent was to show that temporal orientations are always also arguments about the kinds of worlds that seem politically possible. “It’s Exhausting…,” on the contrary, takes up time as a tactical object (something one might, for example, drag out to create bureaucratic problems). These things are, of course, bound up in one another. It’s funny—I wrote the time-as-tactic material first but have a much deeper appreciation for that material after sitting with risk, renewal, and accumulation on their own terms. I think it takes acknowledging the wide variety of temporal orientations at play in a place like Curtis Bay to really grasp what it means for time to be contested terrain, and to understand the fight over the incinerator, in part, as a battle between chronopolitics.
+    
+    For what it’s worth, I do think there are several ways in which time operates as a tactical object here. Think of Michael’s negotiation with Energy Answers. He was not going to let that project go forward—he was going to delay and delay and delay—until they acquiesced to a community benefits contract. It was a stance he articulated to me as pushing back against the old model of corporate social responsibility in Curtis Bay, where residents took whatever benefits businesses felt inclined to offer. I’d hesitate to call this resistance or refusal, but it’s certainly a politics.
+    
+    **AA:** To me, “Waste to Energy” points at a pervasive tension in your body of work: between your political commitments and involvement with environmental activists and your engagements with technocrats and the white working-class in favor of waste-to-energy projects. How did you navigate this tension in your fieldwork and in the writing stage?
+    
+    **CA:** It is a tension! I’ve written a bit, elsewhere, on (link: https://onlinelibrary.wiley.com/doi/abs/10.1111/AN.325 text: navigating this sticky situation in the field.) I’m still figuring out how to do it in the writing. In this essay, I tried to cultivate a space that lingered enough with white working-class and technocratic visions of renewal to appreciate how they hang together. And I think it’s possible to do that without explaining away the virulence of racism on the one hand and the myopia of progress on the other.
+    
+    To return to your earlier question about what is at stake in this politically: the young organizers I work with spend a lot of time talking about “invisible power.” It’s a term they borrow from (link: http://www.powercube.net/wp-content/uploads/2010/01/PowerPack_web_version.pdf text: John Gaventa) to gloss the ways in which “awareness of one’s rights and interests [is] hidden through the adoption of dominating ideologies.” (If it sounds familiar, it’s because it’s a streamlined rendition of Antonio Gramsci’s extended teachings on hegemony.) These organizers also study Curtis Bay. And they’ve found invisible power in the area’s malaise, in the local attachment to industry, and in the seeming inevitability of the Fairfield Project. They’ve also found it in the pervasiveness of “green” language and in the city’s “pro-growth” philosophy. This analysis has shaped the way they talk about incineration. It’s why they often undercut its status as “truly renewable energy” and why they have worked so hard to re-employ the region’s industrial past as a source of broken promises. It’s also why they frequently orchestrate events that punctuate slow violence. These are *studied responses.*
+    
+    So, maybe, the tension is not quite so tense. Ask any organizer and they will tell you that part of the work is developing an analysis of the problem.
+    
+    **AA:** What is next for you? What are some of your upcoming projects?
+    
+    **CA:** I'm writing a book based on my work in Curtis Bay that spends more time with the subjunctive. If here I’m interested in one structuring of possibility, then the book takes a long-range look at its predecessors and its contemporary others. In addition to thinking with the incinerator—which continues to be suspended in the subjunctive—it moves from disease-prevention efforts in 18th century public health to Cold War-era preparations for World War III, and from financial risk management by multinational chemical conglomerates to state efforts to forestall climate catastrophe. *Mights, coulds, shoulds,* and *as ifs* have been circulating here for a while. And so often grappling with them has meant fostering certain low-level, place-based harms in service of some far-off greater good—be it protecting public health, promoting national security, or providing for a functioning city. The cumulative effect of this trend has been a history of toxic exposure burdening its residents and sparking new forms of political subjectivity. And I mean forms in the plural. One of the book’s driving goals is to show that there is more than one way to write the history of post-industrialism, and more than one way that history comes to matter politically. In the process of toggling between the variety of future orientations that have shaped this place over the long term and those that percolate in the aftermath of heavy industry, the book offers up a program for the anthropology of the future that is also an anthropology of history.
+    
+    I’m also starting work on a project called *Vacant* that continues this inquiry into the messy and multiple ways in which histories of degradation get put to political work. Specifically, I’m interested in how Baltimore’s vacant homes and crumbling infrastructure are being recoded under regimes of climate planning. Climate politics throw tensions between the past and the future, the chronic and the acute, history and novelty into sharp relief. In fact, the way planners have put it to me, history is “unhelpful” when it comes to preparing for conditions associated with climate change, deemed far “beyond the scope of previous experiences.” I want to understand what happens when those charged with steeling the city for strange weather have determined that its past is irrelevant to the work, even as they reckon with the material remnants of that past. It reminds me of Beck’s insistence that, in risk society, all eyes are on the future. What politics are made possible, and what politics are foreclosed, when we forget the longue durée processes that have shaped the late industrial city?
+  _fieldset: bodytext
+- 
+  text: |
+    **References**
+    Beck, Ulrich. 1992. Risk Society: Towards a New Modernity. London: Sage Publications.
+    Rancière, Jacques. 2006 [2000]. The Politics of Aesthetics. Gabriel Rockhill, trans. London: Continuum.
+    
+    **Cite as:**
+    Arıcan, Alize. 2019. “AE Interviews Chloe Ahmann.” American Ethnologist website, September 20, 2019, https://americanethnologist.org/features/interviews/ae-interviews-chloe-ahmann
+  _fieldset: bodytext

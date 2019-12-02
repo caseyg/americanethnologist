@@ -1,0 +1,141 @@
+Title: Winners of 2019 AES Graduate Student Research Grant announced
+
+----
+
+Subtitle: 
+
+----
+
+Author: 
+
+----
+
+Date: 2019-06-21
+
+----
+
+Featuredimage: 
+
+----
+
+Tags: 
+
+----
+
+Builder: 
+
+- 
+  text: >
+    The American Ethnological Society is
+    pleased to announce the winners of the
+    2019 AES Graduate Student Research
+    Grant.
+  _fieldset: leadtext
+- 
+  text: |
+    The AES small grants competition, now in its second year, received many excellent proposals, and the committee was challenged to select from a pool of worthy projects. The award of $2500 is to fund dissertation research. Grantees will be encouraged to write a brief, blog-style report on project findings for the AES website, and an additional $500 will be available to grantees who present their work at the 2020 AES spring meeting in Austin, Texas, co-hosted by the Association of Political and Legal Anthropology (APLA).
+    
+    AES plans to run the competition again in 2020.
+    
+    The committee awarded grants to the following ten graduate students:
+  _fieldset: bodytext
+- 
+  image: emily-boak-pic-small.jpg
+  _fieldset: image
+- 
+  text: |
+    **Emily Boak**, University of Calgary, <emily.boak@ucalgary.ca>
+    Visualizing Afghanistan through Imperial Eyes
+    
+    Afghanistan is one of the most imaged places in the world: satellites, drones, and laser scanners ceaselessly upload new images to ever-expanding servers. Afghanistan however, has long been a place that foreign eyes attempted to capture and visualize from a distance. My project asks: how does the U.S. military’s use of aerial imagery draw upon visual and cartographic traditions laid by the British Empire and Soviet Union?
+  _fieldset: bodytext
+- 
+  image: pasama-headshot-small.jpg
+  _fieldset: image
+- 
+  text: |
+    **Pasama Cole-Kweli**, University of Kentucky, <pzco222@g.uky.edu>
+    Youth Experience and Environmental Challenges in the Context of Climate Change (Zambia)
+    
+    Pasama’s research explores how youth living in rural Zambia experience and respond to environmental challenges. Through the lens of youth, she aims to illuminate how environmental resilience in the face of rapid change is connected to livelihoods, decision-making, and visions of the future in rural Southern Africa.
+  _fieldset: bodytext
+- 
+  image: karelle-hall-small.jpg
+  _fieldset: image
+- 
+  text: |
+    **Karelle Hall**, Rutgers University, <karellehall@gmail.com>
+    Plurilingualism on the Chesapeake: Nanticoke and Lenape Traditional Futures
+    
+    My research explores the intersections of sovereignty with language and cultural revitalization among the Nanticoke and Lenape tribes of the Mid-Atlantic and across the Lenape diaspora.  I will explore how individuals from these communities are exercising fluid sovereignties and creating their own futures through embodied and multilingual revitalization practices.
+  _fieldset: bodytext
+- 
+  image: argenishurtadomoreno-small.jpg
+  _fieldset: image
+- 
+  text: |
+    **Argenis Hurtado Moreno**, Oregon State University, <hurtadar@oregonstate.edu>
+    Mujeres con Voces (Women with Voices)
+    
+    Argenis is part of a community engaged research initiative to unsettle immigrant generalizations by illuminating the lives and stories of a key group of often invisible stakeholders—low-income undocumented and DACAmented women with no post-secondary or formal education, a group consistently in the shadows of US immigration policy debates. This collaborative multimodal ethnography aims to add complexity to the narrative of the “deserving immigrant” by bringing forward an unseen subset of the undocumented and DACA community, and challenging champions of human rights to recognize and proclaim such women as equally “deserving” of legality, citizenship and dignity.
+  _fieldset: bodytext
+- 
+  image: talia-katz-small.jpg
+  _fieldset: image
+- 
+  text: |
+    **Talia Katz**, Johns Hopkins University, <tkatz1@jhu.edu>
+    The World “As If:” Drama Therapy, Migration, and the Otherwise in Israel
+    
+    In tracking the emergence and use of psychodrama practices in Israel, my research ethnographically attends to the stakes of the aesthetic, therapeutic, and political projects of transforming pain into beauty against the backdrop of a globalized trauma discourse. I consider how pressure is placed on the dominant frameworks of trauma and testimony as art therapists, community members, and institutions respond to different forms of racialized and gendered violence with techniques involving embodiment and imagination.
+  _fieldset: bodytext
+- 
+  image: nnau-small.jpg
+  _fieldset: image
+- 
+  text: |
+    **Nadege Nau**, University of South Florida, <nnau@mail.usf.edu>
+    The Labor Demands of the State University of Haiti's Anthropology Department
+    
+    Taking into account the socioeconomic conditions that steer or stifle anthropological knowledge production in the global south, my research question will address what is the labor involved for anthropology faculty at the State University of Haiti (UEH) in Port-au-Prince. Due to the dearth of ethnographic research on higher education, this research takes a novel approach at developing world anthropologies discourse.
+  _fieldset: bodytext
+- 
+  image: natalie-ng-pic-small.jpg
+  _fieldset: image
+- 
+  text: |
+    **Natalie Ng**, University of California Santa Cruz, <naang@ucsc.edu>
+    Fractured Empire: Spatial Strategies and Affective Investments in China’s ‘New Silk Road’
+    
+    My research traces resonances and disjunctions between seamless representations of China's international One Belt One Road Project and daily life in and around an experimental zone on the China-Laos border. I expect my project will contribute to scholarship on spatial strategies, extraterritoriality, and sovereignty.
+  _fieldset: bodytext
+- 
+  image: cheng-qiu-small.jpg
+  _fieldset: image
+- 
+  text: |
+    **Cheng Qui**, New York University, <cq455@nyu.edu>
+    New Farmers and New Villagers of China in Era of Modernization
+    
+    I will conduct ethnography research on Chinese “new farmers” and “new villagers” who moved into a 600-year-old village of ethnic minority in Western China for living “in harmony with nature”. The project aims to understand the belief, social life, and formation of society and culture in contemporary rural China, and the discourse emerging among the very people involved in China’s back-to-land movement as a countering force of its mainstream capitalist agrifood trajectory.
+  _fieldset: bodytext
+- 
+  image: ben-slightom-small.jpg
+  _fieldset: image
+- 
+  text: |
+    **Ben Slightom**, Yale University, <ben.slightom@yale.edu>
+    Squatting: Alternative Networks Among the “Invisible” Residents of Post-Industrial Detroit
+    
+    On the coldest night of the year, hundreds of volunteers fan out across Detroit to count every homeless person in the city; yet this count misses a large and growing population of urban squatters who would otherwise be eligible for governmental assistance. As a result, several thousand Detroiters are rendered invisible to the municipal government who allocates resources for aid relief and develops programs according solely to the statistics of the annual homeless count—how does this process of being made invisible to public aid shape how squatters live, force them to find new ways to survive, and enjoin them to form social and political networks necessary to sustaining life beyond the shelter?
+  _fieldset: bodytext
+- 
+  image: anthony-zelenka-small.jpg
+  _fieldset: image
+- 
+  text: |
+    **Antony Zelenka**, University of Toronto, <antony.zelenka@mail.utoronto.ca>
+    Translating 'Sustainability': Knowledge Politics in Collaborative Northern Development
+    
+    Antony's research traces the complex politics of knowledge and translation in collaborative environmental governance and "sustainable development" initiatives involving Indigenous, settler, and Japanese stakeholders in northern Quebec. These projects are funded through compensatory funds Cree received after the completion of intrusive hydroelectric infrastructures on their territory.
+  _fieldset: bodytext

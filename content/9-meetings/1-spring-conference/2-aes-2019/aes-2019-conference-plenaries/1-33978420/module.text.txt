@@ -1,0 +1,69 @@
+Title: Text module
+
+----
+
+Text: 
+
+##Conference Plenaries
+
+###Opening Plenary
+**Decolonizing American Anthropology: Ethnographic Futures & Possibilities
+Thursday, March 14, 2019**
+
+**4:30-5:30 p.m.** Opening Meet & Greet and Welcome by Chancellor-Elect Andrew D. Martin and Section Presidents
+**5:30-7:00 p.m.** Plenary followed by reception
+
+Ethnography, as a methodological and literary technique, uniquely connects the global and the local. The blending of theory with the everyday allows us to speak to issues of global significance, critically linking global trends and big data to local lifeways and contestations. Yet, anthropologists are largely absent from public debates. Given that our methodological positioning allows us to often predict the absurd, such as the current political moment, this feels particularly disturbing. At the same time, this insularity is partially of the discipline’s own making. Internal debates within the discipline reveal the unsettled hauntings of anthropology's racialized, gendered, colonial, and generally hierarchical past. In the Ethnographic Futures & Possibilities opening plenary session, critically engaged ethnographers challenge our traditional disciplinary techniques and offer unapologetically disruptive ways for making anthropology relevant to both the communities with whom we study and the general public, while critically interrogating our own internal hierarchies.
+
+**Marc Edelman** (CUNY), “How the Rights of Peasants Reached the United Nations”
+**Sherine Hamdy** (UC Irvine), “Anthropology through Comics: The Making of ‘Lissa,’ an EthnoGRAPHIC Story
+**Laurence Ralph** (Princeton), “The Craft of Ethnographic Lettering”
+**Gilberto Rosas** (U Illinois Urbana-Champaign), “Necro-Subjection: On Making Dead to Let Live and Border Im/Possibilities”
+**Alisse Waterston** (John Jay College of Criminal Justice), “In It Together: Generosity, Inclusiveness, and Collaboration in Decolonizing and Advancing Critical Anthropology”
+
+###Plenary: Three-Part Series
+**Troubling Ferguson & Beyond: Emergent Futures in the Afterlife of Racialized Death and Defiance in Divided Times and Spaces**
+
+“Troubling Ferguson & Beyond” is a three-part plenary series that considers emergent socio-political forms in the contemporary moment of racialized and gendered violences. Using as its springboard the 5th year anniversary of the Ferguson protests around the acquittal of the police officer who killed unarmed black young man Michael Brown and the birth of Black Lives Matter, this plenary series brings together practitioners, activists, and academic scholars. Each plenary “troubles” a different analytic as it considers the (re)production of anti-black and -brown state violences, various contestations, and possible futures in this troubled moment in divided cities.
+
+####Part I, Troubling States: Policing, Law, and Protest
+Friday, March 15th, 5:30pm-7:00 p.m.
+
+“Troubling States” examines the complex intersection of the surveillance of black bodies, institutionalization of racialized violence, and the politics of dissent.
+
+**Shanti Parikh** (Washington U in St. Louis): Moderator
+**Yinka Faleti **(Immediate Past “Lead Catalyst,” Executive Director, Forward Through Ferguson), “We Didn't Start the Fire: How One of the Biggest Headlines of Our Times Came From One of the Smallest Towns in America”
+**Odis Johnson** (Washington U in St. Louis), “Race, Gender, Place and Fatal Interactions with Police”
+**Bianca C. Williams** (CUNY), “‘Carving Out a Humanity’: Plantation Politics and Campus Rebellions in Higher Education”
+**Chelsey Carter** (Washington U in St. Louis), “An Anthropology of Home: Trauma, Resiliency, and Care in the Aftermath of State-Sanctioned Violence in Ferguson”
+**Christopher Loperena** (CUNY), “Frontiers of Progress, Landscapes of Dispossession: Anti-Blackness and Garifuna Resistance in Honduras”
+
+####Part II, Troubling Bodies: Motherhood, Masculinity, and Queer Dissent
+Saturday, March 16th, 1:30pm-3:00 p.m.
+
+“Troubling Bodies” investigates how gender, sexuality, and race animate and complicate the politics of protest, survival, and respectability.
+
+**Jeffrey Q. McCune** (Washington U in St. Louis): Moderator
+**Riché J. Daniel Barnes** (Yale), “‘Bad and Boujee’: Theorizing Power and Privilege When All Black Women’s Lives Matter”
+**Alexis Templeton** (Activist, Washington U in St. Louis), “‘They Call Me a Dyke, a Faggot, a Gay Bitch’: The Politics of Being a Queer Leader During the Ferguson Uprising”
+**Andrea S. Boyles** (Lindenwood U), “(Re)Ordering (Dis)Order:  Intersectional Oppression and a Kaleidoscope of Resistance in Post-Ferguson America”
+**Jeffrey Q. McCune** (Washington U in St. Louis), “Queerness of Blackness: Ferguson and Afterlife”
+
+####Part III, Troubling Whiteness: Complicity, Fragility, and Ethics
+Saturday, March 16th, 3:30pm-5:00 p.m.
+
+“Troubling Whiteness” explores the visibility and renderings of whiteness as a site of both blame and vulnerability in the aftermath of Mike Brown’s death and the rise of the Trump presidency.
+
+**Jong Bum Kwon **(Webster U): Moderator
+**Mary Ferguson** (YWCA Racial Justice Director, Witnessing Whiteness), “Holding up the Mirror: Witnessing Whiteness after Ferguson”
+**Ana Aparicio** (Northwestern): “Race, Trash Talk, and the Remaking of American Suburbia”
+**Krystal A. Smalls** (U Illinois Urbana-Champaign): “White Noise: Cancelled Whiteness, Emphatic Blackness, and the Semiotics of Epistemic Resistance in Digital Life”
+**Tiffany Robertson** (Faithful Steward, Founder Touchy Topics Tuesdays), “The Need to Talk: Cross-Racial Dialogue and Making Meaning of Whiteness after Mike Brown's Death”
+
+----
+
+Modulesettings: 
+
+----
+
+Lead: false

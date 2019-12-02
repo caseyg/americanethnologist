@@ -1,0 +1,27 @@
+Title: Research Articles
+
+----
+
+Articles: 
+
+- 
+  article: >
+    read/journal/volume-46-issue-2-may-2019/weak-passports-and-bad-behavior
+- 
+  article: >
+    read/journal/volume-46-issue-2-may-2019/father-released-me
+- 
+  article: >
+    read/journal/volume-46-issue-2-may-2019/experts-beyond-discourse
+- 
+  article: >
+    read/journal/volume-46-issue-2-may-2019/impossible-occultists
+- 
+  article: >
+    read/journal/volume-46-issue-2-may-2019/refusing-cesarean-sections-to-protect-fertile-futures
+- 
+  article: >
+    read/journal/volume-46-issue-2-may-2019/separating-noise-from-signal
+- 
+  article: >
+    read/journal/volume-46-issue-2-may-2019/conflictual-collaboration

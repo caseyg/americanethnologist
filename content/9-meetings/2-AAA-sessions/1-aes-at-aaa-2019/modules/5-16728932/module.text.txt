@@ -1,0 +1,17 @@
+Title: Graduate Student Meetup
+
+----
+
+Text: 
+
+###AES Graduate Student Meetup
+
+There will be a graduate student meetup hosted by the grad student reps at the Morrissey Pub on Thursday, Nov. 21st from 8-10 pm. The address is 1227 Granville Street. Everyone welcome! Please reach out to Danielle with any questions, dlgood@utexas.edu.
+
+----
+
+Modulesettings: 
+
+----
+
+Lead: false

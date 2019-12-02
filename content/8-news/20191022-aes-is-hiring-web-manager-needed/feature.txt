@@ -1,0 +1,55 @@
+Title: AES is Hiring - Web Manager needed!
+
+----
+
+Subtitle: 
+
+----
+
+Author: 
+
+----
+
+Date: 2019-10-22
+
+----
+
+Featuredimage: 
+
+----
+
+Tags: 
+
+----
+
+Builder: 
+
+- 
+  text: |
+    Do you have web producer skills? Are you interested in being involved behind the scenes with an anthropology organization? AES is looking to hire a socio-cultural anthropology graduate student who can make a minimum two-year commitment to the position, starting immediately. Position responsibilities, requirements, and pay scale are as follows:
+    
+    **Main responsibilities:**
+    >Create web posts from copy supplied by AES editorial team;
+    Post new issues of *American Ethnologist* as they are published quarterly;
+    Create pages for the AAA and AES meetings;
+    Update miscellaneous sections of the website;
+    Assist with drafting copy and copyediting;
+    Communicate with web developer when needed, and,
+    Work closely with the AES editorial team remotely and in-person.
+    
+    **Skills required:**
+    >Ability to use a content management system (CMS; experience with Squarespace, Wordpress, Wix, etc. is a plus). No coding required; no website developing or building;
+    Regular internet access and reliable computer, and ability to respond to emails in a timely manner;
+    Minor troubleshooting;
+    Able to crop and resize images;
+    Basic visual and design skills; and,
+    Confidence with Google Drive for remote file sharing and organization.
+    
+    **Pay scale:**
+    >$30/hour
+    This job is busiest during the academic year, and much slower during the summer.
+    During any given week in the academic year, work hours may range from zero to eight, with an average of four hours per week.
+    Travel expenses to the annual AES spring meeting (up to $1,200.00)
+    
+    If you are interested and meet the above qualifications, please send an email detailing your interest in and qualifications for the job, along with your current year in your graduate program, and a CV to AES Digital Content Editor Carole McGranahan at carole.mcgranahan@colorado.edu by Friday, November 1.
+  _fieldset: bodytext

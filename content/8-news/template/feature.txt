@@ -1,0 +1,43 @@
+Title: template
+
+----
+
+Subtitle: 
+
+----
+
+Author: 
+
+----
+
+Date: 
+
+----
+
+Featuredimage: 
+
+----
+
+Tags: 
+
+----
+
+Builder: 
+
+- 
+  text: |
+    #HEADER1
+    ##HEADER2
+    ###HEADER3
+    ####HEADER4
+    **BOLD**
+    *ITALIC*
+    
+    >Indent list
+    orquote
+    orsomething
+    
+    (image: )
+    
+    (link: www.website.com text: this is the website text)
+  _fieldset: bodytext

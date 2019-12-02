@@ -1,0 +1,31 @@
+Title: Hotel Reservations
+
+----
+
+Text: 
+
+##Hotel Reservations
+
+(image: moonrise-home1-edited-1.png)
+**The Moonrise Hotel**
+6177 Delmar in The Historic Delmar Loop (add link to Delmar Loop: https://visittheloop.com/)
+St. Louis, MO 63112
+Tel: (314) 721-1111
+http://www.moonrisehotel.com
+AAA rate of $154 S/D/T
+
+(image: knight-conference-center-edited-1.jpg)
+**The Charles F. Knight Conference Center**
+Throop Drive & Snow Way Drive
+St. Louis, MO 63130
+Tel: 314-933-9400 or 866-933-9400 
+https://www.acc-knightconferencecenter.com/
+AAA rate if $119 single room
+
+----
+
+Modulesettings: 
+
+----
+
+Lead: false

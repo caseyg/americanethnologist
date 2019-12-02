@@ -1,0 +1,32 @@
+Title: AES welcomes new board members and webmaster
+
+----
+
+Subtitle: 
+
+----
+
+Author: 
+
+----
+
+Date: 2019-11-17
+
+----
+
+Featuredimage: 
+
+----
+
+Tags: 
+
+----
+
+Builder: 
+
+- 
+  text: |
+    AES welcomes incoming board members Carolyn Rouse (President-elect), Chris Krupa (Councilor), Naveeda Khan (Councilor) and Chelsey Carter (Graduate Student Representative). We also express our appreciation to board members who have left or will be leaving the board in 2019: Niko Besnier (AE Editor), Danielle Good (Graduate Student Representative), Shanti Parikh (Councilor), Gina Athena Ulysse (Councilor), and Marc Edelman (President).
+    
+    We are also happy to welcome Gabriela Manley as our new web manager. Many thanks and best wishes to our former web master Dave Leins as he moves on to new horizons
+  _fieldset: bodytext

@@ -1,0 +1,77 @@
+Title: Being a Friend:
+
+----
+
+Subtitle: Ethical Living in Politics
+
+----
+
+Author: Sidharthan Maunaguru
+
+----
+
+Date: 2019-04-15
+
+----
+
+Featuredimage: being-a-friend.png
+
+----
+
+Tags: 
+
+----
+
+Builder: 
+
+- 
+  text: 'Ideological divergences and ethnic boundaries can test intimate relationships, maintaining friendships despite these hurdles could appear thus as an attempt to live ethically one’s political life. The context of the Sri Lankan ethnic conflict offers a case in point for such politically lived intimate relationships. In the 70s, Sri Lankan Tamil militant movements emerged to fight for Tamil minority rights (Thiranagama 2011). However, ideological and power struggles arose within and between the militant movements. In the mid-80s, the LTTE (one of the militant movements) eliminated the other movements to claim to be the sole representative of Tamils in Sri Lanka. Sharika Thiranagama (2010) argues that the language of the traitor became one of the ways in which people were marked and killed during the inter- and intra-militant movement conflict. However, in my ethnographic setting, a different narrative emerged: that of political activists who left the movements because of internal killings or refused to kill fellow activists or questioned those internal killings. They constantly struggled to maintain their friendships while opposing the ideological views of their friends or fellow activists. Further, some of them refused to write about the past murders because it may harm their friends who were still alive.'
+  _fieldset: bodytext
+- 
+  image: being-a-friend.png
+  _fieldset: image
+- 
+  text: |
+    This short essay examines the ways in which intimate relations work through and against forms of political dissent. In liberal political discourse, the intimate and the political are perceived as separate. Political activists are treated as individuals and their ideological commitments separated from their social relationships. Here, I map out the relationships and struggles of (ex) political activists, of being a friend to a person with an opposite political ideology. Recent anthropological work on political activists focuses on sexuality and gender, and also on the intimate relationships from which political activity emerges (Dave 2012; Howe 2013; Schielke 2014). In this piece, through the story of Ranjan, I argue that the struggle to maintain friendships with people with dissenting ideological views, or with members of different militant movements, is also a political claim made by the dissident.  I argue politics is not devoid of intimacy and friendship but also driven from it. In other words, if we were to think of friendship as a choice based on “emotion” and “reciprocity,” with a possibility of rivalry (Pitt-Rivers 2016), I would argue that being a friend to people with dissenting political-ideological views, or with ex-militants from opposing groups, also constitutes an ethical stand and political claim. Such a political stand is not necessarily expressed as an extraordinary claim of conscience in public but lived as a deliberated political conscience. Let me now turn to Ranjan’s story. Friendship and politics are not just formed within boundaries, but in the fraught space across the lines of seeming difference.
+    
+    Ranjan, a refugee from Sri Lanka has been living in London for more than twenty years. Ranjan was involved with PLOTE, a Tamil militant movement with a leftist ideology that emerged in the mid-1970s. At an earlier age, he was introduced to Marxist ideologies through books and magazines available in the village library. Ranjan was equally influenced by Tamil nationalism and Marxism. He believed that as Marxists, Tamils could acquire equal rights in a united Sri Lanka. Ranjan decided to join PLOTE when he was approached because its ideology was based on class struggle. He became a very active member. But differences emerged among members of the movement. Ranjan ascribed this internal power struggle to some members’ wish to gain control of the movement. But he always believed in democracy and the collective decision-making process within the group. Ranjan explained he joined the PLOTE because of its democratic policy and support for class struggle. He believed PLOTE had a democratic space and decisions would be taken collectively by the central committee, not by individuals. The internal power struggle reduced the democratic space, despite protests from members, him included. After a period of internal killings and splits, he decided to leave the movement, along with others. Ranjan left for India and, with many difficulties, later moved to the UK. However, he has remained politically active, starting a journal which challenged the Sri Lankan government, the LTTE, and other political movements whose activities went against the democratic process. He repeatedly voiced his conviction that a democratic process is of the utmost importance in deciding an armed struggle, fighting for freedom and minority rights.
+    
+    At the same time, he maintained friendships with those who opposed his views. Ranjan believed that through conversation, “We could realise and acknowledge our mistakes and reform the struggle against any power.” Interestingly, a friend, while being a strong supporter of another militant movement opposed to Ranjan’s political views, provided him with the money to establish the journal which criticizes that same movement. Ranjan even helped one former PLOTE cadre, who tried to carry out PLOTE’s order to kill him during the internal struggle. They were good friends when they were both PLOTE members before the friend changed sides and started following a group that controlled the central committee and their orders. However, on his friend’s arrival in the UK, Ranjan helped him settle down. He remains critical of his friend’s current political views and activities. Ranjan explained:
+    >We all believed in this and joined the movement to fight against the Sri Lankan state. He still wants to do something. He believes in it and feels that Tamils are suffering. I am critical about how he wants to achieve rights for Tamils but that should not stop me from helping him. He was my friend and he still is. We can be friends but at the same time I can be critical about his activities. But you should talk to him, he may have a different view on this.
+    Ranjan thinks this is a democratic process—maintaining your friendship despite opposite views—because everyone is entitled to his or her own view. Keeping friendship and conversation going, while being critical of the opinions expressed, answers to his claims of conscience and his belief in supporting a democratic process. Ranjan joined PLOTE for that belief and left it because that democratic space was closed down. But he exercises this ideological belief in his daily life with intimate others. Thus, being a friend and being critical are interconnected. This is a public embodiment of his stand for democratic choice.
+  _fieldset: bodytext
+- 
+  image: merging-shadows.png
+  _fieldset: image
+- 
+  text: |
+    I asked him to write his autobiography. But he rejected the idea. Ranjan explained that if he writes his story, it would expose many people, friends or former friends, and former fellow cadres. He does not want to harm them. He rather keeps silent. In other words, the act of keeping silent is a way of holding onto his former and current friends, and not harming them in the present. The struggle between publicly criticizing his political opponents and at the same time maintaining the friendship also reaches a limit at these moments. Ranjan can publicly criticize but he is aware of not being able to tell “too much” because it may affect others’ lives. Through this careful manoeuvring between acts of silence and acts of speech, he crafts and produces his conscience when articulating his political views and belief in democracy.
+    
+    According to Ranjan, *manasaatchi* (conscience) is both individual and collective, with the collective aspect coming from power and class. The class holding power produces violence and a different conscience. But the individual conscience is based on the *mana uruthal* (constant irritation of whether one has done right or wrong):
+    >I am helping people because of my *mana uruthal*. I have *kuttra unarvu* (guilty feeling). I brought so many people into the movement. We believed in it at that time but things went wrong. We lost everything, and they also lost their lives. I need to help people trying to do something for the society because I am not doing anything. That is how I appease the claims of my conscience. Many people may think that I am stupid and crazy but I think I have always stood for justice and democracy. My critics also agree how crazy I could be to have stayed on that path.
+    
+    The conscience with which he stays true to his ideology, and what he believes as political, is shaped by the everyday struggle, failures, limits, and his relationships to others. By being friends with a person with opposite political views, debating and struggling to maintain their relationship while strongly articulating his own views through silence and writing, Ranjan cultivates his ethics of politics and belief in democracy and freedom. His conscience would not let him kill or negate others’ points of views, but instead urges him to debate with them. Maybe for Ranjan and many others like him, friendship is not only about care, whether emotional or instrumental, it is also political or ethics of/in politics.
+  _fieldset: bodytext
+- 
+  text: |
+    **References**
+    Dave, Naisargi. 2012. *Queer Activism in India: A Story in the Anthropology of Ethics*. Durham, NC: Duke University Press.
+    
+    Howe, Cymene. 2013. *Intimate Activism: The Struggle for Sexual Rights in Post-Revolutionary Nicaragua*. Durham, NC: Duke University Press.
+    
+    Lee, Doreen. 2015. *Activist Archives: Youth Culture and the Political Past in Indonesia.* Durham, NC: Duke University Press.
+    
+    Pitt-Rivers, Julian. 2016. “The Paradox of Friendship.” *Hau: Journal of Ethnographic Theory* 6 (3): 443–452
+    
+    Thiranagama, Sharika. 2011. *In My Mother’s House: Civil War in Sri Lanka.* Pennsylvania Philadelphia: University of Pennsylvania Press.
+    
+    Thiranagama, Sharika. 2010 "In Praise of Traitors: Intimacy, Betrayal and the Sri Lankan Tamil Community."  In *Traitors: Suspicion, Intimacy and the Ethics of State-Building,* edited by Sharika Thiranagama and Tobias Kelly, 127-149.  Philadelphia: University of Pennsylvania Press.
+    
+    **Acknowledgments**
+    The research upon which this essay is based was generously funded by an ERC Horizon 2020 Consolidator Grant (648477 AnCon ERC-2014-CoG).
+    
+    **Cite as**
+    Maunaguru, Sidharthan. 2019. “Being a Friend: Ethical Living in Politics.” In Tobias Kelly, ed., “The Intimacy of Dissent,” *American Ethnologist* website, April 15, 2019. http://americanethnologist.org/features/collections/the-intimacy-of-dissent/being-a-friend.
+    
+    **Sidharthan Maunaguru** is an Assistant Professor in Anthropology in the Department of Sociology and South Asian Studies Programme at National University of Singapore.
+  _fieldset: bodytext
