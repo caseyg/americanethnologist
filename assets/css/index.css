@@ -530,3 +530,24 @@ body {
     position: sticky;
     top: 0;
     padding-top: 15px; } }
+
+
+/*****************************
+  BEGIN SOCIAL INK CSS MODIFICATIONS
+  INIT JANUARY 2020
+*****************************/
+
+.socialink-modified {
+
+}
+
+.current-image-cover-container img {
+  width: 450px;
+}
+
+
+
+
+/*****************************
+  END SOCIAL INK CSS MODIFICATIONS
+*****************************/
