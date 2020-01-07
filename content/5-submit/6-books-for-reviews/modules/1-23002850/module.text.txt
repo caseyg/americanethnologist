@@ -4,15 +4,26 @@ Title: Text module
 
 Text: 
 
-Publishers should send review copies to the following address:
-
->Brigittine French and Walter Little
-American Ethnologist
-Grinnell College
-Department of Anthropology
-HSSC S 2366
-1226 Park Street
-Grinnell, IA 50112
+<h3>Publishers should send review copies to the following address:</h3>
+<br>
+<address>
+  <strong>Brigittine French and Walter Little</strong><br>
+American Ethnologist<br>
+Grinnell College<br>
+Department of Anthropology <br>
+HSSC S 2366<br>
+1226 Park Street<br>
+Grinnell, IA 50112<br>
+</address>
+---
+<address>
+  <strong>Brigittine French</strong><br>
+  <a href="mailto:#"> frenchb@grinnell.edu</a><br>
+</address>
+<address>
+  <strong>Walter Little</strong><br>
+  <a href="mailto:#">  wlittle@albany.edu</a><br>
+</address>
 
 ----
 

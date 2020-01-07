@@ -4,9 +4,11 @@ Title: Hotel Information
 
 Text: 
 
-###Hotel Information
-
-The Thompson Conference Center does not have any sleeping rooms for attendees. However, the AAA is offering a customized, user-friendly online portal which will allow you to find hotel accommodations near the conference site. (link: https://reservations.arestravel.com/hotel/list/13348/i5285?poiDistance=20 text: Visit the hotel portal here).
+---   
+<br>
+<h2><u>Hotel Information</h2></u>
+<br>
+The <strong>Thompson Conference Center</strong> does not have any sleeping rooms for attendees. However, the AAA is offering a customized, user-friendly online portal which will allow you to find hotel accommodations near the conference site. (link: https://reservations.arestravel.com/hotel/list/13348/i5285?poiDistance=20 text: Visit the hotel portal here).
 
 ----
 

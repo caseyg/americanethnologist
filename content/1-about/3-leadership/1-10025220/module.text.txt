@@ -4,29 +4,103 @@ Title: Text module
 
 Text: 
 
-#Leadership
-#####AES Presidents 1981 to present
-David Maybury-Lewis (1981)
-Edward Bruner
-June Helm
-Keith Basso
-Eugene Hammel
-Sally Falk Moore
-Louise Lamphere
-Stephen Gudeman
-Ellen Basso
-Renato Rosaldo
-Margery Wolf
-Emily Martin
-Susan Harding
-Fred Myers
-Catherine Lutz
-Ida Susser
-David Nugent
-Jane Collins
-Sally Merry
-Carol Greenhouse
-Hugh Gusterson (2015-2017)
+<u><h1>Leadership</h1></u>
+<br>
+<h2>AES Presidents 1981 to present</h2>
+<br>
+<table class="table table-striped">
+  <thead>
+    <tr>
+      <th scope="col"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row"></th>
+      <td><strong>David Maybury-Lewis (1981)</strong></td>
+    </tr>
+    <tr>
+      <th scope="row"></th>
+      <td><strong>Edward Bruner</strong></td>
+    </tr>
+    <tr>
+      <th scope="row"></th>
+      <td><strong>June Helm</strong></td>
+    </tr>
+ <tr>
+      <th scope="row"></th>
+      <td><strong>Keith Basso</strong></td>
+    </tr>
+ <tr>
+      <th scope="row"></th>
+      <td><strong>Eugene Hammel</strong></td>
+    </tr>
+ <th scope="row"></th>
+      <td><strong>Sally Falk Moore</strong></td>
+    </tr>
+ <tr>
+      <th scope="row"></th>
+      <td><strong>Louise Lamphere</strong></td>
+    </tr>
+ <tr>
+      <th scope="row"></th>
+      <td><strong>Stephen Gudeman</strong></td>
+    </tr>
+<tr>
+      <th scope="row"></th>
+      <td><strong>Ellen Basso</strong></td>
+    </tr>
+ <tr>
+      <th scope="row"></th>
+      <td><strong>Renato Rosaldo</strong></td>
+    </tr>
+ <th scope="row"></th>
+      <td><strong>Margery Wolf</strong></td>
+    </tr>
+ <tr>
+      <th scope="row"></th>
+      <td><strong>Emily Martin</strong></td>
+    </tr>
+ <tr>
+      <th scope="row"></th>
+      <td><strong>Susan Harding</strong></td>
+    </tr>
+<tr>
+      <th scope="row"></th>
+      <td><strong>Fred Myers</strong></td>
+    </tr>
+ <tr>
+      <th scope="row"></th>
+      <td><strong>Catherine Lutz</strong></td>
+    </tr>
+ <tr>
+      <th scope="row"></th>
+      <td><strong>Ida Susser</strong></td>
+    </tr>
+ <tr>
+      <th scope="row"></th>
+      <td><strong>David Nugent</strong></td>
+    </tr>
+<tr>
+      <th scope="row"></th>
+      <td><strong>Jane Collins</strong></td>
+    </tr>
+ <tr>
+      <th scope="row"></th>
+      <td><strong>Sally Merry</strong></td>
+    </tr>
+ <tr>
+      <th scope="row"></th>
+      <td><strong>Carol Greenhouse</strong></td>
+    </tr>
+<tr>
+      <th scope="row"></th>
+      <td><strong>Hugh Gusterson (2015-2017)</strong></td>
+    </tr>
+  </tbody>
+</table>
+
+
  
 #####Earlier presidents (we welcome additions to this list)
 Morris Jesup (1900)

@@ -4,15 +4,24 @@ Title: Featured Plenary Keynote Speakers and Participants
 
 Text: 
 
-###Featured Plenary Keynote Speakers and Participants
-
-Nancy Scheper-Hughes (University of California, Berkeley)
-Carolyn Rouse (Princeton University)
-Miguel Díaz-Barriga and Margaret Dorsey (University of Richmond)
-Susan Terrio (Georgetown University)
-Martha Menchaca (University of Texas, Austin)
-Jason Cons (University of Texas, Austin)
-Richard Flores (University of Texas, Austin)
+---  
+<br>
+<h2><u>Featured Plenary Keynote Speakers and Participants</u></h2>
+<br>
+<strong>Nancy Scheper-Hughes</strong> <i>(University of California, Berkeley)</i>
+<br>
+<strong>Carolyn Rouse </strong><i>(Princeton University)</i>
+<br>
+<strong>Miguel Díaz-Barriga and Margaret Dorsey </strong><i>(University of Richmond)</i>
+<br>
+<strong>Susan Terrio</strong> <i>(Georgetown University)</i>
+<br>
+<strong>Martha Menchaca </strong><i>(University of Texas, Austin)</i>
+<br>
+<strong>Jason Cons </strong><i>(University of Texas, Austin)</i>
+<br>
+<strong>Richard Flores </strong><i>(University of Texas, Austin)</i>
+<br>
 . . .and more to come!
 
 ----

@@ -4,54 +4,296 @@ Title: Text module
 
 Text: 
 
-### Editorial Board
-Ana Aparicio, Northwestern University  
-Adia Benton, Northwestern University 
-Lucas Bessire, University of Oklahoma
-David Bond, Bennington College 
-Laurian Bowles, Davidson College 
-Don Brenneis, University of California, Santa Cruz
-Heath Cabot, University of Pittsburgh 
-Marisol de la Cadena, University of California, Davis 
-Sidney Cheung, The Chinese University of Hong Kong 
-Mun Young Cho, Yonsei University
-Aimee Cox, Yale University 
-Elizabeth Dunn, Indiana University Bloomington 
-Marc Edelman, City University of New York Graduate Center and Hunter College
-Ilana Gershon, Indiana University
-Akhil Gupta, University of California, Los Angeles
-Hugh Gusterson, George Washington University
-Penny Harvey, University of Manchester 
-Angelique Haugerud, Rutgers University
-Michael Herzfeld, Harvard University
-Dorothy Hodgson, Brandeis University
-Saida Hodzic, Cornell University 
-Andrew Irving, University of Manchester 
-Emma Kowal, Deakin Univesity
-Lilith Mahmud, University of California, Irvine 
-Jeff Maskovsky, The Graduate Center, City University of New York 
-Gordon Mathews, The Chinese University of Hong Kong 
-Martha Menchaca, University of Texas at Austin 
-Scott Morgenson, Queen's University 
-Atsuro Morita, Osaka University
-Andrea Muehlebach, University of Toronto 
-Michelle Murphy, University of Toronto 
-David Nugent, Emory University 
-Richard Rottenburg, University of the Witwatersrand 
-Emilia Sanabria, Centre National de la Recherche Scientifique
-Jade Sasser, Univesity of California, Riverside 
-Alpa Shah, London School of Economics and Political Science
-Vineeta Sinha, National University of Singapore 
-Jacqueline Solway, Trent University
-Sanjay Srivstava, Institute of Economic Growth 
-Yuka Suzuki, Bard College 
-Manuel Tironi, Pontificia Universidad Catolica de Chile
-Sahana Udupa, Ludwig-Maximilians-Universität München (LMU Munich)
-Holly Wardlow, University of Toronto
-Alisse Waterston, John Jay College of Criminal Justice CUNY
-Paige West, Barnard College and Columbia University
-Emily Yates-Doerr, Oregon State University 
-Patricia Zavella, University of California, Santa Cruz
+<h2>Editorial Board</h2>
+<br>
+<table class="table table-striped">
+  <thead>
+    <tr>
+      <th scope="col"></th>
+      <th scope="col">Name</th>
+      <th scope="col"> Affiliation </th>
+      <th scope="col"> Email </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row"></th>
+      <td><strong>Ana Aparicio</strong></td>
+      <td> Northwestern University  </td>
+      <td>a-aparicio@northwestern.edu</td>
+    </tr>
+    <tr>
+      <th scope="row"></th>
+      <td><strong>Adia Benton</strong></td>
+      <td>Northwestern University</td>
+      <td>adia.benton@northwestern.edu</td>
+    </tr>
+    <tr>
+      <th scope="row"></th>
+      <td><strong>Lucas Bessire</strong></td>
+      <td>University of Oklahoma</td>
+      <td> lucas.bessire@ou.edu</td>
+    </tr>
+ <tr>
+      <th scope="row"></th>
+      <td><strong>David Bond</strong></td>
+      <td>Bennington College</td>
+      <td> dbond@bennington.edu </td>
+    </tr>
+ <tr>
+      <th scope="row"></th>
+      <td><strong>Laurian Bowles</strong></td>
+      <td>Davidson College</td>
+      <td> labowles@davidson.edu</td>
+    </tr>
+ <th scope="row"></th>
+      <td><strong>Don Brenneis</strong></td>
+      <td>University of California, Santa Cruz</td>
+      <td> brenneis@ucsc.edu</td>
+    </tr>
+ <tr>
+      <th scope="row"></th>
+      <td><strong>Heath Cabot</strong></td>
+      <td>University of Pittsburgh</td>
+      <td> hcabot@pitt.edu </td>
+    </tr>
+ <tr>
+      <th scope="row"></th>
+      <td><strong>Marisol de la Cadena</strong></td>
+      <td>University of California, Davis</td>
+      <td> mdelac@ucdavis.edu</td>
+    </tr>
+<tr>
+      <th scope="row"></th>
+      <td><strong>Sidney Cheung</strong></td>
+      <td>The Chinese University of Hong Kong </td>
+      <td> sidneycheung@cuhk.edu.hk </td>
+    </tr>
+ <tr>
+      <th scope="row"></th>
+      <td><strong>Mun Young Cho</strong></td>
+      <td>Yonsei University</td>
+      <td> munyoung@yonsei.ac.kr</td>
+    </tr>
+ <th scope="row"></th>
+      <td><strong>Aimee Cox</strong></td>
+      <td>Yale University</td>
+      <td> aimee.cox@yale.edu</td>
+    </tr>
+ <tr>
+      <th scope="row"></th>
+      <td><strong>Elizabeth Dunn</strong></td>
+      <td>Indiana University Bloomington</td>
+      <td> elcdunn@indiana.edu </td>
+    </tr>
+ <tr>
+      <th scope="row"></th>
+      <td><strong>Marc Edelman</strong></td>
+      <td>City University of New York Graduate Center and Hunter College</td>
+      <td> medelman@hunter.cuny.edu</td>
+    </tr>
+<tr>
+      <th scope="row"></th>
+      <td><strong>Ilana Gershon</strong></td>
+      <td>Indiana University</td>
+      <td> igershon@indiana.edu</td>
+    </tr>
+ <tr>
+      <th scope="row"></th>
+      <td><strong>Akhil Gupta</strong></td>
+      <td> University of California, Los Angeles</td>
+      <td> akgupta@anthro.ucla.edu </td>
+    </tr>
+ <tr>
+      <th scope="row"></th>
+      <td><strong>Hugh Gusterson</strong></td>
+      <td>George Washington University</td>
+      <td> guster@email.gwu.edu</td>
+    </tr>
+<tr>
+      <th scope="row"></th>
+      <td><strong>Penny Harvey</strong></td>
+      <td>University of Manchester  </td>
+      <td> penny.harvey@manchester.ac.uk</td>
+    </tr>
+ <tr>
+      <th scope="row"></th>
+      <td><strong>Angelique Haugerud</strong></td>
+      <td>Rutgers University</td>
+      <td> haugerud@anthropology.rutgers.edu </td>
+    </tr>
+ <th scope="row"></th>
+      <td><strong>Michael Herzfeld</strong></td>
+      <td>Harvard University</td>
+      <td> herzfeld@fas.harvard.edu</td>
+    </tr>
+ <tr>
+      <th scope="row"></th>
+      <td><strong>Dorothy Hodgson</strong></td>
+      <td>Brandeis University</td>
+      <td>dhodgson@brandeis.edu  </td>
+    </tr>
+ <tr>
+      <th scope="row"></th>
+      <td><strong>Saida Hodzic</strong></td>
+      <td>Cornell University </td>
+      <td> sh888@cornell.edu</td>
+    </tr>
+<tr>
+      <th scope="row"></th>
+      <td><strong>Andrew Irving</strong></td>
+      <td> University of Manchester </td>
+      <td>andrew.irving@manchester.ac.uk</td>
+    </tr>
+<tr>
+      <th scope="row"></th>
+      <td><strong>Emma Kowal</strong></td>
+      <td>Deakin Univesity </td>
+      <td> emma.kowal@deakin.edu.au</td>
+    </tr>
+ <tr>
+      <th scope="row"></th>
+      <td><strong>Lilith Mahmud</strong></td>
+      <td>University of California, Irvine</td>
+      <td>  lmahmud@uci.edu  </td>
+    </tr>
+ <th scope="row"></th>
+      <td><strong>Jeff Maskovsky</strong></td>
+      <td>The Graduate Center, City University of New York</td>
+      <td>  jeff.maskovsky@qc.cuny.edu</td>
+    </tr>
+ <tr>
+      <th scope="row"></th>
+      <td><strong>Gordon Mathews</strong></td>
+      <td>The Chinese University of Hong Kong</td>
+      <td>cmgordon@cuhk.edu.hk  </td>
+    </tr>
+ <tr>
+      <th scope="row"></th>
+      <td><strong>Martha Menchaca</strong></td>
+      <td>University of Texas at Austin </td>
+      <td> mmen@austin.utexas.edu</td>
+    </tr>
+<tr>
+      <th scope="row"></th>
+      <td><strong>Scott Morgenson</strong></td>
+      <td>Queen's University  </td>
+      <td>scott.morgensen@queensu.ca</td>
+    </tr>
+<tr>
+      <th scope="row"></th>
+      <td><strong>Atsuro Morita</strong></td>
+      <td>Osaka University </td>
+      <td> morita@hus.osaka-u.ac.jp</td>
+    </tr>
+ <tr>
+      <th scope="row"></th>
+      <td><strong>Andrea Muehlebach</strong></td>
+      <td>University of Toronto</td>
+      <td> andrea.muehlebach@utoronto.ca </td>
+    </tr>
+ <th scope="row"></th>
+      <td><strong>Michelle Murphy</strong></td>
+      <td>University of Toronto </td>
+      <td> michelle.murphy@utoronto.ca</td>
+    </tr>
+ <tr>
+      <th scope="row"></th>
+      <td><strong>David Nugent</strong></td>
+      <td>Emory University</td>
+      <td>david.nugent@emory.edu  </td>
+    </tr>
+ <tr>
+      <th scope="row"></th>
+      <td><strong>Richard Rottenburg</strong></td>
+      <td>University of the Witwatersrand </td>
+      <td> rottenburg@lost-research-group.org</td>
+    </tr>
+<tr>
+      <th scope="row"></th>
+      <td><strong>Emilia Sanabria</strong></td>
+      <td>Centre National de la Recherche Scientifique </td>
+      <td>emilia.sanabria@cnrs.fr</td>
+    </tr>
+ <tr>
+      <th scope="row"></th>
+      <td><strong>Jade Sasser</strong></td>
+      <td>Univesity of California, Riverside </td>
+      <td> jade.sasser@ucr.edu  </td>
+    </tr>
+ <th scope="row"></th>
+      <td><strong>Alpa Shah</strong></td>
+      <td>London School of Economics and Political Science</td>
+      <td> a.m.shah@lse.ac.uk</td>
+    </tr>
+ <tr>
+      <th scope="row"></th>
+      <td><strong>Vineeta Sinha</strong></td>
+      <td>National University of Singapore</td>
+      <td>sashead@nus.edu.sg</td>
+    </tr>
+ <tr>
+      <th scope="row"></th>
+      <td><strong>Jacqueline Solway</strong></td>
+      <td>Trent University </td>
+      <td> jsolway@trentu.ca</td>
+    </tr>
+<tr>
+      <th scope="row"></th>
+      <td><strong>Sanjay Srivstava</strong></td>
+      <td>Institute of Economic Growth  </td>
+      <td>sanjaysri@iegindia.org</td>
+    </tr>
+ <tr>
+      <th scope="row"></th>
+      <td><strong>Yuka Suzuki</strong></td>
+      <td> Bard College  </td>
+      <td> ysuzuki@bard.edu   </td>
+    </tr>
+<tr>
+ <th scope="row"></th>
+      <td><strong>Manuel Tironi</strong></td>
+      <td>Pontificia Universidad Catolica de Chile</td>
+      <td> metironi@uc.cl</td>
+    </tr>
+ <tr>
+      <th scope="row"></th>
+      <td><strong>Sahana Udupa</strong></td>
+      <td>Ludwig-Maximilians-Universität München (LMU Munich)</td>
+      <td>Sahana.Udupa@lmu.de</td>
+    </tr>
+ <tr>
+      <th scope="row"></th>
+      <td><strong>Holly Wardlow</strong></td>
+      <td>University of Toronto</td>
+      <td> hwardlow@chass.utoronto.ca</td>
+    </tr>
+<tr>
+      <th scope="row"></th>
+      <td><strong>Alisse Waterston</strong></td>
+      <td>John Jay College of Criminal Justice CUNY  </td>
+      <td>awaterston@jjay.cuny.edu</td>
+    </tr>
+ <tr>
+      <th scope="row"></th>
+      <td><strong>Paige West</strong></td>
+      <td>Barnard College and Columbia University</td>
+      <td>cw2031@columbia.edu</td>
+    </tr>
+ <tr>
+      <th scope="row"></th>
+      <td><strong>Emily Yates-Doerr</strong></td>
+      <td>Oregon State University </td>
+      <td> E.J.F.Yates-Doerr@uva.nl</td>
+    </tr>
+<tr>
+      <th scope="row"></th>
+      <td><strong>Patricia Zavella</strong></td>
+      <td>University of California, Santa Cruz </td>
+      <td>zavella@ucsc.edu</td>
+    </tr>
+  </tbody>
+</table>
 
 ----
 

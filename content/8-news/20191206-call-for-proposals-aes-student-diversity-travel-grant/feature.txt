@@ -1,0 +1,50 @@
+Title: Call for proposals: AES Student Diversity Travel Grant
+
+----
+
+Subtitle: Applications due January 24, 2020
+
+----
+
+Author: 
+
+----
+
+Date: 2019-12-06
+
+----
+
+Featuredimage: 
+
+----
+
+Tags: travel grant
+
+----
+
+Builder: 
+
+- 
+  text: |
+    <h1>AES Student Diversity Travel Grant</h1>
+    <br>
+    These grants are intended to increase participation in (link: https://americanethnologist.org/meetings/spring-conference/aes-2020-borders-bridges text: AES's annual spring conference in Austin) (March 26-28, 2020) by graduate students from historically under-represented groups. Students are required to present a paper (conference abstract submission portal closes January 10, 2020).
+    
+    Graduate students from historically underrepresented groups and those with disabilities are encouraged to apply for these travel grants to help defray costs associated with attending the AES conference. Grants of up to $500 each will be awarded (in the form of reimbursement for travel, lodging, and/or meals, upon submission of receipts).
+    
+    Travel Grant Applications are due by <strong>January 24, 2020</strong>. Send to AESGrantsCompetition@gmail.com. Please include your last name followed by "AES diversity" in the title of the attachment.
+    <br>
+    <h3><u>Please include the following with your application:</u></h3>
+    <br>
+    <ul>
+    <li>	A completed cover sheet: (link: https://americanethnologist.org/content/8-news/20191206-call-for-proposals-aes-student-diversity-travel-grant/aes-diversity-application-final.doc text: Download)</li>
+    <br>
+    <li>A brief CV (maximum 2 pages)</li>
+    <br>
+    <li>Letter of reference from a scholar or advisor who knows your work (maximum 2 pages)</li>
+    </ul>
+    <br>
+    Please ask that the recommender submit the letter directly to AESGrantsCompetition@gmail.com by the deadline, <strong>January 24, 2020.</strong>
+    <br>
+    For questions, contact <b> AESGrantsCompetition@gmail.com </b>
+  _fieldset: bodytext

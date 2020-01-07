@@ -4,19 +4,46 @@ Title: Registration Fees and Proposal Submissions
 
 Text: 
 
-###Registration Fees and Proposal Submissions
+---
+<br>
+<h2><u>Registration Fees and Proposal Submissions</u></h2>
+<br>
+Registration remains open until the final day of the conference. (link: https://secure.americananthro.org/eweb/DynamicPage.aspx?Site=AAAWeb&WebKey=ced2aab5-ccd7-4f28-bd95-01edee542f5e&navItemNumber=636 text: Register HERE). Graduate and undergraduate students, we have a deal for you! AES membership is free if you sign up between now and March 26, 2020. This would normally be $12, but it’s free for a whole year. It also will also get you a $5 discount on the APLA spring meeting registration because you can register for at student "member" rate ($40) rather than the student "non-member" rate ($45). To do this, (link: https://secure.americananthro.org/eweb/DynamicPage.aspx?Site=AAAWeb&WebKey=ced2aab5-ccd7-4f28-bd95-01edee542f5e&navItemNumber=636 text: register at the AAA's portal), then become an AES member by either joining or renewing your membership. Enter the code <strong>"AES2020"</strong> at the checkout on the join/renew form.
+<br>
+<h3>Registration fees for the conference are as follows:</h3>
+<table class="table table-striped">
+  <thead>
+    <tr>
+      <th scope="col"></th>
+      <th scope="col">Advance</th>
+      <th scope="col">On-Site</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">Non-Student Member</th>
+      <td>$140</td>
+      <td>$145</td>
+    </tr>
+    <tr>
+      <th scope="row">Student Member</th>
+      <td>$40</td>
+      <td>$45</td>
+    </tr>
+    <tr>
+      <th scope="row">Non-Student Non-Members</th>
+      <td>$155</td>
+      <td>$160</td>
+<tr>
+      <th scope="row">Student Non-Members</th>
+      <td>$45</td>
+      <td>$50</td>
+    </tr>
+  </tbody>
+</table>
 
-Registration remains open until the final day of the conference. (link: https://secure.americananthro.org/eweb/DynamicPage.aspx?Site=AAAWeb&WebKey=ced2aab5-ccd7-4f28-bd95-01edee542f5e&navItemNumber=636 text: Register HERE). Graduate and undergraduate students, we have a deal for you! AES membership is free if you sign up between now and March 26, 2020. This would normally be $12, but it’s free for a whole year. It also will also get you a $5 discount on the APLA spring meeting registration because you can register for at student "member" rate ($40) rather than the student "non-member" rate ($45). To do this, (link: https://secure.americananthro.org/eweb/DynamicPage.aspx?Site=AAAWeb&WebKey=ced2aab5-ccd7-4f28-bd95-01edee542f5e&navItemNumber=636 text: register at the AAA's portal), then become an AES member by either joining or renewing your membership. Enter the code "AES2020" at the checkout on the join/renew form.
 
-Registration fees for the conference are as follows:
-
-								Advance	On-site
-Non-student members: 		$140 		$145
-Non-student non-members 	$155 		$160
-Student members 				$  40 		$  45
-Student non-members 		$  45 		$  50
-
-To submit your proposal and abstract, use the (link: https://www.abstractscorecard.com/cfp/submit/loginsso.asp?EventKey=HKHFKBMK text: AAA Meetings Portal.)
+<br>
 
 ----
 

@@ -1,4 +1,4 @@
-Title: AE Interviews Jason De León (University of Michigan): A Conversation on Migration,  Disciplinary Boundaries, and the Ethics of Objects
+Title: AE Interviews <strong>Jason De León</strong> <i>(University of Michigan)</i>: A Conversation on Migration,  Disciplinary Boundaries, and the Ethics of Objects
 
 ----
 
@@ -121,3 +121,15 @@ Builder:
 ----
 
 Tags: 
+
+----
+
+Subtitle: 
+
+----
+
+Author: 
+
+----
+
+Featuredimage: 

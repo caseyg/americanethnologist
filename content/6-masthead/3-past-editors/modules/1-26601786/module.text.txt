@@ -4,19 +4,74 @@ Title: Text module
 
 Text: 
 
-### Previous Editors of American Ethnologist
-
-(link: http://pacific.socsci.uva.nl/besnier/ text: Niko Besnier), 2015-2019
-(link: http://anthro.rutgers.edu/fac/department-undergrad-a-grad-faculty/angelique-haugerud text: Angelique Haugerud), 2011-15
-(link: http://anthropology.ucdavis.edu/people/dldonham text: Donald Donham), 2007-11
-(link: http://www.anthro.illinois.edu/people/vdomingu text: Virginia Dominguez), 2002-07
-(link: https://www.princeton.edu/anthropology/faculty/carol_greenhouse/ text: Carol Greenhouse), 1998-2002
-(link: http://anthropology.fas.harvard.edu/people/michael-herzfeld text: Michael Herzfeld), 1994-98
-(link: http://anthro.ucsc.edu/faculty/academic-personnel/singleton.php?&singleton=true&cruz_id=brenneis text: Donald Brenneis), 1989-94
-(link: https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Anthropology/Faculty/Emeritus-Faculty/Shirley-Lindenbaum text: Shirley Lindenbaum), 1984-89
-(link: http://www.anthro.illinois.edu/people/nwhitten text: Norman E. Whitten Jr.), 1980-84
-(link: http://anthropology.unc.edu/person/richard-g-fox/ text: Richard G. Fox), 1977-80
-(link: https://stonecenter.tulane.edu/articles/detail/235/Victoria-Bricker text: Victoria Reifler Bricker,) 1974-77
+<h2>Previous Editors of American Ethnologist</h2>
+<br>
+<table class="table table-striped">
+  <thead>
+    <tr>
+      <th scope="col"></th>
+      <th scope="col">Name</th>
+      <th scope="col"> Year </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row"></th>
+      <td><strong>(link: http://pacific.socsci.uva.nl/besnier/ text: Niko Besnier)</strong></td>
+      <td> 2015-2019  </td>
+    </tr>
+  <tr>
+      <th scope="row"></th>
+      <td><strong>(link: http://anthro.rutgers.edu/fac/department-undergrad-a-grad-faculty/angelique-haugerud text: Angelique Haugerud)</strong></td>
+      <td> 2011-2015  </td>
+    </tr>
+  <tr>
+      <th scope="row"></th>
+      <td><strong>(link: http://anthropology.ucdavis.edu/people/dldonham text: Donald Donham)</strong></td>
+      <td> 2007-2011  </td>
+    </tr>
+ <tr>
+      <th scope="row"></th>
+      <td><strong>(link: http://www.anthro.illinois.edu/people/vdomingu text: Virginia Dominguez)</strong></td>
+      <td> 2002-2007 </td>
+    </tr>
+ <tr>
+      <th scope="row"></th>
+      <td><strong>(link: https://www.princeton.edu/anthropology/faculty/carol_greenhouse/ text: Carol Greenhouse)</strong></td>
+      <td> 1998-2002 </td>
+    </tr>
+ <tr>
+      <th scope="row"></th>
+      <td><strong>(link: http://anthropology.fas.harvard.edu/people/michael-herzfeld text: Michael Herzfeld)</strong></td>
+      <td> 1994-1998 </td>
+    </tr>
+ <tr>
+      <th scope="row"></th>
+      <td><strong>(link: http://anthro.ucsc.edu/faculty/academic-personnel/singleton.php?&singleton=true&cruz_id=brenneis text: Donald Brenneis)</strong></td>
+      <td> 1989-1994 </td>
+    </tr>
+  <tr>
+      <th scope="row"></th>
+      <td><strong>(link: https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Anthropology/Faculty/Emeritus-Faculty/Shirley-Lindenbaum text: Shirley Lindenbaum)</strong></td>
+      <td> 1984-1989 </td>
+    </tr>
+ <tr>
+      <th scope="row"></th>
+      <td><strong>(link: http://www.anthro.illinois.edu/people/nwhitten text: Norman E. Whitten Jr.)</strong></td>
+      <td> 1980-1984</td>
+    </tr>
+ <tr>
+      <th scope="row"></th>
+      <td><strong>(link: http://anthropology.unc.edu/person/richard-g-fox/ text: Richard G. Fox)</strong></td>
+      <td> 1977-1980</td>
+    </tr>
+ <tr>
+      <th scope="row"></th>
+      <td><strong>(link: https://stonecenter.tulane.edu/articles/detail/235/Victoria-Bricker text: Victoria Reifler Bricker,)</strong></td>
+      <td> 1974-1977</td>
+    </tr>
+  </tbody>
+</table>
 
 ----
 

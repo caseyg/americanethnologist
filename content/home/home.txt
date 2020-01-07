@@ -10,7 +10,7 @@ Text:
 
 ----
 
-Welcome-header: Welcome to the American Ethnological Society
+Welcome-header: <h3>Welcome to the American Ethnological Society</h3>
 
 ----
 
