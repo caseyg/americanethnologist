@@ -1,4 +1,4 @@
-Title: Featured Plenary Keynote Speakers and Participants
+Title: Plenary Sessions and Participants
 
 ----
 
@@ -6,23 +6,36 @@ Text:
 
 ---  
 <br>
-<h2><u>Featured Plenary Keynote Speakers and Participants</u></h2>
+<h2><u>Plenary Sessions and Participants</u></h2>
 <br>
-<strong>Nancy Scheper-Hughes</strong> <i>(University of California, Berkeley)</i>
+<u><strong><h4>Plenary Session 1</h4></strong></u>
+
+<strong><br>Contested Territories: Ethnography at the Edges</strong>
+<ul>
+	<li>Jason Cons <i>(University of Texas, Austin)</i>
+	<li>Christen Smith <i>(University of Texas, Austin)</i>
+	<li>Jacqueline Solway <i>(Trent University)</i>
+	<li>Susan Terrio <i>(Georgetown University)</i></li>
+</ul>
 <br>
-<strong>Carolyn Rouse </strong><i>(Princeton University)</i>
+<u><strong><h4>Plenary Session 2</h4></strong></u>
+
+<strong><br>Crossing Boundaries, Building Bridges</strong>
+<ul>	
+<li>Carolyn Rouse <i>(Princeton University)</i>
+	<li>Nancy Scheper-Hughes <i>(University of California, Berkeley)</i></li>
+</ul>
 <br>
-<strong>Miguel Díaz-Barriga and Margaret Dorsey </strong><i>(University of Richmond)</i>
+<u><strong><h4>Plenary Session 3</h4></strong></u>
+
+<strong><br>Fronteras/Frontiers: Anthropology and Activism along the Southern Border</strong>
+<ul>
+<li>Miguel Díaz-Barriga and Margaret Dorsey <i>(University of Richmond)</i>
+	<li>Ricky Garza <i>(Texas Civil Rights Project)</i>
+	<li>Martha Menchaca <i>(University of Texas, Austin)</i>
+	<li>Claudia Muñoz <i>(Grassroots Leadership)</i></li>
+</ul>
 <br>
-<strong>Susan Terrio</strong> <i>(Georgetown University)</i>
-<br>
-<strong>Martha Menchaca </strong><i>(University of Texas, Austin)</i>
-<br>
-<strong>Jason Cons </strong><i>(University of Texas, Austin)</i>
-<br>
-<strong>Richard Flores </strong><i>(University of Texas, Austin)</i>
-<br>
-. . .and more to come!
 
 ----
 

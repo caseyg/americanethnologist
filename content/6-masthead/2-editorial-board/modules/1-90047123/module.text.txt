@@ -63,6 +63,12 @@ Text:
       <td>University of California, Davis</td>
       <td> mdelac@ucdavis.edu</td>
     </tr>
+ <tr>
+      <th scope="row"></th>
+      <td><strong>Bianet Castellanos</strong></td>
+      <td>University of Minnesota</td>
+      <td> mbc@umn.edu </td>
+    </tr>
 <tr>
       <th scope="row"></th>
       <td><strong>Sidney Cheung</strong></td>
@@ -176,7 +182,7 @@ Text:
     </tr>
 <tr>
       <th scope="row"></th>
-      <td><strong>Scott Morgenson</strong></td>
+      <td><strong>Scott Morgensen</strong></td>
       <td>Queen's University  </td>
       <td>scott.morgensen@queensu.ca</td>
     </tr>

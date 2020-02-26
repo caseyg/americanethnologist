@@ -1,8 +1,8 @@
-Title: AE Interviews Jon Bialecki
+Title: Jon Bialecki | Winner of the Sharon Stephens Prize for his book A Diagram for Fire: Miracles and Variation in an American Charismatic Movement
 
 ----
 
-Subtitle: Winner of the Sharon Stephens Prize for his book A Diagram for Fire: Miracles and Variation in an American Charismatic Movement
+Subtitle: 
 
 ----
 
@@ -28,7 +28,7 @@ Builder:
   text: |
     Bryan Dougan, AES editorial intern and graduate student at the University of North Carolina, interviews Jon Bialecki, honorary fellow at the School of Social and Political Science at the University of Edinburgh about his prize-winning book A Diagram for Fire.
     
-    *The conversation explores Pentecostal Christianity, assessing the quality and value of miracles, signs from God in contemporary U.S. politics, and Bialecki’s new research on Mormon transhumanism.*
+    *The conversation explores Pentecostal Christianity, assessing the quality and value of miracles, signs from God in contemporary U.S. politics, and Bialecki’s **new research** on Mormon transhumanism.*
   _fieldset: leadtext
 - 
   image: aes_bialecki_600.jpg

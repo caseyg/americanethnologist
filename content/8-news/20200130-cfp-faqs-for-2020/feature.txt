@@ -1,0 +1,104 @@
+Title: CFP: AES Small Grants Competition 2020
+
+----
+
+Subtitle: 
+
+----
+
+Author: 
+
+----
+
+Date: 2020-01-30
+
+----
+
+Featuredimage: ae-thumbnail_400x400.png
+
+----
+
+Tags: 
+
+----
+
+Builder: 
+
+- 
+  text: 'The** American Ethnological Society (AES)** announces a small grant competition for students who are in the first year of a PhD in anthropology or allied fields. Projects that involve ethnographic field research and/or documentary research are eligible for consideration and may commence as early as June 2020 and not after fall 2020. Exploratory research that is part of a planned dissertation project is encouraged.'
+  _fieldset: leadtext
+- 
+  _fieldset: divider
+- 
+  text: |
+    <br>
+    <u><h4>To apply:</h4></u>
+    
+    Send all application materials by **5:00pm EST on March 18, 2020**. Winners will be announced by mid-May.
+    
+    Please read the instructions and FAQs below before submitting an application or making inquiries about the application process or anything else about the AES small grants program.
+    
+    Applicants must submit all documents except the letter of support in a single Word (not pdf) file, with page breaks after the end of each section and a filename as follows LASTNAME FIRST INITIAL AES GRANTS 2020.
+    <br>
+    <u><h4>The email that accompanies the application file must:</h4></u>
+    
+    **(1)**	Specify the title of the project, which must be short and included in the body of the email;
+    
+    **(2)**	In addition, the email must have “APPLICANT’S LAST NAME + AES Grants Competition” in the subject line.
+    
+    The application should be sent to <a href="mailto:aesfieldresearchgrants@gmail.com">aesfieldresearchgrants@gmail.com </a> .
+    <br>
+    <u><h4>The application file from the applicant (named as indicated above) should include:</h4></u>
+    
+    **(1)**	A statement of no more than two numbered double-spaced 8.5”X11” pages in 12-point font, with one-inch margins. The first page should have a title that fits in one line. The statement must outline the significance of the project, the main research questions, the methods used to analyze the questions, and the potential impact of the project;
+    
+    **(2)**	A list of references cited or bibliography (may be single-spaced, but not more than one page);
+    
+    **(3)**A curriculum vitae of no more than one page;
+    
+    **(4)**	A budget of up to $2,500, which must indicate if other funding has been obtained or is anticipated (one page maximum).
+    <br>
+    In addition to the above application, the applicant’s faculty advisor should send directly and separately a short letter that certifies that the applicant is in the first year of their PhD program and that the project meets with the advisor’s approval. The advisor’s letter should to be sent to <a href="mailto:aesfieldresearchgrants@gmail.com">aesfieldresearchgrants@gmail.com </a>. In the subject line please put: **Applicant’s last name** + **Faculty Member’s last name** and **Letter**.
+    
+    Grantees will be encouraged to write a short reflective essay on the fieldwork or project findings to be considered for publication on the AES website.
+    
+    An additional $500 will be available to grantees who present their work at the 2021 AES annual meeting. AES strongly encourages applications from graduate students from historically under-represented groups.
+    
+    ---
+    <br>
+    <u><h4>FAQs</h4></u>
+    
+    <strong>I’ve never written a research proposal before. Can you provide any guidance?</strong>
+    
+    One of the best short guides is On the Art of Writing Proposals by Adam Pzreworski and Frank Salomon. You may download it (link: https://www.ssrc.org/publications/view/7A9CB4F4-815F-DE11-BD80-001CC477EC70/ text: here.) Another excellent short guide is Karen Kelsky’s (link: https://theprofessorisin.com/2011/07/05/dr-karens-foolproof-grant-template/ text: <i>“Foolproof Grant Template.” </i>)
+    <br>
+    <strong>Two double-spaced pages doesn’t seem like much for explaining a research project as complex as mine. What happens if I go a little bit over the limit?</strong>
+    
+    AES runs this competition with a very small selection committee and no support staff. Last year we received almost 200 applications. We need to keep submissions concise. Any proposal that goes over the two-page limit or that otherwise fails to conform to the specifications above will not be considered. An advisor’s letter should be short and indicate clearly that the student is in the first year of their PhD studies at time of application
+    
+    If you have trouble fitting your proposal into two pages, we recommend that you study Revising <i>Prose</i> by Richard Lanham. A succinct summary of Lanham’s method is (link: https://people.umass.edu/curtis/academics/editingtoolbox/Lanham_LardFactor.pdf text: here.) This will help you eliminate extra words and will likely improve your proposal. Do not include epigraphs, tables, maps, lengthy block quotations or other material that might be suitable for a longer text.
+    <br>
+    <strong>Do I have to be a citizen of the United States or matriculated in a U.S. university to apply for this grant?</strong>
+    
+    No. Applicants may be citizens of any country or stateless persons. They must be studying in a graduate program, but this can be anywhere in the world.
+    <br>
+    <strong>I transferred to my current university after study in another PhD program. Does that disqualify me?</strong>
+    
+    No. As long as you have first year PhD student status in your current university, you are eligible.
+    <br>
+    <strong>My advisor is very busy, very important, and/or traveling abroad. Is it okay if she/he submits the letter a few days or hours after the deadline?</strong>
+    
+    No. The deadline is absolutely firm. Request a letter from your advisor well in advance of the deadline.
+    <br>
+    <strong>Will AES consider a grant application from someone who already has another small grant? </strong>
+    
+    Our preference is to use the AES grants as seed money for graduate student researchers who do not have other funding for their projects. In exceptional cases, where a project has a high budget and a suitable justification for it, we will consider applicants who already have one other small grant from their universities or another source.
+    <br>
+    <strong>My project is ethnographic, but I am in cultural studies, sociology or other doctoral program. Will AES consider my application?</strong>
+    
+    If the project addresses questions of interest to anthropologists and employs ethnographic and related methods, AES may consider your application.
+    <br>
+    <strong>My advisor is on the AES board and may be on the selection committee. Does this give me an edge in the competition?</strong>
+    
+    No. Selection committee members are conscientious about recusing themselves from consideration of proposals that might raise conflict of interest issues for them.
+  _fieldset: bodytext

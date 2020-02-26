@@ -2,7 +2,7 @@ Title: Call for proposals: AES Student Diversity Travel Grant
 
 ----
 
-Subtitle: Applications due January 24, 2020
+Subtitle: Applications due February 14, 2020
 
 ----
 
@@ -32,7 +32,7 @@ Builder:
     
     Graduate students from historically underrepresented groups and those with disabilities are encouraged to apply for these travel grants to help defray costs associated with attending the AES conference. Grants of up to $500 each will be awarded (in the form of reimbursement for travel, lodging, and/or meals, upon submission of receipts).
     
-    Travel Grant Applications are due by <strong>January 24, 2020</strong>. Send to AESGrantsCompetition@gmail.com. Please include your last name followed by "AES diversity" in the title of the attachment.
+    Travel Grant Applications are due by <strong>February 14, 2020</strong>. Send to AESGrantsCompetition@gmail.com. Please include your last name followed by "AES diversity" in the title of the attachment.
     <br>
     <h3><u>Please include the following with your application:</u></h3>
     <br>
@@ -44,7 +44,7 @@ Builder:
     <li>Letter of reference from a scholar or advisor who knows your work (maximum 2 pages)</li>
     </ul>
     <br>
-    Please ask that the recommender submit the letter directly to AESGrantsCompetition@gmail.com by the deadline, <strong>January 24, 2020.</strong>
+    Please ask that the recommender submit the letter directly to AESGrantsCompetition@gmail.com by the deadline, <strong>February 14, 2020.</strong>
     <br>
     For questions, contact <b> AESGrantsCompetition@gmail.com </b>
   _fieldset: bodytext

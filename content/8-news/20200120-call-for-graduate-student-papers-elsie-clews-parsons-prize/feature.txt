@@ -1,0 +1,39 @@
+Title: Call for Graduate Student Papers: Elsie Clews Parsons Prize
+
+----
+
+Subtitle: 
+
+----
+
+Author: 
+
+----
+
+Date: 2020-01-20
+
+----
+
+Featuredimage: ae-thumbnail_400x400.png
+
+----
+
+Tags: 
+
+----
+
+Builder: 
+
+- 
+  text: |
+    <br>
+    
+    The American Ethnological Society invites you to apply for the <strong>Elsie Clews Parsons Prize</strong>. Please click (link: https://americanethnologist.org/awards/elsie-clews-parsons-prize text: here) for more details and guidelines for submission.
+    
+    Applications are due **February 27th, 2020 at 5pm EST**.
+    
+    Award winners will receive a $300 cash prize and $200 towards attending the AES/APLA joint spring conference in Austin, Texas, March 26-28, 2020.
+  _fieldset: leadtext
+- 
+  image: final-postcardfront-600x400.jpg
+  _fieldset: image

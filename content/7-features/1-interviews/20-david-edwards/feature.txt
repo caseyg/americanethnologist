@@ -1,0 +1,80 @@
+Title: David Edwards | Winner of the Senior Book Prize for his book "Caravan of Martyrs: Sacrifice and Suicide Bombing in Afghanistan"
+
+----
+
+Subtitle: 
+
+----
+
+Author: Gabrielle Cabrera
+
+----
+
+Date: 2020-01-09
+
+----
+
+Featuredimage: caravan-of-martyrs.png
+
+----
+
+Tags: Afghanistan,Geertz,Caravan of Martyrs,Anthropology
+
+----
+
+Builder: 
+
+- 
+  text: |
+    **Gabrielle Cabrera**, AES editorial intern and graduate student at Rutgers University, interviews **David Edwards**, professor of anthropology at Williams College about his prize-winning book (link:https://americanethnologist.org/awards/senior-book-prize/winner-caravan-of-martyrs-sacrifice-and-suicide-bombing-in-afghanistan text: *Caravan of Martyrs: Sacrifice and Suicide Bombing in Afghanistan* ) published by the University of California Press.
+    <br>
+    *The conversation explores ideas of machines and purification in relation to sacrifice, the importance of poetry, reflections of forty years of research in Afghanistan, and the continuing importance of Clifford Geertz’s insights for anthropology.*
+    <br>
+  _fieldset: bodytext
+- 
+  image: caravan-of-martyrs.png
+  _fieldset: image
+- 
+  text: |
+    <br>
+    **Gabrielle Cabrera (GC)**: Let’s talk about how this book came to be. You talked about writing this book for a broader audience. What would you like your audience to take away from this ethnography especially at this political moment?
+    
+    **David Edwards (DE)**: I have been involved in Afghanistan for a long time. I went there for the first time in 1975 to teach English when I was 23 years old. So my interest in that country precedes the awareness of Afghanistan as a political problem by people outside the region. I fell under the spell of Afghanistan during this period of peace. I was fascinated by the place and people and decided to become an anthropologist as a way to legitimize going back and spending the time to learn more about the country. My original plan was to conduct a traditional sort of village study in some mountain village in the Hindu Kush, but that plan fell through when the communists took power at the end of my first year in graduate school. I ended up in Peshawar, Pakistan instead, studying the mujahidin parties, collecting oral histories of earlier tribal and Islamic uprisings against the state, and conducting a survey of one of the Afghan refugee camps. That original research provided the basis for my first two books on Afghanistan, and much of what I learned then also went into this latest book, Caravan of Martyrs.
+    
+    One of my goals has always been to bring into our understanding of the war in Afghanistan an awareness of the symbolic and structural dimension of the situation -- to bring these elements into the telling of the story. I have wanted to create a different sort of narrative by highlighting the variety of narratives that Afghans themselves employ to tell their stories. The narratives I have wanted to produce are less connected to the “great men,” the known political leaders, or when those great men come into the picture, I’ve wanted to write about them in a different way than we’re used to seeing. In the case of my first book, Heroes of the Age, one chapter deals with a famous Sufi leader who led a jihad against the British, but instead of framing his story in the usual biographical terms, I focus on the stories people still tell about him, which are stories of his miracles, which provide a pathway for understanding the sort of power and influence he wielded. In the case of this last book, I was interested in making sense of violence and how it has changed during the course of the war, but I didn’t want to focus on violent events per se. Instead, I wanted to find a way to capture the meanings that have been attached to violence and how those meanings have evolved.
+    
+    **GC**: Could you talk about the notion of sacrifice as a machine in relation to violence? For a reader with no background on sacrifice and violence, these concepts might seem opposites. But in the book, you demonstrate these are intertwined and feeding off each other in your analysis.
+    
+    **DE**: The ritual killing of someone (or the retrospective act of turning a dead body into a martyred body) involves the transformation of one kind of energy into another: the energy released in the killing of a human being is converted into the social energy contained within a symbol. I recognize that, in calling this conversion process a “machine,” I risk making the process seem, well, mechanistic, which is why I compare the machinery of sacrifice to a “simple machine,” such as a lever or a pulley. These are machines that perform the basic function of harnessing and amplifying energy. But the thing about simple machines is that they can be combined in complex arrangements to create more sophisticated machines, machines that channel and increasing energy in an almost infinite number of ways that can be both creative and destructive, depending on the intent and skill of those who control the instruments.
+    
+    The machine can also break down, of course. Foucault talks about this in Discipline and Punish with the example of the executioner botching the public execution, and the crowd suddenly turning on him and supporting the criminal, in the process also turning against the authority of the state.
+    
+    In developing the simple machine metaphor, my goal is not only to provide a way to talk about the changing dynamics of the war in Afghanistan, but also to expand how we think about sacrifice more generally and how we can use the concept to understand a whole host of ongoing social and political dynamics in a wide variety of contexts.
+    
+    **GC**: And what about when you write about purification in this ethnography?
+    
+    **DE**: Purification is one function that a sacrificial rite has traditionally been associated with, whether through scapegoating or other forms of collective violence in which violence is exercised against a victim whose “people” are unlikely or unable to seek vengeance. My argument in Caravan of Martyrs is that, following the withdrawal of the Soviet Union from Afghanistan, the salience of martyrdom, which had become a central symbolic construct during the decade of that conflict, quickly lost its efficacy and its legitimacy because the “infidel” enemy had disappeared and former mujahidin fighters, who’d been lionized in the past, were now killing each other for personal gain. The Taliban reclaimed sacrifice as a central political symbol and cultural institution by – to use the machine metaphor – rearranging the ritual elements of sacrifice, in the process redirecting the energy produced through killing from the person of the martyr, whose death was celebrated, to the person of the criminal, whose alleged transgression was the source of discord and whose punishment became the source of cohesion and renewal. In effect, I’m arguing that the Taliban flipped the polarity generated by the sacrifice machine from positive to negative, from venerated martyr to denigrated criminal, but what remained at the center of attention was still the act of sacrificial killing, and what was achieved again was the consolidation, for however brief a period, of political power.
+    
+    **GC**: In chapter two, you talk about Rafiq Jan and his poems. I was interested in how these narratives are revealing about the self and construction of personhood. What other reflections do you have of how Rafiq Jan and others have constructed selfhood?
+    
+    **DE**: Much of the book focuses on transformations in how people make sense of the violence that is so much a part of their lives, and how the changing meanings of violence has affected people’s changing understanding of themselves and how, as you put it, they “construct selfhood.” One of the ways that I approach this subject in the book is by looking at poetry. The changes I am interested in are changes that have occurred over time, and I discovered that it was very difficult to get at those changes retrospectively. People better understand who they imagine themselves to be in the present than how they used to imagine themselves to be in the past. That is simply to say that how we imagine how we were is always filtered through how we see ourselves now.
+    
+    Among Afghans, poetry is an exalted art form and a vehicle for expressing aspects of the self that might be difficult to elicit in an interview or conversation. It is also a mirror for understanding notions of selfhood and how they are expressed and how those understandings and expressions have changed over time, assuming that you can figure out when particular poems were composed. Poetry is only one of the modes of expression I look at, but it provided one useful vehicle for understanding how Afghan conceptions of identity, particularly in relation to death and sacrifice, have changed over the course of the four decades of war.
+    
+    I should note as well that in addition to modes of rhetorical self-expression such as poetry, I also examine in the book how the advent of new media forms – tape cassettes, magazines, video, and social media, in particular – have also helped to transform how people construct identity. One chapter of the book deals specifically with Facebook and Youtube and how identity and martyrdom are interwoven on these platforms by Taliban members and their supporters.
+    
+    **GC**: One dimension of your book involves a “looking back” at your career and the fieldwork you conducted in the last few decades.
+    
+    **DE**: When I first went to Afghanistan in the 1970s, it was a country at peace. There was no discussion of war and no need to worry about such matters as who was and who was not a martyr. Afghanistan in the 1970s was a country where you could travel freely and safely. I feel very fortunate to have lived in the country in those years, in part because it has provided me a base line for thinking about the country that does not begin and end with violence. Five years later, when I went to Pakistan and was researching mujahideen groups, I had to make it up on the fly because the situation I discovered was so different from what I’d known before or what grad school had prepared me for. Back in the early 1980s, most of the models I was exposed to were relatively static in nature, or assumed that social change happened in less aggressive ways than what I discovered when I started my fieldwork. Likewise, most fieldwork I had read about involved relatively homogenous, stable, and coherent societies, but I found myself trying to figure out how to make sense of a refugee population involving hundreds of thousands of displaced people, some of them living in the city and most in camps, and with a political structure organized around an expanding and contracting set of political parties of different ideological persuasions. It was all very confusing and difficult to pin down. When I returned home, I got involved with Afghan refugees living in the U.S. who were adding to what I knew about the culture and the people, and I also discovered new groupings organized around listserves on the nascent Internet, which was just developing at that time. Subsequent trips to Pakistan and Afghanistan have expanded the information and insights at my disposal, but they have not made it easier to construct a coherent picture or to know what to say or how to say it. In that respect, one of the things I most appreciate about anthropology is that it affords us the luxury of creatively imagining new forms of description and theorizing to represent what we discover in our research. Other disciplines trap their practitioners in narrow boxes that dictate what is and what isn’t acceptable methodology and what constitutes an appropriate style of writing. Anthropology, by contrast, is far more open as a discipline to coming up with new solutions in our efforts to reflect in the most truthful and felicitous ways we can muster the realities we encounter in doing our research.
+    
+    **GC**: What is your next project?
+    
+    **DE**: The essay that I'm finishing up right now (“Sheep to Slaughter: The Afghan Tragedy in 5 Acts,” which will appear in The Journal of Religion and Violence) is in some way a tribute to the book that got me started in anthropology. I came back to the U.S. in 1977 after two years in Kabul and I knew that I wanted to go to graduate school, but I didn't know what field I wanted to study. I never took any anthropology classes as an undergraduate, so I didn’t know much about the field at that point and wasn’t focused in that direction. But after I got back to the U.S., I had the opportunity to spend an hour in a good university bookstore (which are few and far between these days). I started wandering around in the aisles, rifling through books in the sections devoted to different academic disciplines that I thought might make sense for me. Nothing struck a chord with me until I picked up Islam Observed by Clifford Geertz in the anthropology section. I read maybe ten pages of the book standing in the aisle, and I remember saying to myself, “That’s it. I’m going to be an anthropologist.” Geertz centers that book around two “axial figures,” one from Morocco and one from Indonesia, that he uses as metaphors for talking about the particular nature of Moroccan and Indonesian Islam. In this new essay, I go back to that idea of the “axial figure” and relate it to the material that's in Caravan of Martyrs, though instead of using the concept to make a cross-cultural comparison I use it to demonstrate the stages through which sacrificial violence has been transformed in Afghanistan over the last half-century.
+    
+    In relating Geertz’s work to my own career trajectory, I don’t want to imply that I’m using Geertz for nostalgic reasons. Instead, it’s because I find his insights to be still among the most vital that anthropology has produced. One of the unfortunate realities of contemporary academic life is that earlier theorists, even ones as influential as Geertz, often get swept to the side by cooler, current theories and theorists. As a result, the work of earlier generations of scholars is often forgotten, with only a small subsection of “greatest hits” assigned in graduate school “history of the discipline” courses. In my work, I draw heavily not only on Geertz, but on Marcel Mauss and Pierre Bourdieu, and Fredrik Barth, Marshall Sahlins, Natalie Davis, Rene Girard, and many others who have laid the groundwork for me, and in bringing them explicitly into my work, I hope I might help inspire younger scholars to read their work, which is still important and interesting, even if it isn’t brand new and doesn’t focus specifically on issues that dominate the discipline today.
+    
+    **GC**: Thank you very much and congratulations on the prize.
+    
+    <br>
+    **Cite as**: Cabrera, Gabrielle. 2019. “AE Interviews David Edwards,  winner of the Senior Book  Prize for his book "*Caravan of Martyrs: Sacrifice and Suicide Bombing in Afghanistan.*” American Ethnologist website, January 09 2020. [https://americanethnologist.org/features/interviews/david-edwards]
+  _fieldset: bodytext
