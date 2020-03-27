@@ -61,6 +61,11 @@ c::set('meta-tags.default', [
      'twitter' => [
          'card' => 'summary',
          'site' => "@amethno",
+         'image' => function($page) {
+            return [
+              $page->images()->first()->url(),
+            ];
+          },
          'title' => function($page) {
            return $page->isHomePage()
                    ? site()->title()
