@@ -1,8 +1,10 @@
-Title: Borders/Bridges
+Title: CANCELLED: Borders/Bridges
 
 ----
 
 Text: 
+
+<p class="text-danger"><strong>The 2020 AES/APLA Joint Spring Conference in Austin, Texas has been cancelled. Please click (link: https://americanethnologist.org/news/cancelled-the-2020-aes-apla-joint-spring-conference-in-austin-texas-has-been-cancelled text: here) for more information</strong> </p>
 
 <br>
 <h2><u>Borders/Bridges</u></h2>
@@ -13,7 +15,7 @@ How should anthropologists respond, at a time when so many political figures aro
 
 This conference is co-sponsored by the University of Texas at Austin's Department of Anthropology and College of Liberal Arts. It will take place at the Thompson Conference Center, on the UT Austin campus.
 
-**To view the preliminary conference program, click** (link: https://americanethnologist.org/content/9-meetings/1-spring-conference/1-aes-2020-borders-bridges/modules/4-35801134/aes-2020programprelim.pdf text: <strong>HERE</strong>).
+**To view the  conference program, click** (link: https://americanethnologist.org/content/9-meetings/1-spring-conference/1-aes-2020-borders-bridges/modules/1-50869691/aesprogram-final5.pdf text: <strong>HERE</strong>).
 
 ----
 

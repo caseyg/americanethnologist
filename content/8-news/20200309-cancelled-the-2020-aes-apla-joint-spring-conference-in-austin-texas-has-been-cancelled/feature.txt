@@ -1,0 +1,40 @@
+Title: CANCELLED: The 2020 AES/APLA Joint Spring Conference in Austin, Texas has been cancelled
+
+----
+
+Subtitle: 
+
+----
+
+Author: 
+
+----
+
+Date: 2020-03-09
+
+----
+
+Featuredimage: final-postcardfront-600x400.jpg
+
+----
+
+Tags: 
+
+----
+
+Builder: 
+
+- 
+  text: |
+    <br>
+    Over the past few days, we have been closely following the potential impact of the global COVID-19 outbreak on Borders/Bridges, the AES/APLA joint spring conference in Austin, Texas. Several of those registered for the conference have informed us that they will be unable to attend due to travel recommendations issued by their universities, and many more have expressed concerns about the possibility of increased health risks associated with air travel.
+    
+    After careful consideration, **the boards of both AES and APLA have decided that the best course of action is to cancel this year's conference**. We think that canceling the conference is the responsible thing to do, given the increasing uncertainty surrounding COVID-19 and the appearance of several cases of novel coronavirus in Austin.
+    
+    The American Anthropological Association will soon be notifying you about how to claim refunds for conference registration and workshop fees. We encourage you to cancel your travel plans and, if possible, to seek refunds or credits for lodging and/or travel expenses that you may have incurred. The email from the AAA will also include information on how to cancel your hotel reservation, if you booked through the link on our website, as well as provide access to an official cancellation document you may use for your processes with airlines and hotels.
+    
+    We sincerely regret this turn of events, but at the same time we feel compelled to act in a way that promotes public health and safety. If you have any questions, please contact us at <a href="mailto:2020aesconference@gmail.com">2020aesconference@gmail.com </a>.
+    <br>
+    Sincerely,
+    *AES/APLA 2020 Joint Conference Planning Committee*
+  _fieldset: bodytext

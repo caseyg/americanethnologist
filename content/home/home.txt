@@ -10,12 +10,27 @@ Text:
 
 ----
 
-Welcome-header: <h3>Welcome to the American Ethnological Society</h3>
+Welcome-header: 
 
 ----
 
 Welcome-text: 
 
+<div style="text-align: center;"><span style="display: inline-block; padding: 5px; border: 2px solid #ff0000; font-size: 100%; color: #ff0000;">
+<h3><p class="text-danger"><u><strong>COVID-19 Updates:</strong></u></p></h3>
+<br>
+
+<p class="text-danger"><strong>The 2020 AES/APLA Joint Spring Conference in Austin, Texas has been cancelled.</strong>  Please click (link: https://americanethnologist.org/news/cancelled-the-2020-aes-apla-joint-spring-conference-in-austin-texas-has-been-cancelled text: HERE) for more information </p>
+
+<hr width=100%  align=left>
+
+<p class="text-danger"> Due to the ongoing Covid-19 pandemic the AES Small Grants Competition has been extended. For further details click (link: https://americanethnologist.org/news/cfp-faqs-for-2020 text: HERE) </p>
+</span></div>
+
+---
+
+
+<h3>Welcome to the American Ethnological Society</h3>
 *Promoting rich ethnography and relevant, cutting-edge theory in cultural anthropology since 1842.*
 
 Attend our (link: /meetings text: conferences).  Read our (link: /read text: journal).  Follow our (link: /features text: conversations) about human diversity.

@@ -1,4 +1,4 @@
-Title: CFP: AES Small Grants Competition 2020
+Title: EXTENDED submission and research timeline: CFP: AES Small Grants Competition 2020
 
 ----
 
@@ -10,7 +10,7 @@ Author:
 
 ----
 
-Date: 2020-01-30
+Date: 2020-03-12
 
 ----
 
@@ -25,7 +25,14 @@ Tags:
 Builder: 
 
 - 
-  text: 'The** American Ethnological Society (AES)** announces a small grant competition for students who are in the first year of a PhD in anthropology or allied fields. Projects that involve ethnographic field research and/or documentary research are eligible for consideration and may commence as early as June 2020 and not after fall 2020. Exploratory research that is part of a planned dissertation project is encouraged.'
+  text: |
+    <div p class="text-danger"><strong>Due to the ongoing Covid-19 pandemic the deadlines and research timelines have been modified in red:</strong></div>
+    <br>
+    (modified March 11, 2020)
+    
+    The American Ethnological Society (AES) announces a small grant competition for students who are in the first year of a PhD in anthropology or allied fields. Projects that involve ethnographic field research and/or documentary research are eligible for consideration and may commence as early as June 2020 and  <a href="#" class="text-danger">not after July 2021</a>
+    
+    Exploratory research that is part of a planned dissertation project is encouraged.
   _fieldset: leadtext
 - 
   _fieldset: divider
@@ -34,7 +41,7 @@ Builder:
     <br>
     <u><h4>To apply:</h4></u>
     
-    Send all application materials by **5:00pm EST on March 18, 2020**. Winners will be announced by mid-May.
+    Send all application materials by <a href="#" class="text-danger"><strong>5:00pm EST on March 27, 2020</a></strong>. Winners will be announced by mid-May.
     
     Please read the instructions and FAQs below before submitting an application or making inquiries about the application process or anything else about the AES small grants program.
     
@@ -62,7 +69,7 @@ Builder:
     
     Grantees will be encouraged to write a short reflective essay on the fieldwork or project findings to be considered for publication on the AES website.
     
-    An additional $500 will be available to grantees who present their work at the 2021 AES annual meeting. AES strongly encourages applications from graduate students from historically under-represented groups.
+    An additional $500 will be available to grantees who present their work at the 2021 <a href="#" class="text-danger">(or 2022 if research delayed significantly)</a> AES annual meeting. AES strongly encourages applications from graduate students from historically under-represented groups.
     
     ---
     <br>
@@ -102,3 +109,6 @@ Builder:
     
     No. Selection committee members are conscientious about recusing themselves from consideration of proposals that might raise conflict of interest issues for them.
   _fieldset: bodytext
+- 
+  image: ae-thumbnail_400x400.png
+  _fieldset: image

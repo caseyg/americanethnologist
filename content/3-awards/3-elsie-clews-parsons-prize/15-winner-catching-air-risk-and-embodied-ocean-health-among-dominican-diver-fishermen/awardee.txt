@@ -22,7 +22,10 @@ Award-type: Winner
 
 ----
 
-Intro: AES is pleased to award the 2019 Elsie Clews Parsons Prize to Kyrstin Mallon Andrews, a graduate student in anthropology at U. of California, Irvine.
+Intro: 
+
+AES is pleased to award the 2019 Elsie Clews Parsons Prize to Kyrstin Mallon Andrews, a graduate student in anthropology at U. of California, Irvine.
+<br>
 
 ----
 
