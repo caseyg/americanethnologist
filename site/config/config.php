@@ -62,9 +62,9 @@ c::set('meta-tags.default', [
          'card' => 'summary',
          'site' => "@amethno",
          'image' => function($page) {
-            return [
-              $page->images()->first()->url(),
-            ];
+         	return $page->hasImages()
+         	        ? $page->images()->first()->url()
+         	        : 'https://americanethnologist.org/content/1-about/modules/2-10065791/aes-logo.png';
           },
          'title' => function($page) {
            return $page->isHomePage()

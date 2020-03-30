@@ -1,4 +1,4 @@
-Title: Peru | Questioning Connectivity
+Title: Chile | Questioning Connectivity
 
 ----
 
@@ -40,7 +40,7 @@ Builder:
     When I finally reached my friend’s house in the next region north, the conversation was about staying or leaving.  Chile made moves to control the spread of Coronavirus at the national level. Each day there was a new development. Argentina was going to close its borders. Chile would no longer allow anyone but Chileans and foreign permanent residents into the country. My friend in Santiago told me her brother-in-law had just come home from New York with Coronavirus. I cancelled the rest of my trip and tried to get back to my fieldsite as soon as possible. We had heard rumors of domestic travel restrictions as well. The president had declared a “State of Catastrophe” for ninety days, giving the military the power to enforce order if needed. As I took the first bus back home, I sighed with relief when I crossed back into my region. I texted my friends in the regional capital to make sure they could still host me at their hostel, and they said they were only accepting pre-existing reservations and gente conocida (people we know) like me. They were helping people rebook their cancelled flights in order to empty the hostel within three days. They said, “It’s a great business we have here, but we have to be responsible and take care of our families.”
   _fieldset: bodytext
 - 
-  image: webp.net-resizeimage-3.jpg
+  image: webp.net-resizeimage.jpg
   _fieldset: image
 - 
   text: |
@@ -51,7 +51,7 @@ Builder:
     When the road reached our town twenty years ago, the mayor had declared that everyone would want to come here. The end of the road would be a great tourist destination. And it is—for a certain type of tourist. It’s one of the most beautiful road trips imaginable. People travel by bike, car, or even bus for the journey, and reach our town at the end of it. The mayor and entrepreneurial residents have been counting on tourism, investing in infrastructure, and taking out loans to build summer cabins. Now with the tourist season cut short, many people are wondering if it was right to place their faith in it. In less than a week, our town went from yearning to be a top tourist destination to revaluing its isolation. Yesterday, on the group WhatsApp someone posted a photograph from another town (that, oddly enough, was going to be my second fieldsite). It is the most popular tourist destination in the whole region, a place some refer to as a “sacrifice zone” to index the intense effects of tourism. Locals had taken matters into their own hands and cut down trees to create a road blockade. The photograph shows a pick-up truck with a hand painted banner. In capital letters it reads: “Total Isolation for Aysén Now.”  The “now” is written in red for emphasis. Today I stopped by the store to stock up on food, thinking that the road might be blocked for a while. My friends assured me the blockade was just for tourists.
   _fieldset: bodytext
 - 
-  image: webp.net-resizeimage.jpg
+  image: webp.net-resizeimage-3.jpg
   _fieldset: image
 - 
   text: |
@@ -62,7 +62,7 @@ Builder:
 - 
   text: |
     <br>
-    **Cite as:** McClean, Page. 2020. “Introducing the Pandemic Diaries.” American Ethnologist website, March 27, 2020. [https://americanethnologist.org/features/collections/pandemic-diaries/questioning-connectivity-life-in-a-state-of-catastrophe]
+    **Cite as:** McClean, Page. 2020. “Questioning Connectivity: Life in a 'State of Catastrophe'.” In "Pandemic Diaries" Gabriela Manley, Bryan M Dougan, and Carole McGranahan, eds., *American Ethnologist* website, March 27, 2020. [https://americanethnologist.org/features/collections/pandemic-diaries/questioning-connectivity-life-in-a-state-of-catastrophe]
     <br>
     **Page McClean** is a doctoral candidate in anthropology at the University of Colorado.
   _fieldset: bodytext

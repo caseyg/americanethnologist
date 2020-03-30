@@ -6,7 +6,7 @@ Subtitle:
 
 ----
 
-Author: Kamal Kariem,Page McClean,Bryan M. Dougan
+Author: Kamal Kariem,Page McClean,Bryan M. Dougan,Burditt Zackary
 
 ----
 
@@ -37,8 +37,8 @@ Builder:
   text: |
     <br>
     <br>
-    <h3><strong>Peru</strong> | (link: https://americanethnologist.org/features/collections/pandemic-diaries/questioning-connectivity-life-in-a-state-of-catastrophe text: Questioning Connectivity: Life in a “State of Catastrophe”)</h3>
-    by Page McClean
+    <h3><strong>Chile</strong> | (link: https://americanethnologist.org/features/collections/pandemic-diaries/questioning-connectivity-life-in-a-state-of-catastrophe text: Questioning Connectivity: Life in a “State of Catastrophe”)</h3>
+    *by Page McClean*
   _fieldset: bodytext
 - 
   image: webp.net-resizeimage-2.jpg
@@ -48,8 +48,18 @@ Builder:
     <br>
     <br>
     <h3><strong>London</strong> | (link: https://americanethnologist.org/features/collections/pandemic-diaries/london-on-home-the-field-in-a-pandemic text: On Home & the Field in a Pandemic)</h3>
-    by Bryan M. Dougan
+    *by Bryan M. Dougan*
   _fieldset: bodytext
 - 
   image: webp.net-resizeimage-copy.jpg
+  _fieldset: image
+- 
+  text: |
+    <br>
+    <br>
+    <h3><strong>Nepal</strong> | (link: https://americanethnologist.org/features/collections/pandemic-diaries/nepal-walking-in-metaphors-snapshot-of-a-fieldworker-in-the-time-of-covid-19 text: Walking in Metaphors: Snapshot of a Fieldworker in the Time of COVID-19)</h3>
+    *by Burditt Zackary*
+  _fieldset: bodytext
+- 
+  image: webp.net-resizeimage.jpg
   _fieldset: image

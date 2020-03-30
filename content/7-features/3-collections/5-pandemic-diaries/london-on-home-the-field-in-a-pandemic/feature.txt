@@ -14,7 +14,7 @@ Date: 2020-03-27
 
 ----
 
-Featuredimage: webp.net-resizeimage.jpg
+Featuredimage: 3.jpg
 
 ----
 
@@ -32,7 +32,7 @@ Builder:
     I left the museum, which sits next to Trafalgar Square. Exiting, I heard the latest Lady Gaga song emanating from a Bluetooth speaker set up by a street dancer hoping to impress and earn money from passers-by. A person dressed in a Pikachu outfit was similarly hoping a young child would beg their parents for one pound to take a picture together. Young teens climbed on the famed lions as tourists took pictures of Nelson’s Column, Westminster Abbey and the Palace of Westminster – the seats of British religion and government behind it on the skyline. Still adapting to life in London, I was comforted by such a familiar scene, having spent hours in New York’s Washington Square Park while visiting friends who live there.
   _fieldset: bodytext
 - 
-  image: webp.net-resizeimage.jpg
+  image: 3.jpg
   _fieldset: image
 - 
   text: 'As I took in the scene, my phone buzzed. A message from my mother read, “UK now added to travel ban.” I looked across the street at the Square, teeming with activity, people unaware, and perhaps unaffected, by the ramifications of the USA closing its border with the UK, with few exceptions. While I was fixated on reading the links inundating my phone, shaken and concerned, activity on the Square remained alive. Standing there, I was reminded of friends and family back home, whose emails, texts, and social media posts indicated businesses were closing down, places of worship were cancelling in-person services, universities were moving classes online, and everyone was being required to work from home. Many back home, including my friends and family, were trying to figure out how to practice “social distancing.” Leaving the square to return to my flat, I saw posters lining restaurant windows and subway platforms offering disease prevention advice: Wash your hands!'
@@ -74,7 +74,7 @@ Builder:
     Gupta, Akhil, & James Ferguson. 1997. “Discipline and Practice: "The Field" as Site, Method, and Location in Anthropology” in* Anthropological Locations: Boundaries and Grounds of a Field Science*, edited by James Ferguson & Akhil Gupta, 1-46. Berkeley and Los Angeles, CA: University of California Press.
     <br>
     
-    **Cite as**: Dougan, Bryan M. 2020. “London | On Home & Field in a Pandemic.” American Ethnologist website, March 27, 2020. [https://americanethnologist.org/features/collections/pandemic-diaries/london-on-home-the-field-in-a-pandemic]
+    **Cite as**: Dougan, Bryan M. 2020. “On Home & Field in a Pandemic.” In "Pandemic Diaries" Gabriela Manley, Bryan M Dougan, and Carole McGranahan, eds., *American Ethnologist* website, March 27, 2020. [https://americanethnologist.org/features/collections/pandemic-diaries/london-on-home-the-field-in-a-pandemic]
     <br>
     **Bryan M. Dougan** is a doctoral candidate in anthropology at the University of North Carolina in Chapel Hill.
   _fieldset: bodytext
