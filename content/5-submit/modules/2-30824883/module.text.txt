@@ -4,6 +4,15 @@ Title: Text module
 
 Text: 
 
+<br>
+---
+
+**COVID-19 Delay**
+
+Due to the coronarvirus crisis the review process at American Ethnologist is taking longer than normal. The global community of anthropologists we rely on to provide peer reviews have been unable to accept new review invitations or meet existing deadlines. The editors and publishers of AE respect reviewers’ need for more time to submit reviews. The review process has therefore slowed. We appreciate the patience and understanding of authors as we all do the best we can during these challenging circumstances. 
+
+--- 
+<br>
 Due to the large number of article submissions and the difficulties involved in reviewing such submissions to the standard by which the journal abides, AE does not publish guest-edited special issues.
 
 Manuscripts of articles submitted to the AE must make a clear and significant contribution to contemporary debates and theoretical developments in the discipline. The journal does not publish articles that merely apply theoretical ideas to the analysis of ethnographic materials. Articles published in the journal are expected to have a strong theoretical focus grounded in solid ethnography; a critical engagement with the issues of the contemporary moment; and an attention to scale as central to anthropological analysis. In addition, the journal is committed to publish works that cross traditional linguistic and epistemological boundaries and contribute to anthropology as an international discipline.

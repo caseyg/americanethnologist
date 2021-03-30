@@ -4,6 +4,14 @@ Title: Text module
 
 Text: 
 
+<br>
+**COVID-19 Delay**
+
+Due to the coronarvirus crisis the review process at American Ethnologist is taking longer than normal. The global community of anthropologists we rely on to provide peer reviews have been unable to accept new review invitations or meet existing deadlines. The editors and publishers of AE respect reviewers’ need for more time to submit reviews. The review process has therefore slowed. We appreciate the patience and understanding of authors as we all do the best we can during these challenging circumstances. 
+
+---
+<br>
+
 ###Submission Guidelines
 
 Manuscripts submitted to AE should not be under consideration elsewhere or have been published in any form. All manuscripts are reviewed anonymously. Please submit your manuscript online via (link: https://mc.manuscriptcentral.com/americananthro-ae text: Manuscript Central). A paper copy is not required.

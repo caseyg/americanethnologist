@@ -45,7 +45,7 @@
         <?php
           $pages = $page->children()->find('archive')->children(); ?>
         <?php
-          foreach ($pages->visible()->sortBy('date', 'desc') as $i): ?>
+          foreach ($pages->visible()->sortBy('date', 'asc') as $i): ?>
           <li class="mb-1">
             <a href="<?php echo $i->url() ?>">
               <div class="media">

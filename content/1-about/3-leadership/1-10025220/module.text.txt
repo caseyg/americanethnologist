@@ -97,6 +97,10 @@ Text:
       <th scope="row"></th>
       <td><strong>Hugh Gusterson (2015-2017)</strong></td>
     </tr>
+<tr>
+<th scope="row"></th>
+      <td><strong>Marc Edelman (2017-2019)</strong></td>
+    </tr>
   </tbody>
 </table>
 

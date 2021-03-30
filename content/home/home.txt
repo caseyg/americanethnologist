@@ -26,8 +26,6 @@ Attend our (link: /meetings text: conferences).  Read our (link: /read text: jou
 AES is a section of the (link: http://www.americananthro.org/ text: American Anthropological Association).
 
 --- 
-<h3><u>(link: https://americanethnologist.org/features/collections/pandemic-diaries text: Pandemic Diaries:)</u></h3>
+<h3>AES is Calling for Editor Nominations: </h3>
 
-(link: https://americanethnologist.org/features/collections/pandemic-diaries text: Read AE's ongoing collection on the effects, reflections and reverberations of Covid-19)
-
-(image:webp.net-resizeimage-2.jpg)
+(link: https://americanethnologist.org/news/ae-editor-nomination-call text: Read more on how to apply here)

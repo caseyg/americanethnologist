@@ -4,8 +4,63 @@ Title: Text module
 
 Text: 
 
-<h2>Editorial Board</h2>
+<u><h3>Editors</h3></u>
+
+<table class="table table-striped">
+  <thead>
+    <tr>
+      <th scope="col"></th>
+      <th scope="col">Name</th>
+      <th scope="col"> Affiliation </th>
+      <th scope="col"> Email </th>
+    </tr>
+  </thead>
+  <tbody>
+  <tr>
+      <th scope="row"></th>
+      <td><strong>Michael Hathaway</strong></td>
+      <td>Simon Fraser University</td>
+      <td> michael_hathaway@sfu.ca</td>
+    </tr>
+    <tr>
+      <th scope="row"></th>
+      <td><strong>Stacy Pigg</strong></td>
+      <td> Simon Fraser University  </td>
+      <td> pigg@sfu.ca</td>
+    </tr>
+  </tbody>
+</table>
+
 <br>
+<br>
+<br>
+
+<u><h3>Associate Editors</h3></u>
+
+<table class="table table-striped">
+  <thead>
+    <tr>
+      <th scope="col"></th>
+      <th scope="col">Name</th>
+      <th scope="col"> Affiliation </th>
+      <th scope="col"> Email </th>
+    </tr>
+  </thead>
+  <tbody>
+  <tr>
+      <th scope="row"></th>
+      <td><strong>Don Brenneis</strong></td>
+      <td>University of California, Santa Cruz (emeritus)</td>
+      <td> brenneis@ucsc.edu</td>
+    </tr>
+ </tbody>
+</table>
+
+<br>
+<br>
+<br>
+<u><h3>Editorial Board</h3></u>
+
 <table class="table table-striped">
   <thead>
     <tr>
@@ -246,7 +301,7 @@ Text:
     </tr>
 <tr>
       <th scope="row"></th>
-      <td><strong>Sanjay Srivstava</strong></td>
+      <td><strong>Sanjay Srivastava </strong></td>
       <td>Institute of Economic Growth  </td>
       <td>sanjaysri@iegindia.org</td>
     </tr>
@@ -289,7 +344,7 @@ Text:
  <tr>
       <th scope="row"></th>
       <td><strong>Emily Yates-Doerr</strong></td>
-      <td>Oregon State University </td>
+      <td>University of Amsterdam and Oregon State University </td>
       <td> E.J.F.Yates-Doerr@uva.nl</td>
     </tr>
 <tr>
